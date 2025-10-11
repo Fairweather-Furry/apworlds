@@ -328,6 +328,8 @@
         "created_at": "2024-02-25T16:21:29Z",
         "flags": [
           "unready",
+          "prerelease",
+          "prerelease",
           "prerelease"
         ]
       }
@@ -344,6 +346,8 @@
         "created_at": "2024-04-03T22:32:58Z",
         "flags": [
           "unready",
+          "prerelease",
+          "prerelease",
           "prerelease"
         ]
       }
@@ -360,6 +364,8 @@
         "created_at": "2024-07-25T19:49:35Z",
         "flags": [
           "unready",
+          "prerelease",
+          "prerelease",
           "prerelease"
         ]
       }
@@ -376,6 +382,8 @@
         "created_at": "2024-09-05T22:41:28Z",
         "flags": [
           "unready",
+          "prerelease",
+          "prerelease",
           "prerelease"
         ]
       }
@@ -392,6 +400,8 @@
         "created_at": "2024-09-08T19:31:59Z",
         "flags": [
           "unready",
+          "prerelease",
+          "prerelease",
           "prerelease"
         ]
       }
@@ -408,6 +418,8 @@
         "created_at": "2024-08-14T15:07:06Z",
         "flags": [
           "unready",
+          "prerelease",
+          "prerelease",
           "prerelease"
         ]
       }
@@ -424,6 +436,65 @@
         "created_at": "2025-08-01T17:58:55Z",
         "flags": [
           "unready",
+          "prerelease",
+          "prerelease",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.3.0-M2/am2r.apworld",
+      "size": 26431,
+      "hash_sha256": "466f6e934781049f066ca4fee15a012264a7a0ea8544f5ebd480a7744fb38432",
+      "metadata": {
+        "game": "AM2R",
+        "id": "am2r",
+        "world_version": "1.3.0",
+        "tag_version": "1.3.0",
+        "created_at": "2025-10-10T02:25:37Z",
+        "minimum_ap_version": "0.5.0",
+        "flags": [
+          "unready",
+          "prerelease",
+          "prerelease",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.3.0-M2-RC2/am2r.apworld",
+      "size": 26386,
+      "hash_sha256": "dd3aeaa80351b0f4e808909eb7f7f968fdda5a7febfd3fcfade16301c55a9019",
+      "metadata": {
+        "game": "AM2R",
+        "id": "am2r",
+        "world_version": "1.3.0",
+        "tag_version": "1.3.0",
+        "created_at": "2025-10-09T02:10:53Z",
+        "minimum_ap_version": "0.5.0",
+        "flags": [
+          "unready",
+          "prerelease",
+          "prerelease",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.3.0-M2-beta/am2r.apworld",
+      "size": 26480,
+      "hash_sha256": "6807b0be432fb9f22a3c640e17248a2560b951b93ff880a568ad8b053f18b0ab",
+      "metadata": {
+        "game": "AM2R",
+        "id": "am2r",
+        "world_version": "1.3.0",
+        "tag_version": "1.3.0",
+        "created_at": "2025-10-08T17:52:42Z",
+        "minimum_ap_version": "0.5.0",
+        "flags": [
+          "unready",
+          "prerelease",
+          "prerelease",
           "prerelease"
         ]
       }
@@ -927,6 +998,18 @@
         "world_version": "0.3.1",
         "tag_version": "0.3.1",
         "created_at": "2025-07-11T12:33:10Z"
+      }
+    },
+    {
+      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.4.0/anodyne.apworld",
+      "size": 3941607,
+      "hash_sha256": "65e2cf027d9fc375a5f4a023a22b766e94f36a1bfa0df84d074fa2b71318a3c6",
+      "metadata": {
+        "game": "Anodyne",
+        "id": "anodyne",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2025-10-08T11:58:26Z"
       }
     },
     {
@@ -4025,6 +4108,30 @@
       }
     },
     {
+      "world": "https://github.com/AegeusEvander/Brave-Fencer-Musashi-AP-World/releases/download/v0.2.3/bfm.apworld",
+      "size": 53119,
+      "hash_sha256": "7431806e00955f46339f9fca20939b45dcbd4901fb1d6b3f741d6076327a2ae3",
+      "metadata": {
+        "game": "Brave Fencer Musashi",
+        "id": "bfm",
+        "world_version": "0.2.3",
+        "tag_version": "0.2.3",
+        "created_at": "2025-10-10T02:45:51Z"
+      }
+    },
+    {
+      "world": "https://github.com/AegeusEvander/Brave-Fencer-Musashi-AP-World/releases/download/v0.2.4/bfm.apworld",
+      "size": 53143,
+      "hash_sha256": "3818632cc58eaced3eeefd96ad13d20677c66c9f04f7d27976297042f902dea4",
+      "metadata": {
+        "game": "Brave Fencer Musashi",
+        "id": "bfm",
+        "world_version": "0.2.4",
+        "tag_version": "0.2.4",
+        "created_at": "2025-10-10T21:53:31Z"
+      }
+    },
+    {
       "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.1/bg3.apworld",
       "size": 14863,
       "hash_sha256": "c15ea1d2ab1070aaef34d32f3b922813645e7e17b32404d8c20f42c8d5255b5c",
@@ -4388,8 +4495,8 @@
       "metadata": {
         "game": "Bloons TD6",
         "id": "bloonstd6",
-        "world_version": "6",
-        "tag_version": "6",
+        "world_version": "0.0.1",
+        "tag_version": "0.0.1",
         "created_at": "2023-12-27T02:06:00Z",
         "flags": [
           "prerelease"
@@ -4584,7 +4691,7 @@
       "size": 46041,
       "hash_sha256": "388954e6807fe67376bdc2e82f8ba4071bfdafd417b0fe8029d7556d28a77026",
       "metadata": {
-        "game": "",
+        "game": "Bomberman 64",
         "id": "bomberman_64",
         "world_version": "0.1.2",
         "tag_version": "0.1.2",
@@ -4596,7 +4703,7 @@
       "size": 47387,
       "hash_sha256": "cc3004a3410abdbb5773e2ebe88071075d4a64090f737f260ce4c8469bfd6e82",
       "metadata": {
-        "game": "",
+        "game": "Bomberman 64",
         "id": "bomberman_64",
         "world_version": "0.1.3",
         "tag_version": "0.1.3",
@@ -4609,7 +4716,7 @@
       "size": 127728,
       "hash_sha256": "db41fd155e73781594fe5cdb80dfaf8ec404380ec40ba455e5786692a543d73d",
       "metadata": {
-        "game": "",
+        "game": "Bomberman Hero",
         "id": "bomberman_hero",
         "world_version": "0.1.1",
         "tag_version": "0.1.1",
@@ -4625,7 +4732,7 @@
       "size": 35899,
       "hash_sha256": "e1f6ade5c1f6cc2650182c887ebfb3905df401a952bb2976334948cc8639e0a6",
       "metadata": {
-        "game": "",
+        "game": "Bomberman Hero",
         "id": "bomberman_hero",
         "world_version": "0.1.1.post2",
         "tag_version": "0.1.1.post2",
@@ -4640,7 +4747,7 @@
       "size": 37484,
       "hash_sha256": "9256b08244f589a54011491969d3d522a65bab2ae9136729fa200e5a618ea7ff",
       "metadata": {
-        "game": "",
+        "game": "Bomberman Hero",
         "id": "bomberman_hero",
         "world_version": "0.2.1",
         "tag_version": "0.2.1",
@@ -4656,7 +4763,7 @@
       "size": 21844,
       "hash_sha256": "d170a5b04abd17702600b0776632896a7e74a6e1f7cc71c0c236f8212bcb97e9",
       "metadata": {
-        "game": "",
+        "game": "Bomberman Quest",
         "id": "bomberman_quest",
         "world_version": "0.0.1",
         "tag_version": "0.0.1",
@@ -4668,7 +4775,7 @@
       "size": 23907,
       "hash_sha256": "8f28cdcc123b8a6f485d7a9549ec90b283928ca7ca5f96b7caee38e08728dad0",
       "metadata": {
-        "game": "",
+        "game": "Bomberman Quest",
         "id": "bomberman_quest",
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
@@ -4698,7 +4805,7 @@
       "size": 34724,
       "hash_sha256": "5a7e272b170599edda52de5d128958a6ec3aa2052ae8b5bcb4a83a70cd88c3a1",
       "metadata": {
-        "game": "",
+        "game": "Bomberman The Second Attack",
         "id": "bomberman_tsa",
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
@@ -4710,7 +4817,7 @@
       "size": 36117,
       "hash_sha256": "6b579dd6b6611673f915f5023ea83d47027a00f1425a2bd46a25fc03a56ac369",
       "metadata": {
-        "game": "",
+        "game": "Bomberman The Second Attack",
         "id": "bomberman_tsa",
         "world_version": "0.1.1",
         "tag_version": "0.1.1",
@@ -7372,6 +7479,18 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.7.2/crosscode.apworld",
+      "size": 126301,
+      "hash_sha256": "a82694abd63513291b7849486c17479d762a68a46f03f54782a77fa0ebe4f197",
+      "metadata": {
+        "game": "CrossCode",
+        "id": "crosscode",
+        "world_version": "0.7.2",
+        "tag_version": "0.7.2",
+        "created_at": "2025-10-08T01:38:34Z"
+      }
+    },
+    {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.5.0/crystal_project.apworld",
       "size": 242135,
       "hash_sha256": "364cf700e1b81b87404be45fb83d8e5c7a20f5e6607c1ba5357a621d2e2b4d7d",
@@ -7819,6 +7938,18 @@
         "world_version": "2",
         "tag_version": "2",
         "created_at": "2025-09-16T05:42:03Z"
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02e/cuphead.apworld",
+      "size": 72810,
+      "hash_sha256": "f963eb5497ca7f88541dfb7704dfd51ef59bc551164155f9ce78d56a1a318005",
+      "metadata": {
+        "game": "Cuphead",
+        "id": "cuphead",
+        "world_version": "2",
+        "tag_version": "2",
+        "created_at": "2025-10-09T02:47:28Z"
       }
     },
     {
@@ -8329,6 +8460,18 @@
       }
     },
     {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.2.0/dc1.apworld",
+      "size": 19830,
+      "hash_sha256": "af324eac9fcaf72b289c468b1b2972ef872343d7c01d6dea7b3c6a1767daace4",
+      "metadata": {
+        "game": "Dark Cloud 1",
+        "id": "dc1",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2025-10-10T15:10:54Z"
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/DC2AP/releases/download/0.0.1/dc2.apworld",
       "size": 52154,
       "hash_sha256": "d4615813efa2f112097438694e9791af6bb95b7f032c034af3e3d96f207b5c4e",
@@ -8659,6 +8802,18 @@
         "world_version": "0.2.1",
         "tag_version": "0.2.1",
         "created_at": "2025-08-25T12:13:59Z"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.12-alpha/deep_rock_galactic.apworld",
+      "size": 14471,
+      "hash_sha256": "0255e7d17ea1af6e29318bda02a598f1e182c6261098d0480cfb891b5452d7f6",
+      "metadata": {
+        "game": "Deep Rock Galactic",
+        "id": "deep_rock_galactic",
+        "world_version": "0.12a0",
+        "tag_version": "0.12a0",
+        "created_at": "2025-10-06T19:51:26Z"
       }
     },
     {
@@ -9447,6 +9602,19 @@
         "world_version": "0.6.1",
         "tag_version": "0.6.1",
         "created_at": "2025-04-12T15:22:54Z"
+      }
+    },
+    {
+      "world": "https://github.com/DragonWolfLeo/Archipelago-DST/releases/download/dst-v1.3.2/dontstarvetogether.apworld",
+      "size": 76427,
+      "hash_sha256": "a8684a320ee1cf02a683db489060fc1d7867e60f1d189143980ae3b8ba6d648e",
+      "metadata": {
+        "game": "Don't Starve Together",
+        "id": "dontstarvetogether",
+        "world_version": "1.3.2",
+        "tag_version": "1.3.2",
+        "created_at": "2025-10-09T05:22:59Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -11499,6 +11667,72 @@
       }
     },
     {
+      "world": "https://github.com/pamymaf/Exocolonist-AP/releases/download/v0.1.0/exocolonist.apworld",
+      "size": 15304,
+      "hash_sha256": "1f37ae2ec86a7faa870ec7be57c78d762d6102087091daf67c103ffa5b2895c3",
+      "metadata": {
+        "game": "I Was a Teenage Exocolonist",
+        "id": "exocolonist",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2025-09-16T19:26:31Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/pamymaf/Exocolonist-AP/releases/download/v0.1.1/exocolonist.apworld",
+      "size": 15145,
+      "hash_sha256": "72736dcd00e5a3b6427b4d1c4523ce70c585d120993ba9f8d8fa493a6b36ec86",
+      "metadata": {
+        "game": "I Was a Teenage Exocolonist",
+        "id": "exocolonist",
+        "world_version": "0.1.1",
+        "tag_version": "0.1.1",
+        "created_at": "2025-09-17T20:04:50Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/pamymaf/Exocolonist-AP/releases/download/v0.2.0/exocolonist.apworld",
+      "size": 15779,
+      "hash_sha256": "ce4859f614170356c336fd524a6d471c03f1e300e07ac67c55bc9531f9c0abf0",
+      "metadata": {
+        "game": "I Was a Teenage Exocolonist",
+        "id": "exocolonist",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2025-09-26T03:55:23Z"
+      }
+    },
+    {
+      "world": "https://github.com/pamymaf/Exocolonist-AP/releases/download/v0.3.0/exocolonist.apworld",
+      "size": 18042,
+      "hash_sha256": "fe5355ede645bb4a5bc911fa685fd0ab4cffb70f44bb8fab3224f5856cdecbea",
+      "metadata": {
+        "game": "I Was a Teenage Exocolonist",
+        "id": "exocolonist",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2025-09-28T06:00:48Z"
+      }
+    },
+    {
+      "world": "https://github.com/pamymaf/Exocolonist-AP/releases/download/v0.3.1/exocolonist.apworld",
+      "size": 18047,
+      "hash_sha256": "2fc3d990d4e71cf5b27349a787d30ad76cb22efef4a05f3c63941424d80ce6d6",
+      "metadata": {
+        "game": "I Was a Teenage Exocolonist",
+        "id": "exocolonist",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2025-10-07T23:08:34Z"
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.4/factorio_saws.apworld",
       "size": 885186,
       "hash_sha256": "21d953f4f00fa5eebc06af6cfe86f125c6d4142da8ae0e2bdf70bcc1aa8b5868",
@@ -12279,6 +12513,32 @@
         "world_version": "0.5.1",
         "tag_version": "0.5.1",
         "created_at": "2025-09-10T13:09:40Z"
+      }
+    },
+    {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.10/ff1pr.apworld",
+      "size": 89453,
+      "hash_sha256": "64892c510cb2b63bf578bafaaaff497ca13d9f81628da2788fd8e549b28e262c",
+      "metadata": {
+        "game": "FF1 Pixel Remaster",
+        "id": "ff1pr",
+        "world_version": "0.5.8",
+        "tag_version": "0.5.8",
+        "created_at": "2025-10-08T12:29:36Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.11/ff1pr.apworld",
+      "size": 90022,
+      "hash_sha256": "edfcca3d496f0c4edfd54c8b1ea5719baf76a59c9e43a882fb4edf6012f37b8f",
+      "metadata": {
+        "game": "FF1 Pixel Remaster",
+        "id": "ff1pr",
+        "world_version": "0.5.8",
+        "tag_version": "0.5.8",
+        "created_at": "2025-10-08T22:34:39Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -23401,7 +23661,7 @@
       "size": 54205,
       "hash_sha256": "33c1bbaef1b1624c02cdf2d5794f5da865ff2c2b5e596d71ae9260393132ba04",
       "metadata": {
-        "game": "",
+        "game": "Manual_GlassAnimals_bennydreamly",
         "id": "manual_glassanimals_bennydreamly",
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
@@ -23413,7 +23673,7 @@
       "size": 54191,
       "hash_sha256": "388537fb352c2af9de1d29a799f3d17e10571537597334f526eb0b0e8eec6545",
       "metadata": {
-        "game": "",
+        "game": "Manual_GlassAnimals_bennydreamly",
         "id": "manual_glassanimals_bennydreamly",
         "world_version": "2.0.0",
         "tag_version": "2.0.0",
@@ -23425,7 +23685,7 @@
       "size": 59541,
       "hash_sha256": "c8f66a3507f3e7846c79de07e6470fb16af8261bdfe8480224d675c4e2a2fc3c",
       "metadata": {
-        "game": "",
+        "game": "Manual_GlassAnimals_bennydreamly",
         "id": "manual_glassanimals_bennydreamly",
         "world_version": "3.0.0",
         "tag_version": "3.0.0",
@@ -24805,7 +25065,7 @@
       "size": 62694,
       "hash_sha256": "767b9735f3f5bd18eaf989d812c0590b97de103f1ff4a4ae139769a6ed8a22c8",
       "metadata": {
-        "game": "",
+        "game": "Manual_TaylorSwiftDiscography_bennydreamly",
         "id": "manual_taylorswiftdiscography_bennydreamly",
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
@@ -24817,7 +25077,7 @@
       "size": 62763,
       "hash_sha256": "1d02a34aeb851e1fd4be0a1457faf76084391e69db1eae4675a2d3ac7956d518",
       "metadata": {
-        "game": "",
+        "game": "Manual_TaylorSwiftDiscography_bennydreamly",
         "id": "manual_taylorswiftdiscography_bennydreamly",
         "world_version": "2.0.0",
         "tag_version": "2.0.0",
@@ -24829,7 +25089,7 @@
       "size": 62756,
       "hash_sha256": "f20b8bc06af28d2b4c542361a2c3d16b937c182d73b7cbcdf89a1839e4260a57",
       "metadata": {
-        "game": "",
+        "game": "Manual_TaylorSwiftDiscography_bennydreamly",
         "id": "manual_taylorswiftdiscography_bennydreamly",
         "world_version": "3.0.0",
         "tag_version": "3.0.0",
@@ -24841,7 +25101,7 @@
       "size": 63138,
       "hash_sha256": "291aa0a9015b5d5319fe45bc37ade0258700a94c4b521c55f733db112f9fc3ce",
       "metadata": {
-        "game": "",
+        "game": "Manual_TaylorSwiftDiscography_bennydreamly",
         "id": "manual_taylorswiftdiscography_bennydreamly",
         "world_version": "4.0.0",
         "tag_version": "4.0.0",
@@ -24985,7 +25245,7 @@
       "size": 443162,
       "hash_sha256": "de610dd6876c9a6672e532734a066273aacc064ab0bc34d7a63c8d59a939490c",
       "metadata": {
-        "game": "",
+        "game": "Manual_THMusic_Awesome7285",
         "id": "manual_thmusic_awesome7285",
         "world_version": "0.1.1",
         "tag_version": "0.1.1",
@@ -24997,7 +25257,7 @@
       "size": 502169,
       "hash_sha256": "f86f3633b8336b67096ddc2ae63708d887ff0d95969e1a567f57c6ce06cd8138",
       "metadata": {
-        "game": "",
+        "game": "Manual_THMusic_Awesome7285",
         "id": "manual_thmusic_awesome7285",
         "world_version": "0.1.2",
         "tag_version": "0.1.2",
@@ -25009,7 +25269,7 @@
       "size": 502289,
       "hash_sha256": "0b7072c39773fb021acd4b41987f28bedfc56988dec687342069d403d4b43764",
       "metadata": {
-        "game": "",
+        "game": "Manual_THMusic_Awesome7285",
         "id": "manual_thmusic_awesome7285",
         "world_version": "0.1.3",
         "tag_version": "0.1.3",
@@ -25314,54 +25574,6 @@
         "world_version": "4.1",
         "tag_version": "4.1",
         "created_at": "2025-02-10T18:49:20Z"
-      }
-    },
-    {
-      "world": "https://github.com/ManNamedGarbo/Wizard101-APManual/releases/download/release1/manual_wizard101freetoplay_garbo.apworld",
-      "size": 60318,
-      "hash_sha256": "798dfe3fa5ebc344191bd29e8875b105ea7843a45b7d02c6cd5be681c770fed9",
-      "metadata": {
-        "game": "Manual_Wizard101FreeToPlay_Garbo",
-        "id": "manual_wizard101freetoplay_garbo",
-        "world_version": "0.1",
-        "tag_version": "0.1",
-        "created_at": "2024-05-30T06:14:26Z"
-      }
-    },
-    {
-      "world": "https://github.com/ManNamedGarbo/Wizard101-APManual/releases/download/release2/manual_wizard101freetoplay_garbo.apworld",
-      "size": 59776,
-      "hash_sha256": "0b2de663ca95e541964e6b5f56d27ddece39ef68a69ffb1f3dd7994b4d48d31e",
-      "metadata": {
-        "game": "Manual_Wizard101FreeToPlay_Garbo",
-        "id": "manual_wizard101freetoplay_garbo",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2024-06-06T23:06:56Z"
-      }
-    },
-    {
-      "world": "https://github.com/ManNamedGarbo/Wizard101-APManual/releases/download/release3/manual_wizard101freetoplay_garbo.apworld",
-      "size": 41264,
-      "hash_sha256": "7b65088b09d297817b82a85ffad241e0e59cabf960e3cf58e6967462b33d78d5",
-      "metadata": {
-        "game": "Manual_Wizard101FreeToPlay_Garbo",
-        "id": "manual_wizard101freetoplay_garbo",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2024-11-04T20:36:18Z"
-      }
-    },
-    {
-      "world": "https://github.com/ManNamedGarbo/Wizard101-APManual/releases/download/release4/manual_wizard101freetoplay_garbo.apworld",
-      "size": 55454,
-      "hash_sha256": "9b0a699a33df90f35d402ebc6adf99d46a473f9cd24831bbcfe7edc62e6bf644",
-      "metadata": {
-        "game": "Manual_Wizard101FreeToPlay_Garbo",
-        "id": "manual_wizard101freetoplay_garbo",
-        "world_version": "0.1.3",
-        "tag_version": "0.1.3",
-        "created_at": "2025-07-29T15:30:49Z"
       }
     },
     {
@@ -29054,6 +29266,19 @@
       }
     },
     {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.2.0/nine_sols.apworld",
+      "size": 2897173,
+      "hash_sha256": "51eee8c6552e86448a823c4668001501aac619376eaf8a574a53ed593248956b",
+      "metadata": {
+        "game": "Nine Sols",
+        "id": "nine_sols",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2025-10-09T18:47:13Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
       "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_0/no100f.apworld",
       "size": 216707,
       "hash_sha256": "c7a73db59222d8761aa6528118924eca25b97a3f3e6fde3dd3e74ba64d9abda0",
@@ -29087,6 +29312,18 @@
         "world_version": "1",
         "tag_version": "1",
         "created_at": "2025-10-05T02:58:03Z"
+      }
+    },
+    {
+      "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_3/no100f.apworld",
+      "size": 223350,
+      "hash_sha256": "8c15ce1900d99af4a51af16017ebb57ea8133ff1077fd891fd28aed823855b9c",
+      "metadata": {
+        "game": "Scooby-Doo! Night of 100 Frights",
+        "id": "no100f",
+        "world_version": "1",
+        "tag_version": "1",
+        "created_at": "2025-10-09T01:32:43Z"
       }
     },
     {
@@ -29165,6 +29402,22 @@
         "world_version": "0.0.1a0",
         "tag_version": "0.0.1a0",
         "created_at": "2025-05-25T21:53:45Z",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/wkcheezy/ObraDinnArchipelagoWorld/releases/download/v0.0.2/obra_dinn.apworld",
+      "size": 18558,
+      "hash_sha256": "6d419eb48c1bec63033c7417ad0ebd10495d74b3137cc95ad8c53e59a21d3239",
+      "metadata": {
+        "game": "",
+        "id": "obra_dinn",
+        "world_version": "0.0.2",
+        "tag_version": "0.0.2",
+        "created_at": "2025-10-09T19:14:02Z",
         "flags": [
           "after_dark",
           "prerelease"
@@ -32085,6 +32338,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.9/pokemon_bw.apworld",
+      "size": 2034371,
+      "hash_sha256": "883890aec4aa6a1e7fd2d4223e4643f9d00895e809d5cfc77a0f83c220535e76",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.9",
+        "tag_version": "0.3.9",
+        "created_at": "2025-10-08T22:51:58Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.99/pokemon_bw.apworld",
       "size": 2004981,
       "hash_sha256": "39dd55504cd54b78e802d5a09e1105d4031c07696f47038f2c4d7ad175e1753a",
@@ -32130,6 +32396,32 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.9/pokemon_bw.apworld",
+      "size": 2034415,
+      "hash_sha256": "398389dcece8af70c6c42ae8cbfc54c5ad072709d67b42e9a93a0192eb99a225",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.9",
+        "tag_version": "0.3.9",
+        "created_at": "2025-10-08T22:51:58Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.10/pokemon_bw.apworld",
+      "size": 38550708,
+      "hash_sha256": "1b124c331760d140bab9d120f53364e1f371e9e9bb45cce79609f3b773e58909",
+      "metadata": {
+        "game": "Pokemon Black and White",
+        "id": "pokemon_bw",
+        "world_version": "0.3.10",
+        "tag_version": "0.3.10",
+        "created_at": "2025-10-10T12:52:37Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -33431,6 +33723,19 @@
       }
     },
     {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.2.2/pokemon_crystal.apworld",
+      "size": 566516,
+      "hash_sha256": "edf8402bbf4063e50df022e25c406f07295c35a0db4be163f1d842eccc19a4f9",
+      "metadata": {
+        "game": "Pokemon Crystal",
+        "id": "pokemon_crystal",
+        "world_version": "5.2.2",
+        "tag_version": "5.2.2",
+        "created_at": "2025-10-09T09:34:50Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/vyneras/Archipelago/releases/download/0.1.0-alpha/pokemon_frlg.apworld",
       "size": 648964,
       "hash_sha256": null,
@@ -33977,6 +34282,21 @@
       }
     },
     {
+      "world": "https://github.com/vyneras/Archipelago/releases/download/1.0.0-beta-3/pokemon_frlg.apworld",
+      "size": 1653862,
+      "hash_sha256": "dccc11334b7643f86259d27a311dd76235586121237a3905979b63d0827bfc8f",
+      "metadata": {
+        "game": "Pokemon FireRed and LeafGreen",
+        "id": "pokemon_frlg",
+        "world_version": "1.0.0b3",
+        "tag_version": "1.0.0b3",
+        "created_at": "2025-10-10T12:21:50Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Happyhappyism/Archipelago/releases/download/pokepinball_v0.0.1/pokemon_pinball.apworld",
       "size": 27058,
       "hash_sha256": "7996004a72a59dc4c6fdec12af181c4b21bcf6977f2eadebb5cb55ac17e55b5c",
@@ -33998,6 +34318,19 @@
         "world_version": "0.0.2",
         "tag_version": "0.0.2",
         "created_at": "2025-09-17T00:13:56Z"
+      }
+    },
+    {
+      "world": "https://github.com/Happyhappyism/Archipelago/releases/download/pokepinball_v0.0.3/pokemon_pinball.apworld",
+      "size": 29811,
+      "hash_sha256": "a5702c831d8e7d367e71f69ee3fb792519ad7a65b67189e0f4a22eb73af0555f",
+      "metadata": {
+        "game": "Pokemon Pinball",
+        "id": "pokemon_pinball",
+        "world_version": "0.0.3",
+        "tag_version": "0.0.3",
+        "created_at": "2025-09-18T19:26:07Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -34403,6 +34736,18 @@
       }
     },
     {
+      "world": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.10/powerwashsimulator.apworld",
+      "size": 147725,
+      "hash_sha256": "e15cc2d148696cba21d79a4a9c5c6b98cedba31001a630dfcef4dbb2e1fa890c",
+      "metadata": {
+        "game": "Powerwash Simulator",
+        "id": "powerwashsimulator",
+        "world_version": "0.5.10",
+        "tag_version": "0.5.10",
+        "created_at": "2025-10-10T05:09:48Z"
+      }
+    },
+    {
       "world": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.6/powerwashsimulator.apworld",
       "size": 147579,
       "hash_sha256": "e8909f304b955f7d222847c6a6dfa5b5f5479da6a9c4f47075d6395fc0d7f185",
@@ -34436,6 +34781,30 @@
         "world_version": "0.5.8",
         "tag_version": "0.5.8",
         "created_at": "2025-09-27T01:14:43Z"
+      }
+    },
+    {
+      "world": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.9/powerwashsimulator.apworld",
+      "size": 147725,
+      "hash_sha256": "e15cc2d148696cba21d79a4a9c5c6b98cedba31001a630dfcef4dbb2e1fa890c",
+      "metadata": {
+        "game": "Powerwash Simulator",
+        "id": "powerwashsimulator",
+        "world_version": "0.5.9",
+        "tag_version": "0.5.9",
+        "created_at": "2025-09-27T01:14:43Z"
+      }
+    },
+    {
+      "world": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.11/powerwashsimulator.apworld",
+      "size": 147854,
+      "hash_sha256": "9d1606be7764cb82967de5f08b524375328745b347c3975d1ce88e08abdb7cf4",
+      "metadata": {
+        "game": "Powerwash Simulator",
+        "id": "powerwashsimulator",
+        "world_version": "0.5.11",
+        "tag_version": "0.5.11",
+        "created_at": "2025-10-10T20:05:20Z"
       }
     },
     {
@@ -39216,6 +39585,54 @@
       }
     },
     {
+      "world": "https://github.com/Simsipelago/Archipelago/releases/download/1.7.2/sims4.apworld",
+      "size": 331012,
+      "hash_sha256": "620b92722cdf3481a6da58e9c2fc0f43d25261d65c91faff3bf6b4e890daf7fb",
+      "metadata": {
+        "game": "The Sims 4",
+        "id": "sims4",
+        "world_version": "1.7.1",
+        "tag_version": "1.7.1",
+        "created_at": "2025-10-07T17:25:45Z"
+      }
+    },
+    {
+      "world": "https://github.com/Simsipelago/Archipelago/releases/download/1.7.3/sims4.apworld",
+      "size": 331008,
+      "hash_sha256": "9a178196b80d9e9ce52343a6cf76af71689d10354257502b4c2e228b10d17829",
+      "metadata": {
+        "game": "The Sims 4",
+        "id": "sims4",
+        "world_version": "1.7.1",
+        "tag_version": "1.7.1",
+        "created_at": "2025-10-07T17:42:04Z"
+      }
+    },
+    {
+      "world": "https://github.com/Simsipelago/Archipelago/releases/download/1.7.3/sims4.apworld",
+      "size": 254572,
+      "hash_sha256": "2367590cb327d1e3eae8605a8073dd199ff2f603b1da09871d9814b4d5aa8c15",
+      "metadata": {
+        "game": "The Sims 4",
+        "id": "sims4",
+        "world_version": "1.7.1",
+        "tag_version": "1.7.1",
+        "created_at": "2025-10-07T17:42:04Z"
+      }
+    },
+    {
+      "world": "https://github.com/Simsipelago/Archipelago/releases/download/1.7.4/sims4.apworld",
+      "size": 328642,
+      "hash_sha256": "11f834164b173a3cc5069ebc4e0446734cbb16199d0d91c3a61187e8bf578244",
+      "metadata": {
+        "game": "The Sims 4",
+        "id": "sims4",
+        "world_version": "1.7.4",
+        "tag_version": "1.7.4",
+        "created_at": "2025-10-08T03:39:51Z"
+      }
+    },
+    {
       "world": "https://github.com/Simsipelago/Archipelago/releases/download/2.0.0-beta.1/sims4.apworld",
       "size": 249190,
       "hash_sha256": "60e5423f15e5ddd0743e045eb1b9878f11b9fecc9580be128fd32295adb23389",
@@ -39303,30 +39720,6 @@
         "world_version": "1.5.1",
         "tag_version": "1.5.1",
         "created_at": "2025-01-25T02:41:47Z"
-      }
-    },
-    {
-      "world": "https://github.com/Simsipelago/Archipelago/releases/download/1.7.3/sims4.apworld",
-      "size": 331008,
-      "hash_sha256": "9a178196b80d9e9ce52343a6cf76af71689d10354257502b4c2e228b10d17829",
-      "metadata": {
-        "game": "The Sims 4",
-        "id": "sims4",
-        "world_version": "1.7.1",
-        "tag_version": "1.7.1",
-        "created_at": "2025-10-07T17:42:04Z"
-      }
-    },
-    {
-      "world": "https://github.com/Simsipelago/Archipelago/releases/download/1.7.2/sims4.apworld",
-      "size": 331012,
-      "hash_sha256": "620b92722cdf3481a6da58e9c2fc0f43d25261d65c91faff3bf6b4e890daf7fb",
-      "metadata": {
-        "game": "The Sims 4",
-        "id": "sims4",
-        "world_version": "1.7.1",
-        "tag_version": "1.7.1",
-        "created_at": "2025-10-07T17:25:45Z"
       }
     },
     {
@@ -41055,6 +41448,18 @@
       }
     },
     {
+      "world": "https://github.com/Totox00/Archipelago-sotm/releases/download/v0.4.1/sotm.apworld",
+      "size": 1118716,
+      "hash_sha256": "1f827c0738c67e5e518d97333d449ce53c36a51b7de133eb15f0cca7c05ab20b",
+      "metadata": {
+        "game": "Sentinels of the Multiverse",
+        "id": "sotm",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2025-10-08T21:28:08Z"
+      }
+    },
+    {
       "world": "https://github.com/fdelduque/Archipelago/releases/download/Alphaish/sotn.apworld",
       "size": 65808,
       "hash_sha256": "9ffe83aa4b9fa9b256b4bb5d1cb9ddfa54475175e322acb91a4c5042a7d72fbe",
@@ -42082,6 +42487,201 @@
         "world_version": "2.2.0",
         "tag_version": "2.2.0",
         "created_at": "2025-09-17T00:23:14Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.0.1/spyro.apworld",
+      "size": 18232,
+      "hash_sha256": "d5d4d5833e6f132c93cb3210de183dd0c21e35b4805856ba8b6c211ce2ce4bbc",
+      "metadata": {
+        "game": "",
+        "id": "spyro",
+        "world_version": "0.0.1",
+        "tag_version": "0.0.1",
+        "created_at": "2025-08-22T13:54:08Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.0.2/spyro.apworld",
+      "size": 18795,
+      "hash_sha256": "26610fe1d1ebf9d8f7b5d5fc77379b1c7d77751254e6f54333f40260ed358c51",
+      "metadata": {
+        "game": "",
+        "id": "spyro",
+        "world_version": "0.0.2",
+        "tag_version": "0.0.2",
+        "created_at": "2025-08-24T02:05:14Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.1.0/spyro.apworld",
+      "size": 19036,
+      "hash_sha256": "8498f47bd7bb6301dc8ed9812fac34d924bf6ce507fa8144b7e60c62e4e8f0b6",
+      "metadata": {
+        "game": "",
+        "id": "spyro",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2025-08-28T15:25:05Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.2.0/spyro.apworld",
+      "size": 19757,
+      "hash_sha256": "a297eb9972bf54724f24ec7eaaa215e56c7eccf5cf8b0ff77f9ea278968e4065",
+      "metadata": {
+        "game": "",
+        "id": "spyro",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2025-08-28T15:31:34Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.2.1/spyro.apworld",
+      "size": 21719,
+      "hash_sha256": "87304e9c4641ee0b2ffaee9c5480b6ace203d00912edc4d2e6e9cdbac981aa1e",
+      "metadata": {
+        "game": "",
+        "id": "spyro",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2025-08-28T15:37:09Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.3.0/spyro.apworld",
+      "size": 22889,
+      "hash_sha256": "a190906d529890858c6e3808d5f19b90d80fd24fdd556d1fa7ccb94bed8a7ae6",
+      "metadata": {
+        "game": "",
+        "id": "spyro",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2025-08-28T15:38:21Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.3.1/spyro.apworld",
+      "size": 23092,
+      "hash_sha256": "e11895ff721a01591b0e8096c549614404384c84f670ec96e372be01537f90c0",
+      "metadata": {
+        "game": "",
+        "id": "spyro",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2025-08-31T16:05:09Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.3.2/spyro.apworld",
+      "size": 24171,
+      "hash_sha256": "c23e0e34fba341ecd6262f8800ba9575379dedaf3ff65266a8ad7f0c21d068f0",
+      "metadata": {
+        "game": "",
+        "id": "spyro",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2025-09-01T18:20:25Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.3.3/spyro.apworld",
+      "size": 26088,
+      "hash_sha256": "e86432210ad1baa61bb91685ca9a642228a2fef6dea9a021166eb6aeb095788f",
+      "metadata": {
+        "game": "",
+        "id": "spyro",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2025-09-03T02:01:32Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.3.4/spyro.apworld",
+      "size": 27504,
+      "hash_sha256": "92780cab4ce94974a8c81f2560cd5dac2ca049a73ac4e75aef6b7e2e71bf65c0",
+      "metadata": {
+        "game": "",
+        "id": "spyro",
+        "world_version": "0.3.4",
+        "tag_version": "0.3.4",
+        "created_at": "2025-09-04T22:12:58Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.3.5/spyro.apworld",
+      "size": 27630,
+      "hash_sha256": "f6b8199713ee91d80a9345df16adb83fac9c81195e589f8fb36de529a42e2989",
+      "metadata": {
+        "game": "",
+        "id": "spyro",
+        "world_version": "0.3.5",
+        "tag_version": "0.3.5",
+        "created_at": "2025-09-06T15:52:32Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.4.0/spyro.apworld",
+      "size": 30157,
+      "hash_sha256": "9a8dadb74ad4a99fdd32d20cb6c4f1b251d7f2899d6a78d84bf90d42c77ca80b",
+      "metadata": {
+        "game": "",
+        "id": "spyro",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2025-09-08T00:55:34Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.4.1/spyro.apworld",
+      "size": 30177,
+      "hash_sha256": "d4ecf21cc66ae60a5f73a450b23a9bd13b6dff94782f67b9385d0f475ee27825",
+      "metadata": {
+        "game": "",
+        "id": "spyro",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2025-09-08T15:21:00Z",
         "flags": [
           "prerelease"
         ]
@@ -44194,6 +44794,18 @@
       }
     },
     {
+      "world": "https://github.com/FyreDay/Archipelago-TCGCardShopSimulator/releases/download/v0.5.13/tcg_card_shop_simulator.apworld",
+      "size": 73826,
+      "hash_sha256": "8a1e1262d07b807636501768a77a919e4ea915040d8bd6321a0ffdb16cca7e22",
+      "metadata": {
+        "game": "TCG Card Shop Simulator",
+        "id": "tcg_card_shop_simulator",
+        "world_version": "0.5.13",
+        "tag_version": "0.5.13",
+        "created_at": "2025-10-07T03:54:12Z"
+      }
+    },
+    {
       "world": "https://github.com/AgStarRay/TetrisAttackAP/releases/download/0.0.1/tetrisattack.apworld",
       "size": 11457,
       "hash_sha256": "f6fc71a6e473a4a5591ba4d5348344d0084a6d1e9b0e7ac32cb71154d3cbecd8",
@@ -44422,6 +45034,18 @@
         "world_version": "1.3",
         "tag_version": "1.3",
         "created_at": "2025-05-12T17:50:22Z"
+      }
+    },
+    {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.1.1/tevi.apworld",
+      "size": 134541,
+      "hash_sha256": "0eec8f932d59b648c70562db293a5b6c4098794692352c5861db2e70fec3dfde",
+      "metadata": {
+        "game": "Tevi",
+        "id": "tevi",
+        "world_version": "1.4.1.1",
+        "tag_version": "1.4.1.1",
+        "created_at": "2025-10-08T20:15:17Z"
       }
     },
     {
@@ -44929,6 +45553,21 @@
         "world_version": "0.4.0",
         "tag_version": "0.4.0",
         "created_at": "2025-10-07T18:55:12Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Nepley/in-apworld/releases/download/v0.4.1/th08.apworld",
+      "size": 37200,
+      "hash_sha256": "3159ef07140b149715c121c3d41d33f3f22896ae156321d3e3fd09412bce46cb",
+      "metadata": {
+        "game": "Touhou Eiyashou ~ Imperishable Night",
+        "id": "th08",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2025-10-08T18:22:07Z",
         "flags": [
           "after_dark"
         ]
@@ -50282,16 +50921,16 @@
       "description": "Bloons TD6 is a tower defense game about Monkeys trying to defend themselves against the Balloon onslaught.\nPlay a random assortment of maps to collect medals until you can complete the goal map."
     },
     "bomberman_64": {
-      "game": "",
-      "description": ""
+      "game": "Bomberman 64",
+      "description": "The greatest game of all time."
     },
     "bomberman_hero": {
-      "game": "",
-      "description": ""
+      "game": "Bomberman Hero",
+      "description": "The greatest game of all time."
     },
     "bomberman_quest": {
-      "game": "",
-      "description": "",
+      "game": "Bomberman Quest",
+      "description": "Bomberman Quest is a top-down action RPG developed by Hudson\nPlays something like a simpler version of the Zelda games where Bomberman will collect various tools to help him explore the world and defeat escaped mosnters.",
       "tracker": "https://github.com/RunInAWeek/Bomberman-Quest-AP-Tracker/releases/tag/V0.1"
     },
     "bomberman_tournament": {
@@ -50299,8 +50938,8 @@
       "description": ""
     },
     "bomberman_tsa": {
-      "game": "",
-      "description": ""
+      "game": "Bomberman The Second Attack",
+      "description": "The greatest game of all time."
     },
     "brotato": {
       "game": "Brotato",
@@ -50438,6 +51077,10 @@
       "game": "Death's Door",
       "description": "Reaping souls of the dead and punching a clock might get monotonous but it's honest work for a Crow.\nThe job gets lively when your assigned soul is stolen and you must track down a desperate thief to a realm\nuntouched by death - where creatures grow far past their expiry."
     },
+    "deep_rock_galactic": {
+      "game": "Deep Rock Galactic",
+      "description": ""
+    },
     "deltarune": {
       "game": "Deltarune",
       "description": "Deltarune is an RPG."
@@ -50525,6 +51168,10 @@
     "everhood_2": {
       "game": "Everhood 2",
       "description": "Everhood 2 is a psychedelic rpg cross a rhythm game. Dodge notes sent by enemies and reflect those notes back to them."
+    },
+    "exocolonist": {
+      "game": "I Was a Teenage Exocolonist",
+      "description": ""
     },
     "factorio_saws": {
       "game": "Factorio - Space Age Without Space",
@@ -50884,8 +51531,8 @@
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_glassanimals_bennydreamly": {
-      "game": "",
-      "description": ""
+      "game": "Manual_GlassAnimals_bennydreamly",
+      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_ironsworn_axxroy": {
       "game": "",
@@ -51012,8 +51659,8 @@
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_taylorswiftdiscography_bennydreamly": {
-      "game": "",
-      "description": ""
+      "game": "Manual_TaylorSwiftDiscography_bennydreamly",
+      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_teamfortress2_axxroy": {
       "game": "Manual_TeamFortress2_Axxroy",
@@ -51032,8 +51679,8 @@
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_thmusic_awesome7285": {
-      "game": "",
-      "description": ""
+      "game": "Manual_THMusic_Awesome7285",
+      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_vampiresurvivors_jones": {
       "game": "Manual_VampireSurvivors_Jones",
@@ -51041,10 +51688,6 @@
     },
     "manual_watchashow_chakraa": {
       "game": "Manual_WatchAShow_Chakraa",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_wizard101freetoplay_garbo": {
-      "game": "Manual_Wizard101FreeToPlay_Garbo",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_worldofwarcraftdungeons_chakraa": {
@@ -51478,6 +52121,10 @@
     "spire": {
       "game": "Slay the Spire",
       "description": "A deck-building roguelike where you must craft a unique deck, encounter bizarre creatures, discover relics of\nimmense power, and Slay the Spire!"
+    },
+    "spyro": {
+      "game": "",
+      "description": ""
     },
     "spyro2": {
       "game": "Spyro 2",

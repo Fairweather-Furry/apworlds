@@ -158,6 +158,18 @@
       "version_simple": "0.3.1",
       "world_version": "0.3.1"
     },
+    "0.3.10": {
+      "created_at": "2025-10-10T12:52:37Z",
+      "download_url": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.10/pokemon_bw.apworld",
+      "hash_sha256": "1b124c331760d140bab9d120f53364e1f371e9e9bb45cce79609f3b773e58909",
+      "minimum_ap_version": "0.6.3",
+      "size": 38550708,
+      "source_url": "https://api.github.com/repos/BlastSlimey/PokemonBWAP",
+      "tag": "0.3.10",
+      "title": "v0.3.10 (UT auto-tabbing update)",
+      "version_simple": "0.3.10",
+      "world_version": "0.3.10"
+    },
     "0.3.2": {
       "created_at": "2025-08-11T21:01:25Z",
       "download_url": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.2/pokemon_bw.apworld",
@@ -239,6 +251,18 @@
       "version_simple": "0.3.8",
       "world_version": "0.3.8"
     },
+    "0.3.9": {
+      "created_at": "2025-10-08T22:51:58Z",
+      "download_url": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.9/pokemon_bw.apworld",
+      "hash_sha256": "883890aec4aa6a1e7fd2d4223e4643f9d00895e809d5cfc77a0f83c220535e76",
+      "minimum_ap_version": "0.6.3",
+      "size": 2034371,
+      "source_url": "https://api.github.com/repos/BlastSlimey/PokemonBWAP",
+      "tag": "0.3.9",
+      "title": "v0.3.9 (\"Please unban this game\" update)",
+      "version_simple": "0.3.9",
+      "world_version": "0.3.9"
+    },
     "0.3.99": {
       "created_at": "2025-08-11T21:01:25Z",
       "download_url": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.99/pokemon_bw.apworld",
@@ -277,6 +301,18 @@
       "title": "v0.3.999",
       "version_simple": "0.3.999",
       "world_version": "0.3.200"
+    },
+    "0.3.9r2": {
+      "created_at": "2025-10-08T22:51:58Z",
+      "download_url": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.9/pokemon_bw.apworld",
+      "hash_sha256": "398389dcece8af70c6c42ae8cbfc54c5ad072709d67b42e9a93a0192eb99a225",
+      "minimum_ap_version": "0.6.3",
+      "size": 2034415,
+      "source_url": "https://api.github.com/repos/BlastSlimey/PokemonBWAP",
+      "tag": "0.3.9r2",
+      "title": "v0.3.9 (\"Please unban this game\" update)",
+      "version_simple": "0.3.9",
+      "world_version": "0.3.9"
     }
   }
 }
