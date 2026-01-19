@@ -7,6 +7,7 @@
     "alpha01a.1": {
       "created_at": "2025-05-17T03:42:57Z",
       "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha01a.1/cuphead.apworld",
+      "has_manifest": false,
       "hash_sha256": "cbb3ca9d7d811c0718582f23e15ac99cc1c30a3cec28f240ed337b6fb9671383",
       "size": 59913,
       "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
@@ -18,6 +19,7 @@
     "alpha01b": {
       "created_at": "2025-05-17T05:14:39Z",
       "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha01b/cuphead.apworld",
+      "has_manifest": false,
       "hash_sha256": "06b835d9e82d43a74799414fbfabc42c88e36a08f882aaa1d6f584e91244b606",
       "size": 60124,
       "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
@@ -29,6 +31,7 @@
     "alpha01c": {
       "created_at": "2025-05-17T17:06:14Z",
       "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha01c/cuphead.apworld",
+      "has_manifest": false,
       "hash_sha256": "313380a3edbd30718ea91e7316fc4ab51b9a65f66922a2f02e16e2a35ad010bd",
       "size": 60151,
       "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
@@ -40,7 +43,8 @@
     "alpha01d": {
       "created_at": "2025-05-17T23:18:34Z",
       "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha01d/cuphead.apworld",
-      "hash_sha256": "fc6860412cd97b028622c89f692a4a62cca5c20796c68b644e8fb79591c7f8e8",
+      "has_manifest": false,
+      "hash_sha256": "ca5a0d123cca5f3bb95b2f201c76df24aff479e3ad5f03313a30f9a374e4e9fb",
       "size": 60217,
       "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
       "tag": "alpha01d",
@@ -51,6 +55,7 @@
     "alpha01e": {
       "created_at": "2025-05-18T21:31:18Z",
       "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha01e/cuphead.apworld",
+      "has_manifest": false,
       "hash_sha256": "22cd04cf7d373e982a0437a68454368361d3aa34d8cfe3f2506f5700311734b3",
       "size": 60223,
       "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
@@ -62,6 +67,7 @@
     "alpha01f": {
       "created_at": "2025-07-12T04:03:59Z",
       "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha01f/cuphead.apworld",
+      "has_manifest": false,
       "hash_sha256": "827a042d17d2c4451d3e6526cec95498aebfb3315e48b84373013dd96c66a7d1",
       "size": 60232,
       "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
@@ -73,6 +79,7 @@
     "alpha02a": {
       "created_at": "2025-07-31T02:05:11Z",
       "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02a/cuphead.apworld",
+      "has_manifest": false,
       "hash_sha256": "354b14b437c54364e37d5e07ffb6292dfad16e9748ea76f8499d24fa8fe5c70c",
       "size": 71381,
       "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
@@ -84,6 +91,7 @@
     "alpha02b": {
       "created_at": "2025-08-02T20:31:00Z",
       "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02b/cuphead.apworld",
+      "has_manifest": false,
       "hash_sha256": "82408fec48204c076175d6711bae5c204b516bb087a955864f9324ed737d94da",
       "size": 71387,
       "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
@@ -95,6 +103,7 @@
     "alpha02c": {
       "created_at": "2025-08-14T01:11:51Z",
       "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02c/cuphead.apworld",
+      "has_manifest": false,
       "hash_sha256": "52fb8c4cd10f2b9469376f949c6073a39ba8eac7b80bcc0e51c47629d9e0407e",
       "size": 71883,
       "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
@@ -106,6 +115,7 @@
     "alpha02d": {
       "created_at": "2025-09-16T05:42:03Z",
       "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02d/cuphead.apworld",
+      "has_manifest": false,
       "hash_sha256": "cf5e10ab5661a0f0f8f114ca0646aed244a14b28b100f7389f906da5be0b2e2d",
       "size": 71925,
       "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
@@ -117,11 +127,84 @@
     "alpha02e": {
       "created_at": "2025-10-09T02:47:28Z",
       "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02e/cuphead.apworld",
+      "has_manifest": false,
       "hash_sha256": "f963eb5497ca7f88541dfb7704dfd51ef59bc551164155f9ce78d56a1a318005",
       "size": 72810,
       "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
       "tag": "alpha02e",
       "title": "APWorld alpha02e",
+      "version_simple": "2",
+      "world_version": "2"
+    },
+    "alpha02f": {
+      "created_at": "2025-11-07T21:12:16Z",
+      "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02f/cuphead.apworld",
+      "has_manifest": false,
+      "hash_sha256": "a1b88e511df5411d2fc27eb06ea35dbd1f434832c39df79dc65d44fcbb64c8f6",
+      "size": 72915,
+      "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
+      "tag": "alpha02f",
+      "title": "APWorld alpha02f",
+      "version_simple": "2",
+      "world_version": "2"
+    },
+    "alpha02g": {
+      "created_at": "2025-11-18T03:48:16Z",
+      "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02g/cuphead.apworld",
+      "has_manifest": false,
+      "hash_sha256": "5a08042073c11e45b8942ebf455063bf83a5128609b9cb3d9abfb9445b5422cf",
+      "size": 72954,
+      "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
+      "tag": "alpha02g",
+      "title": "APWorld alpha02g",
+      "version_simple": "2",
+      "world_version": "2"
+    },
+    "alpha02h": {
+      "created_at": "2025-11-26T04:21:19Z",
+      "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02h/cuphead.apworld",
+      "has_manifest": false,
+      "hash_sha256": "b0d187f77f08f0142452fa85620c158a7a43e8f400e25311bfb99390a2f22262",
+      "size": 72956,
+      "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
+      "tag": "alpha02h",
+      "title": "APWorld alpha02h",
+      "version_simple": "2",
+      "world_version": "2"
+    },
+    "alpha02h.1": {
+      "created_at": "2025-12-13T17:16:58Z",
+      "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02h.1/cuphead.apworld",
+      "has_manifest": false,
+      "hash_sha256": "0f3d5bb7a81fd9a7302fa7c234db3eee1ddf1b03c375ddcc7095f796805cc603",
+      "size": 72975,
+      "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
+      "tag": "alpha02h.1",
+      "title": "APWorld alpha02h.1",
+      "version_simple": "2",
+      "world_version": "2"
+    },
+    "alpha02i": {
+      "created_at": "2025-12-20T17:04:05Z",
+      "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02i/cuphead.apworld",
+      "has_manifest": false,
+      "hash_sha256": "2b123cd3455dadc1a4eca9f88aad97982be496ec78f1ab7dd1e1d2c112f25ae6",
+      "size": 72962,
+      "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
+      "tag": "alpha02i",
+      "title": "APWorld alpha02i",
+      "version_simple": "2",
+      "world_version": "2"
+    },
+    "alpha02i.1": {
+      "created_at": "2026-01-03T23:35:41Z",
+      "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02i.1/cuphead.apworld",
+      "has_manifest": false,
+      "hash_sha256": "67c1a7687f0886f0088baf10724a3fef411b21e71274c9b19c28f9702797dc71",
+      "size": 72995,
+      "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
+      "tag": "alpha02i.1",
+      "title": "APWorld alpha02i.1",
       "version_simple": "2",
       "world_version": "2"
     },
@@ -139,6 +222,7 @@
     "preview01a": {
       "created_at": "2024-08-27T16:53:29Z",
       "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview01a/cuphead.apworld",
+      "has_manifest": false,
       "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
       "prerelease": true,
       "size": 32691,
@@ -151,7 +235,8 @@
     "preview02j": {
       "created_at": "2025-03-08T22:22:39Z",
       "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview02j/cuphead.apworld",
-      "hash_sha256": "a9821dc8bc23aefe766253574c6f6320b3be694ad2835ec17b5a5dccce07c7cf",
+      "has_manifest": false,
+      "hash_sha256": "df83b4dc8145df90b97bc46e92abf536d3989d678de1629f8b3df45c1163c412",
       "prerelease": true,
       "size": 38778,
       "source_url": "https://api.github.com/repos/JKLeckr/Archipelago-cuphead",
@@ -229,6 +314,7 @@
     "preview03f": {
       "created_at": "2025-04-21T06:17:17Z",
       "download_url": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview03f/cuphead.apworld",
+      "has_manifest": false,
       "hash_sha256": "f805ab41525baa40667718863d3f14e89b33ef044469165f6b033df1f6de93c4",
       "prerelease": true,
       "size": 48506,

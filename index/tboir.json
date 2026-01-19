@@ -1,15 +1,16 @@
 {
-  "description": "TODO: Description",
+  "description": "Experience the modern classic, The Binding of Isaac, like you've never seen it before. \nIt's a game too big to be called a sequel: Repentance takes Isaac to new heights of \nroguelike dungeon adventure, as the brave boy descends into the basement for his \ngreatest challenge yet! Isaac's new quest takes him to unknown places he's never been, \nfilled with horrible new enemies and bosses, weapon combos you've never synergized \nbefore and items he's never seen... unholy terrors from his wildest dreams and worst \nnightmares!",
   "game": "The Binding of Isaac Repentance",
   "github": [
     "https://github.com/NaveTK/Archipelago",
-    "https://github.com/Cyb3RGER/TBoI-AP-Mod/"
+    "https://github.com/Cyb3RGER/TBoI-AP-Mod"
   ],
   "license": "MIT",
   "versions": {
     "v0.0.10": {
       "created_at": "2024-03-30T14:11:04Z",
       "download_url": "https://github.com/Cyb3RGER/TBoI-AP-Mod/releases/download/v0.0.10/tboir.apworld",
+      "has_manifest": false,
       "hash_sha256": "17c0be7f400b6842cd8843350930c362b6048ea6a7e41e32a939d250577677df",
       "size": 18329,
       "source_url": "https://api.github.com/repos/Cyb3RGER/TBoI-AP-Mod",
@@ -21,6 +22,7 @@
     "v0.0.11": {
       "created_at": "2024-07-27T16:28:08Z",
       "download_url": "https://github.com/Cyb3RGER/TBoI-AP-Mod/releases/download/v0.0.11/tboir.apworld",
+      "has_manifest": false,
       "hash_sha256": "17c0be7f400b6842cd8843350930c362b6048ea6a7e41e32a939d250577677df",
       "size": 18329,
       "source_url": "https://api.github.com/repos/Cyb3RGER/TBoI-AP-Mod",
@@ -32,6 +34,7 @@
     "v0.0.12": {
       "created_at": "2025-07-15T18:49:47Z",
       "download_url": "https://github.com/Cyb3RGER/TBoI-AP-Mod/releases/download/v0.0.12/tboir.apworld",
+      "has_manifest": false,
       "hash_sha256": "e2fc956de1fdbc590a785d30bb095956a625c34495a776e6cd461024d69540de",
       "size": 18320,
       "source_url": "https://api.github.com/repos/Cyb3RGER/TBoI-AP-Mod",
@@ -43,6 +46,7 @@
     "v0.0.7": {
       "created_at": "2023-10-22T16:31:44Z",
       "download_url": "https://github.com/Cyb3RGER/TBoI-AP-Mod/releases/download/v0.0.7/tboir.apworld",
+      "has_manifest": false,
       "hash_sha256": "a92fcd26b6d60c276419f4e26da706780e4db38683ded8ca65097b5659142970",
       "size": 18304,
       "source_url": "https://api.github.com/repos/Cyb3RGER/TBoI-AP-Mod",
@@ -54,6 +58,7 @@
     "v0.0.8": {
       "created_at": "2024-02-11T16:49:28Z",
       "download_url": "https://github.com/Cyb3RGER/TBoI-AP-Mod/releases/download/v0.0.8/tboir.apworld",
+      "has_manifest": false,
       "hash_sha256": "17c0be7f400b6842cd8843350930c362b6048ea6a7e41e32a939d250577677df",
       "size": 18329,
       "source_url": "https://api.github.com/repos/Cyb3RGER/TBoI-AP-Mod",
@@ -65,6 +70,7 @@
     "v0.0.9": {
       "created_at": "2024-02-24T23:12:06Z",
       "download_url": "https://github.com/Cyb3RGER/TBoI-AP-Mod/releases/download/v0.0.9/tboir.apworld",
+      "has_manifest": false,
       "hash_sha256": "17c0be7f400b6842cd8843350930c362b6048ea6a7e41e32a939d250577677df",
       "size": 18329,
       "source_url": "https://api.github.com/repos/Cyb3RGER/TBoI-AP-Mod",
@@ -76,6 +82,7 @@
     "v0.1": {
       "created_at": "2025-09-07T15:51:39Z",
       "download_url": "https://github.com/NaveTK/Archipelago/releases/download/v0.1/tboir.apworld",
+      "has_manifest": false,
       "hash_sha256": "adf028b94ce77bfa47679cca91a17ed1c1de4c9c4997e82888af16187074d1db",
       "size": 1142561,
       "source_url": "https://api.github.com/repos/NaveTK/Archipelago",
@@ -87,6 +94,7 @@
     "v0.1.1": {
       "created_at": "2025-09-12T20:08:47Z",
       "download_url": "https://github.com/NaveTK/Archipelago/releases/download/v0.1.1/tboir.apworld",
+      "has_manifest": false,
       "hash_sha256": "d75739e307e31b76f3a8f449a70e0f8bdcf833cbbceecfc4c65e40d0ada43ca3",
       "size": 1147235,
       "source_url": "https://api.github.com/repos/NaveTK/Archipelago",
@@ -94,6 +102,84 @@
       "title": "v0.1.1",
       "version_simple": "0.1.1",
       "world_version": "0.1.1"
+    },
+    "v0.2": {
+      "created_at": "2026-01-06T19:57:01Z",
+      "download_url": "https://github.com/NaveTK/Archipelago/releases/download/v0.2/tboir.apworld",
+      "has_manifest": true,
+      "hash_sha256": "fbf19ca2306dd0ab51964aec68b74ce9cf16a191d7fefe64f3efa05bcf5993d6",
+      "minimum_ap_version": "0.6.4",
+      "size": 1258783,
+      "source_url": "https://api.github.com/repos/NaveTK/Archipelago",
+      "tag": "v0.2",
+      "title": "v0.2",
+      "version_simple": "0.2.0",
+      "world_version": "0.2.0"
+    },
+    "v0.2.1": {
+      "created_at": "2026-01-09T00:49:21Z",
+      "download_url": "https://github.com/NaveTK/Archipelago/releases/download/v0.2.1/tboir.apworld",
+      "has_manifest": true,
+      "hash_sha256": "d71b3e54daab7d9b6e2062841c424a3be74932f33a01af9f4cd162725389f87e",
+      "minimum_ap_version": "0.6.4",
+      "size": 1258769,
+      "source_url": "https://api.github.com/repos/NaveTK/Archipelago",
+      "tag": "v0.2.1",
+      "title": "v0.2.1 Small patch",
+      "version_simple": "0.2.1",
+      "world_version": "0.2.1"
+    },
+    "v0.2.2": {
+      "created_at": "2026-01-11T03:11:09Z",
+      "download_url": "https://github.com/NaveTK/Archipelago/releases/download/v0.2.2/tboir.apworld",
+      "has_manifest": true,
+      "hash_sha256": "8fdcbd5a46cbc6232b2c182937360f95eb37e04e80bb996a634584b12a2d257c",
+      "minimum_ap_version": "0.6.4",
+      "size": 1258811,
+      "source_url": "https://api.github.com/repos/NaveTK/Archipelago",
+      "tag": "v0.2.2",
+      "title": "v0.2.2 Small patch",
+      "version_simple": "0.2.1",
+      "world_version": "0.2.1"
+    },
+    "v0.2.3": {
+      "created_at": "2026-01-13T23:21:55Z",
+      "download_url": "https://github.com/NaveTK/Archipelago/releases/download/v0.2.3/tboir.apworld",
+      "has_manifest": true,
+      "hash_sha256": "f8260bbec1441b25ff76fda9768116365191568a20e10edd559e8586639a4195",
+      "minimum_ap_version": "0.6.4",
+      "size": 1258929,
+      "source_url": "https://api.github.com/repos/NaveTK/Archipelago",
+      "tag": "v0.2.3",
+      "title": "v0.2.3 Stability patch",
+      "version_simple": "0.2.3",
+      "world_version": "0.2.3"
+    },
+    "v0.2.3r2": {
+      "created_at": "2026-01-13T23:21:55Z",
+      "download_url": "https://github.com/NaveTK/Archipelago/releases/download/v0.2.3/tboir.apworld",
+      "has_manifest": true,
+      "hash_sha256": "33809a78d5b1939cdd574e98b321446e67c07e1953e6ecf28bf1e1c6547577b8",
+      "minimum_ap_version": "0.6.4",
+      "size": 1258935,
+      "source_url": "https://api.github.com/repos/NaveTK/Archipelago",
+      "tag": "v0.2.3r2",
+      "title": "v0.2.3 Stability patch",
+      "version_simple": "0.2.3",
+      "world_version": "0.2.3.post2"
+    },
+    "v0.2.4": {
+      "created_at": "2026-01-18T01:39:44Z",
+      "download_url": "https://github.com/NaveTK/Archipelago/releases/download/v0.2.4/tboir.apworld",
+      "has_manifest": true,
+      "hash_sha256": "6db130588ae6901bbd322fa255bbd2a32f1d60d2b04f430480a70335de6fd812",
+      "minimum_ap_version": "0.6.4",
+      "size": 1259267,
+      "source_url": "https://api.github.com/repos/NaveTK/Archipelago",
+      "tag": "v0.2.4",
+      "title": "v0.2.4",
+      "version_simple": "0.2.4",
+      "world_version": "0.2.4"
     }
   }
 }

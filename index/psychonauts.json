@@ -1,12 +1,13 @@
 {
   "description": "Psychonauts is a third-person action platformer game developed by Double Fine Productions, published by Majesco Entertainment, and released in 2005.\nThe player follows Razputin, a young boy gifted with psychic abilities. After sneaking into Whispering Rock Psychic Summer Camp, it's up to Raz to explore \nthe minds of other characters in order to save his fellow psychic campers, and the world, from an evil threat.",
   "game": "Psychonauts",
-  "github": "https://github.com/Akashortstack/Psychonauts-AP-Integration/",
+  "github": "https://github.com/Akashortstack/Psychonauts-AP-Integration",
   "license": null,
   "versions": {
     "v0.6.1": {
       "created_at": "2024-06-17T07:49:09Z",
       "download_url": "https://github.com/Akashortstack/Psychonauts-AP-Integration/releases/download/v0.6.1/psychonauts.apworld",
+      "has_manifest": false,
       "hash_sha256": "43445ea79c3f947e010ad368ee467c6179da03f05eed3436369cf4b383c0550b",
       "size": 57768,
       "source_url": "https://api.github.com/repos/Akashortstack/Psychonauts-AP-Integration",
@@ -18,6 +19,7 @@
     "v0.7.0": {
       "created_at": "2024-07-08T00:15:27Z",
       "download_url": "https://github.com/Akashortstack/Psychonauts-AP-Integration/releases/download/v0.7.0/psychonauts.apworld",
+      "has_manifest": false,
       "hash_sha256": "4e4a129f54fd915f3aeb32ac37efb22b0d0500cb9789cdcbd318c84d68f72259",
       "size": 78390,
       "source_url": "https://api.github.com/repos/Akashortstack/Psychonauts-AP-Integration",
@@ -29,6 +31,7 @@
     "v0.8.0": {
       "created_at": "2025-07-14T08:25:39Z",
       "download_url": "https://github.com/Akashortstack/Psychonauts-AP-Integration/releases/download/v0.8.0/psychonauts.apworld",
+      "has_manifest": false,
       "hash_sha256": "c8cbec6d91740bb29d67f8bbb79ed6215249c872a3882e14c81a87a17928e441",
       "size": 143842,
       "source_url": "https://api.github.com/repos/Akashortstack/Psychonauts-AP-Integration",
@@ -36,6 +39,97 @@
       "title": "Psychonauts AP World v0.8.0",
       "version_simple": "0.8.0",
       "world_version": "0.8.0"
+    },
+    "v0.8.0r2": {
+      "created_at": "2025-07-14T08:25:39Z",
+      "download_url": "https://github.com/Akashortstack/Psychonauts-AP-Integration/releases/download/v0.8.0/psychonauts.apworld",
+      "has_manifest": false,
+      "hash_sha256": "bb66218f187363ee4894a5ed0539a9669ff17bae06ff83a18a879a3a904fa553",
+      "size": 143854,
+      "source_url": "https://api.github.com/repos/Akashortstack/Psychonauts-AP-Integration",
+      "tag": "v0.8.0r2",
+      "title": "Psychonauts AP World v0.8.0",
+      "version_simple": "0.8.0",
+      "world_version": "0.8.0.post2"
+    },
+    "v0.8.1": {
+      "created_at": "2025-12-05T09:44:32Z",
+      "download_url": "https://github.com/Akashortstack/Psychonauts-AP-Integration/releases/download/v0.8.1/psychonauts.apworld",
+      "has_manifest": false,
+      "hash_sha256": "bb66218f187363ee4894a5ed0539a9669ff17bae06ff83a18a879a3a904fa553",
+      "size": 143854,
+      "source_url": "https://api.github.com/repos/Akashortstack/Psychonauts-AP-Integration",
+      "tag": "v0.8.1",
+      "title": "Psychonauts AP World v0.8.1",
+      "version_simple": "0.8.1",
+      "world_version": "0.8.1"
+    },
+    "v0.9.0-BETA": {
+      "created_at": "2025-12-16T09:29:55Z",
+      "download_url": "https://github.com/Akashortstack/Psychonauts-AP-Integration/releases/download/v0.9.0-BETA/psychonauts.apworld",
+      "has_manifest": false,
+      "hash_sha256": "e245a2a64c9125b598918f2e85304d0ac8167272c37c158ecbeb870e1abef836",
+      "prerelease": true,
+      "size": 159777,
+      "source_url": "https://api.github.com/repos/Akashortstack/Psychonauts-AP-Integration",
+      "tag": "v0.9.0-BETA",
+      "title": "Psychonauts AP World v0.9.0-BETA",
+      "version_simple": "0.9.0",
+      "world_version": "0.9.0b0"
+    },
+    "v0.9.1-BETA": {
+      "created_at": "2025-12-19T10:16:52Z",
+      "download_url": "https://github.com/Akashortstack/Psychonauts-AP-Integration/releases/download/v0.9.1-BETA/psychonauts.apworld",
+      "has_manifest": false,
+      "hash_sha256": "185c1cd554f9b045833287b6151d11b2f3bfdb165cc33892e474768b87e34026",
+      "prerelease": true,
+      "size": 160315,
+      "source_url": "https://api.github.com/repos/Akashortstack/Psychonauts-AP-Integration",
+      "tag": "v0.9.1-BETA",
+      "title": "Psychonauts AP World v0.9.1-BETA",
+      "version_simple": "0.9.1",
+      "world_version": "0.9.1b0"
+    },
+    "v0.9.2-BETA": {
+      "created_at": "2025-12-28T06:12:54Z",
+      "download_url": "https://github.com/Akashortstack/Psychonauts-AP-Integration/releases/download/v0.9.2-BETA/psychonauts.apworld",
+      "has_manifest": false,
+      "hash_sha256": "7eb504a317cf4fb04f5e52228061d5e8834fe8849e7ae5cd02d6643c6c914221",
+      "prerelease": true,
+      "size": 160821,
+      "source_url": "https://api.github.com/repos/Akashortstack/Psychonauts-AP-Integration",
+      "tag": "v0.9.2-BETA",
+      "title": "Psychonauts AP World v0.9.2-BETA",
+      "version_simple": "0.9.2",
+      "world_version": "0.9.2b0"
+    },
+    "v0.9.3-BETA": {
+      "created_at": "2026-01-08T12:14:47Z",
+      "download_url": "https://github.com/Akashortstack/Psychonauts-AP-Integration/releases/download/v0.9.3-BETA/psychonauts.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a98e4a0137ee6eb2f589d703a664c54e04857171f3ed75413125f11621ff6c3e",
+      "minimum_ap_version": "0.6.5",
+      "prerelease": true,
+      "size": 76487,
+      "source_url": "https://api.github.com/repos/Akashortstack/Psychonauts-AP-Integration",
+      "tag": "v0.9.3-BETA",
+      "title": "Psychonauts AP World v0.9.3-BETA",
+      "version_simple": "0.9.3",
+      "world_version": "0.9.3b0"
+    },
+    "v0.9.3-BETAr2": {
+      "created_at": "2026-01-08T12:14:47Z",
+      "download_url": "https://github.com/Akashortstack/Psychonauts-AP-Integration/releases/download/v0.9.3-BETA/psychonauts.apworld",
+      "has_manifest": true,
+      "hash_sha256": "e82a33e7888cacb75fe8358d5887809411f33c24b9564e8efdd7f0011b456b54",
+      "minimum_ap_version": "0.6.5",
+      "prerelease": true,
+      "size": 76751,
+      "source_url": "https://api.github.com/repos/Akashortstack/Psychonauts-AP-Integration",
+      "tag": "v0.9.3-BETAr2",
+      "title": "Psychonauts AP World v0.9.3-BETA",
+      "version_simple": "0.9.3",
+      "world_version": "0.9.3.post2"
     }
   }
 }

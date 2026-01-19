@@ -31,6 +31,7 @@
     "0.9c": {
       "created_at": "2024-02-28T23:30:08Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/0.9c/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "b5409da8364cbce0ad1d1997f1267c5f1b4593141c295447ed0b913c0dea9789",
       "prerelease": true,
       "size": 95030,
@@ -43,6 +44,7 @@
     "0.9d": {
       "created_at": "2024-03-02T00:53:10Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/0.9d/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "12940676bef03eee461784bc666a6c33a00f5438eeac0cb823091b9c83e4c5a6",
       "prerelease": true,
       "size": 98204,
@@ -55,6 +57,7 @@
     "0.9e": {
       "created_at": "2024-03-09T22:15:57Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/0.9e/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "c9fe6ee4aa0f8c22a7086c973fecc0af20f7cdf93b4e75a82e14b336dfb43c77",
       "prerelease": true,
       "size": 111218,
@@ -67,6 +70,7 @@
     "0.9f": {
       "created_at": "2024-03-22T17:20:46Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/0.9f/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "a2029ae2d67bbd42587e3bdd58c826aadb412a224e911534f8afbaccb8f41af9",
       "prerelease": true,
       "size": 125594,
@@ -79,6 +83,7 @@
     "12.2": {
       "created_at": "2025-08-26T23:31:25Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/12.2/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "d0cef80643abbe70abe8b5cc496e74d2c486baeb08c8e89bdc1ef5b4278bd217",
       "prerelease": true,
       "size": 188731,
@@ -91,6 +96,7 @@
     "oos-10.0": {
       "created_at": "2025-05-31T22:42:23Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-10.0/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "755c05745753041ea15b022cf5a421fbb1f914e8e96691d0457305bbdcd03add",
       "prerelease": true,
       "size": 176456,
@@ -103,6 +109,7 @@
     "oos-10.1": {
       "created_at": "2025-06-01T19:58:56Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-10.1/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "9338df353f2c680e9bf179fc61760ac85780ed5c19a758a37e391118f84a62cb",
       "prerelease": true,
       "size": 176726,
@@ -115,6 +122,7 @@
     "oos-10.2": {
       "created_at": "2025-06-13T14:42:31Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-10.2/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "e964f46cb6ad32c5b0e15503292ef1f783091e96a79c0b5f035b23e2f1efe4ee",
       "prerelease": true,
       "size": 178095,
@@ -127,6 +135,7 @@
     "oos-12.0": {
       "created_at": "2025-08-23T15:43:39Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-12.0/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "8c608e5508162918c54e4602aefc627b3fba9710efc8dfef90b1637aa5f85dfb",
       "prerelease": true,
       "size": 188747,
@@ -139,6 +148,7 @@
     "oos-12.1": {
       "created_at": "2025-08-24T17:30:37Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-12.1/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "c3eb774775abdbfa11b0c8c94179e9023794051bc380b482082a35531d83116b",
       "prerelease": true,
       "size": 188732,
@@ -151,6 +161,7 @@
     "oos-12.3": {
       "created_at": "2025-08-28T00:52:13Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-12.3/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "490a4db5e8ccd760e2bf5834583c1df2500770f05625884f46a35661789d0235",
       "prerelease": true,
       "size": 188746,
@@ -163,6 +174,7 @@
     "oos-12.4": {
       "created_at": "2025-09-01T19:56:31Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-12.4/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "2e5cf0adb95ef3d7cfe505b8a05afe9cd8bc92a1a9394368ac4882a6e304d9b0",
       "prerelease": true,
       "size": 189099,
@@ -172,9 +184,62 @@
       "version_simple": "12.4",
       "world_version": "12.4"
     },
+    "oos-13.6.0": {
+      "created_at": "2025-11-14T16:58:31Z",
+      "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-13.6.0/tloz_oos.apworld",
+      "has_manifest": true,
+      "hash_sha256": "6b1612b2c360522110f1f1cbaed0676a25d2490b70d29512d05e9fa74ae61428",
+      "minimum_ap_version": "0.6.3",
+      "size": 209981,
+      "source_url": "https://api.github.com/repos/Dinopony/ArchipelagoOoS",
+      "tag": "oos-13.6.0",
+      "title": "Oracle of Seasons 13.6.0",
+      "version_simple": "13.6.0",
+      "world_version": "13.6.0"
+    },
+    "oos-13.6.1": {
+      "created_at": "2025-11-15T20:23:57Z",
+      "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-13.6.1/tloz_oos.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a50c2a8ed751a1efa48385f613ab7239729a18143b0e3c93f5089a74d3b8f1bf",
+      "minimum_ap_version": "0.6.3",
+      "size": 210007,
+      "source_url": "https://api.github.com/repos/Dinopony/ArchipelagoOoS",
+      "tag": "oos-13.6.1",
+      "title": "Oracle of Seasons 13.6.1",
+      "version_simple": "13.6.1",
+      "world_version": "13.6.1"
+    },
+    "oos-13.7.3": {
+      "created_at": "2025-11-18T16:33:49Z",
+      "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-13.7.3/tloz_oos.apworld",
+      "has_manifest": true,
+      "hash_sha256": "9d1f5cfad8de8e3a9420fc2d522c04953876c0cad77907d25d60b4e60986d6b0",
+      "minimum_ap_version": "0.6.4",
+      "size": 211360,
+      "source_url": "https://api.github.com/repos/Dinopony/ArchipelagoOoS",
+      "tag": "oos-13.7.3",
+      "title": "Oracle of Seasons 13.7.3",
+      "version_simple": "13.7.3",
+      "world_version": "13.7.3"
+    },
+    "oos-13.7.4": {
+      "created_at": "2025-11-19T14:13:23Z",
+      "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-13.7.4/tloz_oos.apworld",
+      "has_manifest": true,
+      "hash_sha256": "883ccee8b5f925117656d79b7f2b1f724348412b0b1be8f3a2551ba0975dff0c",
+      "minimum_ap_version": "0.6.4",
+      "size": 211365,
+      "source_url": "https://api.github.com/repos/Dinopony/ArchipelagoOoS",
+      "tag": "oos-13.7.4",
+      "title": "Oracle of Seasons 13.7.4",
+      "version_simple": "13.7.4",
+      "world_version": "13.7.4"
+    },
     "oos-6.0": {
       "created_at": "2024-04-14T20:03:22Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-6.0/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "208d04b6929442e819026f4b3a3a0a19119a9f7111c044488f03b99b0146d47f",
       "prerelease": true,
       "size": 134082,
@@ -187,6 +252,7 @@
     "oos-6.1": {
       "created_at": "2024-04-16T07:57:51Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-6.1/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "886f082ef54e5b1465d2b823a8725a129cb6aae47894c53227629da64dbdf661",
       "prerelease": true,
       "size": 134114,
@@ -199,6 +265,7 @@
     "oos-6.2": {
       "created_at": "2024-04-19T14:44:47Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-6.2/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "cc15e49ea6274c974fe25d47bac988af6b9fcce6160420f93dc4b07e18ba7b66",
       "prerelease": true,
       "size": 134170,
@@ -211,6 +278,7 @@
     "oos-6.3": {
       "created_at": "2024-04-21T12:04:01Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-6.3/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "84a4e92c31d6ce8714c7d5b1c22781deff206716651d7815e69bdd7697896c5f",
       "prerelease": true,
       "size": 134614,
@@ -223,6 +291,7 @@
     "oos-7.0": {
       "created_at": "2024-07-19T16:25:03Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-7.0/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "063d72c9b10b3ef765908be16ccfe96844b093ee8fbc84ea2a1b8dd7bf89639b",
       "prerelease": true,
       "size": 264374,
@@ -235,6 +304,7 @@
     "oos-7.0d": {
       "created_at": "2024-07-20T09:11:13Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-7.0d/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "059d48adf995625c1723b0da8606d3405dd4d2d94348fb2b750c654b0384c5e5",
       "prerelease": true,
       "size": 264560,
@@ -247,6 +317,7 @@
     "oos-7.1": {
       "created_at": "2024-07-21T10:59:30Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-7.1/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "76edbe6a457a8bc07eef8448ebf3a0b7010d8445a2a5b97e8e5407f06bcdc511",
       "prerelease": true,
       "size": 265199,
@@ -259,6 +330,7 @@
     "oos-7.2": {
       "created_at": "2024-07-26T15:47:52Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-7.2/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "e88ff519f6cff77e6a5492b8f95d3b5f0f91b1c6636777db4543b064835a36fd",
       "prerelease": true,
       "size": 267237,
@@ -271,6 +343,7 @@
     "oos-7.2b": {
       "created_at": "2024-08-12T21:39:33Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-7.2b/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "5751c9c0fbc59b3b836982dde65a4a9a4355fc20fcf797bd8d659fa00963bb17",
       "prerelease": true,
       "size": 267645,
@@ -283,6 +356,7 @@
     "oos-8.0": {
       "created_at": "2025-01-26T22:02:45Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-8.0/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "c9edf057d5938a2f4b6ae2c17d3f92cdb19efe35d6560c8ede7262c29a8b88e1",
       "prerelease": true,
       "size": 601879,
@@ -295,6 +369,7 @@
     "oos-9.0": {
       "created_at": "2025-03-23T12:03:35Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-9.0/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "1c3f01244b4aed8090a7845a4791d183be18f02c195adcc9564e4beddc56870a",
       "prerelease": true,
       "size": 165370,
@@ -307,6 +382,7 @@
     "oos-9.2": {
       "created_at": "2025-03-30T22:20:01Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-9.2/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "aafd6a676a4bf9b70f6992533ba683744ca2d298b715f23a1f5cb73650cae3d9",
       "prerelease": true,
       "size": 168191,
@@ -319,6 +395,7 @@
     "oos-9.3": {
       "created_at": "2025-03-30T22:20:01Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-9.3/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "f2ecfbdccd0cafce3b0b7d512c9cbbe36cc4e653fa54c2c0a24240626bd4ab13",
       "prerelease": true,
       "size": 168205,
@@ -331,6 +408,7 @@
     "oos-9.4": {
       "created_at": "2025-04-25T14:29:13Z",
       "download_url": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-9.4/tloz_oos.apworld",
+      "has_manifest": false,
       "hash_sha256": "209c88b87b1cf31da6f792650a6cd969d8f34e991f9da91ef878af5a9921ff4c",
       "prerelease": true,
       "size": 169448,

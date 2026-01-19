@@ -29,6 +29,7 @@
     "0.1.10": {
       "created_at": "2025-08-04T03:26:28Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.1.10/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "2ac94231da6cea704891213c305ae7287d8484c195ffae799c40e3d646d78128",
       "size": 39278,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -40,6 +41,7 @@
     "0.1.11": {
       "created_at": "2025-08-04T17:04:03Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.1.11/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "2ac94231da6cea704891213c305ae7287d8484c195ffae799c40e3d646d78128",
       "size": 39278,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -95,6 +97,7 @@
     "0.1.6": {
       "created_at": "2025-08-01T22:13:18Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.1.6/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "2ac94231da6cea704891213c305ae7287d8484c195ffae799c40e3d646d78128",
       "size": 39278,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -106,6 +109,7 @@
     "0.1.7": {
       "created_at": "2025-08-01T22:13:18Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.1.7/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "2ac94231da6cea704891213c305ae7287d8484c195ffae799c40e3d646d78128",
       "size": 39278,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -117,6 +121,7 @@
     "0.1.8": {
       "created_at": "2025-08-03T20:26:14Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.1.8/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "2ac94231da6cea704891213c305ae7287d8484c195ffae799c40e3d646d78128",
       "size": 39278,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -128,6 +133,7 @@
     "0.1.9": {
       "created_at": "2025-08-04T03:26:28Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.1.9/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "2ac94231da6cea704891213c305ae7287d8484c195ffae799c40e3d646d78128",
       "size": 39278,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -139,6 +145,7 @@
     "0.2.0": {
       "created_at": "2025-08-08T14:22:44Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.2.0/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "84ad9aa43be02aaa0cdba66feeb42e8c009bdd3c56f016b60b8986b940194bfd",
       "size": 39022,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -150,6 +157,7 @@
     "0.2.1": {
       "created_at": "2025-08-09T01:41:20Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.2.1/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "b0dd65c13c23b4589324571bca4aafae43f6993f2b557ee31c76ee6c964e21eb",
       "size": 39246,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -161,6 +169,7 @@
     "0.2.2": {
       "created_at": "2025-08-09T14:50:36Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.2.2/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "0d6cfce58f98ceb7bc9040e0bf90b385bb7026f740e8799f9def4fdea2a78e3f",
       "size": 39563,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -172,6 +181,7 @@
     "0.2.4": {
       "created_at": "2025-08-11T12:21:27Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.2.4/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "b3a4505865ab666c6ad5f812cbde4065c63fe10a9f0bcc207e65ff765d81d694",
       "size": 41421,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -183,6 +193,7 @@
     "0.2.5": {
       "created_at": "2025-08-15T03:23:25Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.2.5/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "0112e6c89927e1857ee73c1e5b6990326fb5a9a6b8de60b4df998e822100f0a7",
       "size": 44546,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -194,6 +205,7 @@
     "0.2.8": {
       "created_at": "2025-08-15T18:06:44Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.2.8/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "940e5a92769df8390565b99d0432e05aa4f140697d14fa7dcfac67dec8b17312",
       "size": 43710,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -205,6 +217,7 @@
     "0.2.9": {
       "created_at": "2025-08-23T12:47:50Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.2.9/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "003bb26cbd3aa35a873fbec1e8c72f7f7d11607eeedfb35c41103ab1e0a587d3",
       "size": 43947,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -216,6 +229,7 @@
     "0.3.0": {
       "created_at": "2025-08-24T15:09:35Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.3.0/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "2cedf32adae8eeab9b9d75dee3c0eaa3499a84523ef3bd78d5fee9c0fb9dadc1",
       "size": 44976,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -227,6 +241,7 @@
     "0.3.1": {
       "created_at": "2025-08-25T03:46:13Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.3.1/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "ab21f810ffaa7eac25b84f51e3819066d40f171127f18bca833e7626a1368e95",
       "size": 45011,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -238,6 +253,7 @@
     "0.3.2": {
       "created_at": "2025-08-29T01:17:10Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.3.2/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "6c477510d96f3fb5ac909e11b912286c7666a356ea0bdb549c61d91dde9bfc88",
       "size": 45893,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -249,6 +265,7 @@
     "0.4.0": {
       "created_at": "2025-08-30T13:10:10Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.4.0/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "0a652f4cb91fa9fb1b5ca8ee52c05e58e0097bd727ba198c62ee02e277797124",
       "size": 48876,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -260,6 +277,7 @@
     "0.5.0": {
       "created_at": "2025-09-07T13:11:50Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.0/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "6225e452222deddbb2a3fd390794563ab691f29b4ffbecb9e68b18785af216bc",
       "size": 90130,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -271,6 +289,7 @@
     "0.5.1": {
       "created_at": "2025-09-10T13:09:40Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.1/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "6225e452222deddbb2a3fd390794563ab691f29b4ffbecb9e68b18785af216bc",
       "size": 90130,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -282,30 +301,59 @@
     "0.5.10": {
       "created_at": "2025-10-08T12:29:36Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.10/ff1pr.apworld",
+      "has_manifest": true,
       "hash_sha256": "64892c510cb2b63bf578bafaaaff497ca13d9f81628da2788fd8e549b28e262c",
       "minimum_ap_version": "0.6.3",
       "size": 89453,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
       "tag": "0.5.10",
       "title": "0.5.10 Beta",
-      "version_simple": "0.5.10",
+      "version_simple": "0.5.8",
       "world_version": "0.5.8"
     },
     "0.5.11": {
       "created_at": "2025-10-08T22:34:39Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.11/ff1pr.apworld",
+      "has_manifest": true,
       "hash_sha256": "edfcca3d496f0c4edfd54c8b1ea5719baf76a59c9e43a882fb4edf6012f37b8f",
       "minimum_ap_version": "0.6.3",
       "size": 90022,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
       "tag": "0.5.11",
       "title": "0.5.11 Beta",
-      "version_simple": "0.5.11",
+      "version_simple": "0.5.8",
       "world_version": "0.5.8"
+    },
+    "0.5.12": {
+      "created_at": "2025-11-10T16:39:29Z",
+      "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.12/ff1pr.apworld",
+      "has_manifest": true,
+      "hash_sha256": "d404248bc75e828a8328d0b038b478e828a05a26bb8e5edcaec31819304c4b90",
+      "minimum_ap_version": "0.6.3",
+      "size": 28092,
+      "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
+      "tag": "0.5.12",
+      "title": "0.5.12",
+      "version_simple": "0.5.12",
+      "world_version": "0.5.12"
+    },
+    "0.5.13": {
+      "created_at": "2025-12-30T12:32:48Z",
+      "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.13/ff1pr.apworld",
+      "has_manifest": true,
+      "hash_sha256": "d404248bc75e828a8328d0b038b478e828a05a26bb8e5edcaec31819304c4b90",
+      "minimum_ap_version": "0.6.3",
+      "size": 28092,
+      "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
+      "tag": "0.5.13",
+      "title": "0.5.13 Release",
+      "version_simple": "0.5.12",
+      "world_version": "0.5.12"
     },
     "0.5.2": {
       "created_at": "2025-09-11T13:00:45Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.2/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "6225e452222deddbb2a3fd390794563ab691f29b4ffbecb9e68b18785af216bc",
       "size": 90130,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -317,6 +365,7 @@
     "0.5.3": {
       "created_at": "2025-09-12T11:45:10Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.3/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "6225e452222deddbb2a3fd390794563ab691f29b4ffbecb9e68b18785af216bc",
       "size": 90130,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -328,6 +377,7 @@
     "0.5.4": {
       "created_at": "2025-09-13T23:04:23Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.4/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "e589e5aaf1a8ffa88b399206cd2cd909ada7db42f8fe5acefe1b81452f71464d",
       "size": 88872,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -339,6 +389,7 @@
     "0.5.5": {
       "created_at": "2025-09-18T15:30:07Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.5/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "e589e5aaf1a8ffa88b399206cd2cd909ada7db42f8fe5acefe1b81452f71464d",
       "size": 88872,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -350,6 +401,7 @@
     "0.5.6": {
       "created_at": "2025-09-22T20:40:05Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.6/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "e589e5aaf1a8ffa88b399206cd2cd909ada7db42f8fe5acefe1b81452f71464d",
       "size": 88872,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -361,6 +413,7 @@
     "0.5.7": {
       "created_at": "2025-09-24T12:20:57Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.7/ff1pr.apworld",
+      "has_manifest": false,
       "hash_sha256": "e589e5aaf1a8ffa88b399206cd2cd909ada7db42f8fe5acefe1b81452f71464d",
       "size": 88872,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
@@ -372,6 +425,7 @@
     "0.5.8": {
       "created_at": "2025-09-26T14:08:37Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.8/ff1pr.apworld",
+      "has_manifest": true,
       "hash_sha256": "4db0f9c09f4209637064935875fbcd7301bcdd5d3dbc62ecd933fe34e473b163",
       "minimum_ap_version": "0.6.3",
       "size": 89163,
@@ -384,13 +438,14 @@
     "0.5.9": {
       "created_at": "2025-10-04T17:02:17Z",
       "download_url": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.9/ff1pr.apworld",
+      "has_manifest": true,
       "hash_sha256": "4db0f9c09f4209637064935875fbcd7301bcdd5d3dbc62ecd933fe34e473b163",
       "minimum_ap_version": "0.6.3",
       "size": 89163,
       "source_url": "https://api.github.com/repos/wildham0/FF1PRAP",
       "tag": "0.5.9",
       "title": "0.5.9 Beta",
-      "version_simple": "0.5.9",
+      "version_simple": "0.5.8",
       "world_version": "0.5.8"
     }
   }

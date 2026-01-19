@@ -1,5 +1,10 @@
-toml
-packaging
+beautifulsoup4
 gclib @ git+https://github.com/LagoLunatic/gclib.git
+langcodes[data]
+packaging
 pillow
+pystache
+PyYAML
+requests
+toml
 traceback_with_variables

@@ -3,18 +3,19 @@
   "description": "The Sims 4 is the fourth installment in The Sims franchise. Like the previous games in the series,\nThe Sims 4 focuses on creating and controlling a neighborhood of virtual people, called \"Sims\".",
   "game": "The Sims 4",
   "github": [
-    "https://github.com/Simsipelago/Archipelago/",
+    "https://github.com/Simsipelago/Archipelago",
     "https://github.com/benny-dreamly/Archipelago",
-    "https://github.com/meaomeaomeaoo/Archipelago"
+    "https://github.com/itsmisscactus/Archipelago"
   ],
   "license": "MIT",
   "versions": {
     "1.0": {
       "created_at": "2025-01-07T08:50:16Z",
       "download_url": "https://github.com/itsmisscactus/Archipelago/releases/download/1.0/sims4.apworld",
+      "has_manifest": false,
       "hash_sha256": "b9fd413215f795d37851d503a6caf12ae4a9c3be0518b37048e5d72548894315",
       "size": 67807,
-      "source_url": "https://api.github.com/repos/meaomeaomeaoo/Archipelago",
+      "source_url": "https://api.github.com/repos/itsmisscactus/Archipelago",
       "tag": "1.0",
       "title": "",
       "version_simple": "1.0",
@@ -23,9 +24,10 @@
     "1.1": {
       "created_at": "2025-01-08T18:35:58Z",
       "download_url": "https://github.com/itsmisscactus/Archipelago/releases/download/1.1/sims4.apworld",
+      "has_manifest": false,
       "hash_sha256": "4ed1177af5c0cefef5a1d72b0281c435ed540a2ebcc72ef6663d8038000740af",
       "size": 39376,
-      "source_url": "https://api.github.com/repos/meaomeaomeaoo/Archipelago",
+      "source_url": "https://api.github.com/repos/itsmisscactus/Archipelago",
       "tag": "1.1",
       "title": "",
       "version_simple": "1.1",
@@ -34,9 +36,10 @@
     "1.2": {
       "created_at": "2025-01-12T04:37:58Z",
       "download_url": "https://github.com/itsmisscactus/Archipelago/releases/download/1.2/sims4.apworld",
+      "has_manifest": false,
       "hash_sha256": "91457541b64a5faadf662c1fe79463ab743cb7af516e1de880681322260e4390",
       "size": 32891,
-      "source_url": "https://api.github.com/repos/meaomeaomeaoo/Archipelago",
+      "source_url": "https://api.github.com/repos/itsmisscactus/Archipelago",
       "tag": "1.2",
       "title": "1.2",
       "version_simple": "1.2",
@@ -45,9 +48,10 @@
     "1.3": {
       "created_at": "2025-01-13T06:23:17Z",
       "download_url": "https://github.com/itsmisscactus/Archipelago/releases/download/1.3/sims4.apworld",
+      "has_manifest": false,
       "hash_sha256": "f6b0a1e05828e93ca0f1a844f5919b2fb7dcac04d02fc39d784ebd9c16670eda",
       "size": 32560,
-      "source_url": "https://api.github.com/repos/meaomeaomeaoo/Archipelago",
+      "source_url": "https://api.github.com/repos/itsmisscactus/Archipelago",
       "tag": "1.3",
       "title": "",
       "version_simple": "1.3",
@@ -56,9 +60,10 @@
     "1.4": {
       "created_at": "2025-01-15T03:46:57Z",
       "download_url": "https://github.com/itsmisscactus/Archipelago/releases/download/1.4/sims4.apworld",
+      "has_manifest": false,
       "hash_sha256": "94dc336636a7ae931c7b56509431d7a2042973a7b3ade29588d3486fd15f4593",
       "size": 32654,
-      "source_url": "https://api.github.com/repos/meaomeaomeaoo/Archipelago",
+      "source_url": "https://api.github.com/repos/itsmisscactus/Archipelago",
       "tag": "1.4",
       "title": "",
       "version_simple": "1.4",
@@ -67,9 +72,10 @@
     "1.5": {
       "created_at": "2025-01-16T21:22:40Z",
       "download_url": "https://github.com/itsmisscactus/Archipelago/releases/download/1.5/sims4.apworld",
+      "has_manifest": false,
       "hash_sha256": "e482c438a90fe4d55f8bb0501a856a6d03067f01a4a012f861deee2dd9a2e1c8",
       "size": 32647,
-      "source_url": "https://api.github.com/repos/meaomeaomeaoo/Archipelago",
+      "source_url": "https://api.github.com/repos/itsmisscactus/Archipelago",
       "tag": "1.5",
       "title": "",
       "version_simple": "1.5",
@@ -78,6 +84,7 @@
     "1.6.1": {
       "created_at": "2025-09-24T23:15:31Z",
       "download_url": "https://github.com/Simsipelago/Archipelago/releases/download/1.6.1/sims4.apworld",
+      "has_manifest": true,
       "hash_sha256": "bb48d47c5be8ca6a487b1ec50732928abfaa1bf9dad62d86db08e62403859318",
       "size": 245778,
       "source_url": "https://api.github.com/repos/Simsipelago/Archipelago",
@@ -89,6 +96,7 @@
     "1.7.0": {
       "created_at": "2025-09-26T19:10:51Z",
       "download_url": "https://github.com/Simsipelago/Archipelago/releases/download/1.7.0/sims4.apworld",
+      "has_manifest": true,
       "hash_sha256": "42d07040cf77ae0d07c5e88e9dd0237037abce4b4b2d7fbf5b04ce987ca4c01c",
       "size": 247592,
       "source_url": "https://api.github.com/repos/Simsipelago/Archipelago",
@@ -100,6 +108,7 @@
     "1.7.1": {
       "created_at": "2025-10-07T02:04:43Z",
       "download_url": "https://github.com/Simsipelago/Archipelago/releases/download/1.7.1/sims4.apworld",
+      "has_manifest": true,
       "hash_sha256": "4f8123ae1c6b25d431df2edef22165f2558ab5d4971feae25ad02247b519e02c",
       "size": 331005,
       "source_url": "https://api.github.com/repos/Simsipelago/Archipelago",
@@ -108,15 +117,40 @@
       "version_simple": "1.7.1",
       "world_version": "1.7.1"
     },
+    "1.7.1r2": {
+      "created_at": "2025-10-07T02:04:43Z",
+      "download_url": "https://github.com/Simsipelago/Archipelago/releases/download/1.7.1/sims4.apworld",
+      "has_manifest": true,
+      "hash_sha256": "b26386b0ab9d0783c4b3c295e0172bb2676e15b9c22242a98c75d7f3fd43f4ca",
+      "size": 247748,
+      "source_url": "https://api.github.com/repos/Simsipelago/Archipelago",
+      "tag": "1.7.1r2",
+      "title": "1.7.1",
+      "version_simple": "1.7.1",
+      "world_version": "1.7.1"
+    },
     "1.7.2": {
       "created_at": "2025-10-07T17:25:45Z",
       "download_url": "https://github.com/Simsipelago/Archipelago/releases/download/1.7.2/sims4.apworld",
+      "has_manifest": true,
       "hash_sha256": "620b92722cdf3481a6da58e9c2fc0f43d25261d65c91faff3bf6b4e890daf7fb",
       "size": 331012,
       "source_url": "https://api.github.com/repos/Simsipelago/Archipelago",
       "tag": "1.7.2",
       "title": "1.7.2",
-      "version_simple": "1.7.2",
+      "version_simple": "1.7.1",
+      "world_version": "1.7.1"
+    },
+    "1.7.2r2": {
+      "created_at": "2025-10-07T17:25:45Z",
+      "download_url": "https://github.com/Simsipelago/Archipelago/releases/download/1.7.2/sims4.apworld",
+      "has_manifest": true,
+      "hash_sha256": "81729f6906702fc1d3039b5f117366ccb09bfc53963620cc7472b1ca0f9657b4",
+      "size": 248495,
+      "source_url": "https://api.github.com/repos/Simsipelago/Archipelago",
+      "tag": "1.7.2r2",
+      "title": "1.7.2",
+      "version_simple": "1.7.1",
       "world_version": "1.7.1"
     },
     "1.7.3": {
@@ -133,12 +167,25 @@
     "1.7.3r2": {
       "created_at": "2025-10-07T17:42:04Z",
       "download_url": "https://github.com/Simsipelago/Archipelago/releases/download/1.7.3/sims4.apworld",
+      "has_manifest": true,
       "hash_sha256": "2367590cb327d1e3eae8605a8073dd199ff2f603b1da09871d9814b4d5aa8c15",
       "size": 254572,
       "source_url": "https://api.github.com/repos/Simsipelago/Archipelago",
       "tag": "1.7.3r2",
       "title": "1.7.3",
-      "version_simple": "1.7.3",
+      "version_simple": "1.7.1",
+      "world_version": "1.7.1"
+    },
+    "1.7.3r3": {
+      "created_at": "2025-10-07T17:42:04Z",
+      "download_url": "https://github.com/Simsipelago/Archipelago/releases/download/1.7.3/sims4.apworld",
+      "has_manifest": true,
+      "hash_sha256": "8c8c20e62d8521c3f8e300ec47c624d6ee6ff39c4ff97cfcb5f2a2e54ca99021",
+      "size": 247751,
+      "source_url": "https://api.github.com/repos/Simsipelago/Archipelago",
+      "tag": "1.7.3r3",
+      "title": "1.7.3",
+      "version_simple": "1.7.1",
       "world_version": "1.7.1"
     },
     "1.7.4": {
@@ -152,9 +199,34 @@
       "version_simple": "1.7.4",
       "world_version": "1.7.4"
     },
+    "1.7.4r2": {
+      "created_at": "2025-10-08T03:39:51Z",
+      "download_url": "https://github.com/Simsipelago/Archipelago/releases/download/1.7.4/sims4.apworld",
+      "has_manifest": true,
+      "hash_sha256": "e0038af4aeda7efcbfca79f1d044c601e648fbc81b2c6e0625ebe1752f101f9c",
+      "size": 247754,
+      "source_url": "https://api.github.com/repos/Simsipelago/Archipelago",
+      "tag": "1.7.4r2",
+      "title": "1.7.4",
+      "version_simple": "1.7.4",
+      "world_version": "1.7.4"
+    },
+    "1.7.5": {
+      "created_at": "2025-12-05T22:15:48Z",
+      "download_url": "https://github.com/Simsipelago/Archipelago/releases/download/1.7.5/sims4.apworld",
+      "has_manifest": true,
+      "hash_sha256": "b72d5c604a83b830765706fcdc865b8963f6e3500e7c9959828289cac9af5b4d",
+      "size": 247978,
+      "source_url": "https://api.github.com/repos/Simsipelago/Archipelago",
+      "tag": "1.7.5",
+      "title": "1.7.5",
+      "version_simple": "1.7.5",
+      "world_version": "1.7.5"
+    },
     "2.0.0-beta.1": {
       "created_at": "2025-09-12T22:28:24Z",
       "download_url": "https://github.com/Simsipelago/Archipelago/releases/download/2.0.0-beta.1/sims4.apworld",
+      "has_manifest": false,
       "hash_sha256": "60e5423f15e5ddd0743e045eb1b9878f11b9fecc9580be128fd32295adb23389",
       "prerelease": true,
       "size": 249190,
@@ -162,11 +234,25 @@
       "tag": "2.0.0-beta.1",
       "title": "2.0.0 Beta 1",
       "version_simple": "2.0.0",
-      "world_version": "2.0.0"
+      "world_version": "2.0.0b1"
+    },
+    "2.0.0-beta.2": {
+      "created_at": "2025-12-30T05:39:54Z",
+      "download_url": "https://github.com/Simsipelago/Archipelago/releases/download/2.0.0-beta.2/sims4.apworld",
+      "has_manifest": true,
+      "hash_sha256": "ccc63aa6385b224b0f92a42b4431ea8f25990fb683bbe7834212b1d44c538b5f",
+      "prerelease": true,
+      "size": 248581,
+      "source_url": "https://api.github.com/repos/Simsipelago/Archipelago",
+      "tag": "2.0.0-beta.2",
+      "title": "2.0.0 Beta 2",
+      "version_simple": "2.0.0",
+      "world_version": "2.0.0b2"
     },
     "sims-1.5.1": {
       "created_at": "2025-02-19T23:17:19Z",
       "download_url": "https://github.com/benny-dreamly/Archipelago/releases/download/sims-1.5.1/sims4.apworld",
+      "has_manifest": false,
       "hash_sha256": "7d01350c1e5acacabc577b4ef96f026090ab0af1b6dcdf36c0f73bab20383e37",
       "size": 35754,
       "source_url": "https://api.github.com/repos/benny-dreamly/Archipelago",
@@ -178,6 +264,7 @@
     "sims-1.5.2": {
       "created_at": "2025-04-15T23:59:32Z",
       "download_url": "https://github.com/benny-dreamly/Archipelago/releases/download/sims-1.5.2/sims4.apworld",
+      "has_manifest": false,
       "hash_sha256": "883a11b2c13a5a04131e97bba0939ecf78848078b8ed645365b7410b64ba278f",
       "size": 35919,
       "source_url": "https://api.github.com/repos/benny-dreamly/Archipelago",
@@ -189,6 +276,7 @@
     "sims-1.6.0": {
       "created_at": "2025-05-22T20:27:09Z",
       "download_url": "https://github.com/benny-dreamly/Archipelago/releases/download/sims-1.6.0/sims4.apworld",
+      "has_manifest": false,
       "hash_sha256": "3be0ee5a922264249f3d0d40a702c57ca0e6266ec244422ff7a00aa05ac5f2f0",
       "size": 247636,
       "source_url": "https://api.github.com/repos/benny-dreamly/Archipelago",
@@ -200,6 +288,7 @@
     "sims-1.6.0-beta-1": {
       "created_at": "2025-05-07T22:34:19Z",
       "download_url": "https://github.com/benny-dreamly/Archipelago/releases/download/sims-1.6.0-beta-1/sims4.apworld",
+      "has_manifest": false,
       "hash_sha256": "9cc88a4c092a2ba1652ccc4e89b7b85b2407a225ca0644930ce537f995c02ce4",
       "prerelease": true,
       "size": 246845,
@@ -212,6 +301,7 @@
     "sims4-1.5-hotfix-unofficial": {
       "created_at": "2025-01-25T03:34:21Z",
       "download_url": "https://github.com/benny-dreamly/Archipelago/releases/download/sims4-1.5-hotfix-unofficial/sims4.apworld",
+      "has_manifest": false,
       "hash_sha256": "030b03f6bc21288adb4bc6d47cff328b600487e4a51ef419cb1890ebb90f1b66",
       "size": 33956,
       "source_url": "https://api.github.com/repos/benny-dreamly/Archipelago",
@@ -224,6 +314,7 @@
       "created_at": "2025-01-25T02:41:47Z",
       "download_url": "https://github.com/benny-dreamly/Archipelago/releases/download/sims4-1.5.1-unofficial/sims4.apworld",
       "failed_to_load": "invalid syntax (SkillNames.py, line 45)",
+      "has_manifest": false,
       "hash_sha256": "a3bfda674cf4b3fc9628d97fe78dae89196b615b27e16d21baa50438c0983073",
       "size": 103481,
       "source_url": "https://api.github.com/repos/benny-dreamly/Archipelago",
@@ -235,6 +326,7 @@
     "sims4-fix-missing-key-issue": {
       "created_at": "2025-02-13T16:34:19Z",
       "download_url": "https://github.com/benny-dreamly/Archipelago/releases/download/sims4-fix-missing-key-issue/sims4.apworld",
+      "has_manifest": false,
       "hash_sha256": "0387074932c4c3207faebbb5af237f5fd8b434a9443bafe3f66ecf911db53d7d",
       "ignore": true,
       "prerelease": true,

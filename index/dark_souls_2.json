@@ -7,6 +7,7 @@
     "v0.1.0": {
       "created_at": "2025-02-28T17:24:12Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.1.0/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "e51b0513382de30c65193cc789f6c52f5a662ecbd017ed851141e23733dc49eb",
       "size": 45065,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -18,6 +19,7 @@
     "v0.2.0": {
       "created_at": "2025-03-05T11:48:13Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.2.0/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "79f61c3d4cabdaf5a5ccd259bcc5b2dfb3b1cac9c597680ab05c1c0e6f6c4b43",
       "size": 111989,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -29,6 +31,7 @@
     "v0.2.1": {
       "created_at": "2025-03-05T21:59:35Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.2.1/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "3bf9d374db41840b2407ba167211427800694f12d91eb25d316d6c057163b2ec",
       "size": 112479,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -40,6 +43,7 @@
     "v0.2.2": {
       "created_at": "2025-03-06T18:39:47Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.2.2/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "f500b00d34958448a8a796d8675325d93461c9fc47fdc3f9a0ef9d9ad25d21a8",
       "size": 57105,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -51,6 +55,7 @@
     "v0.2.3": {
       "created_at": "2025-03-10T15:07:21Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.2.3/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "8f96eb46b3467601146cf462a789777894576c9ff4ed3f22ed287067190eb8ad",
       "size": 58155,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -62,6 +67,7 @@
     "v0.3.0": {
       "created_at": "2025-03-14T18:33:17Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.3.0/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "b2c5ad5061ff39ad5b97f07e8c9ce6de4dc917f44d110af2ae02297397ef74b4",
       "size": 59276,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -73,6 +79,7 @@
     "v0.3.1": {
       "created_at": "2025-03-20T18:39:44Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.3.1/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "2981b988c59c2657cd6802573daf806e597b07537bf31be5b200cf62e41bf668",
       "size": 59573,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -84,6 +91,7 @@
     "v0.4.0": {
       "created_at": "2025-03-21T15:40:51Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.4.0/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "8537f8d3a3f130af69485c061eca6ce6e4aec122a9f7d78544079573f2b60e1d",
       "size": 59996,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -95,6 +103,7 @@
     "v0.4.1": {
       "created_at": "2025-03-29T15:45:02Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.4.1/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "2b86ee95c0bf32ce8b8cff29e14a64af8d5ea31ff06098d98fb28b9dc1652ac3",
       "size": 58828,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -106,6 +115,7 @@
     "v0.4.2": {
       "created_at": "2025-04-04T11:13:39Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.4.2/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "081f6b8eba7265928775208eb754039d741670100a05aec67e1c1f4ecfbf9589",
       "size": 58967,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -117,6 +127,7 @@
     "v0.4.3": {
       "created_at": "2025-04-09T10:15:06Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.4.3/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "b402f97263929b25d1389e7b96c742525bd3354422088e9b8bdfd7afa576801b",
       "size": 59149,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -128,6 +139,7 @@
     "v0.5.0": {
       "created_at": "2025-04-21T09:08:48Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.5.0/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "e37b3facbe0d73367cfe65ed4f1b9a5ab2e7d1fd0d89fd35a08b44ced7988f48",
       "size": 59431,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -139,6 +151,7 @@
     "v0.5.0-alpha.1": {
       "created_at": "2025-04-10T22:46:07Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.5.0-alpha.1/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "8e475a81a3c0244ee74e01e966d893b6b65cc5573332d01bea84834466a9643c",
       "prerelease": true,
       "size": 59043,
@@ -151,6 +164,7 @@
     "v0.5.0-alpha.2": {
       "created_at": "2025-04-17T09:28:36Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.5.0-alpha.2/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "07debc93a1b9cd772ecd818bef8baf4b6c9428e7c80d1fcb94374a9753ce5d03",
       "prerelease": true,
       "size": 59244,
@@ -163,6 +177,7 @@
     "v0.5.1": {
       "created_at": "2025-04-24T17:24:06Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.5.1/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "6a3942ec4585be8915e4f6c65d3c0487b743842fb054bfb9f41aee171c0efc7e",
       "size": 59787,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -174,6 +189,7 @@
     "v0.5.2": {
       "created_at": "2025-05-01T19:46:12Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.5.2/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "0141a89da58bf0fdd0d8af18b36ad01401b04d79b68c0fd25271f235fc3c9025",
       "size": 59971,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -185,6 +201,7 @@
     "v0.5.3": {
       "created_at": "2025-05-16T06:52:24Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.5.3/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "e9b972e6022332f9c1b1a8a4c0483eb499ba54f0396c606dad412b54800b0729",
       "size": 60566,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -207,6 +224,7 @@
     "v0.5.4r2": {
       "created_at": "2025-05-24T03:45:58Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.5.4/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "dea428ae938dcc938c1c5c6732aef56b0171dc0426888f429f5787c1060267b9",
       "size": 61260,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -218,6 +236,7 @@
     "v0.5.5": {
       "created_at": "2025-07-14T11:46:56Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.5.5/dark_souls_2.apworld",
+      "has_manifest": false,
       "hash_sha256": "17aa8796be253157ad931543421ffca2b9ec4469bcde571945b59b9e90374dee",
       "size": 61575,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",
@@ -230,6 +249,7 @@
       "created_at": "2025-09-26T08:12:58Z",
       "download_url": "https://github.com/WildBunnie/DarkSoulsII-Archipelago/releases/download/v0.5.5-hotfix/dark_souls_2.apworld",
       "failed_to_load": "/home/runner/.cache/Archipelago/apworlds/dark_souls_2-v0.5.5-hotfix.apworld is not a loadable module",
+      "has_manifest": false,
       "hash_sha256": "ddbe310c9d275fb8d57878a02ab276f87bbcac25e522d84abc6931101a14df42",
       "size": 62851,
       "source_url": "https://api.github.com/repos/WildBunnie/DarkSoulsII-Archipelago",

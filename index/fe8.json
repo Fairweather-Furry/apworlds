@@ -1,12 +1,13 @@
 {
   "description": "Fire Emblem: The Sacred Stones is a tactical role-playing game developed by\nIntelligent Systems, and published by Nintendo for the Game Boy Advance\nhandheld video game console in 2004 for Japan and 2005 in the West. It is\nthe eighth entry in the Fire Emblem series, the second to be released\noutside Japan, and the third and final title to be developed for the Game\nBoy Advance after The Binding Blade and its prequel Fire Emblem.\n\nBuild an army. Trust no one.",
   "game": "Fire Emblem Sacred Stones",
-  "github": "https://github.com/CT075/Archipelago/",
+  "github": "https://github.com/CT075/Archipelago",
   "license": null,
   "versions": {
     "fe8-0.4.0": {
       "created_at": "2025-06-21T11:45:42Z",
       "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-0.4.0/fe8.apworld",
+      "has_manifest": false,
       "hash_sha256": "868ec07f4dfa231d385458a07892587188b600b52a812c3b662801c8a6a9488d",
       "size": 167155,
       "source_url": "https://api.github.com/repos/CT075/Archipelago",
@@ -29,6 +30,7 @@
     "fe8-0.4.0-rc3r2": {
       "created_at": "2025-06-04T06:04:17Z",
       "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-0.4.0-rc3/fe8.apworld",
+      "has_manifest": false,
       "hash_sha256": "aad863d1bc214dd630e678cde36d3ab9503eb1fa783ef117c259d3b5f89a3749",
       "prerelease": true,
       "size": 167037,
@@ -41,6 +43,7 @@
     "fe8-0.4.0-rc4": {
       "created_at": "2025-06-06T04:54:59Z",
       "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-0.4.0-rc4/fe8.apworld",
+      "has_manifest": false,
       "hash_sha256": "34c3da858ced733a45107b01a26b2f0ce08d10f219e5b55894c5ef8c5a955e95",
       "prerelease": true,
       "size": 167048,
@@ -53,6 +56,7 @@
     "fe8-0.4.1": {
       "created_at": "2025-07-10T05:27:15Z",
       "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-0.4.1/fe8.apworld",
+      "has_manifest": false,
       "hash_sha256": "95edb098d6752d3b45c98e977b55a3fed6fdd1da30ba152938397c7ab45de5b6",
       "size": 223300,
       "source_url": "https://api.github.com/repos/CT075/Archipelago",
@@ -61,9 +65,23 @@
       "version_simple": "0.4.1",
       "world_version": "0.4.1"
     },
+    "fe8-0.4.2": {
+      "created_at": "2025-12-04T04:59:15Z",
+      "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-0.4.2/fe8.apworld",
+      "has_manifest": true,
+      "hash_sha256": "0bd2bd1ca7589789622d997c5ce48a1a19450156808f194aa00dd94bf919b09b",
+      "prerelease": true,
+      "size": 62090,
+      "source_url": "https://api.github.com/repos/CT075/Archipelago",
+      "tag": "fe8-0.4.2",
+      "title": "FE8 Alpha 0.4.2 (RC1)",
+      "version_simple": "0.4.2",
+      "world_version": "0.4.2"
+    },
     "fe8-alpha-0.0.1": {
       "created_at": "2023-09-15T20:57:04Z",
       "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-alpha-0.0.1/fe8.apworld",
+      "has_manifest": false,
       "hash_sha256": "daac2c4a6d02bbac68e2bd033516b1fc687ff0a912ea928e0215caeb905d7e77",
       "prerelease": true,
       "size": 71837,
@@ -76,6 +94,7 @@
     "fe8-alpha-0.0.2": {
       "created_at": "2023-09-30T05:47:54Z",
       "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-alpha-0.0.2/fe8.apworld",
+      "has_manifest": false,
       "hash_sha256": "e262c70b3a5f858a863709a7abffaa9022f5db594bad1513ffa59c31570dcee3",
       "prerelease": true,
       "size": 40297,
@@ -88,6 +107,7 @@
     "fe8-alpha-0.1.0": {
       "created_at": "2023-10-19T15:49:26Z",
       "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-alpha-0.1.0/fe8.apworld",
+      "has_manifest": false,
       "hash_sha256": "b112150785c7ff83df0e4508f3d41b3a7b6d196390ef55c3e52b7ac1ae35b4af",
       "prerelease": true,
       "size": 49494,
@@ -100,6 +120,7 @@
     "fe8-alpha-0.2.0": {
       "created_at": "2023-11-11T07:25:32Z",
       "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-alpha-0.2.0/fe8.apworld",
+      "has_manifest": false,
       "hash_sha256": "331d002aaa7d526df539edd36ede78c093e23afbb912b98c2d507576544cbd94",
       "prerelease": true,
       "size": 49306,
@@ -112,6 +133,7 @@
     "fe8-alpha-0.3.0": {
       "created_at": "2024-02-12T01:22:35Z",
       "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-alpha-0.3.0/fe8.apworld",
+      "has_manifest": false,
       "hash_sha256": "8d2b923d2a1b0f1b147f2375ffd30323df87b768d7a216ae578124cb3e1de4a7",
       "size": 53992,
       "source_url": "https://api.github.com/repos/CT075/Archipelago",
@@ -123,6 +145,7 @@
     "fe8-alpha-0.3.0-rc1": {
       "created_at": "2024-01-22T15:56:56Z",
       "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-alpha-0.3.0-rc1/fe8.apworld",
+      "has_manifest": false,
       "hash_sha256": "f12190f178a45b8eb019270dda8d5d14028826c707babd8dd5347c980c19a80e",
       "prerelease": true,
       "size": 53791,
@@ -135,6 +158,7 @@
     "fe8-alpha-0.3.1": {
       "created_at": "2024-04-03T16:13:09Z",
       "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-alpha-0.3.1/fe8.apworld",
+      "has_manifest": false,
       "hash_sha256": "43dce53c57747d478e0ab2230ae2205861b5bb26658b0e589ce18f3ec59df9e3",
       "size": 148261,
       "source_url": "https://api.github.com/repos/CT075/Archipelago",
@@ -146,6 +170,7 @@
     "fe8-alpha-0.3.2": {
       "created_at": "2024-05-12T21:05:18Z",
       "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-alpha-0.3.2/fe8.apworld",
+      "has_manifest": false,
       "hash_sha256": "e1c9b35c2949267367870c64a8cb1a33f614d8f78311028b91944c4a0ba4f2e9",
       "size": 148490,
       "source_url": "https://api.github.com/repos/CT075/Archipelago",
@@ -157,6 +182,7 @@
     "fe8-alpha-0.3.3-rc1": {
       "created_at": "2024-05-29T21:07:25Z",
       "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-alpha-0.3.3-rc1/fe8.apworld",
+      "has_manifest": false,
       "hash_sha256": "e1c9b35c2949267367870c64a8cb1a33f614d8f78311028b91944c4a0ba4f2e9",
       "size": 148490,
       "source_url": "https://api.github.com/repos/CT075/Archipelago",
@@ -179,6 +205,7 @@
     "fe8-alpha-0.4.0-rc2": {
       "created_at": "2025-06-01T01:46:23Z",
       "download_url": "https://github.com/CT075/Archipelago/releases/download/fe8-alpha-0.4.0-rc2/fe8.apworld",
+      "has_manifest": false,
       "hash_sha256": "289b1c9c1dd96b2f128497d115074b2e599eb9dbdd9247f36ddee62a8ce8f96a",
       "prerelease": true,
       "size": 166171,

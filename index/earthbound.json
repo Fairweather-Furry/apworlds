@@ -205,6 +205,7 @@
     "earthboundap3.0.2B": {
       "created_at": "2025-01-26T12:06:27Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.0.2B/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "6a535cf4a4856ae3c1202285ef77a68cb65abe9c727e0e9ef660fcc9e1ac7507",
       "size": 933373,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -216,6 +217,7 @@
     "earthboundap3.1": {
       "created_at": "2025-02-01T01:26:59Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.1/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "c72cb44e3775a51017445a78a80da5959654b0171437eef917fbfe471221b80f",
       "size": 994380,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -227,6 +229,7 @@
     "earthboundap3.2": {
       "created_at": "2025-02-01T01:26:59Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.2/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "4ef78787d5c54b3197d3571ad5c13a0bb3b7f26c8e2b256aff974e3ff2e739b9",
       "size": 1008440,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -238,6 +241,7 @@
     "earthboundap3.3": {
       "created_at": "2025-03-17T01:30:09Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.3/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "e953d76b6bdd417294f37e374077f5772a43ee60d9b978a9f22ba8f05b138279",
       "size": 1047881,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -249,6 +253,7 @@
     "earthboundap3.3.1": {
       "created_at": "2025-03-17T01:30:09Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.3.1/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "160c34fc78a64f446728ddd03099cb3ff927363adf2cfcdc35691c4230295105",
       "size": 1049409,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -260,6 +265,7 @@
     "earthboundap3.4": {
       "created_at": "2025-04-05T14:16:14Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.4/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "85a93006a71337c6ac5c72b1b8d0d0fea76847659c388c9f5570e0084ff21267",
       "size": 1103650,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -271,6 +277,7 @@
     "earthboundap3.5": {
       "created_at": "2025-04-05T14:16:14Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.5/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "2b3182c7f5ef28399919dd32175f65d63ea802d01a947ceb9924ab4e6970142f",
       "size": 1106677,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -282,6 +289,7 @@
     "earthboundap4.0": {
       "created_at": "2025-04-05T14:16:14Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.0/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "5ce3031ec179b978d56d64c8c2a3512ce4ed37e526c98628e237c3ace439b1b2",
       "size": 1111115,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -293,6 +301,7 @@
     "earthboundap4.0.1": {
       "created_at": "2025-04-05T14:16:14Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.0.1/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "dc8360b14aea5c11f082681c675bc08ac405ed68ba3c8656e83572357acf70cd",
       "size": 1111184,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -304,6 +313,7 @@
     "earthboundap4.1": {
       "created_at": "2025-05-15T14:30:54Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.1/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "ab78c19a97b705f947a1546efbfd9cfc799b5b7447bd85be605d9b87f70148f2",
       "size": 1140986,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -315,6 +325,7 @@
     "earthboundap4.1.1": {
       "created_at": "2025-05-15T14:30:54Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.1.1/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "db2572acc7335cdb94ccf39070961c89953a16ee9e3ba532c9783c97d8199ce8",
       "size": 999212,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -326,6 +337,7 @@
     "earthboundap4.1.2": {
       "created_at": "2025-05-15T14:30:54Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.1.2/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "e1a4c6837c2a8a543bdbf05242e5d31844ccbb3f4fb1bd9b4ef5ba2340df4bf8",
       "size": 1005102,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -337,6 +349,7 @@
     "earthboundap4.1.3": {
       "created_at": "2025-05-15T14:30:54Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.1.3/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "a1ffb3a7b62a0ae8b5a1cf0e4af4d630bf61831506debc6b8da735a5e387f5ba",
       "size": 1018480,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -359,6 +372,7 @@
     "earthboundap4.2.1": {
       "created_at": "2025-07-01T03:44:36Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.1/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "8a5acf5f117a4b0c9c5d29ed8853e32b9245fe2a3856e0b58684ef41604e53fa",
       "size": 1048772,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -381,6 +395,7 @@
     "earthboundap4.2.2r2": {
       "created_at": "2025-07-01T03:44:36Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.2/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "578d122e1ddeb0ceb7165d79109d26e7d3ba95ef545427d32ad6abde329a1bb7",
       "size": 1051818,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -392,6 +407,7 @@
     "earthboundap4.2.3": {
       "created_at": "2025-07-01T03:44:36Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.3/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "34cf3440c589b43d4eeb3dad267f61e26ce9bdbe6b18d72136533d760b1846ce",
       "size": 1053671,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -403,6 +419,7 @@
     "earthboundap4.2.4": {
       "created_at": "2025-07-01T03:44:36Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.4/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "164007a1305c0145d6e8534ea2732feb2afd369a3d193188d178f3053bb336cf",
       "size": 1054255,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -414,6 +431,7 @@
     "earthboundap4.2.5": {
       "created_at": "2025-07-01T03:44:36Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.5/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "ed2ea9ee57071148db1fe3a7ec7219b3a0ac47627b6e0606fbb7558ab32b9c77",
       "size": 1055735,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -425,6 +443,7 @@
     "earthboundap4.2.6": {
       "created_at": "2025-08-19T14:26:12Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.6/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "8893096b18cf7c4ce2a8c45ebd8f796018f30ae1c0640b6b3b0b64e50a94e3b0",
       "size": 1056253,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -447,6 +466,7 @@
     "earthboundap4.2.7r2": {
       "created_at": "2025-08-19T14:26:12Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.7/earthbound.apworld",
+      "has_manifest": true,
       "hash_sha256": "0c835c69dade6717321d89b5f991771354e05d8184469648589cfaee2032ba32",
       "size": 384704,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -458,6 +478,7 @@
     "earthboundap4.2r2": {
       "created_at": "2025-07-01T03:44:36Z",
       "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2/earthbound.apworld",
+      "has_manifest": false,
       "hash_sha256": "8f113966b647db0d62aec2911c2c2316cf87c22cde949afe371070c8b519002b",
       "size": 1048392,
       "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
@@ -465,6 +486,32 @@
       "title": "Archipelago EarthBound v4.2(a)",
       "version_simple": "4.2",
       "world_version": "4.2.post2"
+    },
+    "earthboundap4.3": {
+      "created_at": "2025-08-19T14:26:12Z",
+      "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.3/earthbound.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a03dbc7623899ad0a323bf67bec579dad3bb7413a23fca9cb09be97d71e80cd0",
+      "minimum_ap_version": "0.6.3",
+      "size": 372585,
+      "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
+      "tag": "earthboundap4.3",
+      "title": "Archipelago EarthBound v4.3",
+      "version_simple": "4.3.0",
+      "world_version": "4.3.0"
+    },
+    "earthboundap4.3.1": {
+      "created_at": "2025-12-14T01:54:14Z",
+      "download_url": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.3.1/earthbound.apworld",
+      "has_manifest": true,
+      "hash_sha256": "b035f16af38e5b0580d0e97f7de99b5829b4e4391ba98bd3d7babec409862b87",
+      "minimum_ap_version": "0.6.3",
+      "size": 372706,
+      "source_url": "https://api.github.com/repos/PinkSwitch/Archipelago",
+      "tag": "earthboundap4.3.1",
+      "title": "Archipelago EarthBound v4.3.1",
+      "version_simple": "4.3.1",
+      "world_version": "4.3.1"
     }
   }
 }

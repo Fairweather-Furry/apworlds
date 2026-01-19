@@ -1,12 +1,16 @@
 {
   "description": "System Shock 2 item, enemy, skill, stat, and psi randomizer.",
   "game": "System Shock 2",
-  "github": "https://github.com/Partatio/SS2-Apworld",
+  "github": [
+    "https://github.com/Partatio/SS2-Apworld",
+    "https://codeberg.org/Partatio/SS2-Apworld"
+  ],
   "license": null,
   "versions": {
     "0.1.1": {
       "created_at": "2025-03-24T14:08:29Z",
       "download_url": "https://github.com/Partatio/SS2-Apworld/releases/download/0.1.1/ss2.apworld",
+      "has_manifest": false,
       "hash_sha256": "1b663cf7c0c1c15d3984a378066985951186f8194bf9f1d0fcad59b89b942cb0",
       "size": 33766,
       "source_url": "https://api.github.com/repos/Partatio/SS2-Apworld",
@@ -15,9 +19,34 @@
       "version_simple": "0.1.1",
       "world_version": "0.1.1a0"
     },
+    "0.4.0": {
+      "created_at": "2025-08-25T15:43:20+02:00",
+      "download_url": "https://codeberg.org/Partatio/SS2-Apworld/releases/download/0.4.0/ss2.apworld",
+      "has_manifest": false,
+      "hash_sha256": "ebe353fbc77d7da2aa4499b8cdf1c8855a00559e6dd4126a71268da0b06c1c9e",
+      "size": 39110,
+      "source_url": "https://codeberg.org/api/v1/repos/Partatio/SS2-Apworld",
+      "tag": "0.4.0",
+      "title": "0.4.0",
+      "version_simple": "0.4.0",
+      "world_version": "0.4.0"
+    },
+    "0.4.1": {
+      "created_at": "2025-08-30T02:27:19+02:00",
+      "download_url": "https://codeberg.org/Partatio/SS2-Apworld/releases/download/0.4.1/ss2.apworld",
+      "has_manifest": false,
+      "hash_sha256": "43d848e1ed10b81a86509d04869b02230ef6857f8741bf17aead703f2dda352b",
+      "size": 39067,
+      "source_url": "https://codeberg.org/api/v1/repos/Partatio/SS2-Apworld",
+      "tag": "0.4.1",
+      "title": "0.4.1",
+      "version_simple": "0.4.1",
+      "world_version": "0.4.1"
+    },
     "alpha": {
       "created_at": "2025-03-23T19:24:02Z",
       "download_url": "https://github.com/Partatio/SS2-Apworld/releases/download/alpha/ss2.apworld",
+      "has_manifest": false,
       "hash_sha256": "ef3ad7c9e55f5c8fa5d0af9dccd2db8fac820925135bfed40b3022dd170a526d",
       "size": 33744,
       "source_url": "https://api.github.com/repos/Partatio/SS2-Apworld",
@@ -29,6 +58,7 @@
     "v0.2.0": {
       "created_at": "2025-03-26T17:26:38Z",
       "download_url": "https://github.com/Partatio/SS2-Apworld/releases/download/v0.2.0/ss2.apworld",
+      "has_manifest": false,
       "hash_sha256": "3f5faf9555e3c6634a221e3486f6d4d4ee963fbd5a8d80e83ab297c3ac974cef",
       "size": 33819,
       "source_url": "https://api.github.com/repos/Partatio/SS2-Apworld",
@@ -40,6 +70,7 @@
     "v0.3.0": {
       "created_at": "2025-04-03T20:40:21Z",
       "download_url": "https://github.com/Partatio/SS2-Apworld/releases/download/v0.3.0/ss2.apworld",
+      "has_manifest": false,
       "hash_sha256": "742b014eab0597647cc5ec4a5ccec6ebbeef615df88588a47c2cd0d01c8de27d",
       "size": 34332,
       "source_url": "https://api.github.com/repos/Partatio/SS2-Apworld",
@@ -51,6 +82,7 @@
     "v0.3.1": {
       "created_at": "2025-05-12T09:58:39Z",
       "download_url": "https://github.com/Partatio/SS2-Apworld/releases/download/v0.3.1/ss2.apworld",
+      "has_manifest": false,
       "hash_sha256": "b68ca076ce81c0ba4a7186a97216b516cdfc13fc93cbe6f4e54b3c73a9c478e9",
       "size": 36147,
       "source_url": "https://api.github.com/repos/Partatio/SS2-Apworld",

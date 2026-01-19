@@ -1,12 +1,13 @@
 {
   "description": "A Game about receiving death links",
   "game": "DeathLinkipelago",
-  "github": "https://github.com/SWCreeperKing/DeathLinkipelago/",
+  "github": "https://github.com/SWCreeperKing/DeathLinkipelago",
   "license": null,
   "versions": {
     "v.0.1": {
       "created_at": "2025-04-06T00:55:18Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.1/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "27ff1d36f4f0aad6dc33e7c359d4ccb380586f27fa16a726657df5c8e9d17ce8",
       "size": 6549,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -18,6 +19,7 @@
     "v.0.10": {
       "created_at": "2025-04-09T08:59:59Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.10/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "f7310318f4185c425268fa70980cb257e58f660ff37398778e4727b16f9df5e7",
       "size": 10329,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -29,6 +31,7 @@
     "v.0.11": {
       "created_at": "2025-04-09T08:59:59Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.11/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "f7310318f4185c425268fa70980cb257e58f660ff37398778e4727b16f9df5e7",
       "size": 10329,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -40,6 +43,7 @@
     "v.0.11.1hf": {
       "created_at": "2025-04-10T00:49:12Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.11.1hf/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "f7310318f4185c425268fa70980cb257e58f660ff37398778e4727b16f9df5e7",
       "size": 10329,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -51,6 +55,7 @@
     "v.0.11.2hf": {
       "created_at": "2025-04-10T16:28:15Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.11.2hf/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "344e82aac7ab7bb26dac2d29502a4b28bd78caaa83eb59a0fb1f510af089e266",
       "size": 10291,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -62,6 +67,7 @@
     "v.0.11.3hf": {
       "created_at": "2025-04-10T16:28:15Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.11.3hf/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "344e82aac7ab7bb26dac2d29502a4b28bd78caaa83eb59a0fb1f510af089e266",
       "size": 10291,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -73,6 +79,7 @@
     "v.0.12": {
       "created_at": "2025-05-02T03:13:11Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.12/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "dfbb327174fc88feed6b0927dcc95b1db6334a3960f0ececeb98a8e9db62fa56",
       "size": 11075,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -84,6 +91,7 @@
     "v.0.12.1hf": {
       "created_at": "2025-05-03T22:11:38Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.12.1hf/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "dfbb327174fc88feed6b0927dcc95b1db6334a3960f0ececeb98a8e9db62fa56",
       "size": 11075,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -95,6 +103,7 @@
     "v.0.13.0": {
       "created_at": "2025-05-03T22:11:38Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.13.0/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "6b5c8f99b39cf5e065d4686138303f23fefbda6e5e585b04c297d83e944d658a",
       "size": 11690,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -106,6 +115,7 @@
     "v.0.2": {
       "created_at": "2025-04-06T01:01:29Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.2/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "27ff1d36f4f0aad6dc33e7c359d4ccb380586f27fa16a726657df5c8e9d17ce8",
       "size": 6549,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -117,6 +127,7 @@
     "v.0.3": {
       "created_at": "2025-04-06T03:58:43Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.3/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "27ff1d36f4f0aad6dc33e7c359d4ccb380586f27fa16a726657df5c8e9d17ce8",
       "size": 6549,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -128,6 +139,7 @@
     "v.0.4": {
       "created_at": "2025-04-06T18:13:12Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.4/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "aa4b39b5f5022b3cf0df79b23a326a96d0d33bdae52ab0273b1a0daec97f86c2",
       "size": 8605,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -139,6 +151,7 @@
     "v.0.5": {
       "created_at": "2025-04-07T01:55:08Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.5/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "58719830a6deceb09cb53fc1d56b7a1d143acaa743667da8f9d13a833fc186fb",
       "size": 10139,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -150,6 +163,7 @@
     "v.0.5.1hf": {
       "created_at": "2025-04-07T01:55:08Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.5.1hf/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "3f86d7b947e9c57edb2cff4d19cd184f911fc80c6176334377a00be1c71468c6",
       "size": 10290,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -161,6 +175,7 @@
     "v.0.5.2hf": {
       "created_at": "2025-04-07T03:16:38Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.5.2hf/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "15c2ef192140259e956490ddcc3a41bd967a9f6dbc71061626d1f1b92aa4c44b",
       "size": 10135,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -172,6 +187,7 @@
     "v.0.6": {
       "created_at": "2025-04-07T16:36:42Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.6/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "bb8680590aaf7f78b4405ef96073f64b90a1e7a8631fca07e72231a7de2e2adb",
       "size": 10123,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -183,6 +199,7 @@
     "v.0.7": {
       "created_at": "2025-04-07T22:40:42Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.7/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "f7310318f4185c425268fa70980cb257e58f660ff37398778e4727b16f9df5e7",
       "size": 10329,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -194,6 +211,7 @@
     "v.0.7.1hf": {
       "created_at": "2025-04-07T22:40:42Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.7.1hf/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "f7310318f4185c425268fa70980cb257e58f660ff37398778e4727b16f9df5e7",
       "size": 10329,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -205,6 +223,7 @@
     "v.0.7.2hf": {
       "created_at": "2025-04-07T23:38:20Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.7.2hf/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "f7310318f4185c425268fa70980cb257e58f660ff37398778e4727b16f9df5e7",
       "size": 10329,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -216,6 +235,7 @@
     "v.0.8": {
       "created_at": "2025-04-08T08:23:12Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.8/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "f7310318f4185c425268fa70980cb257e58f660ff37398778e4727b16f9df5e7",
       "size": 10329,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -227,6 +247,7 @@
     "v.0.9": {
       "created_at": "2025-04-09T03:07:31Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.9/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "f7310318f4185c425268fa70980cb257e58f660ff37398778e4727b16f9df5e7",
       "size": 10329,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",
@@ -238,6 +259,7 @@
     "v.0.9.1hf": {
       "created_at": "2025-04-09T03:07:31Z",
       "download_url": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.9.1hf/deathlinkipelago.apworld",
+      "has_manifest": false,
       "hash_sha256": "f7310318f4185c425268fa70980cb257e58f660ff37398778e4727b16f9df5e7",
       "size": 10329,
       "source_url": "https://api.github.com/repos/SWCreeperKing/DeathLinkipelago",

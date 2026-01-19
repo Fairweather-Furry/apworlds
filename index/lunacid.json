@@ -7,6 +7,7 @@
     "0.8.10": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.8.10/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "f15de8e862c7fc7b26c9cbd90f572db56c14094d2e2752bbd302ea9513c03bd9",
       "size": 263821,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -18,6 +19,7 @@
     "0.8.11": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.8.11/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "f4f7ee297b2f776b29413d81c6ee98e9f98cf95455c3f4c4bfca0b24f873f0f1",
       "size": 263830,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -29,6 +31,7 @@
     "0.8.12": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.8.12/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "f4f7ee297b2f776b29413d81c6ee98e9f98cf95455c3f4c4bfca0b24f873f0f1",
       "size": 263830,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -40,6 +43,7 @@
     "0.8.13": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.8.13/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "cdc62e8c6db758ddf507a67875fff4ab6707fe00e033202ad417e2e2597388c5",
       "size": 263870,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -51,6 +55,7 @@
     "0.8.14": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.8.14/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "2c0707ce0ee9efd6049913186dd4d98b24a4aced08fc201f61bca7049911dddd",
       "size": 263845,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -95,6 +100,7 @@
     "0.8.7": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.8.7/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "c30580f1930ee8f4696e8bfd8e45f058ae8f986dd34662340829339bf61861cf",
       "size": 263139,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -106,6 +112,7 @@
     "0.8.8": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.8.8/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "ab24bfe190597451d99fcfeeb4aeb33296ef0982e30c4f368d091e83d7c125f6",
       "size": 263493,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -117,6 +124,7 @@
     "0.8.9": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.8.9/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "d6f87cfb4ad3624a45c02dc3b3f7460ab11d8e52b07698c252e97855807eb6f5",
       "size": 263660,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -128,6 +136,7 @@
     "0.9.0": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.0/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "be2dc1923ef72617a31d443b0bf6110efa052350d602f1218413bd7a7e4972c0",
       "size": 5079144,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -139,6 +148,7 @@
     "0.9.0-pre1": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.0-pre1/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "99ea69f71909a3b1d46b8ce7fe1dc247742269fee88b1a0e0796bec18f03c2d0",
       "prerelease": true,
       "size": 293457,
@@ -151,6 +161,7 @@
     "0.9.0-pre10": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.0-pre10/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "94f89110e0e967c0d13e32a0d2a351994d757a84d1e26e0e59959f6447194aae",
       "prerelease": true,
       "size": 299493,
@@ -163,6 +174,7 @@
     "0.9.0-pre11": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.0-pre11/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "de3a2adea7c2170f0f49a86db6ca2d4c006d395571572c94084252559953d75c",
       "prerelease": true,
       "size": 298556,
@@ -175,6 +187,7 @@
     "0.9.0-pre2": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.0-pre2/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "de424041da40ca2df87eac271357b6cc74d893b95ba60095e08dacc6b9acda2a",
       "prerelease": true,
       "size": 288344,
@@ -187,6 +200,7 @@
     "0.9.0-pre3": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.0-pre3/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "b8121a82dc72cb412c071461ec0faf1a86e05be9566e26f78ffc92b6dfd6ae42",
       "prerelease": true,
       "size": 289910,
@@ -199,6 +213,7 @@
     "0.9.0-pre4": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.0-pre4/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "9a1d3811b35228b5f2b899b1a3643263192c92e55c5152a3c9e12f7bcff0c488",
       "prerelease": true,
       "size": 290507,
@@ -211,6 +226,7 @@
     "0.9.0-pre5": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.0-pre5/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "d469582ef6864e52685cd7d7c0069d577fab261d095f9cab00dc99fa3ee51f58",
       "prerelease": true,
       "size": 290713,
@@ -223,6 +239,7 @@
     "0.9.0-pre6": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.0-pre6/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "648fa4b4263e791d6e9fc780f255540da7693af395a90fe0ce4b6c6cdfc9ee54",
       "prerelease": true,
       "size": 291795,
@@ -235,6 +252,7 @@
     "0.9.0-pre7": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.0-pre7/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "9361735d1f916bc5984b02b2ef7f758d547ad8a919428204e712231aeef7c9ae",
       "prerelease": true,
       "size": 294837,
@@ -247,6 +265,7 @@
     "0.9.0-pre8": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.0-pre8/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "33dcf5b2cef59c8e759a777f1d0524cca819be869f6a0dce33a5e4631ae380b8",
       "prerelease": true,
       "size": 296613,
@@ -259,6 +278,7 @@
     "0.9.0-pre9": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.0-pre9/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "80474ea462700b24b627507ae5a3aba5501ce67e344a72e7c81856fe67d01790",
       "prerelease": true,
       "size": 296427,
@@ -271,6 +291,7 @@
     "0.9.1": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.1/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "637b7bfffcfecc33eac7cdad2ed9a2b6d5aeb8f9aa20952b1d414e7f6769e6c5",
       "size": 5079379,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -279,9 +300,22 @@
       "version_simple": "0.9.1",
       "world_version": "0.9.1"
     },
+    "0.9.10": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.10/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "46c782eef4f523feec2a46d7d57cd1ab3a92b6d54a147f1451c1b6b694f3f240",
+      "size": 4893233,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "0.9.10",
+      "title": "Lunacid Randomizer v0.9.10",
+      "version_simple": "0.9.10",
+      "world_version": "0.9.10"
+    },
     "0.9.2": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.2/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "83f88a056b52a3c209e8e6670d5a10bc89c0958d3f9c9e5569434b08d3cd4662",
       "size": 5079420,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -293,6 +327,7 @@
     "0.9.3": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.3/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "1265196b7a0a69354ab066c5d477f805811a6b3c02b6b206b57f2e314dcf960a",
       "size": 5079406,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -304,6 +339,7 @@
     "0.9.4": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.4/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "d075a2c8a39334c3d10e4629dfbc5aeddf9e46b07f97b8181840ffd5754ae4ab",
       "size": 5079912,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -315,6 +351,7 @@
     "0.9.5": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.5/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "d075a2c8a39334c3d10e4629dfbc5aeddf9e46b07f97b8181840ffd5754ae4ab",
       "size": 5079912,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -326,6 +363,7 @@
     "0.9.6": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.6/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "1a0ca7ea88859adc96310df5de4476b8ccd92bf4ca4d881a619e41a3b00d4526",
       "size": 5079930,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -337,6 +375,7 @@
     "0.9.7": {
       "created_at": "2024-07-15T23:47:56Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.7/lunacid.apworld",
+      "has_manifest": false,
       "hash_sha256": "fd524f99166a10eaf811a2169dad28de0b9159e85c493971bf874e89a59a0de6",
       "size": 5079672,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -348,6 +387,7 @@
     "0.9.8": {
       "created_at": "2025-07-02T22:10:18Z",
       "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.8/lunacid.apworld",
+      "has_manifest": true,
       "hash_sha256": "9a06daef5335119e235afe52302b6de99cdc6f3870c84bcd3cc39210eec43d80",
       "size": 4893137,
       "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
@@ -355,6 +395,218 @@
       "title": "Lunacid Randomizer v 0.9.8",
       "version_simple": "0.9.8",
       "world_version": "0.9.8"
+    },
+    "0.9.9": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/0.9.9/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "46c782eef4f523feec2a46d7d57cd1ab3a92b6d54a147f1451c1b6b694f3f240",
+      "size": 4893233,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "0.9.9",
+      "title": "Lunacid Randomizer v 0.9.9",
+      "version_simple": "0.9.9",
+      "world_version": "0.9.9"
+    },
+    "1.0.0-pre1": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.0-pre1/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "61e61f77e9480e9b2a8d7746d3a70febcb1594ab01b83f05dbaf0659ee83431f",
+      "prerelease": true,
+      "size": 93229,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.0-pre1",
+      "title": "Lunacid Randomizer v1.0.0 Pre-Release 1",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0rc1"
+    },
+    "1.0.0-pre2": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.0-pre2/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "0f5bf910baa342c121e4fc64875e6bab10c20d7dcac5f6cdf4903f0ae04e7c26",
+      "prerelease": true,
+      "size": 4894179,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.0-pre2",
+      "title": "Lunacid Randomizer v1.0.0 Pre-Release 2",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0rc2"
+    },
+    "1.0.0-pre3": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.0-pre3/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c6e30ec32f5ec5b344faf0a2f50e2467dddfe6fb0797e2314e0e9abd1a355fbf",
+      "prerelease": true,
+      "size": 4894180,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.0-pre3",
+      "title": "Lunacid Randomizer v1.0.0 Pre-Release 3",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0rc3"
+    },
+    "1.0.0-pre4": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.0-pre4/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c6e30ec32f5ec5b344faf0a2f50e2467dddfe6fb0797e2314e0e9abd1a355fbf",
+      "prerelease": true,
+      "size": 4894180,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.0-pre4",
+      "title": "Lunacid Randomizer v1.0.0 Pre-Release 4",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0rc4"
+    },
+    "1.0.0-pre5": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.0-pre5/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "53ba5e00d038bf123ced4e3ec9337d058c59fcb8700597b84a7534d5d75cd491",
+      "prerelease": true,
+      "size": 4894579,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.0-pre5",
+      "title": "Lunacid Randomizer v1.0.0 Pre-Release 5",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0rc5"
+    },
+    "1.0.0-pre6": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.0-pre6/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "53ba5e00d038bf123ced4e3ec9337d058c59fcb8700597b84a7534d5d75cd491",
+      "prerelease": true,
+      "size": 4894579,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.0-pre6",
+      "title": "Lunacid Randomizer v1.0.0 Pre-Release 6",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0rc6"
+    },
+    "1.0.0-pre7": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.0-pre7/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "53ba5e00d038bf123ced4e3ec9337d058c59fcb8700597b84a7534d5d75cd491",
+      "prerelease": true,
+      "size": 4894579,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.0-pre7",
+      "title": "Lunacid Randomizer v1.0.0 Pre-Release 7",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0rc7"
+    },
+    "1.0.0-pre8": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.0-pre8/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "53ba5e00d038bf123ced4e3ec9337d058c59fcb8700597b84a7534d5d75cd491",
+      "prerelease": true,
+      "size": 4894579,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.0-pre8",
+      "title": "Lunacid Randomizer v1.0.0 Pre-Release 8",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0rc8"
+    },
+    "1.0.0-release": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.0-release/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "ebfa22c67d08c05377ce64a0f24b1f68de90e9f4a0bdb59fdd597c0c89fc56b2",
+      "size": 4894976,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.0-release",
+      "title": "Lunacid Randomizer v1.0.0 Release",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0.post0"
+    },
+    "1.0.1": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.1/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "ebfa22c67d08c05377ce64a0f24b1f68de90e9f4a0bdb59fdd597c0c89fc56b2",
+      "size": 4894976,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.1",
+      "title": "Lunacid Randomizer v1.0.1",
+      "version_simple": "1.0.1",
+      "world_version": "1.0.1"
+    },
+    "1.0.2": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.2/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "ebfa22c67d08c05377ce64a0f24b1f68de90e9f4a0bdb59fdd597c0c89fc56b2",
+      "size": 4894976,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.2",
+      "title": "Lunacid Randomizer v1.0.2",
+      "version_simple": "1.0.2",
+      "world_version": "1.0.2"
+    },
+    "1.0.2r2": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.2/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "6cebc5e4ab82206e5e80d11a280ce1b5f7c4298a866d4d241ba1348b99dada07",
+      "size": 4894908,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.2r2",
+      "title": "Lunacid Randomizer v1.0.2",
+      "version_simple": "1.0.2",
+      "world_version": "1.0.2.post2"
+    },
+    "1.0.3": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.3/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "6cebc5e4ab82206e5e80d11a280ce1b5f7c4298a866d4d241ba1348b99dada07",
+      "size": 4894908,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.3",
+      "title": "Lunacid Randomizer v1.0.3",
+      "version_simple": "1.0.3",
+      "world_version": "1.0.3"
+    },
+    "1.0.4": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.4/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "6cebc5e4ab82206e5e80d11a280ce1b5f7c4298a866d4d241ba1348b99dada07",
+      "size": 4894908,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.4",
+      "title": "Lunacid Randomizer v1.0.4",
+      "version_simple": "1.0.4",
+      "world_version": "1.0.4"
+    },
+    "1.0.5": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.5/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "6cebc5e4ab82206e5e80d11a280ce1b5f7c4298a866d4d241ba1348b99dada07",
+      "size": 4894908,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.5",
+      "title": "Lunacid Randomizer v1.0.5",
+      "version_simple": "1.0.5",
+      "world_version": "1.0.5"
+    },
+    "1.0.6": {
+      "created_at": "2025-07-02T22:10:18Z",
+      "download_url": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.6/lunacid.apworld",
+      "has_manifest": true,
+      "hash_sha256": "59b3b0a67d4146a812abce5fd2dfad1690a2204be28cf778d198856fe6e69b6c",
+      "size": 4894978,
+      "source_url": "https://api.github.com/repos/Witchybun/LunacidAPClient",
+      "tag": "1.0.6",
+      "title": "Lunacid Randomizer v1.0.6",
+      "version_simple": "1.0.6",
+      "world_version": "1.0.6"
     }
   }
 }

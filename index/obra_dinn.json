@@ -1,8 +1,9 @@
 {
+  "description": "Return of the Obra Dinn is an Insurance Adventure with Minimal Color. It is 1807 and the Obra Dinn, declared lost at\n sea in 1803, has reappeared without a trace of crew or cargo. As an insurance investigator, it is your job to\n investigate what happened and prepare a full assessment of damages. Determine the fates of each soul on board using\n a mysterious pocket watch, and solve the mystery behind the disappearance and return of the Obra Dinn.",
   "flags": [
     "after_dark"
   ],
-  "game": "",
+  "game": "Return of the Obra Dinn",
   "github": "https://github.com/wkcheezy/ObraDinnArchipelagoWorld",
   "license": null,
   "versions": {
@@ -10,6 +11,7 @@
       "created_at": "2025-05-25T21:53:45Z",
       "download_url": "https://github.com/wkcheezy/ObraDinnArchipelagoWorld/releases/download/v0.0.1-alpha/obra_dinn.apworld",
       "failed_to_load": "/home/runner/.cache/Archipelago/apworlds/obra_dinn-v0.0.1-alpha.apworld is not a loadable module",
+      "has_manifest": false,
       "hash_sha256": "dcea37f9871cb68999be976a28045d3bad25b6b714cb3899d2f4442cd7ced746",
       "prerelease": true,
       "size": 17760,
@@ -22,6 +24,7 @@
     "v0.0.2": {
       "created_at": "2025-10-09T19:14:02Z",
       "download_url": "https://github.com/wkcheezy/ObraDinnArchipelagoWorld/releases/download/v0.0.2/obra_dinn.apworld",
+      "has_manifest": false,
       "hash_sha256": "6d419eb48c1bec63033c7417ad0ebd10495d74b3137cc95ad8c53e59a21d3239",
       "size": 18558,
       "source_url": "https://api.github.com/repos/wkcheezy/ObraDinnArchipelagoWorld",

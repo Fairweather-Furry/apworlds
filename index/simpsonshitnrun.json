@@ -1,12 +1,13 @@
 {
   "description": "A 2003 Action Adventure game similar to the GTA series starring the Simpsons",
   "game": "The Simpsons Hit And Run",
-  "github": "https://github.com/nmize1/Archipelago/",
+  "github": "https://github.com/nmize1/Archipelago",
   "license": null,
   "versions": {
     "v0.1.0a": {
       "created_at": "2025-03-18T02:07:04Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.1.0a/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "a42fbfa074b9159690a0a6572416dd5df265c276eb98015b62c05718e34d05cb",
       "ignore": true,
       "size": 39743,
@@ -19,6 +20,7 @@
     "v0.1.0b": {
       "created_at": "2025-06-23T01:58:27Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.1.0b/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "51d25205d1ec6243e6950582d6d8d40cba4a6f616f810e28c94c4b1937a364c6",
       "size": 42000,
       "source_url": "https://api.github.com/repos/nmize1/Archipelago",
@@ -30,6 +32,7 @@
     "v0.1.1a": {
       "created_at": "2025-03-19T00:37:35Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.1.1a/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "362998f2d299f89b3c4047fdc54a428719c9b1aa05b575db4ff6fdafa1b5585b",
       "ignore": true,
       "size": 41255,
@@ -42,6 +45,7 @@
     "v0.1.1b": {
       "created_at": "2025-07-25T01:30:35Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.1.1b/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "8a162756c8a40e2cb1fac1992797e7d585eb3ab41da7bbc3c97feb1078e1069a",
       "size": 42062,
       "source_url": "https://api.github.com/repos/nmize1/Archipelago",
@@ -53,6 +57,7 @@
     "v0.1.2a": {
       "created_at": "2025-03-19T01:44:52Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.1.2a/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "096573f2d13c5c56da9c7c75b10f36c9ba740f4b996801428fca19e610893970",
       "ignore": true,
       "size": 41256,
@@ -65,6 +70,7 @@
     "v0.1.2b": {
       "created_at": "2025-07-26T01:01:24Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.1.2b/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "2efa4b8fe2ff26bbc05e95eb7893897e89d30219b14f1439497f91d5295fc433",
       "size": 42050,
       "source_url": "https://api.github.com/repos/nmize1/Archipelago",
@@ -76,6 +82,7 @@
     "v0.1.3a": {
       "created_at": "2025-03-23T17:10:04Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.1.3a/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "172d45fd7cc824b8d8a21ae1541afd97607c7abefbf35efb19e587bda1441319",
       "ignore": true,
       "size": 41243,
@@ -88,6 +95,7 @@
     "v0.1.3b": {
       "created_at": "2025-08-14T17:11:56Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.1.3b/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "afa95ac184db03d8b396dc84b5a78d18045dddb15ebf7de1fed964a140ce9834",
       "size": 42078,
       "source_url": "https://api.github.com/repos/nmize1/Archipelago",
@@ -99,6 +107,7 @@
     "v0.1.4a": {
       "created_at": "2025-03-25T01:29:38Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.1.4a/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "ed5414337a3a1f39f83c6cc9c8dbdce668a9dba30392d2a84effe1ede7c67cd1",
       "ignore": true,
       "size": 41230,
@@ -111,6 +120,7 @@
     "v0.1.5a": {
       "created_at": "2025-04-30T23:24:39Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.1.5a/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "e1f8531b582b3c173859b45cc8ccc928b5e414fd44236a623901010db7650fc5",
       "ignore": true,
       "size": 41841,
@@ -123,6 +133,7 @@
     "v0.1.6a": {
       "created_at": "2025-04-30T23:24:39Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.1.6a/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "483a9f619496313616b9fe7ab20e8bbda69f1df7bff042f93542fd000f79ac48",
       "ignore": true,
       "size": 41855,
@@ -135,6 +146,7 @@
     "v0.1.7a": {
       "created_at": "2025-06-23T01:58:27Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.1.7a/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "51d25205d1ec6243e6950582d6d8d40cba4a6f616f810e28c94c4b1937a364c6",
       "ignore": true,
       "size": 42000,
@@ -180,6 +192,7 @@
     "v0.2.7b": {
       "created_at": "2025-09-08T15:59:40Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.2.7b/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "327c10e8b5ccab42cce5c94d7b25191412d19cb53376475ac9b21ad811284788",
       "size": 77544,
       "source_url": "https://api.github.com/repos/nmize1/Archipelago",
@@ -191,6 +204,7 @@
     "v0.3.0b": {
       "created_at": "2025-09-24T04:24:48Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.3.0b/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "7a58873a3aa1dc3a9a213abdf4467864ee213442f3fe354c47a2fc4fbfdd8c01",
       "size": 214369,
       "source_url": "https://api.github.com/repos/nmize1/Archipelago",
@@ -199,9 +213,34 @@
       "version_simple": "0.3.0",
       "world_version": "0.3.0"
     },
+    "v0.3.10-b": {
+      "created_at": "2025-11-09T22:46:21Z",
+      "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.3.10-b/simpsonshitnrun.apworld",
+      "has_manifest": true,
+      "hash_sha256": "1cf8aad3a9ec2e97b384cf50baa1c5bbe4d6d2f1480903e9839d9fb1f5c66e28",
+      "size": 64324,
+      "source_url": "https://api.github.com/repos/nmize1/Archipelago",
+      "tag": "v0.3.10-b",
+      "title": "Beta 0.3.10",
+      "version_simple": "0.3.10",
+      "world_version": "0.3.10b0"
+    },
+    "v0.3.11-b": {
+      "created_at": "2025-11-11T03:11:14Z",
+      "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.3.11-b/simpsonshitnrun.apworld",
+      "has_manifest": true,
+      "hash_sha256": "f226d0b3375c7ff5f2faa0ab8e765cd54be822a4256a8e4bed18a71489ab2175",
+      "size": 64735,
+      "source_url": "https://api.github.com/repos/nmize1/Archipelago",
+      "tag": "v0.3.11-b",
+      "title": "Beta 0.3.11",
+      "version_simple": "0.3.11",
+      "world_version": "0.3.11b0"
+    },
     "v0.3.1b": {
       "created_at": "2025-09-25T06:42:03Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.3.1b/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "f0059d65a3cfe636c497f61512b9681bc376dbac75a83891e9a0bd8f0a75e2d5",
       "size": 214418,
       "source_url": "https://api.github.com/repos/nmize1/Archipelago",
@@ -213,6 +252,7 @@
     "v0.3.2b": {
       "created_at": "2025-10-01T06:42:33Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.3.2b/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "5ec28be4925323a00fbb7ad1b4e375cf87c0732d01e5deb066c92c70b469e8e5",
       "size": 215163,
       "source_url": "https://api.github.com/repos/nmize1/Archipelago",
@@ -224,6 +264,7 @@
     "v0.3.3b": {
       "created_at": "2025-10-03T14:12:33Z",
       "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.3.3b/simpsonshitnrun.apworld",
+      "has_manifest": false,
       "hash_sha256": "2c6723a5b0db4c8613fcdc81741b46de3a2be0444ca1b0c558aa69f0c2535ea3",
       "size": 214832,
       "source_url": "https://api.github.com/repos/nmize1/Archipelago",
@@ -231,6 +272,114 @@
       "title": "Beta 0.3.3",
       "version_simple": "0.3.3",
       "world_version": "0.3.3b0"
+    },
+    "v0.3.4b": {
+      "created_at": "2025-10-29T03:00:46Z",
+      "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.3.4b/simpsonshitnrun.apworld",
+      "has_manifest": false,
+      "hash_sha256": "335cb6b370cb84f5ab6b1a806fbbb0532887c9e37633afd0a7a886278e31ab28",
+      "size": 221016,
+      "source_url": "https://api.github.com/repos/nmize1/Archipelago",
+      "tag": "v0.3.4b",
+      "title": "Beta 0.3.4",
+      "version_simple": "0.3.4",
+      "world_version": "0.3.4b0"
+    },
+    "v0.3.5b": {
+      "created_at": "2025-10-29T03:22:56Z",
+      "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.3.5b/simpsonshitnrun.apworld",
+      "has_manifest": false,
+      "hash_sha256": "ffc35d3df94de084204fb134de4638f40a1904a8213aa94dbe198ad591c0f324",
+      "size": 221042,
+      "source_url": "https://api.github.com/repos/nmize1/Archipelago",
+      "tag": "v0.3.5b",
+      "title": "Beta 0.3.5",
+      "version_simple": "0.3.5",
+      "world_version": "0.3.5b0"
+    },
+    "v0.3.6b": {
+      "created_at": "2025-11-02T05:59:31Z",
+      "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.3.6b/simpsonshitnrun.apworld",
+      "has_manifest": false,
+      "hash_sha256": "47cdc40dc456e618a06f1264b8f1b914003a63843faa8896b25009a6092b68dd",
+      "size": 221043,
+      "source_url": "https://api.github.com/repos/nmize1/Archipelago",
+      "tag": "v0.3.6b",
+      "title": "Beta 0.3.6",
+      "version_simple": "0.3.6",
+      "world_version": "0.3.6b0"
+    },
+    "v0.3.7-b": {
+      "created_at": "2025-11-04T05:42:27Z",
+      "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.3.7-b/simpsonshitnrun.apworld",
+      "has_manifest": false,
+      "hash_sha256": "bdcd85dba62b6d200824cf3473d892d5a2281e663306ee7f1d0a46f096fd3b9a",
+      "size": 221355,
+      "source_url": "https://api.github.com/repos/nmize1/Archipelago",
+      "tag": "v0.3.7-b",
+      "title": "Beta 0.3.7",
+      "version_simple": "0.3.7",
+      "world_version": "0.3.7b0"
+    },
+    "v0.3.8-b": {
+      "created_at": "2025-11-09T04:30:43Z",
+      "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.3.8-b/simpsonshitnrun.apworld",
+      "has_manifest": true,
+      "hash_sha256": "bb9c3d2e01700eb00373aa5b23a8d2c45c9b909e531540de8738252d9a6083c7",
+      "size": 64321,
+      "source_url": "https://api.github.com/repos/nmize1/Archipelago",
+      "tag": "v0.3.8-b",
+      "title": "Beta 0.3.8",
+      "version_simple": "0.3.8",
+      "world_version": "0.3.8b0"
+    },
+    "v0.4.0-b": {
+      "created_at": "2025-12-04T06:22:50Z",
+      "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.4.0-b/simpsonshitnrun.apworld",
+      "has_manifest": true,
+      "hash_sha256": "83222c23d1aa1d3096af7ecac60b09b2c914933538dbecc213bdfcef5afd1502",
+      "size": 71231,
+      "source_url": "https://api.github.com/repos/nmize1/Archipelago",
+      "tag": "v0.4.0-b",
+      "title": "Beta 0.4.0",
+      "version_simple": "0.4.0",
+      "world_version": "0.4.0b0"
+    },
+    "v0.4.1-b": {
+      "created_at": "2025-12-06T07:42:44Z",
+      "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.4.1-b/simpsonshitnrun.apworld",
+      "has_manifest": true,
+      "hash_sha256": "9fdb517ef33dbc27ad39530afbe626c682f891c9a1d50c2de766dcf7e43c79e0",
+      "size": 71473,
+      "source_url": "https://api.github.com/repos/nmize1/Archipelago",
+      "tag": "v0.4.1-b",
+      "title": "Beta 0.4.1",
+      "version_simple": "0.4.1",
+      "world_version": "0.4.1b0"
+    },
+    "v0.4.2-b": {
+      "created_at": "2025-12-06T07:42:44Z",
+      "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.4.2-b/simpsonshitnrun.apworld",
+      "has_manifest": true,
+      "hash_sha256": "1e08d20c5b71d476c7a9d6a6b86f7d98d30fd039735518fc86710938fdc3a8e7",
+      "size": 71483,
+      "source_url": "https://api.github.com/repos/nmize1/Archipelago",
+      "tag": "v0.4.2-b",
+      "title": "Beta 0.4.2",
+      "version_simple": "0.4.2",
+      "world_version": "0.4.2b0"
+    },
+    "v0.4.3-b": {
+      "created_at": "2025-12-08T03:20:50Z",
+      "download_url": "https://github.com/nmize1/Archipelago/releases/download/v0.4.3-b/simpsonshitnrun.apworld",
+      "has_manifest": true,
+      "hash_sha256": "664104df3eeb4b79115c1d48285e6c806913f3b36f1ace0951c574710ae0af10",
+      "size": 1340148,
+      "source_url": "https://api.github.com/repos/nmize1/Archipelago",
+      "tag": "v0.4.3-b",
+      "title": "Beta 0.4.3",
+      "version_simple": "0.4.3",
+      "world_version": "0.4.3b0"
     }
   }
 }

@@ -4,9 +4,35 @@
   "github": "https://github.com/silasary/Archipelago",
   "license": null,
   "versions": {
+    "factorio_saws-0.0.7": {
+      "created_at": "2025-10-29T05:21:30Z",
+      "download_url": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.0.7/factorio_saws.apworld",
+      "hash_sha256": "1182d96270996854cd49904e454ca5559f453cb6f3f99913e78228143b56bc5c",
+      "minimum_ap_version": "0.6.0",
+      "size": 886659,
+      "source_url": "https://api.github.com/repos/silasary/Archipelago",
+      "tag": "factorio_saws-0.0.7",
+      "title": "factorio_saws v0.0.7",
+      "version_simple": "0.0.7",
+      "world_version": "0.0.7"
+    },
+    "factorio_saws-0.0.7r2": {
+      "created_at": "2025-10-29T06:09:35Z",
+      "download_url": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.0.7/factorio_saws.apworld",
+      "has_manifest": true,
+      "hash_sha256": "73296d4f4611fb44a72025536c3acb7549e50ab8e3efc05d2394ff9de4487ed6",
+      "minimum_ap_version": "0.6.0",
+      "size": 887052,
+      "source_url": "https://api.github.com/repos/silasary/Archipelago",
+      "tag": "factorio_saws-0.0.7r2",
+      "title": "Factorio Space Age Without Space 0.7",
+      "version_simple": "0.0.7",
+      "world_version": "0.0.7"
+    },
     "factorio_saws-0.4": {
       "created_at": "2025-08-11T03:54:51Z",
       "download_url": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.4/factorio_saws.apworld",
+      "has_manifest": false,
       "hash_sha256": "21d953f4f00fa5eebc06af6cfe86f125c6d4142da8ae0e2bdf70bcc1aa8b5868",
       "size": 885186,
       "source_url": "https://api.github.com/repos/silasary/Archipelago",
@@ -18,6 +44,7 @@
     "factorio_saws-0.5": {
       "created_at": "2024-11-17T00:52:49Z",
       "download_url": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.5/factorio_saws.apworld",
+      "has_manifest": true,
       "hash_sha256": "ed1c9157acb298188abdd8a933c5be8314fdea8e248768875bfee882ba999c0f",
       "size": 883899,
       "source_url": "https://api.github.com/repos/silasary/Archipelago",
@@ -25,6 +52,97 @@
       "title": "Factorio Space Age Without Space 0.5",
       "version_simple": "0.5",
       "world_version": "0.5"
+    },
+    "factorio_saws-0.6": {
+      "created_at": "2025-10-19T08:25:24Z",
+      "download_url": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.6/factorio_saws.apworld",
+      "has_manifest": true,
+      "hash_sha256": "d99a0d9e8490e81c9a0c55c95615d0d0b12cc9e7fb8d0495adbafdfa46d10f11",
+      "minimum_ap_version": "0.6.0",
+      "size": 887048,
+      "source_url": "https://api.github.com/repos/silasary/Archipelago",
+      "tag": "factorio_saws-0.6",
+      "title": "Factorio Space Age Without Space 0.6",
+      "version_simple": "0.0.6",
+      "world_version": "0.0.6"
+    },
+    "factorio_saws-0.8.0": {
+      "created_at": "2025-11-01T06:16:11Z",
+      "download_url": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.8.0/factorio_saws.apworld",
+      "has_manifest": true,
+      "hash_sha256": "03d3e16d8ada41b55bf5dd5256dea388717602f8706bfa1990a83dfe67b5646e",
+      "minimum_ap_version": "0.6.0",
+      "size": 887394,
+      "source_url": "https://api.github.com/repos/silasary/Archipelago",
+      "tag": "factorio_saws-0.8.0",
+      "title": "Factorio - Space Age Without Space v0.8.0",
+      "version_simple": "0.8.0",
+      "world_version": "0.8.0"
+    },
+    "factorio_saws-0.8.1": {
+      "created_at": "2025-11-01T06:23:06Z",
+      "download_url": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.8.1/factorio_saws.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c29252df655f61d414aba1b822a3934beebae164d9cad678f4a818dd13fd43fb",
+      "minimum_ap_version": "0.6.0",
+      "size": 887392,
+      "source_url": "https://api.github.com/repos/silasary/Archipelago",
+      "tag": "factorio_saws-0.8.1",
+      "title": "Factorio - Space Age Without Space v0.8.1",
+      "version_simple": "0.8.1",
+      "world_version": "0.8.1"
+    },
+    "factorio_saws-0.8.2": {
+      "created_at": "2025-11-01T06:23:06Z",
+      "download_url": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.8.2/factorio_saws.apworld",
+      "has_manifest": true,
+      "hash_sha256": "67fc7d17b12f07b6b007309cd9a5ab02a40ba0d59640f1b87341cbbe842da779",
+      "minimum_ap_version": "0.6.0",
+      "size": 887777,
+      "source_url": "https://api.github.com/repos/silasary/Archipelago",
+      "tag": "factorio_saws-0.8.2",
+      "title": "Factorio - Space Age Without Space v0.8.2",
+      "version_simple": "0.8.2",
+      "world_version": "0.8.2"
+    },
+    "factorio_saws-0.8.3": {
+      "created_at": "2025-11-13T02:02:09Z",
+      "download_url": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.8.3/factorio_saws.apworld",
+      "has_manifest": true,
+      "hash_sha256": "996865c40553101a514e7283742859a9434fd032697de750f4060406a2008128",
+      "minimum_ap_version": "0.6.0",
+      "size": 887900,
+      "source_url": "https://api.github.com/repos/silasary/Archipelago",
+      "tag": "factorio_saws-0.8.3",
+      "title": "Factorio - Space Age Without Space v0.8.3",
+      "version_simple": "0.8.3",
+      "world_version": "0.8.3"
+    },
+    "factorio_saws-0.8.4": {
+      "created_at": "2026-01-06T05:46:09Z",
+      "download_url": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.8.4/factorio_saws.apworld",
+      "has_manifest": true,
+      "hash_sha256": "3fc4b296603539a044ec2a60f533cc1d2631fce482c6a657097ddb2b298dc80c",
+      "minimum_ap_version": "0.6.0",
+      "size": 888174,
+      "source_url": "https://api.github.com/repos/silasary/Archipelago",
+      "tag": "factorio_saws-0.8.4",
+      "title": "Factorio - Space Age Without Space v0.8.4",
+      "version_simple": "0.8.4",
+      "world_version": "0.8.4"
+    },
+    "factorio_saws-0.8.5": {
+      "created_at": "2026-01-14T01:43:42Z",
+      "download_url": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.8.5/factorio_saws.apworld",
+      "has_manifest": true,
+      "hash_sha256": "4c2efbbf1384726f30afd9f17d10ee9f4eb6ec2a678ddfdff9dea4f28d597195",
+      "minimum_ap_version": "0.6.0",
+      "size": 888234,
+      "source_url": "https://api.github.com/repos/silasary/Archipelago",
+      "tag": "factorio_saws-0.8.5",
+      "title": "Factorio - Space Age Without Space v0.8.5",
+      "version_simple": "0.8.5",
+      "world_version": "0.8.5"
     }
   }
 }

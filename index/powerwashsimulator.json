@@ -2,12 +2,13 @@
   "description": "Powerwash Simulator",
   "game": "Powerwash Simulator",
   "github": "https://github.com/SWCreeperKing/PowerwashSimAP",
-  "license": null,
+  "license": "MIT",
   "name": "Powerwash Simulator",
   "versions": {
     "v.0.1": {
       "created_at": "2025-06-14T06:02:24Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.1/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "c88117dc5d4eddea733e8f152b3ab1258b881e80a27e71d1363a770b06cace88",
       "size": 11917,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -19,6 +20,7 @@
     "v.0.1-hf1": {
       "created_at": "2025-06-14T07:11:09Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.1-hf1/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "f1e5b0f5923dfd66a0357f53e35280d9b611c6e88634e9e5eb0a7fb1c026166e",
       "size": 11981,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -30,6 +32,7 @@
     "v.0.1-hf2": {
       "created_at": "2025-06-14T08:26:31Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.1-hf2/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "5920e6c80efef08163dd9608b228303de2a18115e675e2481887711f24dc02ea",
       "size": 12791,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -41,6 +44,7 @@
     "v.0.1-hf3": {
       "created_at": "2025-06-14T15:36:56Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.1-hf3/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "4b70b32548c362b036a9f0eeb706c7e2d61666a72afd012b33552358dc4b207c",
       "size": 12420,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -52,6 +56,7 @@
     "v.0.1.4": {
       "created_at": "2025-06-14T18:29:37Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.1.4/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "4b70b32548c362b036a9f0eeb706c7e2d61666a72afd012b33552358dc4b207c",
       "size": 12420,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -63,6 +68,7 @@
     "v.0.2": {
       "created_at": "2025-06-15T01:49:59Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.2/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "223fe898e85002b660ae88c37265d669cbd532f26c5ba7ddffc1637f568dabdc",
       "size": 39898,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -74,6 +80,7 @@
     "v.0.2.1": {
       "created_at": "2025-06-15T03:37:52Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.2.1/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "223fe898e85002b660ae88c37265d669cbd532f26c5ba7ddffc1637f568dabdc",
       "size": 39898,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -85,6 +92,7 @@
     "v.0.2.2": {
       "created_at": "2025-06-15T05:45:53Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.2.2/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "c1c134b10d6274668f9195333161af5b4b01f51a300cdab4f006b1424f8dd02c",
       "size": 39917,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -96,6 +104,7 @@
     "v.0.3": {
       "created_at": "2025-06-17T01:17:17Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.3/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "70ec1c07fd7153e63033f7325871f94090a715fa543906cf37d713a5bee2eb50",
       "size": 86830,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -107,6 +116,7 @@
     "v.0.3.1": {
       "created_at": "2025-06-17T08:25:38Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.3.1/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "27d66bbcaea4b1ee8c3ae2a84145f6eab704d654154b5cefd72c7ec3a2fa5894",
       "size": 87277,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -118,6 +128,7 @@
     "v.0.3.2": {
       "created_at": "2025-06-17T20:19:18Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.3.2/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "d82c871fb32bf88389d4fe8e3f8a6174315326f6c0e3e380d54e6ffdd02447dc",
       "size": 87390,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -129,6 +140,7 @@
     "v.0.4": {
       "created_at": "2025-06-24T06:25:38Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.4/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "78113325affc1da4db2ed7fa548d2f258bff22f53e8406e723e1919ca50d1ad3",
       "size": 93618,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -140,6 +152,7 @@
     "v.0.4.1": {
       "created_at": "2025-06-24T22:51:11Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.4.1/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "a5d2832fb31a11e2761224c41fed937f26f7761b0965cd496d36dfe51cfee379",
       "size": 93960,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -151,6 +164,7 @@
     "v.0.5.0": {
       "created_at": "2025-07-08T22:11:49Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.5.0/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "4ff6c9e25d088c3bc32f0106922c4ea6c2d74c595679017adc956fe9c37d852c",
       "size": 145200,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -162,6 +176,7 @@
     "v.0.5.1": {
       "created_at": "2025-07-10T08:43:01Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.5.1/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "37048a9d414852bce90311aef8fd2b9216840b7ac5db0a3f4e0da6a20989609e",
       "size": 146235,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -173,6 +188,7 @@
     "v.0.5.2": {
       "created_at": "2025-07-10T15:27:23Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.5.2/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "2a33792eb9ceec5bde67dee292b41c741f9efd6b68fc7884836c93bc49fe833d",
       "size": 146572,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -184,6 +200,7 @@
     "v.0.5.3": {
       "created_at": "2025-07-10T22:28:56Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.5.3/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "f9f1f4acf4c52aee0a38e9cffdf8ff1212fb41b94979a1bd767d20f031d0a0aa",
       "size": 146595,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -195,6 +212,7 @@
     "v.0.5.4": {
       "created_at": "2025-08-25T19:42:20Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.5.4/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "66c2465d0443dcf944fc139fa33df4df8a21abe5890a5c1bbe4e06c325035ee8",
       "size": 146545,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -206,6 +224,7 @@
     "v.0.5.5": {
       "created_at": "2025-08-29T08:18:40Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v.0.5.5/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "4b780fc7bfbef21a64607908b47f1ce2ae34434e75b84078e61cd3a245b141c9",
       "size": 146540,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -217,6 +236,7 @@
     "v0.5.10": {
       "created_at": "2025-10-10T05:09:48Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.10/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "e15cc2d148696cba21d79a4a9c5c6b98cedba31001a630dfcef4dbb2e1fa890c",
       "size": 147725,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -228,6 +248,7 @@
     "v0.5.11": {
       "created_at": "2025-10-10T20:05:20Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.11/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "9d1606be7764cb82967de5f08b524375328745b347c3975d1ce88e08abdb7cf4",
       "size": 147854,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -236,9 +257,34 @@
       "version_simple": "0.5.11",
       "world_version": "0.5.11"
     },
+    "v0.5.12": {
+      "created_at": "2025-10-14T20:43:17Z",
+      "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.12/powerwashsimulator.apworld",
+      "has_manifest": false,
+      "hash_sha256": "f48baefafceaad465298a4ec4bf255e21e78fd84f525f79d7e617d382a3d53e8",
+      "size": 147852,
+      "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
+      "tag": "v0.5.12",
+      "title": "v0.5.12",
+      "version_simple": "0.5.12",
+      "world_version": "0.5.12"
+    },
+    "v0.5.13": {
+      "created_at": "2025-12-07T01:04:12Z",
+      "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.13/powerwashsimulator.apworld",
+      "has_manifest": false,
+      "hash_sha256": "4a86fb0289033e985763fef384f2e0b74d4bff7b8599a157c1fd893641bb6311",
+      "size": 148192,
+      "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
+      "tag": "v0.5.13",
+      "title": "v0.5.13",
+      "version_simple": "0.5.13",
+      "world_version": "0.5.13"
+    },
     "v0.5.6": {
       "created_at": "2025-09-25T03:35:44Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.6/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "e8909f304b955f7d222847c6a6dfa5b5f5479da6a9c4f47075d6395fc0d7f185",
       "size": 147579,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -250,6 +296,7 @@
     "v0.5.7": {
       "created_at": "2025-09-25T19:23:06Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.7/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "e8909f304b955f7d222847c6a6dfa5b5f5479da6a9c4f47075d6395fc0d7f185",
       "size": 147579,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -261,6 +308,7 @@
     "v0.5.8": {
       "created_at": "2025-09-27T01:14:43Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.8/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "e15cc2d148696cba21d79a4a9c5c6b98cedba31001a630dfcef4dbb2e1fa890c",
       "size": 147725,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",
@@ -272,6 +320,7 @@
     "v0.5.9": {
       "created_at": "2025-09-27T01:14:43Z",
       "download_url": "https://github.com/SWCreeperKing/PowerwashSimAP/releases/download/v0.5.9/powerwashsimulator.apworld",
+      "has_manifest": false,
       "hash_sha256": "e15cc2d148696cba21d79a4a9c5c6b98cedba31001a630dfcef4dbb2e1fa890c",
       "size": 147725,
       "source_url": "https://api.github.com/repos/SWCreeperKing/PowerwashSimAP",

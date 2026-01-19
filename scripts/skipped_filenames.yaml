@@ -1,0 +1,15 @@
+# This is a list of known bad filenames to be ignored when scanning forks for new worlds.
+# This is generally a typo that accidentally defined a new world id
+skipped_filenames:
+  - ""
+  - minishoot_0_5_0
+  - tloz_ph.old
+  - _momodoramoonlitfarewell_alditto
+  - tcg_cardshop_simulator
+  - RAC1  # accidentally uppercase
+  - Bingo  # Old Titlecase
+  - HexcellsInfiniteAPworld
+  - MetroCUBEvania
+  - checks_mate  # no more underscores
+  - pokemon_crystal_beta
+  - pokemon_crystal_prerelease

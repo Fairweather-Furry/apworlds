@@ -1,12 +1,16 @@
 {
   "description": "Symphony of the Night is a metroidvania developed by Konami\nand release for Sony Playstation and Sega Saturn in (add year after googling)",
   "game": "Symphony of the Night",
-  "github": "https://github.com/fdelduque/Archipelago",
+  "github": [
+    "https://github.com/fdelduque/Archipelago",
+    "https://github.com/Darvitz/Archipelago-Crystal"
+  ],
   "license": null,
   "versions": {
     "Alphaish": {
       "created_at": "2024-02-16T22:21:52Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/Alphaish/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "9ffe83aa4b9fa9b256b4bb5d1cb9ddfa54475175e322acb91a4c5042a7d72fbe",
       "size": 65808,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -14,6 +18,32 @@
       "title": "Alphaish, beta release",
       "version_simple": "0.0.0",
       "world_version": "0.0.0+alphaish"
+    },
+    "Unofficial": {
+      "created_at": "2026-01-13T02:41:57Z",
+      "download_url": "https://github.com/Darvitz/Archipelago-Crystal/releases/download/Unofficial/sotn.apworld",
+      "has_manifest": true,
+      "hash_sha256": "16e065fc8c35a2f35cf3fc1d1314933e6bce6789f294e78c8beb2e5a01e3f8bb",
+      "minimum_ap_version": "0.6.0",
+      "size": 157462,
+      "source_url": "https://api.github.com/repos/Darvitz/Archipelago-Crystal",
+      "tag": "Unofficial",
+      "title": "Symphony of the Night Unofficial",
+      "version_simple": "0.8.15",
+      "world_version": "0.8.15"
+    },
+    "Unofficial_0.8.16": {
+      "created_at": "2026-01-15T06:12:09Z",
+      "download_url": "https://github.com/Darvitz/Archipelago-Crystal/releases/download/Unofficial_0.8.16/sotn.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c48624117e7caac41b7e21b2491ac9e2d358d5b19339af292556c227285b12d6",
+      "minimum_ap_version": "0.6.0",
+      "size": 157462,
+      "source_url": "https://api.github.com/repos/Darvitz/Archipelago-Crystal",
+      "tag": "Unofficial_0.8.16",
+      "title": "Symphony of the Night Unofficial  0.8.16",
+      "version_simple": "0.8.16",
+      "world_version": "0.8.16"
     },
     "a0814": {
       "created_at": "2025-05-19T22:12:30Z",
@@ -40,6 +70,7 @@
     "a08141r2": {
       "created_at": "2025-05-29T02:31:33Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/a08141/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "0be44ff9ae17034f984198145b4761b15fd717a2af6e8db79e7ae756cc3d6b40",
       "prerelease": true,
       "size": 443055,
@@ -52,6 +83,7 @@
     "a08142": {
       "created_at": "2025-07-11T18:09:56Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/a08142/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "a70b9568e07fa06a2f4a5cb5126f7b0c759adc8b1711f7cbff355bdcec13a805",
       "size": 208807,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -74,6 +106,7 @@
     "a0814r3": {
       "created_at": "2025-05-19T22:12:30Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/a0814/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "38b02f75b386031480fc98635a26c5a948fc0b5707e85626d845d5397ee9eb17",
       "prerelease": true,
       "size": 135396,
@@ -86,6 +119,7 @@
     "b01": {
       "created_at": "2024-02-22T22:25:32Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b01/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "e37cb49ac9eef1103463bb6800f663570141fee30f702fb90d5c0e7ace1b8cc0",
       "size": 66126,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -97,6 +131,7 @@
     "b02": {
       "created_at": "2024-02-24T21:46:56Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b02/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "38e266dd0affc0b5a12ae355577e1ea6aa95af5c05b76fcc14e95522aa3cb1be",
       "size": 66768,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -108,6 +143,7 @@
     "b03": {
       "created_at": "2024-03-01T21:11:58Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b03/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "1e51821cebfa57d1839b12c34cea5ba6a9f030b02c0cee8ab834f3d436f38212",
       "size": 71327,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -119,6 +155,7 @@
     "b04": {
       "created_at": "2024-03-09T18:08:56Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b04/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "b60e4dd0c467ba79d0a9b7d902e28c7f2d5e546bb9fd3936014def1e8ffd7e77",
       "size": 74210,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -130,6 +167,7 @@
     "b041": {
       "created_at": "2024-03-09T19:57:48Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b041/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "853ca52d34681360bfc37e9c8bacbc93333fd88c0a072bc502752894bef49e21",
       "size": 74575,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -141,6 +179,7 @@
     "b050": {
       "created_at": "2024-03-19T01:26:08Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b050/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "d8ce41b19d26e9dfbf97c88c7a3e1698be01412e05ad2dfee7fee9d0d4458bba",
       "size": 99253,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -152,6 +191,7 @@
     "b051": {
       "created_at": "2024-03-28T12:58:53Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b051/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "981e7244cda8e44e9340fbfa1d94664ef86e096588a55679c92bd3baa7af8b63",
       "size": 101076,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -163,6 +203,7 @@
     "b060": {
       "created_at": "2024-04-04T22:08:02Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b060/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "95812ae5ab715655e9d234646155e53f9460f1cb0c1907ff297f5fa1c9929afc",
       "size": 145265,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -174,6 +215,7 @@
     "b070": {
       "created_at": "2024-05-03T20:55:02Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b070/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "f7f626241931078e773e7aa9c54457f5e44c7a7bfbfd02537af12ae06fba7e22",
       "size": 163260,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -185,6 +227,7 @@
     "b071": {
       "created_at": "2024-05-06T01:51:16Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b071/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "011d2d7d8c92bfcb1c3b5506c0dd6cda992fa809ea2071bc5eae7c0146d8b10f",
       "size": 163258,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -196,6 +239,7 @@
     "b072": {
       "created_at": "2024-05-22T19:05:00Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b072/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "97008e45e13629e75c78c03882d3a3cf20ea7cccbffe58b0ddbd1856700c4422",
       "size": 169787,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -207,6 +251,7 @@
     "b073": {
       "created_at": "2024-06-04T21:33:16Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b073/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "fa9dc065a271f7a685dd39a5df9969bfd3d07afcca69068f72b7bdb9fdcf71ee",
       "size": 187061,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -218,6 +263,7 @@
     "b074": {
       "created_at": "2024-06-21T17:27:37Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b074/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "7faa6c87ee32c564d6350773a70edf30600681f554f8a892baf5f044955f6e0f",
       "size": 189500,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -229,6 +275,7 @@
     "b075": {
       "created_at": "2024-07-29T18:04:20Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b075/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "ef847f70fa4545701a1e7227e0b2897e9e287a472bab84c9abfd839e369a4d76",
       "size": 224837,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -240,6 +287,7 @@
     "b0751": {
       "created_at": "2024-07-29T18:04:20Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b0751/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "4c3e4b9a434c115ffb5ecc142ae5de654c6c6a6208af40032029ee83a394d067",
       "size": 224872,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -251,6 +299,7 @@
     "b0752": {
       "created_at": "2024-11-27T11:38:39Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b0752/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "3d63e78d258d97e4fe4ca25b54626f6bcd3761db72e394fa3344fe17a6dba56b",
       "size": 406163,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -262,6 +311,7 @@
     "b0753": {
       "created_at": "2024-12-15T14:33:00Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b0753/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "8e76568b3a11d4d0c898392fef7e0a6157ae8dedba1418ac09e5590c5b76ebff",
       "size": 412746,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -282,6 +332,7 @@
     "b0800r2": {
       "created_at": "2025-02-24T22:16:36Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b0800/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "6d5a7f63292db73095869a1ab4e8c10e3dec51bea172f1ea545f33551e49a0c5",
       "size": 105419,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -304,6 +355,7 @@
     "b0810r2": {
       "created_at": "2025-04-01T13:07:55Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b0810/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "595e1416f761a065a11b32b0f2308e9515a6a10464b32416dd39d2f74b31cffd",
       "size": 119589,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -315,6 +367,7 @@
     "b0811": {
       "created_at": "2025-04-06T22:53:52Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b0811/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "9ae324d52ec99ee01806b080887b820351861b1b5cda85568b8289071585d7f0",
       "size": 119646,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -326,6 +379,7 @@
     "b0812": {
       "created_at": "2025-04-20T22:07:58Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b0812/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "cc8783f0209837ee1516b1c2fe9dba47b7315e6840c2c900912da47e7f11fb1b",
       "size": 120239,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",
@@ -370,6 +424,7 @@
     "b0813r4": {
       "created_at": "2025-05-01T12:13:43Z",
       "download_url": "https://github.com/fdelduque/Archipelago/releases/download/b0813/sotn.apworld",
+      "has_manifest": false,
       "hash_sha256": "a6b99b4ace312c0d6a18ff87d9a97ea6ef02c880c2b6a6cf646704b494fe00af",
       "size": 125675,
       "source_url": "https://api.github.com/repos/fdelduque/Archipelago",

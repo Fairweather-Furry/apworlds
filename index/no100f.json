@@ -8,6 +8,7 @@
       "created_at": "2025-08-29T23:31:00Z",
       "download_url": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_0/no100f.apworld",
       "failed_to_load": "cannot import name 'APPlayerContainer' from 'worlds.Files' (/home/runner/work/apworlds/apworlds/Archipelago/worlds/Files.py)",
+      "has_manifest": false,
       "hash_sha256": "c7a73db59222d8761aa6528118924eca25b97a3f3e6fde3dd3e74ba64d9abda0",
       "size": 216707,
       "source_url": "https://api.github.com/repos/vgm5/Night_Of_100_Frights_ap_world",
@@ -19,6 +20,7 @@
     "Release_1_3_1": {
       "created_at": "2025-09-08T00:50:09Z",
       "download_url": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_1/no100f.apworld",
+      "has_manifest": false,
       "hash_sha256": "fd0d624626c456fd7f64b8a50af8930fcaea8a691ba13fec5e52dd00e3999517",
       "size": 216769,
       "source_url": "https://api.github.com/repos/vgm5/Night_Of_100_Frights_ap_world",
@@ -30,13 +32,14 @@
     "Release_1_3_2": {
       "created_at": "2025-10-05T02:58:03Z",
       "download_url": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_2/no100f.apworld",
+      "has_manifest": false,
       "hash_sha256": "eacdeaeabd139cdd2e8e0230ed259904bab6a4fa1594036b3590906d30fc51e2",
       "size": 220145,
       "source_url": "https://api.github.com/repos/vgm5/Night_Of_100_Frights_ap_world",
       "tag": "Release_1_3_2",
       "title": "Major Release v1.3.2 | Full | Naming Revisit Pt 2",
-      "version_simple": "1",
-      "world_version": "1"
+      "version_simple": "1.3.2",
+      "world_version": "1.3.2"
     },
     "Release_1_3_3": {
       "created_at": "2025-10-09T01:32:43Z",
@@ -46,8 +49,90 @@
       "source_url": "https://api.github.com/repos/vgm5/Night_Of_100_Frights_ap_world",
       "tag": "Release_1_3_3",
       "title": "Major Release v1.3.3 | Full | Naming Revisit Pt3",
-      "version_simple": "1",
-      "world_version": "1"
+      "version_simple": "1.3.3",
+      "world_version": "1.3.3"
+    },
+    "Release_1_3_3r2": {
+      "created_at": "2025-10-09T01:32:43Z",
+      "download_url": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_3/no100f.apworld",
+      "hash_sha256": "a25c763d9f10f846043b682a44f68248c9f86c643bd27eb022b09d53232a55ec",
+      "size": 222564,
+      "source_url": "https://api.github.com/repos/vgm5/Night_Of_100_Frights_ap_world",
+      "tag": "Release_1_3_3r2",
+      "title": "Major Release v1.3.3 | Full | Naming Revisit Pt3",
+      "version_simple": "1.3.3",
+      "world_version": "1.3.3.post2"
+    },
+    "Release_1_3_3r3": {
+      "created_at": "2025-10-09T01:32:43Z",
+      "download_url": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_3/no100f.apworld",
+      "hash_sha256": "172d6821ec5c4763794283d13ca8605ce933fa4f8145db19ddf615c008d213ce",
+      "size": 222588,
+      "source_url": "https://api.github.com/repos/vgm5/Night_Of_100_Frights_ap_world",
+      "tag": "Release_1_3_3r3",
+      "title": "Major Release v1.3.3 | Full | Naming Revisit Pt3",
+      "version_simple": "1.3.3",
+      "world_version": "1.3.3.post3"
+    },
+    "Release_1_3_3r4": {
+      "created_at": "2025-10-09T01:32:43Z",
+      "download_url": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_3/no100f.apworld",
+      "has_manifest": false,
+      "hash_sha256": "87c43414ef15271687ed2524ee9f481a3371dc4de77c8448ad4f719f4099991f",
+      "size": 222593,
+      "source_url": "https://api.github.com/repos/vgm5/Night_Of_100_Frights_ap_world",
+      "tag": "Release_1_3_3r4",
+      "title": "Major Release v1.3.3 | Full | Naming Revisit Pt3",
+      "version_simple": "1.3.3",
+      "world_version": "1.3.3.post4"
+    },
+    "Release_1_3_3r5": {
+      "created_at": "2025-10-09T01:32:43Z",
+      "download_url": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_3/no100f.apworld",
+      "has_manifest": false,
+      "hash_sha256": "876f13ba88bcff257efaa8b0e0797a78a530f50c9587f05652fa516b780bb0e9",
+      "size": 223404,
+      "source_url": "https://api.github.com/repos/vgm5/Night_Of_100_Frights_ap_world",
+      "tag": "Release_1_3_3r5",
+      "title": "Major Release v1.3.3 | Full | Naming Revisit Pt3",
+      "version_simple": "1.3.3",
+      "world_version": "1.3.3.post5"
+    },
+    "Release_1_3_4": {
+      "created_at": "2025-12-12T20:11:33Z",
+      "download_url": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_4/no100f.apworld",
+      "has_manifest": false,
+      "hash_sha256": "a200dbccdec45c0825d6b04f55737379e57835817f4033c3c321e85e3d62198d",
+      "size": 223522,
+      "source_url": "https://api.github.com/repos/vgm5/Night_Of_100_Frights_ap_world",
+      "tag": "Release_1_3_4",
+      "title": "Minor Release v1.3.4 | Full | QOL and Logic Fixes",
+      "version_simple": "1.3.4",
+      "world_version": "1.3.4"
+    },
+    "Release_1_3_4r2": {
+      "created_at": "2025-12-12T20:11:33Z",
+      "download_url": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_4/no100f.apworld",
+      "has_manifest": false,
+      "hash_sha256": "bd5dcc118f70790335de4f49f947073e4111f6cb7d160504e20bbff62912eaa0",
+      "size": 223585,
+      "source_url": "https://api.github.com/repos/vgm5/Night_Of_100_Frights_ap_world",
+      "tag": "Release_1_3_4r2",
+      "title": "Minor Release v1.3.4 | Full | QOL and Logic Fixes",
+      "version_simple": "1.3.4",
+      "world_version": "1.3.4.post2"
+    },
+    "Release_1_3_5": {
+      "created_at": "2025-12-17T03:14:09Z",
+      "download_url": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_5/no100f.apworld",
+      "has_manifest": true,
+      "hash_sha256": "8b86a61419ba471139570fca00b87e8779092f96434af37c777b5fc7673145a9",
+      "size": 156867,
+      "source_url": "https://api.github.com/repos/vgm5/Night_Of_100_Frights_ap_world",
+      "tag": "Release_1_3_5",
+      "title": "AP Compatibility Release v1.3.5 | Full",
+      "version_simple": "1.3.5",
+      "world_version": "1.3.5"
     }
   }
 }

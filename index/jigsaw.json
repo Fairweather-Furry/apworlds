@@ -1,12 +1,13 @@
 {
   "description": "Make a Jigsaw puzzle! But first you'll have to find your pieces.\nConnect the pieces to unlock more. Goal: solve the puzzle of course!",
   "game": "Jigsaw",
-  "github": "https://github.com/spineraks-org/ArchipelagoJigsaw/",
+  "github": "https://github.com/spineraks-org/ArchipelagoJigsaw",
   "license": null,
   "versions": {
     "v0.0.1": {
       "created_at": "2025-02-07T20:06:06Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.0.1/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "51bcdfcb1405e2008c0310f29b3d38bce6a155f00aaae2c30822ed679783974a",
       "size": 252316,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -18,6 +19,7 @@
     "v0.0.2": {
       "created_at": "2025-02-08T00:32:57Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.0.2/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "d48ae9ee675c37809a454cd69c433bf71ef7b04380ddc9fb0d739a61ac1bc86f",
       "size": 253334,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -29,6 +31,7 @@
     "v0.0.3": {
       "created_at": "2025-02-10T20:57:07Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.0.3/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "d18fb4c7bc12e13421edfce9c3503d07a6bd57d42f8f02fb4af0a053338173e5",
       "size": 255961,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -40,6 +43,7 @@
     "v0.0.4": {
       "created_at": "2025-02-12T22:44:09Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.0.4/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "988000aa1f5012408fa2e7fbb2a8a5faecaa5c2ff3b5627db3618e2fefe76c7b",
       "size": 258475,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -51,6 +55,7 @@
     "v0.1.0": {
       "created_at": "2025-02-14T00:24:56Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.1.0/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "94e28c96e35ee57f97c9d0b856e6811d8217dbbb839b60b8eb39f9bc8beeacbb",
       "size": 10092,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -62,6 +67,7 @@
     "v0.1.1": {
       "created_at": "2025-02-16T20:40:27Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.1.1/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "a5313d5eae94ee93337b34d5c551afa91cc7ef5d98db45e4abb28e942128fbe8",
       "size": 11682,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -73,6 +79,7 @@
     "v0.2.0": {
       "created_at": "2025-02-16T20:40:27Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.2.0/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "627c28bd12ddddf46b10362dbd87a47c5048c3206e34d629884310ccf941fd55",
       "size": 8945,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -84,6 +91,7 @@
     "v0.3.0": {
       "created_at": "2025-03-08T01:54:59Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.3.0/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "eadb8c47f1f5c892e85131fdf516b0e01ffb680faecf41ca7ca3925d1942c590",
       "size": 9688,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -95,6 +103,7 @@
     "v0.4.0": {
       "created_at": "2025-04-12T22:20:28Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.4.0/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "e84e77c24c9b5b77407e3e7555d1d9424933d83b6061772743cb35a88d651ecb",
       "prerelease": true,
       "size": 11930,
@@ -107,6 +116,7 @@
     "v0.4.1": {
       "created_at": "2025-04-17T23:46:54Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.4.1/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "11907760f6d15e6c19ca4cce46ee38e4d0ff63d3ca445e32726c47a78a5354df",
       "size": 33983,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -118,6 +128,7 @@
     "v0.5.0": {
       "created_at": "2025-04-20T01:45:12Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.5.0/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "ee432491511e3a80bd20e8cd7ffd93ed35afd3d985e572521fa4c5ce1f0cf644",
       "size": 13246,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -140,6 +151,7 @@
     "v0.6.0r2": {
       "created_at": "2025-04-24T19:24:19Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.6.0/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "77202d575aa6d3cd0211711dc107de2a42cae7d0ad73080f4c683b7cc669ed96",
       "size": 13591,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -151,6 +163,7 @@
     "v0.6.1": {
       "created_at": "2025-05-17T22:06:23Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.6.1/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "ffcf37f2c3944df6e987b65c5725eff04214cd0c2f96db90928452a13de02514",
       "size": 40310,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -162,6 +175,7 @@
     "v0.6.2": {
       "created_at": "2025-05-22T17:20:40Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.6.2/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "c36f137c8badeb810c96c6e61254aedf850c8adaf435fd41cc06aa3f7a055eb7",
       "size": 14279,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -173,6 +187,7 @@
     "v0.6.3": {
       "created_at": "2025-05-22T21:35:37Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.6.3/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "e1b9a91e3c252dd9eb1571b160f54b6ad61eb579954eb4d9af6adec28ce0696d",
       "size": 40634,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -184,6 +199,7 @@
     "v0.6.4": {
       "created_at": "2025-05-24T22:49:52Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.6.4/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "dae1bbe1893a7a64a58048b19a283d25349a52be5b5df1b178b49cb38f6d8c0a",
       "size": 40600,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -195,6 +211,7 @@
     "v0.6.5": {
       "created_at": "2025-05-29T00:08:09Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.6.5/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "7dc736370070bdf672b04d4578199e109337098cea2309c0deb77c2ed75d971f",
       "size": 14244,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -206,6 +223,7 @@
     "v0.6.6": {
       "created_at": "2025-05-31T21:34:03Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.6.6/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "91be2db42009606a47b7c06257d84963774111739ba9f6a3296123934a64f5ce",
       "size": 14560,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -217,6 +235,7 @@
     "v0.7.0": {
       "created_at": "2025-06-26T17:25:32Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.7.0/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "9fa936de461d2d88c0811d2a03a7dca008cfbf2588e338f62fd120731727502b",
       "size": 14715,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -228,6 +247,7 @@
     "v0.7.1": {
       "created_at": "2025-06-26T17:25:32Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.7.1/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "4f533454a149c762b7c5f74417409d5e727c8beb801ec90da661b8873126c725",
       "size": 14800,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -239,6 +259,7 @@
     "v0.7.2": {
       "created_at": "2025-06-26T17:25:32Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.7.2/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "ba60f1031fc7a48a3cc1df529219ac3c7f89e6fddaa41dba5c19a8f053b48ba1",
       "size": 14822,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -250,6 +271,7 @@
     "v0.8.0": {
       "created_at": "2025-07-30T20:10:41Z",
       "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.8.0/jigsaw.apworld",
+      "has_manifest": false,
       "hash_sha256": "0b02af5fd4cad6e95f0ea9176ddcd3a6999884363dfce1b91db4996af4080c6d",
       "size": 15268,
       "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
@@ -257,6 +279,32 @@
       "title": "Jigsaw for AP 0.8.0: Hexagon Update!",
       "version_simple": "0.8.0",
       "world_version": "0.8.0"
+    },
+    "v0.9.0": {
+      "created_at": "2025-10-30T21:56:24Z",
+      "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.9.0/jigsaw.apworld",
+      "has_manifest": true,
+      "hash_sha256": "36c4d7f6ea8984ddc47a6da02fee88e486bfb71477cb5926663a01f3a4aa8594",
+      "minimum_ap_version": "0.6.0",
+      "size": 16042,
+      "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
+      "tag": "v0.9.0",
+      "title": "Jigsaw for AP 0.9.0: Spooky Rotations",
+      "version_simple": "0.9.0",
+      "world_version": "0.9.0"
+    },
+    "v0.9.1": {
+      "created_at": "2025-11-01T01:13:34Z",
+      "download_url": "https://github.com/spineraks-org/ArchipelagoJigsaw/releases/download/v0.9.1/jigsaw.apworld",
+      "has_manifest": true,
+      "hash_sha256": "9c944b8e3db4b76a8d8fb1c3f1c3528775c63edc5aef1f813963da3333d2b564",
+      "minimum_ap_version": "0.6.0",
+      "size": 16155,
+      "source_url": "https://api.github.com/repos/spineraks-org/ArchipelagoJigsaw",
+      "tag": "v0.9.1",
+      "title": "Jigsaw for AP 0.9.1: Not so spooky bugfix",
+      "version_simple": "0.9.1",
+      "world_version": "0.9.1"
     }
   }
 }

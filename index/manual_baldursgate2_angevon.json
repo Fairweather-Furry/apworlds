@@ -1,0 +1,44 @@
+{
+  "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent.",
+  "game": "Manual_BaldursGate2_Angevon",
+  "github": "https://github.com/Angevon-1/manual_baldursgate2_angevon",
+  "license": "MIT",
+  "versions": {
+    "0.1.0": {
+      "created_at": "2025-08-31T00:32:36Z",
+      "download_url": "https://github.com/Angevon-1/manual_baldursgate2_angevon/releases/download/0.1.0/manual_baldursgate2_angevon.apworld",
+      "has_manifest": false,
+      "hash_sha256": "8e88739430f0319df8e837651dddc57f1225449b7471b618090398ce4d2e5838",
+      "size": 2061970,
+      "source_url": "https://api.github.com/repos/Angevon-1/manual_baldursgate2_angevon",
+      "tag": "0.1.0",
+      "title": "Baldur\u2019s Gate 2: Shadows of Amn Archipelago Manual Initial Release v0.1.0",
+      "version_simple": "0.1.0",
+      "world_version": "0.1.0"
+    },
+    "0.2.0": {
+      "created_at": "2025-09-11T14:07:24Z",
+      "download_url": "https://github.com/Angevon-1/manual_baldursgate2_angevon/releases/download/0.2.0/manual_baldursgate2_angevon.apworld",
+      "has_manifest": false,
+      "hash_sha256": "38c69a672445a0b3fd0650a484f40882374e65e9033f449d105332180e234f3d",
+      "size": 2129607,
+      "source_url": "https://api.github.com/repos/Angevon-1/manual_baldursgate2_angevon",
+      "tag": "0.2.0",
+      "title": "Baldur\u2019s Gate 2: Shadows of Amn Archipelago Manual v0.2.0",
+      "version_simple": "0.2.0",
+      "world_version": "0.2.0"
+    },
+    "0.3.0": {
+      "created_at": "2025-11-03T03:47:40Z",
+      "download_url": "https://github.com/Angevon-1/manual_baldursgate2_angevon/releases/download/0.3.0/manual_baldursgate2_angevon.apworld",
+      "has_manifest": false,
+      "hash_sha256": "510f0c4ebbc63fe2caa323a9be798e795d787a4622e59271efe9c2c792dfbc80",
+      "size": 2378691,
+      "source_url": "https://api.github.com/repos/Angevon-1/manual_baldursgate2_angevon",
+      "tag": "0.3.0",
+      "title": "Baldur\u2019s Gate 2: Shadows of Amn Archipelago Manual v0.3.0",
+      "version_simple": "0.3.0",
+      "world_version": "0.3.0"
+    }
+  }
+}

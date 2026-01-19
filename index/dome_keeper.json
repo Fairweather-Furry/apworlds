@@ -4,9 +4,70 @@
   "github": "https://github.com/Arrcival/ArchipelagoDK",
   "license": null,
   "versions": {
+    "v0.5.0": {
+      "created_at": "2024-02-15T23:55:40Z",
+      "download_url": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v0.5.0/dome_keeper-0.5.0.apworld",
+      "has_manifest": false,
+      "hash_sha256": "cd757bf2a0587b72065725811a476ed0d33c9358a8f16a771ffd3950b455ea77",
+      "size": 27184,
+      "source_url": "https://api.github.com/repos/Arrcival/ArchipelagoDK",
+      "tag": "v0.5.0",
+      "title": "v0.5.0 : progression update",
+      "version_simple": "0.5.0",
+      "world_version": "0.5.0"
+    },
+    "v0.5.1": {
+      "created_at": "2024-02-16T15:56:01Z",
+      "download_url": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v0.5.1/dome_keeper-0.5.1.apworld",
+      "has_manifest": false,
+      "hash_sha256": "ea7220ab87e81acf3eacbde1476dfb65482161c9010ed57e9881d8103bcb7630",
+      "size": 26599,
+      "source_url": "https://api.github.com/repos/Arrcival/ArchipelagoDK",
+      "tag": "v0.5.1",
+      "title": "v0.5.1 : progression layers fixes",
+      "version_simple": "0.5.1",
+      "world_version": "0.5.1"
+    },
+    "v0.6.0": {
+      "created_at": "2024-02-22T20:16:02Z",
+      "download_url": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v0.6.0/dome_keeper-0.6.0.apworld",
+      "has_manifest": false,
+      "hash_sha256": "30f28b29b21a8ed46708fa6c2c44f2dd905219f8fd6ec2d8054aa726c1c7adf3",
+      "size": 27171,
+      "source_url": "https://api.github.com/repos/Arrcival/ArchipelagoDK",
+      "tag": "v0.6.0",
+      "title": "v0.6.0 : quality of life update",
+      "version_simple": "0.6.0",
+      "world_version": "0.6.0"
+    },
+    "v0.7.0": {
+      "created_at": "2024-03-09T01:07:10Z",
+      "download_url": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v0.7.0/0.7.0_TORENAME_dome_keeper.apworld",
+      "has_manifest": false,
+      "hash_sha256": "b89d15c4f4c9e3ab6f8e271d1242b80889874732626b121c2962d6f8fa5dce13",
+      "size": 27977,
+      "source_url": "https://api.github.com/repos/Arrcival/ArchipelagoDK",
+      "tag": "v0.7.0",
+      "title": "v0.7.0 : caves and sound",
+      "version_simple": "0.7.0",
+      "world_version": "0.7.0"
+    },
+    "v0.7.1": {
+      "created_at": "2024-03-28T16:16:20Z",
+      "download_url": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v0.7.1/0.7.1_TORENAME_dome_keeper.apworld",
+      "has_manifest": false,
+      "hash_sha256": "ab9c0dabde596a64dc337ab5c2d91a543a852ec714a0dd79ea1c5e03abc22ff0",
+      "size": 28105,
+      "source_url": "https://api.github.com/repos/Arrcival/ArchipelagoDK",
+      "tag": "v0.7.1",
+      "title": "v0.7.1 : generation fixes",
+      "version_simple": "0.7.1",
+      "world_version": "0.7.1"
+    },
     "v1.0.0": {
       "created_at": "2024-11-27T20:38:22Z",
       "download_url": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v1.0.0/dome_keeper.apworld",
+      "has_manifest": false,
       "hash_sha256": "78261a2b916323f36f07ce3deab48f0c982909f8f8666230d235d3c6443a3fde",
       "size": 32250,
       "source_url": "https://api.github.com/repos/Arrcival/ArchipelagoDK",
@@ -18,6 +79,7 @@
     "v1.1.0": {
       "created_at": "2024-12-30T22:31:58Z",
       "download_url": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v1.1.0/dome_keeper.apworld",
+      "has_manifest": false,
       "hash_sha256": "238bfb069a9795cdbc218e0c442f13aa44aa32cda8ce415c83e438bdf8594f07",
       "size": 44571,
       "source_url": "https://api.github.com/repos/Arrcival/ArchipelagoDK",
@@ -29,6 +91,7 @@
     "v1.1.1": {
       "created_at": "2025-01-01T01:34:04Z",
       "download_url": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v1.1.1/dome_keeper.apworld",
+      "has_manifest": false,
       "hash_sha256": "8eb3d0f6f5f92c49f9686e630b0928b44a1fbc864ce19698f022bca25be6c293",
       "size": 44894,
       "source_url": "https://api.github.com/repos/Arrcival/ArchipelagoDK",
@@ -40,6 +103,7 @@
     "v1.1.2": {
       "created_at": "2025-01-04T17:23:53Z",
       "download_url": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v1.1.2/dome_keeper.apworld",
+      "has_manifest": false,
       "hash_sha256": "689a9b4cec658f2ae86080d1639e633752d50df633b0c12ec2000441529f729c",
       "size": 44868,
       "source_url": "https://api.github.com/repos/Arrcival/ArchipelagoDK",
@@ -51,6 +115,7 @@
     "v1.1.3": {
       "created_at": "2025-01-05T17:30:06Z",
       "download_url": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v1.1.3/dome_keeper.apworld",
+      "has_manifest": false,
       "hash_sha256": "8efd6d9aa7b4d97f19f098f5ef86b23f84b202bbabfbb6fda45421fe640eb2a5",
       "size": 44885,
       "source_url": "https://api.github.com/repos/Arrcival/ArchipelagoDK",
@@ -62,6 +127,7 @@
     "v1.1.4": {
       "created_at": "2025-01-11T21:37:54Z",
       "download_url": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v1.1.4/dome_keeper.apworld",
+      "has_manifest": false,
       "hash_sha256": "8c28e36f34d0f4eca538527a853430a65fb0434c8375ba747241c52bd42a53ae",
       "size": 44894,
       "source_url": "https://api.github.com/repos/Arrcival/ArchipelagoDK",
@@ -73,6 +139,7 @@
     "v1.2.0": {
       "created_at": "2025-03-13T19:58:47Z",
       "download_url": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v1.2.0/dome_keeper.apworld",
+      "has_manifest": false,
       "hash_sha256": "2d75e9aa3f34e8f4cdfc310e680b71f0600efbf9d78410ee6b7e7b4379524e69",
       "size": 47627,
       "source_url": "https://api.github.com/repos/Arrcival/ArchipelagoDK",
@@ -84,13 +151,14 @@
     "v1.3.0": {
       "created_at": "2025-04-12T15:22:54Z",
       "download_url": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v1.3.0/dome_keeper.apworld",
+      "has_manifest": false,
       "hash_sha256": "70aa611d69ddc12d161d27f0778ad620de6b906c34eb0581afdd42753a77eec1",
       "size": 47628,
       "source_url": "https://api.github.com/repos/Arrcival/ArchipelagoDK",
       "tag": "v1.3.0",
       "title": "v1.3.0: bump to v0.6.1",
-      "version_simple": "0.6.1",
-      "world_version": "0.6.1"
+      "version_simple": "1.3.0",
+      "world_version": "1.3.0"
     }
   }
 }

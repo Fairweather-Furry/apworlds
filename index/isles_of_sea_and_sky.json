@@ -1,12 +1,13 @@
 {
   "description": "Isles Of Sea And Sky is a sokoban-style puzzle game with metroidvania elements.\nAs the player collects items, and equipment they can explore islands to collect as many goodies as they can,\nuntil they reach the Sanctum, and learn just what all these Stars are for.",
   "game": "IslesOfSeaAndSky",
-  "github": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/",
+  "github": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
   "license": null,
   "versions": {
     "V0_0_6": {
       "created_at": "2025-05-31T08:47:36Z",
       "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/V0_0_6/isles_of_sea_and_sky.apworld",
+      "has_manifest": false,
       "hash_sha256": "446efbb5f06e5ed8dd5f0e3b717654bd6d8929a0dcd9ae3c987a04de0e7e91e9",
       "size": 589179,
       "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
@@ -29,6 +30,7 @@
     "V0_0_7r2": {
       "created_at": "2025-06-07T07:49:16Z",
       "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/V0_0_7/isles_of_sea_and_sky.apworld",
+      "has_manifest": false,
       "hash_sha256": "193fc62a242bbab379dafd4b20c41d42e43fd906cf1de63bac8b71ba43385840",
       "size": 355481,
       "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
@@ -51,6 +53,7 @@
     "v0.0.1r2": {
       "created_at": "2025-04-10T10:51:21Z",
       "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0.0.1/isles_of_sea_and_sky.apworld",
+      "has_manifest": false,
       "hash_sha256": "b9d82e76fb180e9999f9fa74a7d0adc2133c937ead48e7d4078786ada7a0f7f2",
       "size": 517910,
       "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
@@ -62,6 +65,7 @@
     "v0.0.2": {
       "created_at": "2025-04-19T06:19:53Z",
       "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0.0.2/isles_of_sea_and_sky.apworld",
+      "has_manifest": false,
       "hash_sha256": "f4c189aa6db20e9acf40ff023d1c62e6dc5af6e3645ac13facb8ddf31e3350b4",
       "size": 560404,
       "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
@@ -73,6 +77,7 @@
     "v0.0.3": {
       "created_at": "2025-04-25T13:15:40Z",
       "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0.0.3/isles_of_sea_and_sky.apworld",
+      "has_manifest": false,
       "hash_sha256": "32111a76a134e8fa395f9e73df53f1cd2a91aa879e801c8a2ff9973f0cf2fdf9",
       "size": 574264,
       "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
@@ -84,6 +89,7 @@
     "v0.0.4": {
       "created_at": "2025-04-27T08:22:47Z",
       "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0.0.4/isles_of_sea_and_sky.apworld",
+      "has_manifest": false,
       "hash_sha256": "c48e831919a4465d9f155d25c27035858041e720c624cdd0c566b6d87f1cc2c2",
       "size": 575232,
       "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
@@ -95,6 +101,7 @@
     "v0.0.5": {
       "created_at": "2025-05-22T13:26:29Z",
       "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0.0.5/isles_of_sea_and_sky.apworld",
+      "has_manifest": false,
       "hash_sha256": "f55f79a5eab85698e818923fe4eb55c12cab672e11ff622d28e5f2bfc75dd2d5",
       "size": 592255,
       "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
@@ -106,6 +113,7 @@
     "v0_0_11": {
       "created_at": "2025-07-26T08:39:27Z",
       "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_11/isles_of_sea_and_sky.apworld",
+      "has_manifest": false,
       "hash_sha256": "71dcf5e26213cf364ba0598beb203d699037416fefb8859b8b4a1aea3718c14e",
       "size": 1434864,
       "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
@@ -117,6 +125,7 @@
     "v0_0_12": {
       "created_at": "2025-08-17T05:46:10Z",
       "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_12/isles_of_sea_and_sky.apworld",
+      "has_manifest": false,
       "hash_sha256": "5aefdbcb28ae4ae90560a51222f555d50fe40d75407974f339b4e952d999ccca",
       "size": 1434767,
       "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
@@ -125,9 +134,60 @@
       "version_simple": "0.0.12",
       "world_version": "0.0.12"
     },
+    "v0_0_13": {
+      "created_at": "2025-10-12T09:54:44Z",
+      "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_13/isles_of_sea_and_sky.apworld",
+      "hash_sha256": "8e9afa35cae6a29fe8f51859cb5fdd617f67a56983b5ca33be161ce4c6085d1f",
+      "minimum_ap_version": "0.6.4",
+      "size": 1325786,
+      "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
+      "tag": "v0_0_13",
+      "title": "Isles Of Sea And Sky v0.0.13",
+      "version_simple": "13",
+      "world_version": "0.0.13"
+    },
+    "v0_0_13c": {
+      "created_at": "2025-11-08T14:10:48Z",
+      "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_13c/isles_of_sea_and_sky.apworld",
+      "has_manifest": false,
+      "hash_sha256": "253360cee61109198e591c30ae36737328480038557a45f1f919cccf6baae510",
+      "minimum_ap_version": "0.6.4",
+      "size": 1504268,
+      "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
+      "tag": "v0_0_13c",
+      "title": "Isles Of Sea And Sky v0.0.13c",
+      "version_simple": "13",
+      "world_version": "0.0.13"
+    },
+    "v0_0_13r2": {
+      "created_at": "2025-10-12T09:54:44Z",
+      "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_13/isles_of_sea_and_sky.apworld",
+      "has_manifest": false,
+      "hash_sha256": "eabc1c686b467a18bd8964736336986d561def7d6cb4aa2c20581cc93cac71ca",
+      "minimum_ap_version": "0.6.4",
+      "size": 1504036,
+      "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
+      "tag": "v0_0_13r2",
+      "title": "Isles Of Sea And Sky v0.0.13b",
+      "version_simple": "13",
+      "world_version": "0.0.13"
+    },
+    "v0_0_14": {
+      "created_at": "2025-12-03T12:53:39Z",
+      "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_14/isles_of_sea_and_sky.apworld",
+      "has_manifest": false,
+      "hash_sha256": "9b2f15d9431a580e89b3b990ef2627a5abbfcaf13f77c4361f9ef194b60c79bf",
+      "size": 1504358,
+      "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
+      "tag": "v0_0_14",
+      "title": "Isles Of Sea And Sky v0.0.14",
+      "version_simple": "14",
+      "world_version": "14"
+    },
     "v0_0_8": {
       "created_at": "2025-06-14T06:34:39Z",
       "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_8/isles_of_sea_and_sky.apworld",
+      "has_manifest": false,
       "hash_sha256": "6461d25b93a12edd81f0bc6f2cea7216cf70009c79b44b5c0d92dfa0b9ec315d",
       "size": 344567,
       "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
@@ -150,6 +210,7 @@
     "v0_0_9r2": {
       "created_at": "2025-07-06T09:41:35Z",
       "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_9/isles_of_sea_and_sky.apworld",
+      "has_manifest": false,
       "hash_sha256": "ca7fde9aa55223750eafe3efe9ad8b72d9319889729721c9676815d2f654ffa2",
       "size": 417954,
       "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",
@@ -183,6 +244,7 @@
     "v_0_0_10r3": {
       "created_at": "2025-07-17T13:33:38Z",
       "download_url": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v_0_0_10/isles_of_sea_and_sky.apworld",
+      "has_manifest": false,
       "hash_sha256": "61a88db5382a71bdcb4d9dbd9883c781476f34277f8e605353cc1e3010b52b1f",
       "size": 394502,
       "source_url": "https://api.github.com/repos/Kim-Delicious/Archipelago_IslesOfSeaAndSky",

@@ -1,12 +1,13 @@
 {
   "description": "Paper Mario is a turn-based adventure RPG. Bowser has kidnapped Princess Peach along with her castle using the\npower of the Star Rod, which grants the wishes of the holder. You must rescue the Star Spirits so that they can\nhelp you take back the Star Rod from Bowser and save Peach. You will have to defeat powerful foes\nand venture through dangerous lands with the help of partners you meet along the way.",
   "game": "Paper Mario",
-  "github": "https://github.com/JKBSunshine/PMR_APWorld/",
+  "github": "https://github.com/JKBSunshine/PMR_APWorld",
   "license": "GPL-3.0",
   "versions": {
     "v0.1.5": {
       "created_at": "2024-04-03T23:02:45Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.1.5/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "54dd4783c2d383cebc8b03fe1a73352857205407842e71fe1ab51a491849b13c",
       "prerelease": true,
       "size": 1450994,
@@ -19,6 +20,7 @@
     "v0.1.6": {
       "created_at": "2024-04-05T20:44:36Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.1.6/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "470d65945cffa9e87492b4404aedc287f2eb009188f3abacf237decf0e5afc58",
       "prerelease": true,
       "size": 1454485,
@@ -31,6 +33,7 @@
     "v0.1.6a": {
       "created_at": "2024-04-05T23:22:11Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.1.6a/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "10d9ab638cea6f38178bd200c9969d6cb3a95af2aff92312f32d33b50a4d114c",
       "prerelease": true,
       "size": 1454491,
@@ -43,6 +46,7 @@
     "v0.1.7": {
       "created_at": "2024-04-12T04:01:47Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.1.7/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "c85b118957be862e1849c5c2527af572d0a756ae4fa3c78b3ed8375d06643999",
       "prerelease": true,
       "size": 1457252,
@@ -55,6 +59,7 @@
     "v0.2.0": {
       "created_at": "2024-04-12T23:06:10Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.2.0/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "f3f1cc73359c271989ad4941b2e63f1dd86e3ca2c2089cc1f50a6790f94cad8b",
       "prerelease": true,
       "size": 1457576,
@@ -67,6 +72,7 @@
     "v0.2.0a": {
       "created_at": "2024-04-13T06:30:52Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.2.0a/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "c822e1552ac7414be8d0652c0ff26f2e57bceb3b02311a10cd65c18d33a25b7f",
       "prerelease": true,
       "size": 1457547,
@@ -79,6 +85,7 @@
     "v0.2.1": {
       "created_at": "2024-04-14T00:40:41Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.2.1/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "b15b70373d18220b0459eb821fbf06bda6f467cdb872c44db4b9264a8116f532",
       "prerelease": true,
       "size": 1457607,
@@ -91,6 +98,7 @@
     "v0.2.2": {
       "created_at": "2024-04-20T01:12:17Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.2.2/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "adf2337d18d98c73a64ef02bae1bd71c2f15d26a23662880e5c0ddc7abf7926b",
       "prerelease": true,
       "size": 1462893,
@@ -103,6 +111,7 @@
     "v0.2.3": {
       "created_at": "2024-04-23T00:38:31Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.2.3/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "0aa75debdbca882d2e4b4d8a3948df79c84dc2b8acba200184db5926d9bb8eae",
       "prerelease": true,
       "size": 1462113,
@@ -115,6 +124,7 @@
     "v0.2.4": {
       "created_at": "2024-04-24T16:17:11Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.2.4/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "becb47d846c4398848f0bade4a8828bec117fce9a9f08bb870cd8272fb318e18",
       "prerelease": true,
       "size": 1462868,
@@ -127,6 +137,7 @@
     "v0.3.0": {
       "created_at": "2024-04-27T02:37:07Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.3.0/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "c6d609d1d9901757aea49a159af8dcc75a6f9e9a511238a9e22237cf7610fae5",
       "prerelease": true,
       "size": 1470552,
@@ -139,6 +150,7 @@
     "v0.3.1": {
       "created_at": "2024-04-30T16:17:11Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.3.1/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "6bb9047eed3d91f3840e0f23ca126beedce4835039a2f298b3dbefbca14c99a2",
       "prerelease": true,
       "size": 1471221,
@@ -151,6 +163,7 @@
     "v0.3.2": {
       "created_at": "2024-05-10T00:42:15Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.3.2/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "14fd83dd0dd8026f2a47498623bc4c0c254f62da58dd223df4c984ddcbc1a102",
       "prerelease": true,
       "size": 1471496,
@@ -163,6 +176,7 @@
     "v0.3.3": {
       "created_at": "2024-06-15T00:12:36Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.3.3/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "69b444a69986e92f8c5647aadc59bf12ba96ba07aa45d33995454b4345f7b737",
       "prerelease": true,
       "size": 1471602,
@@ -175,6 +189,7 @@
     "v0.4.0": {
       "created_at": "2024-07-11T01:15:49Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.4.0/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "c7e68f6adff176cde3e22becee658734cc94453d8942db9a24a8832e2eccc461",
       "prerelease": true,
       "size": 1497025,
@@ -187,6 +202,7 @@
     "v0.4.1": {
       "created_at": "2024-08-18T23:07:28Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.4.1/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "199714d1623a161ff5b7b1b9c74e6ce682c599eef4861c01610b9a765accedb1",
       "prerelease": true,
       "size": 1497728,
@@ -199,6 +215,7 @@
     "v0.4.2": {
       "created_at": "2024-12-01T04:37:27Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.4.2/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "8356a4e60060767aff479feedfea5ee1e2ca5e9cfb75b6aa759a0a86959d1dfe",
       "prerelease": true,
       "size": 1503647,
@@ -211,6 +228,7 @@
     "v0.4.3": {
       "created_at": "2025-01-18T04:19:35Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.4.3/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "b9ce5bab964a1617d59ae867be3c32f55e8db4b112363fe65d7511e4d0877ba5",
       "prerelease": true,
       "size": 1504071,
@@ -223,6 +241,7 @@
     "v0.4.4": {
       "created_at": "2025-01-25T19:34:12Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.4.4/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "c0fd139a1d11b170997d011695bd009f71b6cd9403b83b2ffdeeee8283fc5432",
       "prerelease": true,
       "size": 1504010,
@@ -235,6 +254,7 @@
     "v0.5.0": {
       "created_at": "2025-02-25T17:58:54Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.5.0/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "c4745513c65a1fc4a8c9847948a476906ac1b458cd9db2a1c13d158b4e16ecec",
       "prerelease": true,
       "size": 1505737,
@@ -258,6 +278,7 @@
     "v0.6.0r2": {
       "created_at": "2025-04-27T22:37:42Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.6.0/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "9dda15197c230143e00b7919897507a558bb4674931a4a9fd7bc561e56734b1d",
       "prerelease": true,
       "size": 1513834,
@@ -270,6 +291,7 @@
     "v0.6.1": {
       "created_at": "2025-05-04T22:23:25Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.6.1/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "30336179ed7fd9ab8be1433d999ce46a73f0141dd5f136eaad2dc0c5db2d1742",
       "prerelease": true,
       "size": 1507296,
@@ -282,6 +304,7 @@
     "v0.6.2": {
       "created_at": "2025-05-08T01:40:32Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.6.2/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "3638bf8cc8e8ce0f4962081325babff11ad6e7248ceb2043f24e4495fb1502fd",
       "size": 1508418,
       "source_url": "https://api.github.com/repos/JKBSunshine/PMR_APWorld",
@@ -293,6 +316,7 @@
     "v0.6.3": {
       "created_at": "2025-05-29T22:26:49Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.6.3/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "51ff1653e4abf49bebebb44bf63197360fe78d23ed2a2130d29cbdd23e9db5f3",
       "size": 1508445,
       "source_url": "https://api.github.com/repos/JKBSunshine/PMR_APWorld",
@@ -304,6 +328,7 @@
     "v0.6.4": {
       "created_at": "2025-06-04T00:53:16Z",
       "download_url": "https://github.com/JKBSunshine/PMR_APWorld/releases/download/v0.6.4/papermario.apworld",
+      "has_manifest": false,
       "hash_sha256": "100e688358d9e07e75b4a267b81c6bf23ef77a15ba2a4c38e8448c06e7d93ea4",
       "size": 1508448,
       "source_url": "https://api.github.com/repos/JKBSunshine/PMR_APWorld",

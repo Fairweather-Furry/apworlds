@@ -1,4 +1,5 @@
 {
+  "description": "Celeste (Open World) is a randomizer for the original Celeste. In this acclaimed platformer created by ExOK Games, you control Madeline as she attempts to climb the titular mountain, meeting friends and obstacles along the way.  Progression is found in unlocking the ability to interact with various objects in the areas, such as springs, traffic blocks, feathers, and many more. Please be safe on the climb.",
   "game": "Celeste (Open World)",
   "github": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World",
   "license": "MIT",
@@ -6,6 +7,8 @@
     "v1.0.0": {
       "created_at": "2025-04-27T00:57:57Z",
       "download_url": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World/releases/download/v1.0.0/celeste_open_world.apworld",
+      "failed_to_load": "Item and Location Options cannot be specified multiple times",
+      "has_manifest": false,
       "hash_sha256": "26bf721a20d5eb01b7f1a987fdd0d97981f2d490b5a7647ec113db6a82bb8d42",
       "size": 178819,
       "source_url": "https://api.github.com/repos/PoryGoneDev/Celeste-Archipelago-Open-World",
@@ -17,6 +20,8 @@
     "v1.0.1": {
       "created_at": "2025-04-28T01:33:32Z",
       "download_url": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World/releases/download/v1.0.1/celeste_open_world.apworld",
+      "failed_to_load": "Item and Location Options cannot be specified multiple times",
+      "has_manifest": false,
       "hash_sha256": "382b297aaad2736848947b829a75d6a01cea528a9dbdc8605fbcb1028ee542a0",
       "size": 178829,
       "source_url": "https://api.github.com/repos/PoryGoneDev/Celeste-Archipelago-Open-World",
@@ -29,6 +34,7 @@
       "created_at": "2025-05-01T01:23:41Z",
       "download_url": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World/releases/download/v1.0.2/celeste_open_world.apworld",
       "failed_to_load": "Item and Location Options cannot be specified multiple times",
+      "has_manifest": false,
       "hash_sha256": "963576332bcec45f9993d1cb1c897e7442ac4b57a8c8d74c6017840f1305bc56",
       "size": 178735,
       "source_url": "https://api.github.com/repos/PoryGoneDev/Celeste-Archipelago-Open-World",
@@ -41,6 +47,7 @@
       "created_at": "2025-05-19T04:47:57Z",
       "download_url": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World/releases/download/v1.0.3/celeste_open_world.apworld",
       "failed_to_load": "Item and Location Options cannot be specified multiple times",
+      "has_manifest": false,
       "hash_sha256": "5f731f67f4f3138cc5807ff420d5fc0f34f001338fd898496785790603b27f01",
       "size": 178917,
       "source_url": "https://api.github.com/repos/PoryGoneDev/Celeste-Archipelago-Open-World",
@@ -53,6 +60,7 @@
       "created_at": "2025-07-03T17:55:58Z",
       "download_url": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World/releases/download/v1.0.4/celeste_open_world.apworld",
       "failed_to_load": "Item and Location Options cannot be specified multiple times",
+      "has_manifest": false,
       "hash_sha256": "e0e3ac11bc61413bf6c95bffb010c6bacad75abb71e907eb6d03eaddac36110a",
       "size": 179138,
       "source_url": "https://api.github.com/repos/PoryGoneDev/Celeste-Archipelago-Open-World",
@@ -65,6 +73,7 @@
       "created_at": "2025-09-04T00:50:31Z",
       "download_url": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World/releases/download/v1.0.5/celeste_open_world.apworld",
       "failed_to_load": "Item and Location Options cannot be specified multiple times",
+      "has_manifest": false,
       "hash_sha256": "33f650fdaac8b3774a14603e9e464d00504f6603040146026782bcf6cdd31ae6",
       "size": 179412,
       "source_url": "https://api.github.com/repos/PoryGoneDev/Celeste-Archipelago-Open-World",
@@ -72,6 +81,32 @@
       "title": "v1.0.5",
       "version_simple": "1.0.5",
       "world_version": "1.0.5"
+    },
+    "v1.0.6": {
+      "created_at": "2026-01-07T23:49:23Z",
+      "download_url": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World/releases/download/v1.0.6/celeste_open_world.apworld",
+      "has_manifest": true,
+      "hash_sha256": "2366bc1be8145917b3938319524105447dfc94182a3093ca7ad46f2273d5cebc",
+      "minimum_ap_version": "0.6.3",
+      "size": 154878,
+      "source_url": "https://api.github.com/repos/PoryGoneDev/Celeste-Archipelago-Open-World",
+      "tag": "v1.0.6",
+      "title": "v1.0.6",
+      "version_simple": "1.0.6",
+      "world_version": "1.0.6"
+    },
+    "v1.0.7": {
+      "created_at": "2026-01-14T04:20:49Z",
+      "download_url": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World/releases/download/v1.0.7/celeste_open_world.apworld",
+      "has_manifest": true,
+      "hash_sha256": "f99037f706ed7227d594bacbcef3338b18d57b86b18f4346ada54e221377e58a",
+      "minimum_ap_version": "0.6.3",
+      "size": 154900,
+      "source_url": "https://api.github.com/repos/PoryGoneDev/Celeste-Archipelago-Open-World",
+      "tag": "v1.0.7",
+      "title": "v1.0.7",
+      "version_simple": "1.0.7",
+      "world_version": "1.0.7"
     }
   }
 }

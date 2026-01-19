@@ -1,4 +1,6 @@
 {
+  "description": "Spyro the Dragon, originally released on the PS1 in 1998, is a 3D collectathon platform starring the titular\npurple dragon, Spyro. Charge, jump, flame, and glide your way through 29 different levels across 6 different\nhomeworlds, as you collect gems, recover stolen dragon eggs, free crystallized dragons, and make your way\nto Gnorc Gnexus to torch Gnasty and save the world of dragons.",
+  "game": "Spyro the Dragon",
   "github": "https://github.com/gamefreq0/Archipelago",
   "license": "MIT",
   "name": "Spyro the Dragon",
@@ -6,6 +8,7 @@
     "spyro-v0.0.1": {
       "created_at": "2025-08-22T13:54:08Z",
       "download_url": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.0.1/spyro.apworld",
+      "has_manifest": false,
       "hash_sha256": "d5d4d5833e6f132c93cb3210de183dd0c21e35b4805856ba8b6c211ce2ce4bbc",
       "prerelease": true,
       "size": 18232,
@@ -18,6 +21,7 @@
     "spyro-v0.0.2": {
       "created_at": "2025-08-24T02:05:14Z",
       "download_url": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.0.2/spyro.apworld",
+      "has_manifest": false,
       "hash_sha256": "26610fe1d1ebf9d8f7b5d5fc77379b1c7d77751254e6f54333f40260ed358c51",
       "prerelease": true,
       "size": 18795,
@@ -30,6 +34,7 @@
     "spyro-v0.1.0": {
       "created_at": "2025-08-28T15:25:05Z",
       "download_url": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.1.0/spyro.apworld",
+      "has_manifest": false,
       "hash_sha256": "8498f47bd7bb6301dc8ed9812fac34d924bf6ce507fa8144b7e60c62e4e8f0b6",
       "prerelease": true,
       "size": 19036,
@@ -42,6 +47,7 @@
     "spyro-v0.2.0": {
       "created_at": "2025-08-28T15:31:34Z",
       "download_url": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.2.0/spyro.apworld",
+      "has_manifest": false,
       "hash_sha256": "a297eb9972bf54724f24ec7eaaa215e56c7eccf5cf8b0ff77f9ea278968e4065",
       "prerelease": true,
       "size": 19757,
@@ -54,6 +60,7 @@
     "spyro-v0.2.1": {
       "created_at": "2025-08-28T15:37:09Z",
       "download_url": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.2.1/spyro.apworld",
+      "has_manifest": false,
       "hash_sha256": "87304e9c4641ee0b2ffaee9c5480b6ace203d00912edc4d2e6e9cdbac981aa1e",
       "prerelease": true,
       "size": 21719,
@@ -66,6 +73,7 @@
     "spyro-v0.3.0": {
       "created_at": "2025-08-28T15:38:21Z",
       "download_url": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.3.0/spyro.apworld",
+      "has_manifest": false,
       "hash_sha256": "a190906d529890858c6e3808d5f19b90d80fd24fdd556d1fa7ccb94bed8a7ae6",
       "prerelease": true,
       "size": 22889,
@@ -78,6 +86,7 @@
     "spyro-v0.3.1": {
       "created_at": "2025-08-31T16:05:09Z",
       "download_url": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.3.1/spyro.apworld",
+      "has_manifest": false,
       "hash_sha256": "e11895ff721a01591b0e8096c549614404384c84f670ec96e372be01537f90c0",
       "prerelease": true,
       "size": 23092,
@@ -90,6 +99,7 @@
     "spyro-v0.3.2": {
       "created_at": "2025-09-01T18:20:25Z",
       "download_url": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.3.2/spyro.apworld",
+      "has_manifest": false,
       "hash_sha256": "c23e0e34fba341ecd6262f8800ba9575379dedaf3ff65266a8ad7f0c21d068f0",
       "prerelease": true,
       "size": 24171,
@@ -102,6 +112,7 @@
     "spyro-v0.3.3": {
       "created_at": "2025-09-03T02:01:32Z",
       "download_url": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.3.3/spyro.apworld",
+      "has_manifest": false,
       "hash_sha256": "e86432210ad1baa61bb91685ca9a642228a2fef6dea9a021166eb6aeb095788f",
       "prerelease": true,
       "size": 26088,
@@ -114,6 +125,7 @@
     "spyro-v0.3.4": {
       "created_at": "2025-09-04T22:12:58Z",
       "download_url": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.3.4/spyro.apworld",
+      "has_manifest": false,
       "hash_sha256": "92780cab4ce94974a8c81f2560cd5dac2ca049a73ac4e75aef6b7e2e71bf65c0",
       "prerelease": true,
       "size": 27504,
@@ -126,6 +138,7 @@
     "spyro-v0.3.5": {
       "created_at": "2025-09-06T15:52:32Z",
       "download_url": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.3.5/spyro.apworld",
+      "has_manifest": false,
       "hash_sha256": "f6b8199713ee91d80a9345df16adb83fac9c81195e589f8fb36de529a42e2989",
       "prerelease": true,
       "size": 27630,
@@ -138,6 +151,7 @@
     "spyro-v0.4.0": {
       "created_at": "2025-09-08T00:55:34Z",
       "download_url": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.4.0/spyro.apworld",
+      "has_manifest": false,
       "hash_sha256": "9a8dadb74ad4a99fdd32d20cb6c4f1b251d7f2899d6a78d84bf90d42c77ca80b",
       "prerelease": true,
       "size": 30157,
@@ -150,6 +164,7 @@
     "spyro-v0.4.1": {
       "created_at": "2025-09-08T15:21:00Z",
       "download_url": "https://github.com/gamefreq0/Archipelago/releases/download/spyro-v0.4.1/spyro.apworld",
+      "has_manifest": false,
       "hash_sha256": "d4ecf21cc66ae60a5f73a450b23a9bd13b6dff94782f67b9385d0f475ee27825",
       "prerelease": true,
       "size": 30177,

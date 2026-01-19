@@ -1,7 +1,7 @@
 {
   "description": "Pok\u00e9mon FireRed and LeafGreen are remakes of the very first Pok\u00e9mon games.\nExperience the Kanto region with several updated features from Gen III.\nCatch, train, and battle Pok\u00e9mon, face off against the evil organization Team Rocket, challenge Gyms in order to\nearn Badges, help resolve the many crises on the Sevii Islands, and become the Pok\u00e9mon Champion!",
   "game": "Pokemon FireRed and LeafGreen",
-  "github": "https://github.com/vyneras/Archipelago/",
+  "github": "https://github.com/vyneras/Archipelago",
   "license": null,
   "versions": {
     "0.1.0-alpha": {
@@ -131,6 +131,7 @@
     "0.5.0-beta": {
       "created_at": "2024-08-03T20:01:53Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.5.0-beta/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "b65ebae1de2d98f74528e4271e633b1a02e3caa4d6e8b4505e417e3867c5a49c",
       "size": 1215896,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -142,6 +143,7 @@
     "0.5.1-beta": {
       "created_at": "2024-08-04T15:31:45Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.5.1-beta/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "aa20bc75f633bea19c5588b30259b6fba0cf65cdaf2696686a9f0478896cf97f",
       "size": 1216037,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -153,6 +155,7 @@
     "0.5.2-beta": {
       "created_at": "2024-08-14T14:55:56Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.5.2-beta/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "7eeed781649b9e248805ae6036cc1250fbdd1fffe147d2ca1a3c8d7882c4ec86",
       "size": 1213994,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -164,6 +167,7 @@
     "0.5.3-beta": {
       "created_at": "2024-08-21T23:42:27Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.5.3-beta/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "44711bfa8e57d3ba08b388a4bb82d874d12f41205b6eca8d2f2233b12edbff35",
       "size": 1239949,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -175,6 +179,7 @@
     "0.5.4-beta": {
       "created_at": "2024-08-27T21:01:40Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.5.4-beta/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "7e724d594d443220ea6ac763ff8221c6bbdead8f3ac63f9b7d15a99c989b2f80",
       "size": 1239964,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -186,6 +191,7 @@
     "0.6.0-beta": {
       "created_at": "2024-08-30T01:13:34Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.6.0-beta/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "eb30bfd7b5e902be8167e4f9538f23b3acf9be4db3b2ef37e0214280463f6990",
       "size": 1274764,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -197,6 +203,7 @@
     "0.6.1-beta": {
       "created_at": "2024-08-31T13:48:03Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.6.1-beta/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "fd89293e80d41cdbefcd5c75b441d79ad79e102354343e790d9ed4c6edc69b86",
       "size": 1275581,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -208,6 +215,7 @@
     "0.6.2-beta": {
       "created_at": "2024-09-01T13:59:23Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.6.2-beta/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "6cc0a4df28ded2312af3f3eefce8574957a72a5f124671a0f723aca37a2a7973",
       "size": 1275571,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -219,6 +227,7 @@
     "0.7.0-beta": {
       "created_at": "2024-09-12T19:30:52Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.7.0-beta/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "6cf6a8db34eeb3d403b4db942ba7ff573811629bd843dac9487fea0347179459",
       "size": 1345540,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -230,6 +239,7 @@
     "0.7.1-beta": {
       "created_at": "2024-09-13T19:17:46Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.7.1-beta/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "d493168744edfcdbf433ac3306c5c167cd462e6d45113f3e53b49e52705c84c9",
       "size": 1351696,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -241,6 +251,7 @@
     "0.7.2-beta": {
       "created_at": "2024-10-03T22:34:19Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.7.2-beta/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "2953e9e3b5e591e359481f0297aced0ba5d23378290893388e76018fc03f10e8",
       "size": 1351430,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -252,6 +263,7 @@
     "0.7.3-beta": {
       "created_at": "2024-10-17T13:30:05Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.7.3-beta/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "cd541ecb176c6a92e9f08e88e762815823b81715e09b9d1458838f72b2f1c41b",
       "size": 1351435,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -263,6 +275,7 @@
     "0.8.0": {
       "created_at": "2025-01-25T17:14:46Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.8.0/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "016d64cd7fcf0430d0f33b3025aa64b5b2c14fb2214432cb952fba3ad3d8fd7a",
       "size": 1444761,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -274,6 +287,7 @@
     "0.8.1": {
       "created_at": "2025-01-26T02:06:53Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.8.1/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "dbaf25e2693ac7f8ea1c32cde714a00889eb5dd3ad9c9a2fdddab25311b1890f",
       "size": 1443756,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -285,6 +299,7 @@
     "0.8.2": {
       "created_at": "2025-01-26T23:48:45Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.8.2/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "3aef2321db2d19f68529bb0c8303844c21a3f03723007af6e4d4892d18086b2d",
       "size": 1445946,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -307,17 +322,19 @@
     "0.8.3-hotfix": {
       "created_at": "2025-02-01T05:24:47Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.8.3-hotfix/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "baae0357ffcbad47452121aea7806b587777f0371eaa7ce32c75048ee675a8b3",
       "size": 1465116,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
       "tag": "0.8.3-hotfix",
-      "title": "Pok\u00e9mon FireRed/LeafGreen 0.8.3 Hotfix",
+      "title": "Pok\u00e9mon FireRed/LeafGreen 0.8.3",
       "version_simple": "0.8.3",
       "world_version": "0.8.3"
     },
     "0.8.4": {
       "created_at": "2025-02-07T15:42:39Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.8.4/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "44a8973fc245490f3fe0c28406949be4ec18735c8a72b27ac9864eed15dad09a",
       "size": 1470580,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -329,6 +346,7 @@
     "0.8.5": {
       "created_at": "2025-02-22T23:05:36Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.8.5/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "4588ce383f78ba9fc329e6df33f3ab3e24ca1e750d2797737d25a6172b32ca09",
       "size": 1511879,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -349,7 +367,8 @@
     "0.8.6r2": {
       "created_at": "2025-03-07T06:05:35Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.8.6/pokemon_frlg.apworld",
-      "hash_sha256": "fabb53df83bfb66ad86e6c95532576343151317d97df1fa35a61b7232eaeff0b",
+      "has_manifest": false,
+      "hash_sha256": "03a760a91de80c57b19b552151c8cfdee92fb32aa7691a5a1e7821726b463677",
       "size": 1540400,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
       "tag": "0.8.6r2",
@@ -360,6 +379,7 @@
     "0.8.7": {
       "created_at": "2025-03-10T22:45:16Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.8.7/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "4a5eef049d692ec9312bff6a3c82f338a0720046c5b9a09fabd79d27705cbe40",
       "size": 1540844,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -382,6 +402,7 @@
     "0.9.1": {
       "created_at": "2025-04-22T00:10:18Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.9.1/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "c2208f0775d4cb18ca267dd68f9131961eadb7f9ab65bcc1521a86e32b35f6c5",
       "size": 1881459,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -393,6 +414,7 @@
     "0.9.2": {
       "created_at": "2025-04-28T16:21:25Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.9.2/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "a421e4a27e39b7f8c458562d7943e49a2a2b9d379e72bd276a4cbe27ca3e20d5",
       "size": 1880488,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -404,6 +426,7 @@
     "0.9.3": {
       "created_at": "2025-05-03T12:50:39Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.9.3/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "36d1f549a066024c9769d9d336019d08da9d83d7789fc964052e862cf29a5566",
       "size": 1890062,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -415,6 +438,7 @@
     "0.9.4": {
       "created_at": "2025-06-27T13:48:48Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.9.4/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "49b55ef3ef1ac0accbcd2cdd69011a61d13734a6ea50351ff2e8d20f371c74f4",
       "size": 1623929,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -448,6 +472,7 @@
     "0.9.5": {
       "created_at": "2025-07-20T14:54:20Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.9.5/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "3b9ac14f646002ea6429f627dcd7aeee5fd9509fdad58bd87e0b54542988ba42",
       "size": 1621916,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -459,6 +484,7 @@
     "0.9.6": {
       "created_at": "2025-08-08T15:30:06Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/0.9.6/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "78db46d972735f314409b863a90c94ac90a5a76d824c953828005032f9f20547",
       "size": 1621383,
       "source_url": "https://api.github.com/repos/vyneras/Archipelago",
@@ -467,9 +493,23 @@
       "version_simple": "0.9.6",
       "world_version": "0.9.6"
     },
+    "1.0.0": {
+      "created_at": "2025-12-01T15:24:43Z",
+      "download_url": "https://github.com/vyneras/Archipelago/releases/download/1.0.0/pokemon_frlg.apworld",
+      "has_manifest": true,
+      "hash_sha256": "8cc8c845c48dfb704eec8fbd79e69060c78b97c3946376a7e6603c61df03e8b0",
+      "minimum_ap_version": "0.6.3",
+      "size": 1526202,
+      "source_url": "https://api.github.com/repos/vyneras/Archipelago",
+      "tag": "1.0.0",
+      "title": "Pok\u00e9mon FireRed/LeafGreen 1.0.0",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0"
+    },
     "1.0.0-beta-1": {
       "created_at": "2025-09-01T21:39:01Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/1.0.0-beta-1/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "ab411ea3fc33bf8595708f2f5f7e37ea459d670918db2d145866ee917937a775",
       "prerelease": true,
       "size": 1653420,
@@ -482,6 +522,7 @@
     "1.0.0-beta-2": {
       "created_at": "2025-09-15T19:07:30Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/1.0.0-beta-2/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "c4142295f86a1709ddb09ab15e7b359094d40244142aaccc76abad7ffbb7f712",
       "prerelease": true,
       "size": 1654054,
@@ -494,6 +535,7 @@
     "1.0.0-beta-3": {
       "created_at": "2025-10-10T12:21:50Z",
       "download_url": "https://github.com/vyneras/Archipelago/releases/download/1.0.0-beta-3/pokemon_frlg.apworld",
+      "has_manifest": false,
       "hash_sha256": "dccc11334b7643f86259d27a311dd76235586121237a3905979b63d0827bfc8f",
       "prerelease": true,
       "size": 1653862,
@@ -502,6 +544,45 @@
       "title": "Pok\u00e9mon FireRed/LeafGreen 1.0.0 Beta 3",
       "version_simple": "1.0.0",
       "world_version": "1.0.0b3"
+    },
+    "1.0.0-beta-4": {
+      "created_at": "2025-11-04T02:45:43Z",
+      "download_url": "https://github.com/vyneras/Archipelago/releases/download/1.0.0-beta-4/pokemon_frlg.apworld",
+      "has_manifest": false,
+      "hash_sha256": "f02df523d8fc6482813899148d6433b882a5246dd1e50ff10673d3153fa625da",
+      "prerelease": true,
+      "size": 1904267,
+      "source_url": "https://api.github.com/repos/vyneras/Archipelago",
+      "tag": "1.0.0-beta-4",
+      "title": "Pok\u00e9mon FireRed/LeafGreen 1.0.0 Beta 4",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0b4"
+    },
+    "1.0.1": {
+      "created_at": "2025-12-02T19:27:23Z",
+      "download_url": "https://github.com/vyneras/Archipelago/releases/download/1.0.1/pokemon_frlg.apworld",
+      "has_manifest": true,
+      "hash_sha256": "5ad88b641af2ba4b29f2e1ad36540052d126a3a4c4d431e3216ed132503887de",
+      "minimum_ap_version": "0.6.3",
+      "size": 1526224,
+      "source_url": "https://api.github.com/repos/vyneras/Archipelago",
+      "tag": "1.0.1",
+      "title": " Pok\u00e9mon FireRed/LeafGreen 1.0.1",
+      "version_simple": "1.0.1",
+      "world_version": "1.0.1"
+    },
+    "1.0.2": {
+      "created_at": "2026-01-04T14:06:48Z",
+      "download_url": "https://github.com/vyneras/Archipelago/releases/download/1.0.2/pokemon_frlg.apworld",
+      "has_manifest": true,
+      "hash_sha256": "7cc60d9602ac06b2c49b78e491eae93ca32b962c4e3258e04e39b952074d373e",
+      "minimum_ap_version": "0.6.3",
+      "size": 1526291,
+      "source_url": "https://api.github.com/repos/vyneras/Archipelago",
+      "tag": "1.0.2",
+      "title": "Pok\u00e9mon FireRed/LeafGreen 1.0.2",
+      "version_simple": "1.0.2",
+      "world_version": "1.0.2"
     }
   }
 }

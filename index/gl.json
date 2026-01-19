@@ -1,5 +1,5 @@
 {
-  "description": "Gauntlet Legends",
+  "description": "Adventure through the 5 realms to collect 13 runestones\nand defeat the evil skorne. Treasure, enemies, and death\nawaits.",
   "game": "Gauntlet Legends",
   "github": "https://github.com/jamesbrq/GauntletLegendsAP",
   "license": null,
@@ -7,6 +7,7 @@
     "v1.0": {
       "created_at": "2024-05-20T03:20:02Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.0/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "9dae9539ea770ae441c2daaee6c09e46ecdfdb5fafaf9cd370cd76ae53eac427",
       "size": 34809,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -18,6 +19,7 @@
     "v1.0.1": {
       "created_at": "2024-05-22T21:18:12Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.0.1/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "490f8cb075ad45298ae290dc8e15fe3c2fd92fb65e64ba9f73f300d31dced7e3",
       "size": 37491,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -29,6 +31,7 @@
     "v1.0.2": {
       "created_at": "2024-06-04T05:52:30Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.0.2/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "b8408d6bb665f549e5c0828c2ca445030cd225ed0f9350e9fbfcaf8e545e05cd",
       "size": 37525,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -40,6 +43,7 @@
     "v1.0.3": {
       "created_at": "2024-06-07T03:38:18Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.0.3/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "9e8515e0c5f2f79eae5eb9a4102f8bdf5bac2ad76e442529d8c13bc9a5119e07",
       "size": 37621,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -51,6 +55,7 @@
     "v1.0.4": {
       "created_at": "2024-06-09T04:04:35Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.0.4/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "a8b1795000e502a3f135d5d758c7896a8e595fab59af711b25a82d44709dff8e",
       "size": 37632,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -62,6 +67,7 @@
     "v1.1.0": {
       "created_at": "2024-06-14T05:11:04Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.1.0/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "3803cc7405c157a569c7dc61f1c5e9e2f82c9fe46793e134170080a86ee7589a",
       "size": 109280,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -73,6 +79,7 @@
     "v1.1.1": {
       "created_at": "2024-07-08T10:26:58Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.1.1/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "83ad9240b1e9506df90b2c2c1156316a0d9243193c7a816329471b456d0f53d8",
       "size": 39807,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -84,6 +91,7 @@
     "v1.2.0": {
       "created_at": "2024-07-14T18:29:32Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.2.0/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "abedb3ee9756b6d4ef2b959408c9b1dac56b15a1e09a66a8a5ef54ad440eebc6",
       "size": 40238,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -95,6 +103,7 @@
     "v1.3.0": {
       "created_at": "2024-07-18T03:05:40Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.3.0/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "2b2644f3bae8f7a07fb807ff8fd30863e3606a00300c1cc9ef229d67a33cc650",
       "size": 110628,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -106,6 +115,7 @@
     "v1.4.0": {
       "created_at": "2024-07-21T05:55:03Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.4.0/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "a421d618e5a947395b0b6b6d7dc59fa67feaf67d33ef82d32302738298323f09",
       "size": 136511,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -117,6 +127,7 @@
     "v1.4.1": {
       "created_at": "2024-07-22T03:59:56Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.4.1/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "9c8be0d14bc1953fe3f5a5bbd8d48b0cbba49334344873f604460cbd2468daad",
       "size": 136509,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -128,6 +139,7 @@
     "v1.5.0": {
       "created_at": "2024-07-25T04:44:27Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.5.0/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "2f7cb33a914b232d76065a97be5f9fa362c3fdb0c1d895f39810d28864908007",
       "size": 136874,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -139,6 +151,7 @@
     "v1.5.1": {
       "created_at": "2024-08-04T19:01:36Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.5.1/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "fd4c2c00f26a348418a292810164bff378be28b0988202848af1d00f10e69e39",
       "size": 140268,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -150,6 +163,7 @@
     "v1.6.0": {
       "created_at": "2024-08-26T03:55:16Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.6.0/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "4e367a59a2d6b8d697041d310260b322c17d38caf8af6d9a5a16bf61c7fe6ffc",
       "size": 238986,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -161,6 +175,7 @@
     "v1.6.1": {
       "created_at": "2024-09-15T06:31:31Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.6.1/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "1759e15a389d7c28c30308503fad108279788469de706f2259d350ea5ebf85fb",
       "size": 43109,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -172,6 +187,7 @@
     "v1.6.2": {
       "created_at": "2024-09-26T17:43:31Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.6.2/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "60ace4b7d9c769724e254af2d0ed6f22e9116ccf9213ad4db96da70fda1357b3",
       "size": 43396,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -183,6 +199,7 @@
     "v1.6.3": {
       "created_at": "2024-09-29T04:41:48Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.6.3/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "398068c67b9912f44461222ab6271b88f92fe9ecc97ac79be813e569fe28e785",
       "size": 43392,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -194,6 +211,7 @@
     "v1.6.4": {
       "created_at": "2025-01-06T08:39:10Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.6.4/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "47affbbcfebad3f1cb4e4e3996bf4ff097dd490fb11280e06de204b467f216aa",
       "size": 43148,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -205,6 +223,7 @@
     "v1.7.0": {
       "created_at": "2025-04-14T16:23:07Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.7.0/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "9077aac77369eaebea2d8188bc6bffce3918d41e87987d6e18e2080eb18527a7",
       "size": 43256,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -216,6 +235,7 @@
     "v1.7.1": {
       "created_at": "2025-07-03T04:21:15Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.7.1/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "edf6eed960fa11bf3da975cb529c656067bc1ee09b85aeba529e1a00ddb17b64",
       "size": 43643,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -227,6 +247,7 @@
     "v1.7.2": {
       "created_at": "2025-08-01T02:21:02Z",
       "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v1.7.2/gl.apworld",
+      "has_manifest": false,
       "hash_sha256": "c1d411a82c49315db24bd64bd860ee87b919f1188bc5cb6c5d2bb92d472f813b",
       "size": 43723,
       "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
@@ -234,6 +255,102 @@
       "title": "Gauntlet Legends AP 1.7.2",
       "version_simple": "1.7.2",
       "world_version": "1.7.2"
+    },
+    "v2.0.0-BETA": {
+      "created_at": "2025-12-24T21:48:42Z",
+      "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.0.0-BETA/gl.apworld",
+      "has_manifest": false,
+      "hash_sha256": "5029ad768512c0a6bd0abec5e0831cb45750671e30c6c39784dc028ec6f80656",
+      "size": 387964,
+      "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
+      "tag": "v2.0.0-BETA",
+      "title": "Gauntlet Legends AP v2.0.0-BETA",
+      "version_simple": "2.0.0",
+      "world_version": "2.0.0b0"
+    },
+    "v2.0.1": {
+      "created_at": "2025-12-25T05:42:54Z",
+      "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.0.1/gl.apworld",
+      "has_manifest": false,
+      "hash_sha256": "ae68813708461628b5cda297cc2f5e02e8a56475a10dfb9342ea3ac259a48127",
+      "size": 385049,
+      "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
+      "tag": "v2.0.1",
+      "title": "Gauntlet Legends AP v2.0.1",
+      "version_simple": "2.0.1",
+      "world_version": "2.0.1"
+    },
+    "v2.0.1r2": {
+      "created_at": "2025-12-25T05:42:54Z",
+      "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.0.1/gl.apworld",
+      "has_manifest": false,
+      "hash_sha256": "b0369273768a150cf10e7f65269e69f390a4495a1aea9acfa0fb6e0f063e0e8f",
+      "size": 384997,
+      "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
+      "tag": "v2.0.1r2",
+      "title": "Gauntlet Legends AP v2.0.1",
+      "version_simple": "2.0.1",
+      "world_version": "2.0.1.post2"
+    },
+    "v2.0.2": {
+      "created_at": "2025-12-27T02:01:27Z",
+      "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.0.2/gl.apworld",
+      "has_manifest": false,
+      "hash_sha256": "2f65a9349343ae5304fd4398758d160888c4898afb2f17388f7d3b03bff34d39",
+      "size": 384642,
+      "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
+      "tag": "v2.0.2",
+      "title": "Gauntlet Legends AP v2.0.2",
+      "version_simple": "2.0.2",
+      "world_version": "2.0.2"
+    },
+    "v2.0.3": {
+      "created_at": "2025-12-29T03:28:34Z",
+      "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.0.3/gl.apworld",
+      "has_manifest": false,
+      "hash_sha256": "c525d4455194685a8798c125f42f286ed7ba830e621ac9b03933aee3d953cb0d",
+      "size": 429190,
+      "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
+      "tag": "v2.0.3",
+      "title": "Gauntlet Legends AP v2.0.3",
+      "version_simple": "2.0.3",
+      "world_version": "2.0.3"
+    },
+    "v2.1.0": {
+      "created_at": "2026-01-01T07:26:26Z",
+      "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.0/gl.apworld",
+      "has_manifest": false,
+      "hash_sha256": "6b8bc507c8240441936526508a2acfc49b6c08937b9d3ea62ed418a6ae709ec1",
+      "size": 432067,
+      "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
+      "tag": "v2.1.0",
+      "title": "Gauntlet Legends AP v2.1.0",
+      "version_simple": "2.1.0",
+      "world_version": "2.1.0"
+    },
+    "v2.1.1": {
+      "created_at": "2026-01-01T07:26:26Z",
+      "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.1/gl.apworld",
+      "has_manifest": false,
+      "hash_sha256": "0077883ac586d2419dcce1aa63dd896c114a7646ac749a40e70dbd7508ea4b4f",
+      "size": 432168,
+      "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
+      "tag": "v2.1.1",
+      "title": "Gauntlet Legends AP v2.1.1",
+      "version_simple": "2.1.1",
+      "world_version": "2.1.1"
+    },
+    "v2.1.1r2": {
+      "created_at": "2026-01-01T07:26:26Z",
+      "download_url": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.1/gl.apworld",
+      "has_manifest": false,
+      "hash_sha256": "d22e3816b62c45fd648b996b5fa9bdfce52a666416625476d909c9a515892b3b",
+      "size": 432281,
+      "source_url": "https://api.github.com/repos/jamesbrq/GauntletLegendsAP",
+      "tag": "v2.1.1r2",
+      "title": "Gauntlet Legends AP v2.1.1",
+      "version_simple": "2.1.1",
+      "world_version": "2.1.1.post2"
     }
   }
 }

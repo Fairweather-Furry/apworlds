@@ -1,4 +1,5 @@
 {
+  "description": "",
   "game": "Deep Rock Galactic",
   "github": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP",
   "license": "MIT",
@@ -6,6 +7,7 @@
     "0.12-alpha": {
       "created_at": "2025-10-06T19:51:26Z",
       "download_url": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.12-alpha/deep_rock_galactic.apworld",
+      "has_manifest": false,
       "hash_sha256": "0255e7d17ea1af6e29318bda02a598f1e182c6261098d0480cfb891b5452d7f6",
       "size": 14471,
       "source_url": "https://api.github.com/repos/Cousinit117/Deep-Rock-Galactic-AP",
@@ -13,6 +15,114 @@
       "title": "0.12 Alpha",
       "version_simple": "0.12",
       "world_version": "0.12a0"
+    },
+    "0.13.2": {
+      "created_at": "2025-11-03T01:12:51Z",
+      "download_url": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.13.2/deep_rock_galactic.apworld",
+      "has_manifest": false,
+      "hash_sha256": "a4df93846ee699c5052031905421f576fff42fdbdb2f65187fe84a3daf7be8dd",
+      "size": 16258,
+      "source_url": "https://api.github.com/repos/Cousinit117/Deep-Rock-Galactic-AP",
+      "tag": "0.13.2",
+      "title": "0.13.2 Beta",
+      "version_simple": "0.13.2",
+      "world_version": "0.13.2"
+    },
+    "0.14": {
+      "created_at": "2025-11-29T22:04:28Z",
+      "download_url": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.14/deep_rock_galactic.apworld",
+      "has_manifest": false,
+      "hash_sha256": "053d219e8b6fdddd797a7b82a3a8f9b5eb6fe5f760e37e911f64d2a632180282",
+      "size": 19081,
+      "source_url": "https://api.github.com/repos/Cousinit117/Deep-Rock-Galactic-AP",
+      "tag": "0.14",
+      "title": "V0.14",
+      "version_simple": "0.14",
+      "world_version": "0.14"
+    },
+    "0.14.1": {
+      "created_at": "2025-12-02T14:50:27Z",
+      "download_url": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.14.1/deep_rock_galactic.apworld",
+      "has_manifest": false,
+      "hash_sha256": "53b21ee0f6495300c79408e83a87a91eec8773e95478c4a8784fe86797027f0d",
+      "size": 19078,
+      "source_url": "https://api.github.com/repos/Cousinit117/Deep-Rock-Galactic-AP",
+      "tag": "0.14.1",
+      "title": "V0.14.1",
+      "version_simple": "0.14.1",
+      "world_version": "0.14.1"
+    },
+    "0.14.2": {
+      "created_at": "2025-12-04T16:18:09Z",
+      "download_url": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.14.2/deep_rock_galactic.apworld",
+      "has_manifest": false,
+      "hash_sha256": "2971e98456d8b49e1e341cb2352c27574abfa9a5472029e621e3c048af1d2e21",
+      "size": 19319,
+      "source_url": "https://api.github.com/repos/Cousinit117/Deep-Rock-Galactic-AP",
+      "tag": "0.14.2",
+      "title": "V0.14.2",
+      "version_simple": "0.14.2",
+      "world_version": "0.14.2"
+    },
+    "0.14.3": {
+      "created_at": "2025-12-09T18:00:05Z",
+      "download_url": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.14.3/deep_rock_galactic.apworld",
+      "has_manifest": false,
+      "hash_sha256": "d8eeffbde4503f5a9fa6d88a361af2bd987ef5f94f6de1e4981388b6cf661393",
+      "size": 19679,
+      "source_url": "https://api.github.com/repos/Cousinit117/Deep-Rock-Galactic-AP",
+      "tag": "0.14.3",
+      "title": "0.14.3",
+      "version_simple": "0.14.3",
+      "world_version": "0.14.3"
+    },
+    "0.15": {
+      "created_at": "2025-12-16T20:11:00Z",
+      "download_url": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.15/deep_rock_galactic.apworld",
+      "has_manifest": false,
+      "hash_sha256": "a69e45e096d1d8a2f88ae6add24fed46b111a8ac0686ccab3697bb9966f13151",
+      "size": 21380,
+      "source_url": "https://api.github.com/repos/Cousinit117/Deep-Rock-Galactic-AP",
+      "tag": "0.15",
+      "title": "0.15",
+      "version_simple": "0.15",
+      "world_version": "0.15"
+    },
+    "0.15.1": {
+      "created_at": "2025-12-17T21:58:32Z",
+      "download_url": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.15.1/deep_rock_galactic.apworld",
+      "has_manifest": false,
+      "hash_sha256": "8fa1dccb655b0ce3eee9b4a521147bbfc862850a4b6694aae49218c1cca14f0c",
+      "size": 24935,
+      "source_url": "https://api.github.com/repos/Cousinit117/Deep-Rock-Galactic-AP",
+      "tag": "0.15.1",
+      "title": "0.15.1",
+      "version_simple": "0.15.1",
+      "world_version": "0.15.1"
+    },
+    "0.15.2": {
+      "created_at": "2025-12-21T16:41:46Z",
+      "download_url": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.15.2/deep_rock_galactic.apworld",
+      "has_manifest": false,
+      "hash_sha256": "a9a65e7dcca8a322e62e531c2a800d9e50784f4a98ff1b890a4a22a06b58cf42",
+      "size": 26396,
+      "source_url": "https://api.github.com/repos/Cousinit117/Deep-Rock-Galactic-AP",
+      "tag": "0.15.2",
+      "title": "V0.15.2",
+      "version_simple": "0.15.2",
+      "world_version": "0.15.2"
+    },
+    "Beta": {
+      "created_at": "2025-10-31T00:58:51Z",
+      "download_url": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
+      "has_manifest": false,
+      "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
+      "size": 16029,
+      "source_url": "https://api.github.com/repos/Cousinit117/Deep-Rock-Galactic-AP",
+      "tag": "Beta",
+      "title": "0.13 Beta",
+      "version_simple": "0.13",
+      "world_version": "0.13"
     }
   }
 }

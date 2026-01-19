@@ -7,6 +7,7 @@
     "gzap-0.1.0": {
       "created_at": "2025-02-26T02:52:59Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.1.0/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "b771c95215b01168007a0a0affe753c79e1c9c8db0497a30957b15abde38d03c",
       "size": 446829,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -18,6 +19,7 @@
     "gzap-0.2.0": {
       "created_at": "2025-03-01T17:01:35Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.2.0/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "9bff8c43a5890e5dbe2453a075d9488f5d15126eb9dc9e6b7ad7039ec613ce7f",
       "size": 484454,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -29,6 +31,7 @@
     "gzap-0.3.0": {
       "created_at": "2025-03-09T12:29:59Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.3.0/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "e7a499b2d7d70f7c09e720c467072c96bcce3868d9080656bb8d0e9f39a52f1c",
       "size": 494025,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -40,6 +43,7 @@
     "gzap-0.3.1": {
       "created_at": "2025-03-09T17:10:35Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.3.1/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "ca8ec83842c1bdbf365d79d6bee721bbf67b788f8d606e01b8a0980b2f87dc5c",
       "size": 494008,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -51,6 +55,7 @@
     "gzap-0.3.2": {
       "created_at": "2025-03-13T12:13:33Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.3.2/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "bb9c5271606f59d3797553853dc68e0e55c1f6485ebc819214f369b47d600765",
       "size": 494356,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -62,6 +67,7 @@
     "gzap-0.3.3": {
       "created_at": "2025-03-19T00:06:30Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.3.3/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "e9abf7a1f89b04531fe1737104d18253334291b55770c923d512a63e115fc0d1",
       "size": 622277,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -73,6 +79,7 @@
     "gzap-0.3.4": {
       "created_at": "2025-03-30T15:23:18Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.3.4/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "bd961a685a55528a7bde90b89e0af34d135da5f2e3c0ffd9e21a9c9737a83be0",
       "size": 622238,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -95,6 +102,7 @@
     "gzap-0.3.5r2": {
       "created_at": "2025-03-30T23:55:20Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.3.5/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "b8aa01b2db43e79389d5cf15a81b97d6d052142c871c8df53584da0d9321b402",
       "size": 622291,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -106,6 +114,7 @@
     "gzap-0.4.0": {
       "created_at": "2025-04-07T23:46:44Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.4.0/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "91f6ca3d73f653321046a6a137317e059a389ec4a3a59bf45579ffb6a6faf576",
       "size": 647044,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -117,6 +126,7 @@
     "gzap-0.4.1": {
       "created_at": "2025-04-10T12:38:34Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.4.1/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "8b0561d4895f2a99f80c17240a2d46c795fafd4b4641ec03ed202e44cddfca12",
       "size": 658735,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -128,6 +138,7 @@
     "gzap-0.4.2": {
       "created_at": "2025-04-11T11:47:15Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.4.2/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "fe585c878d47d959770bc7a308401dd6b7311e2d7b585b92c17baee47b7339ea",
       "size": 658881,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -139,6 +150,7 @@
     "gzap-0.4.3": {
       "created_at": "2025-04-15T12:19:29Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.4.3/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "f5a72bf4a7e4110aafec153baa67270fb694151b47d3189757a6e99f79a4bc1a",
       "size": 659823,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -150,6 +162,7 @@
     "gzap-0.5.0": {
       "created_at": "2025-05-14T11:24:35Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.5.0/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "f30e86ebffa4ccfe8b6fbf84cb7535faadf19a457d03552e4a1ee41a0ecdc336",
       "size": 852935,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -161,6 +174,7 @@
     "gzap-0.6.0": {
       "created_at": "2025-05-27T13:20:06Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.6.0/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "2a0e998493a7619ef6e24adb4f7a1d826d0191503a6decf1773f2b97e546b786",
       "size": 924062,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -172,6 +186,7 @@
     "gzap-0.6.1": {
       "created_at": "2025-06-01T00:44:20Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.6.1/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "15cc77fc9ebb8ab1a448f914cb60342d779254b179404640474be101141cb671",
       "size": 979848,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -183,6 +198,7 @@
     "gzap-0.6.2": {
       "created_at": "2025-07-17T21:25:02Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.6.2/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "9fc9bc7b1711659e1d7bca311930ac3db1e35dfd23d961ec1db159e873057d82",
       "size": 1122674,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -194,6 +210,7 @@
     "gzap-0.6.3": {
       "created_at": "2025-08-06T02:24:23Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.6.3/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "136ad604e20ce89b64d8df9dd82273066785acaf5d7a52b5e8399034800ad207",
       "size": 1180071,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -205,6 +222,7 @@
     "gzap-0.6.4": {
       "created_at": "2025-08-22T23:38:12Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.6.4/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "b404a82b81667d7071b18a74e748ab530f46ac088f632a0383729461babc48eb",
       "size": 1179996,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -216,6 +234,7 @@
     "gzap-0.6.5": {
       "created_at": "2025-09-27T14:12:51Z",
       "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.6.5/gzdoom.apworld",
+      "has_manifest": false,
       "hash_sha256": "5381a80009ffb842ab5795e04c370c0f6370624c2f1b4be34126dc68ad6b3a87",
       "size": 1452726,
       "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
@@ -223,6 +242,42 @@
       "title": "gzArchipelago 0.6.5",
       "version_simple": "0.6.5",
       "world_version": "0.6.5"
+    },
+    "gzap-0.6.6": {
+      "created_at": "2025-10-24T20:42:13Z",
+      "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.6.6/gzdoom.apworld",
+      "has_manifest": false,
+      "hash_sha256": "e7c343214b2d3f104e960530b585d62486103895b37143df7ea707012bbc4933",
+      "size": 1453849,
+      "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
+      "tag": "gzap-0.6.6",
+      "title": "gzArchipelago 0.6.6",
+      "version_simple": "0.6.6",
+      "world_version": "0.6.6"
+    },
+    "gzap-0.7.0": {
+      "created_at": "2025-12-05T01:19:51Z",
+      "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.7.0/gzdoom.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a8887b12f4e9ad8ab0b3391578294d22713d45d1533a35edeaaf3455a9fe6825",
+      "size": 64989,
+      "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
+      "tag": "gzap-0.7.0",
+      "title": "gzArchipelago 0.7.0",
+      "version_simple": "0.7.0",
+      "world_version": "0.7.0"
+    },
+    "gzap-0.7.0r2": {
+      "created_at": "2025-12-05T01:19:51Z",
+      "download_url": "https://github.com/ToxicFrog/doom-mods/releases/download/gzap-0.7.0/gzdoom.apworld",
+      "has_manifest": true,
+      "hash_sha256": "0867b2cb9b4a1d8c2abff3063206ff07eb597d5e9732b6541a63ca9d9e587f3f",
+      "size": 65097,
+      "source_url": "https://api.github.com/repos/ToxicFrog/doom-mods",
+      "tag": "gzap-0.7.0r2",
+      "title": "gzArchipelago 0.7.0",
+      "version_simple": "0.7.0",
+      "world_version": "0.7.0.post2"
     }
   }
 }

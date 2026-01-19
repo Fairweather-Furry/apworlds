@@ -7,6 +7,7 @@
     "0.0.1": {
       "created_at": "2025-03-02T00:23:07Z",
       "download_url": "https://github.com/AgStarRay/TetrisAttackAP/releases/download/0.0.1/tetrisattack.apworld",
+      "has_manifest": false,
       "hash_sha256": "f6fc71a6e473a4a5591ba4d5348344d0084a6d1e9b0e7ac32cb71154d3cbecd8",
       "size": 11457,
       "source_url": "https://api.github.com/repos/AgStarRay/TetrisAttackAP",
@@ -18,6 +19,7 @@
     "0.0.2": {
       "created_at": "2025-03-09T00:16:54Z",
       "download_url": "https://github.com/AgStarRay/TetrisAttackAP/releases/download/0.0.2/tetrisattack.apworld",
+      "has_manifest": false,
       "hash_sha256": "19dce552e2cb1a5e4a8d58cc638def830762f0e8c06f4a19113abc387e5b2694",
       "size": 53565,
       "source_url": "https://api.github.com/repos/AgStarRay/TetrisAttackAP",
@@ -29,6 +31,7 @@
     "0.0.3": {
       "created_at": "2025-03-18T02:24:44Z",
       "download_url": "https://github.com/AgStarRay/TetrisAttackAP/releases/download/0.0.3/tetrisattack.apworld",
+      "has_manifest": false,
       "hash_sha256": "7c9e5ef6adcb6faf64fe7fc6e703ebfef1d5446e809b6104a3a211e2e84bea22",
       "size": 60399,
       "source_url": "https://api.github.com/repos/AgStarRay/TetrisAttackAP",
@@ -40,6 +43,7 @@
     "0.1.0": {
       "created_at": "2025-04-06T15:09:09Z",
       "download_url": "https://github.com/AgStarRay/TetrisAttackAP/releases/download/0.1.0/tetrisattack.apworld",
+      "has_manifest": false,
       "hash_sha256": "003560178eff51229e6f501555ef1a6b38cfffa2e63d8cef6caf6d188cf9221d",
       "size": 79921,
       "source_url": "https://api.github.com/repos/AgStarRay/TetrisAttackAP",
@@ -51,6 +55,7 @@
     "0.1.1": {
       "created_at": "2025-04-06T22:10:10Z",
       "download_url": "https://github.com/AgStarRay/TetrisAttackAP/releases/download/0.1.1/tetrisattack.apworld",
+      "has_manifest": false,
       "hash_sha256": "f8a8ae78556379f8a75fdf33d7b0449c1fb321e863971f34d06ba2cc070a90ab",
       "size": 79939,
       "source_url": "https://api.github.com/repos/AgStarRay/TetrisAttackAP",
@@ -62,6 +67,7 @@
     "0.2.0": {
       "created_at": "2025-04-13T06:13:29Z",
       "download_url": "https://github.com/AgStarRay/TetrisAttackAP/releases/download/0.2.0/tetrisattack.apworld",
+      "has_manifest": false,
       "hash_sha256": "0e5ba634fae30129b1fdcbe017561a16b737cd0e6ed44b9350ebf7dbd0c2944c",
       "size": 34667,
       "source_url": "https://api.github.com/repos/AgStarRay/TetrisAttackAP",
@@ -73,6 +79,7 @@
     "0.2.0_01": {
       "created_at": "2025-04-13T06:13:29Z",
       "download_url": "https://github.com/AgStarRay/TetrisAttackAP/releases/download/0.2.0_01/tetrisattack.apworld",
+      "has_manifest": false,
       "hash_sha256": "db856af737ede95679b61f35cb4a8871386c0b820369a286a7d7ad175da15d1e",
       "size": 34703,
       "source_url": "https://api.github.com/repos/AgStarRay/TetrisAttackAP",
@@ -84,6 +91,7 @@
     "0.3.0": {
       "created_at": "2025-05-27T12:22:33Z",
       "download_url": "https://github.com/AgStarRay/TetrisAttackAP/releases/download/0.3.0/tetrisattack.apworld",
+      "has_manifest": false,
       "hash_sha256": "92c151e4411ccd123268758f77e93e54da7b413acd840a7576d1d329ae74e439",
       "size": 111663,
       "source_url": "https://api.github.com/repos/AgStarRay/TetrisAttackAP",
@@ -91,6 +99,54 @@
       "title": "v0.3.0",
       "version_simple": "0.3.0",
       "world_version": "0.3.0"
+    },
+    "0.4.0": {
+      "created_at": "2025-10-13T02:07:25Z",
+      "download_url": "https://github.com/AgStarRay/TetrisAttackAP/releases/download/0.4.0/tetrisattack.apworld",
+      "has_manifest": false,
+      "hash_sha256": "00c5e4d60ecc0e4216e1f7ea53ce204da5dbb2d6ae7bd0322a92a30a5f882be8",
+      "size": 114043,
+      "source_url": "https://api.github.com/repos/AgStarRay/TetrisAttackAP",
+      "tag": "0.4.0",
+      "title": "v0.4.0",
+      "version_simple": "0.4.0",
+      "world_version": "0.4.0"
+    },
+    "0.4.1": {
+      "created_at": "2025-10-25T12:06:03Z",
+      "download_url": "https://github.com/AgStarRay/TetrisAttackAP/releases/download/0.4.1/tetrisattack.apworld",
+      "has_manifest": false,
+      "hash_sha256": "da9edb3f6b9e705edf24a5c8ed70fba2818ce103eeae4d5e65549df8940028c7",
+      "size": 114088,
+      "source_url": "https://api.github.com/repos/AgStarRay/TetrisAttackAP",
+      "tag": "0.4.1",
+      "title": "v0.4.1",
+      "version_simple": "0.4.1",
+      "world_version": "0.4.1"
+    },
+    "0.4.2": {
+      "created_at": "2025-11-19T13:34:52Z",
+      "download_url": "https://github.com/AgStarRay/TetrisAttackAP/releases/download/0.4.2/tetrisattack.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c238b4b6f1a8ef379e2305a481203688552776291b0edcfbb9b6159b8a572ab4",
+      "size": 40996,
+      "source_url": "https://api.github.com/repos/AgStarRay/TetrisAttackAP",
+      "tag": "0.4.2",
+      "title": "v0.4.2",
+      "version_simple": "0.4.2",
+      "world_version": "0.4.2"
+    },
+    "0.4.2_01": {
+      "created_at": "2025-12-26T09:43:41Z",
+      "download_url": "https://github.com/AgStarRay/TetrisAttackAP/releases/download/0.4.2_01/tetrisattack.apworld",
+      "has_manifest": true,
+      "hash_sha256": "e69ef70d4c404253e41b054ddd7033ae189e39406421c3aa3eb79b7dc5670550",
+      "size": 41231,
+      "source_url": "https://api.github.com/repos/AgStarRay/TetrisAttackAP",
+      "tag": "0.4.2_01",
+      "title": "v0.4.2_01",
+      "version_simple": "0.4.2",
+      "world_version": "0.4.2"
     }
   }
 }

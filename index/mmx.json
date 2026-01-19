@@ -1,7 +1,7 @@
 {
   "description": "Mega Man X for the SNES is a classic action-platformer game released in 1993. It's a spin-off of \nthe original Mega Man series and introduces players to a new protagonist, X, a Maverick Hunter in a \nfuturistic world. The game features upgraded gameplay mechanics, such as the ability to dash and \nclimb walls, which were new to the series at the time.",
   "game": "Mega Man X",
-  "github": "https://github.com/TheLX5/Archipelago/",
+  "github": "https://github.com/TheLX5/Archipelago",
   "license": null,
   "versions": {
     "mmx-v0.1.2": {
@@ -115,6 +115,7 @@
     "mmx-v1.4.0": {
       "created_at": "2024-08-24T05:22:44Z",
       "download_url": "https://github.com/TheLX5/Archipelago/releases/download/mmx-v1.4.0/mmx.apworld",
+      "has_manifest": false,
       "hash_sha256": "c431b44732d38c9f713a0aa7f6e5bed9369ea5e1ac16e58e70b277e0b9d5f986",
       "size": 58298,
       "source_url": "https://api.github.com/repos/TheLX5/Archipelago",
@@ -126,6 +127,7 @@
     "mmx-v1.5.0": {
       "created_at": "2025-06-21T06:51:16Z",
       "download_url": "https://github.com/TheLX5/Archipelago/releases/download/mmx-v1.5.0/mmx.apworld",
+      "has_manifest": false,
       "hash_sha256": "e3d8888fe18d0b17abafdf8e3825e8be0aa6d70bb92bf61071e8c99cab2312b7",
       "size": 58037,
       "source_url": "https://api.github.com/repos/TheLX5/Archipelago",

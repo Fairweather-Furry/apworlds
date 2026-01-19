@@ -10,6 +10,7 @@
     "v0.1": {
       "created_at": "2025-09-15T00:41:08Z",
       "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.1/bg3.apworld",
+      "has_manifest": false,
       "hash_sha256": "c15ea1d2ab1070aaef34d32f3b922813645e7e17b32404d8c20f42c8d5255b5c",
       "size": 14863,
       "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
@@ -21,6 +22,7 @@
     "v0.2": {
       "created_at": "2025-09-15T00:41:08Z",
       "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.2/bg3.apworld",
+      "has_manifest": false,
       "hash_sha256": "b14ea7b5a2bbd33e6370f466c7e8b49085e9753043903bf367ba140b8984ad33",
       "size": 40568,
       "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
@@ -32,6 +34,7 @@
     "v0.2.0.1": {
       "created_at": "2025-09-19T00:57:16Z",
       "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.2.0.1/bg3.apworld",
+      "has_manifest": false,
       "hash_sha256": "8b396b6073c9b7408f249e46bd581674e021bc5d63dddc2fa31620ee706bf6bb",
       "size": 46385,
       "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
@@ -43,6 +46,7 @@
     "v0.2.1": {
       "created_at": "2025-09-19T21:20:11Z",
       "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.2.1/bg3.apworld",
+      "has_manifest": false,
       "hash_sha256": "348e334293f14650031e3568fe24342790a32b488f5ed59e04ee11e3be4c5972",
       "size": 44769,
       "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
@@ -54,6 +58,7 @@
     "v0.2.2": {
       "created_at": "2025-09-21T03:20:52Z",
       "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.2.2/bg3.apworld",
+      "has_manifest": false,
       "hash_sha256": "7b47795775e10c6b2d82b8fa6dce11711ade2e07d28862d7fbadc53e6f87fade",
       "size": 45172,
       "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
@@ -65,6 +70,7 @@
     "v0.3": {
       "created_at": "2025-09-22T01:00:53Z",
       "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.3/bg3.apworld",
+      "has_manifest": false,
       "hash_sha256": "95708beb87d840d7d15200cfe874404c1543bd1ba1e690422357df44bcedadc5",
       "size": 51274,
       "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
@@ -76,6 +82,7 @@
     "v0.3.1": {
       "created_at": "2025-09-22T19:23:29Z",
       "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.3.1/bg3.apworld",
+      "has_manifest": false,
       "hash_sha256": "2847757a98b3c2a81834299f84dacf08d28366d5562b7ad302a829c6a5014e20",
       "size": 51415,
       "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
@@ -87,6 +94,7 @@
     "v0.3.2": {
       "created_at": "2025-09-26T01:12:56Z",
       "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.3.2/bg3.apworld",
+      "has_manifest": false,
       "hash_sha256": "ad984c39290eddc45af0904e39f0b0dff3a87b7d703bb6a1835cca0f55dfd23f",
       "size": 59930,
       "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
@@ -98,6 +106,7 @@
     "v0.3.3": {
       "created_at": "2025-09-27T20:58:48Z",
       "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.3.3/bg3.apworld",
+      "has_manifest": false,
       "hash_sha256": "a92096f8e414c5493ab215edbab01fd9f184f3aa2fd584f8c08724e56cb3ac11",
       "size": 60083,
       "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
@@ -109,6 +118,7 @@
     "v0.3.4": {
       "created_at": "2025-09-28T00:16:16Z",
       "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.3.4/bg3.apworld",
+      "has_manifest": false,
       "hash_sha256": "5cc730fa15d1e5f76e78c63ac4c64eeba5a845daed64cdb7b567ecccf86c8cf6",
       "size": 60082,
       "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
@@ -120,6 +130,7 @@
     "v0.3.5": {
       "created_at": "2025-10-06T06:00:27Z",
       "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.3.5/bg3.apworld",
+      "has_manifest": false,
       "hash_sha256": "eb56070f6233af39cf8a3825a03560bfb8b367eab41c5f6a03e25e8512ee4b4a",
       "size": 67586,
       "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
@@ -127,6 +138,79 @@
       "title": "0.3.5",
       "version_simple": "0.3.5",
       "world_version": "0.3.5"
+    },
+    "v0.3.6": {
+      "created_at": "2025-10-12T18:54:05Z",
+      "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.3.6/bg3.apworld",
+      "has_manifest": false,
+      "hash_sha256": "820127f5ad3bf21bbf96890dbc22f64b95656bf7546bd5a7984eb393541709f0",
+      "size": 67671,
+      "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
+      "tag": "v0.3.6",
+      "title": "0.3.6",
+      "version_simple": "0.3.6",
+      "world_version": "0.3.6"
+    },
+    "v0.3.7": {
+      "created_at": "2025-10-27T20:42:27Z",
+      "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.3.7/bg3.apworld",
+      "has_manifest": false,
+      "hash_sha256": "bdbce4c4525fdd7ebaa6d31a5ebf8cada6a78c905cb679f93ecd1ca40d5d4e9b",
+      "size": 67589,
+      "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
+      "tag": "v0.3.7",
+      "title": "0.3.7",
+      "version_simple": "0.3.7",
+      "world_version": "0.3.7"
+    },
+    "v0.3.8": {
+      "created_at": "2025-10-31T19:08:39Z",
+      "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.3.8/bg3.apworld",
+      "has_manifest": false,
+      "hash_sha256": "e1ee8590d43aebdcf64336071dc16013ff3e2167e7c92a9d09d622617b919deb",
+      "size": 67625,
+      "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
+      "tag": "v0.3.8",
+      "title": "0.3.8",
+      "version_simple": "0.3.8",
+      "world_version": "0.3.8"
+    },
+    "v0.3.9": {
+      "created_at": "2025-11-02T04:29:20Z",
+      "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.3.9/bg3.apworld",
+      "has_manifest": false,
+      "hash_sha256": "6c7d9767b49954e852047d5967b23b62fedab9d19487ca5589b3d3585ec89937",
+      "size": 67643,
+      "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
+      "tag": "v0.3.9",
+      "title": "0.3.9",
+      "version_simple": "0.3.9",
+      "world_version": "0.3.9"
+    },
+    "v0.4.0": {
+      "created_at": "2025-11-25T05:29:28Z",
+      "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.4.0/bg3.apworld",
+      "has_manifest": true,
+      "hash_sha256": "d877d8430eb994c22a79e5b2ce2daa98285c4714f5b6463725afbd91e316eac5",
+      "minimum_ap_version": "0.6.2",
+      "size": 88401,
+      "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
+      "tag": "v0.4.0",
+      "title": "0.4.0",
+      "version_simple": "0.4.0",
+      "world_version": "0.4.0"
+    },
+    "v0.4.1": {
+      "created_at": "2025-12-23T22:42:07Z",
+      "download_url": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.4.1/bg3.apworld",
+      "has_manifest": false,
+      "hash_sha256": "415f79666896fb5b770b3775421bab9ffd05a331469d13f15d02097b99a578d5",
+      "size": 89292,
+      "source_url": "https://api.github.com/repos/zane31415/ArchipelagoBG3",
+      "tag": "v0.4.1",
+      "title": "0.4.1",
+      "version_simple": "0.4.1",
+      "world_version": "0.4.1"
     }
   }
 }

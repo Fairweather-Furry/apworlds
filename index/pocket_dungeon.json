@@ -1,0 +1,60 @@
+{
+  "description": "Shovel Knight and the Order of No Quarter have been trapped inside of the Pocket Dungeon!\nHelp them escape by collecting 4 key fragments and facing the Enchantress at the Tower of Fate in this roguelite action-puzzle game.",
+  "game": "Shovel Knight Pocket Dungeon",
+  "github": "https://github.com/Mitchell1711/Archipelago",
+  "license": null,
+  "versions": {
+    "v0.1.0": {
+      "created_at": "2025-12-09T10:17:07Z",
+      "download_url": "https://github.com/Mitchell1711/Archipelago/releases/download/v0.1.0/pocket_dungeon.apworld",
+      "has_manifest": true,
+      "hash_sha256": "af0fe9a351ed9926055e0e8215a6776a5c4c0ff275969ae0f5c20de668167b86",
+      "minimum_ap_version": "0.6.3",
+      "size": 25478,
+      "source_url": "https://api.github.com/repos/Mitchell1711/Archipelago",
+      "tag": "v0.1.0",
+      "title": "v0.1.0",
+      "version_simple": "0.1.0",
+      "world_version": "0.1.0"
+    },
+    "v0.2.0": {
+      "created_at": "2025-12-13T22:33:02Z",
+      "download_url": "https://github.com/Mitchell1711/Archipelago/releases/download/v0.2.0/pocket_dungeon.apworld",
+      "has_manifest": true,
+      "hash_sha256": "ab88a549969654284de84c1d43aa49d0eedec5801004ee020f38142f668d6ff2",
+      "minimum_ap_version": "0.6.3",
+      "size": 25749,
+      "source_url": "https://api.github.com/repos/Mitchell1711/Archipelago",
+      "tag": "v0.2.0",
+      "title": "v0.2.0",
+      "version_simple": "0.2.0",
+      "world_version": "0.2.0"
+    },
+    "v0.2.1": {
+      "created_at": "2025-12-17T20:55:33Z",
+      "download_url": "https://github.com/Mitchell1711/Archipelago/releases/download/v0.2.1/pocket_dungeon.apworld",
+      "has_manifest": true,
+      "hash_sha256": "16e4db5bbe3b3bb21ec679d0420a7e1bc27a301611bbb98b302fa24f871317b1",
+      "minimum_ap_version": "0.6.3",
+      "size": 26073,
+      "source_url": "https://api.github.com/repos/Mitchell1711/Archipelago",
+      "tag": "v0.2.1",
+      "title": "v0.2.1",
+      "version_simple": "0.2.1",
+      "world_version": "0.2.1"
+    },
+    "v0.2.2": {
+      "created_at": "2025-12-22T18:21:17Z",
+      "download_url": "https://github.com/Mitchell1711/Archipelago/releases/download/v0.2.2/pocket_dungeon.apworld",
+      "has_manifest": true,
+      "hash_sha256": "8b92f88f5bae0a80702c9a19c10ccb363911b0b483a07f3e9a7746973954788c",
+      "minimum_ap_version": "0.6.3",
+      "size": 26094,
+      "source_url": "https://api.github.com/repos/Mitchell1711/Archipelago",
+      "tag": "v0.2.2",
+      "title": "v0.2.2",
+      "version_simple": "0.2.2",
+      "world_version": "0.2.2"
+    }
+  }
+}

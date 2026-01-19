@@ -1,12 +1,13 @@
 {
   "description": "Tasked with helping pay off their employer's debt, explorers Olimar and Louie team up with Pikmin (including purple and white Pikmin) to collect treasure on a strange planet. Time ticks away on the surface, but cave systems let you take your time to let your strategy blossom.",
   "game": "Pikmin 2",
-  "github": "https://github.com/chpas0/Pikmin2Archipelago/",
+  "github": "https://github.com/chpas0/Pikmin2Archipelago",
   "license": null,
   "versions": {
     "v0.2.3": {
       "created_at": "2025-07-12T06:43:29Z",
       "download_url": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.2.3/pikmin2.apworld",
+      "has_manifest": false,
       "hash_sha256": "3891e31925943ebad436d7c0311a7e744c769c9991901f645a8de4f833a5242e",
       "size": 1432805,
       "source_url": "https://api.github.com/repos/chpas0/Pikmin2Archipelago",
@@ -18,6 +19,7 @@
     "v0.3.0": {
       "created_at": "2025-07-27T20:04:46Z",
       "download_url": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.3.0/pikmin2.apworld",
+      "has_manifest": false,
       "hash_sha256": "5dce33d4c5298d0dde930182c21b20421e445e735deff3afdfd1cd2bbc876620",
       "size": 775444,
       "source_url": "https://api.github.com/repos/chpas0/Pikmin2Archipelago",
@@ -29,6 +31,7 @@
     "v0.3.1": {
       "created_at": "2025-07-27T20:04:46Z",
       "download_url": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.3.1/pikmin2.apworld",
+      "has_manifest": false,
       "hash_sha256": "32b14ec842f9fc64d8c74dcee1d631bede687e86146e62e53e63a4659fed1ad4",
       "size": 775473,
       "source_url": "https://api.github.com/repos/chpas0/Pikmin2Archipelago",
@@ -40,6 +43,7 @@
     "v0.4.0": {
       "created_at": "2025-08-13T05:35:18Z",
       "download_url": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.4.0/pikmin2.apworld",
+      "has_manifest": false,
       "hash_sha256": "6b3902b350ff71775b7cb2e04ecde855af3f86f256bf736db8c64ea2018fe106",
       "size": 1435975,
       "source_url": "https://api.github.com/repos/chpas0/Pikmin2Archipelago",
@@ -51,6 +55,7 @@
     "v0.5.0": {
       "created_at": "2025-09-01T18:39:36Z",
       "download_url": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.5.0/pikmin2.apworld",
+      "has_manifest": false,
       "hash_sha256": "7ed5303be016ffa3db109f4ea2abef70585267c20cb5a5c8fc5ed8874c24667d",
       "size": 1450254,
       "source_url": "https://api.github.com/repos/chpas0/Pikmin2Archipelago",
@@ -58,6 +63,54 @@
       "title": "v0.5.0",
       "version_simple": "0.5.0",
       "world_version": "0.5.0"
+    },
+    "v0.6.0": {
+      "created_at": "2025-12-28T00:52:04Z",
+      "download_url": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.6.0/pikmin2.apworld",
+      "has_manifest": false,
+      "hash_sha256": "ee26ccac514535bbfd3c99b1a4556171f1d1ba2c574a059000cf485546c19377",
+      "size": 780062,
+      "source_url": "https://api.github.com/repos/chpas0/Pikmin2Archipelago",
+      "tag": "v0.6.0",
+      "title": "v0.6.0",
+      "version_simple": "0.6.0",
+      "world_version": "0.6.0"
+    },
+    "v0.6.0r2": {
+      "created_at": "2025-12-28T00:52:04Z",
+      "download_url": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.6.0/pikmin2.apworld",
+      "has_manifest": false,
+      "hash_sha256": "2b220d6276a8ad47a46452c0395c5ac56cb0a8b31eb067a9340d0305919a4027",
+      "size": 780054,
+      "source_url": "https://api.github.com/repos/chpas0/Pikmin2Archipelago",
+      "tag": "v0.6.0r2",
+      "title": "v0.6.0",
+      "version_simple": "0.6.0",
+      "world_version": "0.6.0.post2"
+    },
+    "v0.6.1": {
+      "created_at": "2025-12-28T00:52:04Z",
+      "download_url": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.6.1/pikmin2.apworld",
+      "has_manifest": false,
+      "hash_sha256": "716b723135e1263691a7aa0b5442cf4d0b4351da76aae58a118491e551ab7189",
+      "size": 780191,
+      "source_url": "https://api.github.com/repos/chpas0/Pikmin2Archipelago",
+      "tag": "v0.6.1",
+      "title": "v0.6.1",
+      "version_simple": "0.6.1",
+      "world_version": "0.6.1"
+    },
+    "v0.7.0": {
+      "created_at": "2026-01-18T00:29:50Z",
+      "download_url": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.7.0/pikmin2.apworld",
+      "has_manifest": false,
+      "hash_sha256": "48f5ddd6c916a7bfc9be76ef1da50383d2ac4392a88aedd7e45f0536c61a3554",
+      "size": 781297,
+      "source_url": "https://api.github.com/repos/chpas0/Pikmin2Archipelago",
+      "tag": "v0.7.0",
+      "title": "v0.7.0",
+      "version_simple": "0.7.0",
+      "world_version": "0.7.0"
     }
   }
 }

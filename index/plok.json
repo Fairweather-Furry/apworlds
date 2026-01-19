@@ -1,5 +1,5 @@
 {
-  "description": "Plok whose apworld code is completely stolen from Majoras Masks apworld.",
+  "description": "Plok is here for his adventures in this Poly-Esta Archipelago implementation! \nGet ready to enjoy the classic SNES platformer and its iconic soundtrack. Plok is one of my favorite games and I've been excited to take this on.",
   "game": "Plok",
   "github": "https://github.com/Happyhappyism/Archipelago",
   "license": null,
@@ -7,14 +7,28 @@
     "aplok_v010": {
       "created_at": "2025-09-18T19:26:07Z",
       "download_url": "https://github.com/Happyhappyism/Archipelago/releases/download/aplok_v010/plok.apworld",
+      "has_manifest": true,
       "hash_sha256": "18f68733febdebbac0e3e8c83ec3e8ccacfd367066b1be24900f902c960dd7db",
       "minimum_ap_version": "0.6.3",
       "size": 27287,
       "source_url": "https://api.github.com/repos/Happyhappyism/Archipelago",
       "tag": "aplok_v010",
       "title": "Plok Archipelago V 0.1.0",
-      "version_simple": "10",
+      "version_simple": "0.1.0",
       "world_version": "0.1.0"
+    },
+    "plok_v011": {
+      "created_at": "2025-11-05T01:53:53Z",
+      "download_url": "https://github.com/Happyhappyism/Archipelago/releases/download/plok_v011/plok.apworld",
+      "has_manifest": true,
+      "hash_sha256": "ac1d0fe77b70157481b6b0802d9d4b97d85d6fdadc0527102f1469c0237e8644",
+      "minimum_ap_version": "0.6.3",
+      "size": 28011,
+      "source_url": "https://api.github.com/repos/Happyhappyism/Archipelago",
+      "tag": "plok_v011",
+      "title": "Plok Archipelago V 0.1.1",
+      "version_simple": "0.1.1",
+      "world_version": "0.1.1"
     },
     "plokap": {
       "created_at": "2025-04-05T22:13:34Z",
@@ -30,6 +44,7 @@
     "plokapr2": {
       "created_at": "2025-04-05T22:13:34Z",
       "download_url": "https://github.com/Happyhappyism/Archipelago/releases/download/plokap/plok.apworld",
+      "has_manifest": false,
       "hash_sha256": "5774e634698c51c7f905e3e2a23462b0bb4301750664a093bd1e033258f4d414",
       "size": 22159,
       "source_url": "https://api.github.com/repos/Happyhappyism/Archipelago",

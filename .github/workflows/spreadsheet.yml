@@ -1,0 +1,45 @@
+name: Scan Spreadsheet
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: '0 2 * * 1'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the
+      # added or changed files to the repository.
+      contents: write
+      pull-requests: write
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        submodules: true
+    - name: Git Config
+      run: |
+        git config --global user.email "ci@katelyngigante.com"
+        git config --global user.name "Github Actions"
+    - name: Install Dependencies
+      run: |
+        python3 -m pip install --upgrade pip
+        pip install -r Archipelago/requirements.txt
+        pip install -r scripts/requirements.txt
+        python3 scripts/common.py
+        [ -e Archipelago/host.yaml ] || echo "{}" >> Archipelago/host.yaml
+    - name: Configure host.yaml
+      uses: mikefarah/yq@v4.45.1
+      with:
+        cmd: yq -i '.apworld_manager.github_token = "${{ secrets.GITHUB_TOKEN }}"' Archipelago/host.yaml
+    - name: Scan Spreadsheet
+      run: |
+        python3 scripts/add_worlds.py --spreadsheet
+        python3 scripts/tag_worlds.py
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v7
+      with:
+        branch: new-worlds
+        title: Scan Spreadsheet
+        add-paths: 'index/*.json'
+        reviewers: silasary

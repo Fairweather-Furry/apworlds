@@ -1,12 +1,133 @@
 {
   "description": "Kingdom Hearts RE Chain of Memories is an action card RPG following\nSora on his journey through Castle Oblivion to find Riku and Kairi.",
   "game": "Kingdom Hearts RE Chain of Memories",
-  "github": "https://github.com/gaithernOrg/ArchipelagoKHRECOM/",
+  "github": "https://github.com/gaithernOrg/ArchipelagoKHRECOM",
   "license": null,
   "versions": {
+    "0.10.0": {
+      "created_at": "2024-01-07T21:05:36Z",
+      "download_url": "https://github.com/gaithern/BACKUPOLDAPCOMANDRECOM/releases/download/0.10.0/khrecom.apworld",
+      "has_manifest": false,
+      "hash_sha256": "4ba43ca56c698d97ef5af63c03b51b60727a893786649e093f3af6b3738ce17d",
+      "size": 41371,
+      "source_url": "https://api.github.com/repos/gaithern/BACKUPOLDAPCOMANDRECOM",
+      "tag": "0.10.0",
+      "title": "KHCOM AP v0.10.0",
+      "version_simple": "0.10.0",
+      "world_version": "0.10.0"
+    },
+    "0.7.1": {
+      "created_at": "2023-12-05T04:54:43Z",
+      "download_url": "https://github.com/gaithern/BACKUPOLDAPCOMANDRECOM/releases/download/0.7.1/khrecom.apworld",
+      "has_manifest": false,
+      "hash_sha256": "43ef8720b33ccaa47154ea4b272babad0422a08f56fe3ea5f8110ad2651bec6e",
+      "size": 38058,
+      "source_url": "https://api.github.com/repos/gaithern/BACKUPOLDAPCOMANDRECOM",
+      "tag": "0.7.1",
+      "title": "KHCOM_AP v0.7.1",
+      "version_simple": "0.7.1",
+      "world_version": "0.7.1"
+    },
+    "0.7.2": {
+      "created_at": "2023-12-06T01:41:21Z",
+      "download_url": "https://github.com/gaithern/BACKUPOLDAPCOMANDRECOM/releases/download/0.7.2/khrecom.apworld",
+      "has_manifest": false,
+      "hash_sha256": "43ef8720b33ccaa47154ea4b272babad0422a08f56fe3ea5f8110ad2651bec6e",
+      "size": 38058,
+      "source_url": "https://api.github.com/repos/gaithern/BACKUPOLDAPCOMANDRECOM",
+      "tag": "0.7.2",
+      "title": "KHCOM_AP v0.7.2",
+      "version_simple": "0.7.2",
+      "world_version": "0.7.2"
+    },
+    "0.7.3": {
+      "created_at": "2023-12-07T00:49:25Z",
+      "download_url": "https://github.com/gaithern/BACKUPOLDAPCOMANDRECOM/releases/download/0.7.3/khrecom.apworld",
+      "has_manifest": false,
+      "hash_sha256": "34d8ed6f0f1a62f57da41137e9c00ed7380433ea70e9cac94f3aa4a253f7a99e",
+      "size": 37956,
+      "source_url": "https://api.github.com/repos/gaithern/BACKUPOLDAPCOMANDRECOM",
+      "tag": "0.7.3",
+      "title": "KHCOM_AP v0.7.3",
+      "version_simple": "0.7.3",
+      "world_version": "0.7.3"
+    },
+    "0.7.4": {
+      "created_at": "2023-12-07T21:22:58Z",
+      "download_url": "https://github.com/gaithern/BACKUPOLDAPCOMANDRECOM/releases/download/0.7.4/khrecom.apworld",
+      "has_manifest": false,
+      "hash_sha256": "f00826808f6bd4a056cafef6c515abad194b9bec4a123d5fdc7a25495168139b",
+      "size": 37990,
+      "source_url": "https://api.github.com/repos/gaithern/BACKUPOLDAPCOMANDRECOM",
+      "tag": "0.7.4",
+      "title": "KHCOM_AP v0.7.4",
+      "version_simple": "0.7.4",
+      "world_version": "0.7.4"
+    },
+    "0.7.5": {
+      "created_at": "2023-12-11T20:21:21Z",
+      "download_url": "https://github.com/gaithern/BACKUPOLDAPCOMANDRECOM/releases/download/0.7.5/khrecom.apworld",
+      "has_manifest": false,
+      "hash_sha256": "00ecf33cc54affd9aac153cb315e6b0f31e46e4ddd331bbe00c0ead49955fc70",
+      "size": 38107,
+      "source_url": "https://api.github.com/repos/gaithern/BACKUPOLDAPCOMANDRECOM",
+      "tag": "0.7.5",
+      "title": "KHCOM v0.7.5",
+      "version_simple": "0.7.5",
+      "world_version": "0.7.5"
+    },
+    "0.8.0": {
+      "created_at": "2023-12-13T14:55:35Z",
+      "download_url": "https://github.com/gaithern/BACKUPOLDAPCOMANDRECOM/releases/download/0.8.0/khrecom.apworld",
+      "has_manifest": false,
+      "hash_sha256": "6e050788877efdfcaefe925845652e4825fdf457cbdd272d31798107497ccc61",
+      "size": 41323,
+      "source_url": "https://api.github.com/repos/gaithern/BACKUPOLDAPCOMANDRECOM",
+      "tag": "0.8.0",
+      "title": "KHCOM AP v0.8.0",
+      "version_simple": "0.8.0",
+      "world_version": "0.8.0"
+    },
+    "0.8.1": {
+      "created_at": "2023-12-20T20:33:31Z",
+      "download_url": "https://github.com/gaithern/BACKUPOLDAPCOMANDRECOM/releases/download/0.8.1/khrecom.apworld",
+      "has_manifest": false,
+      "hash_sha256": "6e050788877efdfcaefe925845652e4825fdf457cbdd272d31798107497ccc61",
+      "size": 41323,
+      "source_url": "https://api.github.com/repos/gaithern/BACKUPOLDAPCOMANDRECOM",
+      "tag": "0.8.1",
+      "title": "KHCOM_AP v0.8.1",
+      "version_simple": "0.8.1",
+      "world_version": "0.8.1"
+    },
+    "0.8.2": {
+      "created_at": "2023-12-24T20:53:59Z",
+      "download_url": "https://github.com/gaithern/BACKUPOLDAPCOMANDRECOM/releases/download/0.8.2/khrecom.apworld",
+      "has_manifest": false,
+      "hash_sha256": "a8c468edb8b7d5aff6fd67c281e466d054fe7ee44de8b872b68494f0fefaab34",
+      "size": 41240,
+      "source_url": "https://api.github.com/repos/gaithern/BACKUPOLDAPCOMANDRECOM",
+      "tag": "0.8.2",
+      "title": "KHCOM_AP v0.8.2",
+      "version_simple": "0.8.2",
+      "world_version": "0.8.2"
+    },
+    "0.9.0": {
+      "created_at": "2024-01-02T04:33:32Z",
+      "download_url": "https://github.com/gaithern/BACKUPOLDAPCOMANDRECOM/releases/download/0.9.0/khrecom.apworld",
+      "has_manifest": false,
+      "hash_sha256": "ef30f6d0b97c4133626350b5954638835641b604f5843fb5974b0442fa49c8f7",
+      "size": 41403,
+      "source_url": "https://api.github.com/repos/gaithern/BACKUPOLDAPCOMANDRECOM",
+      "tag": "0.9.0",
+      "title": "KHCOM_AP v0.9.0",
+      "version_simple": "0.9.0",
+      "world_version": "0.9.0"
+    },
     "1.0.0": {
       "created_at": "2024-01-30T21:25:38Z",
       "download_url": "https://github.com/gaithernOrg/ArchipelagoKHRECOM/releases/download/1.0.0/khrecom.apworld",
+      "has_manifest": false,
       "hash_sha256": "c373ac0788a0c74a7f3dc4160e22ef09b8f5031bcb61953883058daa5a64a7d6",
       "size": 42429,
       "source_url": "https://api.github.com/repos/gaithernOrg/ArchipelagoKHRECOM",
@@ -18,6 +139,7 @@
     "1.0.1": {
       "created_at": "2024-02-01T16:32:59Z",
       "download_url": "https://github.com/gaithernOrg/ArchipelagoKHRECOM/releases/download/1.0.1/khrecom.apworld",
+      "has_manifest": false,
       "hash_sha256": "0467163f10187b66e507e5486127143f5364dada57822d69b06903134f9ba9eb",
       "size": 42465,
       "source_url": "https://api.github.com/repos/gaithernOrg/ArchipelagoKHRECOM",
@@ -29,6 +151,7 @@
     "1.1.0": {
       "created_at": "2024-02-20T16:56:12Z",
       "download_url": "https://github.com/gaithernOrg/ArchipelagoKHRECOM/releases/download/1.1.0/khrecom.apworld",
+      "has_manifest": false,
       "hash_sha256": "0a255db077f1230b82d32e8cf5f1fafc08d2eec688816291da3c5a850f73ec5c",
       "size": 49965,
       "source_url": "https://api.github.com/repos/gaithernOrg/ArchipelagoKHRECOM",
@@ -40,6 +163,7 @@
     "1.1.1": {
       "created_at": "2024-02-24T03:45:03Z",
       "download_url": "https://github.com/gaithernOrg/ArchipelagoKHRECOM/releases/download/1.1.1/khrecom.apworld",
+      "has_manifest": false,
       "hash_sha256": "bbc5195bccb865172f2d28dc844836176452f78fdcb07b5fb66f12fcccf82176",
       "size": 49937,
       "source_url": "https://api.github.com/repos/gaithernOrg/ArchipelagoKHRECOM",
@@ -51,6 +175,7 @@
     "1.1.2": {
       "created_at": "2024-02-24T04:09:03Z",
       "download_url": "https://github.com/gaithernOrg/ArchipelagoKHRECOM/releases/download/1.1.2/khrecom.apworld",
+      "has_manifest": false,
       "hash_sha256": "a85d80c2860755dc4fcc3b8b35c37f1aa4bdfa2129ebc8c0029e013b6796b69f",
       "size": 49936,
       "source_url": "https://api.github.com/repos/gaithernOrg/ArchipelagoKHRECOM",
@@ -62,6 +187,7 @@
     "1.1.3": {
       "created_at": "2024-02-24T04:50:36Z",
       "download_url": "https://github.com/gaithernOrg/ArchipelagoKHRECOM/releases/download/1.1.3/khrecom.apworld",
+      "has_manifest": false,
       "hash_sha256": "63046995d4cf462b77ada6489b58de4587f6bd1af5a6af83c28b484491d6948f",
       "size": 50110,
       "source_url": "https://api.github.com/repos/gaithernOrg/ArchipelagoKHRECOM",
@@ -73,6 +199,7 @@
     "1.2.0": {
       "created_at": "2024-03-07T21:05:42Z",
       "download_url": "https://github.com/gaithernOrg/ArchipelagoKHRECOM/releases/download/1.2.0/khrecom.apworld",
+      "has_manifest": false,
       "hash_sha256": "259a5c4bebee5379afcddf1614b70dca2080794215966b5ab1658e162596496a",
       "size": 52927,
       "source_url": "https://api.github.com/repos/gaithernOrg/ArchipelagoKHRECOM",
@@ -84,6 +211,7 @@
     "1.2.1": {
       "created_at": "2024-03-18T16:42:26Z",
       "download_url": "https://github.com/gaithernOrg/ArchipelagoKHRECOM/releases/download/1.2.1/khrecom.apworld",
+      "has_manifest": false,
       "hash_sha256": "a42e173a3f9c2b5990599de948ab5148a6f1884959672a6faa4dad45f29f1db7",
       "size": 53195,
       "source_url": "https://api.github.com/repos/gaithernOrg/ArchipelagoKHRECOM",
@@ -95,6 +223,7 @@
     "1.3.0": {
       "created_at": "2024-05-26T04:04:21Z",
       "download_url": "https://github.com/gaithernOrg/ArchipelagoKHRECOM/releases/download/1.3.0/khrecom.apworld",
+      "has_manifest": false,
       "hash_sha256": "146af99e934863c86425f13297479926f9977a9faf078a2da202d519a251cc4b",
       "size": 58047,
       "source_url": "https://api.github.com/repos/gaithernOrg/ArchipelagoKHRECOM",
@@ -106,6 +235,7 @@
     "1.4.0": {
       "created_at": "2024-05-26T04:04:21Z",
       "download_url": "https://github.com/gaithernOrg/ArchipelagoKHRECOM/releases/download/1.4.0/khrecom.apworld",
+      "has_manifest": false,
       "hash_sha256": "2cfcb33d23f28fb94929c066fe48d378ce1030479591993858dc645758b40450",
       "size": 58772,
       "source_url": "https://api.github.com/repos/gaithernOrg/ArchipelagoKHRECOM",
@@ -117,6 +247,7 @@
     "1.4.1": {
       "created_at": "2024-06-24T20:37:23Z",
       "download_url": "https://github.com/gaithernOrg/ArchipelagoKHRECOM/releases/download/1.4.1/khrecom.apworld",
+      "has_manifest": false,
       "hash_sha256": "de91d41d73f3123c3fe8f06b8dc28953f31caf721c2b8d606eb90f3350aa540b",
       "size": 58797,
       "source_url": "https://api.github.com/repos/gaithernOrg/ArchipelagoKHRECOM",
@@ -128,6 +259,7 @@
     "1.4.2": {
       "created_at": "2024-08-07T22:45:46Z",
       "download_url": "https://github.com/gaithernOrg/ArchipelagoKHRECOM/releases/download/1.4.2/khrecom.apworld",
+      "has_manifest": false,
       "hash_sha256": "41fc01fc7231353f17dfdea9451a5e29846d3429a88349c8762fa23f798ba910",
       "size": 75194,
       "source_url": "https://api.github.com/repos/gaithernOrg/ArchipelagoKHRECOM",
@@ -139,6 +271,7 @@
     "1.4.3": {
       "created_at": "2025-07-23T13:58:09Z",
       "download_url": "https://github.com/gaithernOrg/ArchipelagoKHRECOM/releases/download/1.4.3/khrecom.apworld",
+      "has_manifest": false,
       "hash_sha256": "2570300ced143f116045cc76bdc11545c5425c9f3cd0b4ad36ba7149afd78fe9",
       "size": 75223,
       "source_url": "https://api.github.com/repos/gaithernOrg/ArchipelagoKHRECOM",

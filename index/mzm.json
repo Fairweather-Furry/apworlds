@@ -1,12 +1,13 @@
 {
   "description": "Metroid: Zero Mission is a retelling of the first Metroid on NES. Relive Samus' first adventure on planet Zebes with\nnew areas, items, enemies, and story! Logic based on Metroid: Zero Mission Randomizer by Biosp4rk and Dragonfangs,\nused with permission.",
   "game": "Metroid Zero Mission",
-  "github": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/",
+  "github": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission",
   "license": "MIT",
   "versions": {
     "0.1.0": {
       "created_at": "2024-07-03T12:55:54Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.1.0/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "067deb39ba7da2fd745157c70afc40608d6a51f1d003648e34d2e0fb0804399c",
       "size": 91647,
       "source_url": "https://api.github.com/repos/lilDavid/Archipelago-Metroid-Zero-Mission",
@@ -18,6 +19,7 @@
     "0.1.1": {
       "created_at": "2024-07-09T22:22:26Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.1.1/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "77d65d947eb561dd1d2909768bc4888d599462d18142c47c44c8cd5204971961",
       "size": 88836,
       "source_url": "https://api.github.com/repos/lilDavid/Archipelago-Metroid-Zero-Mission",
@@ -29,6 +31,7 @@
     "0.1.2": {
       "created_at": "2024-07-15T16:14:10Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.1.2/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "9bd2e017ecab52d373196161033be8287c58af9ffef9520c9c7ffabb22d703cb",
       "size": 92807,
       "source_url": "https://api.github.com/repos/lilDavid/Archipelago-Metroid-Zero-Mission",
@@ -40,6 +43,7 @@
     "0.1.3": {
       "created_at": "2024-08-11T16:01:12Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.1.3/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "2284679668dee78c4a0e7ed1ed9d5b3f75bcecf655afea30de71e38b2ab2ba79",
       "size": 93400,
       "source_url": "https://api.github.com/repos/lilDavid/Archipelago-Metroid-Zero-Mission",
@@ -51,6 +55,7 @@
     "0.2.0": {
       "created_at": "2024-09-05T12:59:55Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.2.0/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "8c8a494d17b569f76100f5f4e95a200fed71eb5bc787493b669742aa2da5c71d",
       "size": 105340,
       "source_url": "https://api.github.com/repos/lilDavid/Archipelago-Metroid-Zero-Mission",
@@ -62,6 +67,7 @@
     "0.2.0-pre1": {
       "created_at": "2024-08-24T01:09:54Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.2.0-pre1/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "953b62cc6d8ba63790201f4fb487315a37c7045a68a9c4704414f04bb95cfb7f",
       "prerelease": true,
       "size": 105345,
@@ -74,6 +80,7 @@
     "0.2.0-pre2": {
       "created_at": "2024-08-24T21:19:28Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.2.0-pre2/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "2ab37fa74a37bdb1355e3bd6ded81bbefc5baf50cff602c02c42c870d9e9bcfa",
       "prerelease": true,
       "size": 105388,
@@ -86,6 +93,7 @@
     "0.2.0-pre3": {
       "created_at": "2024-08-29T13:36:11Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.2.0-pre3/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "bf2d42cca22a9e05f2e2f817f904b36bf4989c289c9842e73432a797beaae99b",
       "prerelease": true,
       "size": 104828,
@@ -98,6 +106,7 @@
     "0.2.0-pre4": {
       "created_at": "2024-09-01T18:18:50Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.2.0-pre4/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "750053099cd10b80ac404a7236c2eee8d812f1a877d39d795fa9fac04572c105",
       "prerelease": true,
       "size": 104796,
@@ -110,6 +119,7 @@
     "0.2.1": {
       "created_at": "2024-11-06T15:54:07Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.2.1/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "54ac2e07ddcdac10b30e778cee545de6f3ec5ea4e909ce0aebad757c89685848",
       "size": 106251,
       "source_url": "https://api.github.com/repos/lilDavid/Archipelago-Metroid-Zero-Mission",
@@ -121,6 +131,7 @@
     "0.2.2": {
       "created_at": "2024-11-20T22:21:02Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.2.2/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "30f64cdbba9d8023ac8e21c423d1ff27ab2ebb0c1da18c554ebbfb2450c38cba",
       "size": 106529,
       "source_url": "https://api.github.com/repos/lilDavid/Archipelago-Metroid-Zero-Mission",
@@ -132,6 +143,7 @@
     "0.2.3": {
       "created_at": "2025-01-09T04:26:05Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.2.3/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "7afdddb1c8880ea7a0a5656da7be64aa233c2e0d0426cbf76fd82c5052e7b74b",
       "size": 106673,
       "source_url": "https://api.github.com/repos/lilDavid/Archipelago-Metroid-Zero-Mission",
@@ -143,6 +155,7 @@
     "0.3.0": {
       "created_at": "2025-05-05T22:31:44Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.3.0/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "2dd9546d0053e54f14eb2f4b3cb5b43a25bd42953f6563a7aa7e7011eb489c59",
       "size": 120296,
       "source_url": "https://api.github.com/repos/lilDavid/Archipelago-Metroid-Zero-Mission",
@@ -154,6 +167,7 @@
     "0.3.0-pre1": {
       "created_at": "2025-03-28T03:40:46Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.3.0-pre1/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "475f3a82dd2db89aba12eb910b94889a3b8c29dc8ad5438f2fac4a73a50681a3",
       "prerelease": true,
       "size": 118333,
@@ -166,6 +180,7 @@
     "0.3.0-pre2": {
       "created_at": "2025-04-24T23:23:55Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.3.0-pre2/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "ba5da8424cfbb5364555f54951a66c6cfa7199d0bfaf4fe07218927ddff69e19",
       "prerelease": true,
       "size": 116070,
@@ -178,6 +193,7 @@
     "0.3.0-pre2a": {
       "created_at": "2025-04-29T23:34:13Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.3.0-pre2a/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "77ed15b29d36d992ff9c1e390ec5f868c88f718f07dc6b108d8b4e45fdad0a32",
       "prerelease": true,
       "size": 119280,
@@ -190,6 +206,7 @@
     "0.3.0-pre3": {
       "created_at": "2025-05-02T16:10:27Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.3.0-pre3/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "690a8e355d7a0845d44e57e4efb6e1516cd7a65b86afa146de0104f3b41b4ec2",
       "prerelease": true,
       "size": 120121,
@@ -202,6 +219,7 @@
     "0.3.1": {
       "created_at": "2025-06-23T18:18:35Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.3.1/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "b7b05ab1cca07515f84549bad5de5585286d89bca03d011a59ec391c965c37b9",
       "size": 120443,
       "source_url": "https://api.github.com/repos/lilDavid/Archipelago-Metroid-Zero-Mission",
@@ -210,9 +228,22 @@
       "version_simple": "0.3.1",
       "world_version": "0.3.1"
     },
+    "0.4.0": {
+      "created_at": "2025-10-19T15:26:08Z",
+      "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.4.0/mzm.apworld",
+      "has_manifest": false,
+      "hash_sha256": "56ec634fff9a8150bb71741792d3793a977c66d15aafd09d6492e48c865454b6",
+      "size": 139142,
+      "source_url": "https://api.github.com/repos/lilDavid/Archipelago-Metroid-Zero-Mission",
+      "tag": "0.4.0",
+      "title": "0.4.0",
+      "version_simple": "0.4.0",
+      "world_version": "0.4.0"
+    },
     "0.4.0-pre1": {
       "created_at": "2025-08-17T18:06:42Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.4.0-pre1/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "1f9b3a6861b8d92e4893383c56aac66667c749c91405539a6015108c6a5710b1",
       "prerelease": true,
       "size": 135296,
@@ -225,6 +256,7 @@
     "0.4.0-pre2": {
       "created_at": "2025-08-31T15:38:44Z",
       "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.4.0-pre2/mzm.apworld",
+      "has_manifest": false,
       "hash_sha256": "ffb27a6e4af5e83a44d2d3ae49e9b18330e069364729b76b90e8417ddc35812f",
       "prerelease": true,
       "size": 140194,
@@ -233,6 +265,32 @@
       "title": "0.4.0 prerelease 2",
       "version_simple": "0.4.0",
       "world_version": "0.4.0"
+    },
+    "0.4.1": {
+      "created_at": "2025-11-09T15:19:26Z",
+      "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.4.1/mzm.apworld",
+      "has_manifest": true,
+      "hash_sha256": "9a96c525d156c2b6676da30690720f760fccfa8c0ec65b03671d6a93de1f7490",
+      "minimum_ap_version": "0.6.3",
+      "size": 135009,
+      "source_url": "https://api.github.com/repos/lilDavid/Archipelago-Metroid-Zero-Mission",
+      "tag": "0.4.1",
+      "title": "0.4.1",
+      "version_simple": "0.4.1",
+      "world_version": "0.4.1"
+    },
+    "0.4.2": {
+      "created_at": "2025-12-10T02:20:03Z",
+      "download_url": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.4.2/mzm.apworld",
+      "has_manifest": true,
+      "hash_sha256": "227085539da6d839bf5ea3cf660f88466d79cbf07eeee6336677804b523ed825",
+      "minimum_ap_version": "0.6.4",
+      "size": 134602,
+      "source_url": "https://api.github.com/repos/lilDavid/Archipelago-Metroid-Zero-Mission",
+      "tag": "0.4.2",
+      "title": "0.4.2",
+      "version_simple": "0.4.2",
+      "world_version": "0.4.2"
     }
   }
 }

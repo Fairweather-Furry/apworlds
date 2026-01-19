@@ -1,12 +1,25 @@
 {
   "description": "Anodyne is a unique Zelda-like game, influenced by games such as Yume Nikki and Link's Awakening. \nIn Anodyne, you'll visit areas urban, natural, and bizarre, fighting your way through dungeons \nand areas in Young's subconscious.",
   "game": "Anodyne",
-  "github": "https://github.com/PixieCatSupreme/ArchipelagoAno/",
+  "github": "https://github.com/PixieCatSupreme/ArchipelagoAno",
   "license": null,
   "versions": {
+    "anodyne-v0.1.0": {
+      "created_at": "2024-05-26T17:12:12Z",
+      "download_url": "https://github.com/hatkirby/Archipelago/releases/download/anodyne-v0.1.0/anodyne.apworld",
+      "has_manifest": false,
+      "hash_sha256": "23cc09596a8b434a18db3db76b3bbfd10c870c7ed82110bf33d76f0e054b8e55",
+      "size": 23974,
+      "source_url": "https://api.github.com/repos/hatkirby/Archipelago",
+      "tag": "anodyne-v0.1.0",
+      "title": "Anodyne v0.1.0",
+      "version_simple": "0.1.0",
+      "world_version": "0.1.0"
+    },
     "v0.1.0": {
       "created_at": "2024-07-20T21:50:19Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.0/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "6934f664d1f0164265f71f1d7e242c28e11e36db28ff53e414c527166f706d10",
       "size": 21804,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -18,6 +31,7 @@
     "v0.1.1": {
       "created_at": "2024-07-21T17:53:11Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.1/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "ac592dc818a4eaf9f583eb6e682b1b1f94678d48a73c352914dd5bd5d2fd6f9f",
       "size": 22667,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -29,6 +43,7 @@
     "v0.1.2": {
       "created_at": "2024-07-22T03:13:35Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.2/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "77bdddf8a156321b3362ad05337464c2da3ac10b2b25e96bb87d5365563939eb",
       "size": 22753,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -40,6 +55,7 @@
     "v0.1.3": {
       "created_at": "2024-07-17T22:49:59Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.3/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "f75fc0406189dfdfcd2fe972e4231237c8198cac9dbaf2b435d64664316fa338",
       "size": 59843,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -51,6 +67,7 @@
     "v0.1.4": {
       "created_at": "2024-08-02T20:47:33Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.4/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "a5875c49e8a9ec58b41e3d7a7c176a5f6191b99bb10239de489ab2190e291491",
       "size": 25385,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -62,6 +79,7 @@
     "v0.1.5": {
       "created_at": "2024-08-08T02:53:23Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.5/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "96b352106225de10448a755a4213cece60a681386cf578e36f944ca69da51a00",
       "size": 23590,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -73,6 +91,7 @@
     "v0.1.6": {
       "created_at": "2024-11-21T20:20:10Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.6/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "26726613565591966fc59aa629449541c375aae5087dc6e13c8b70db84b769ee",
       "size": 23596,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -84,6 +103,7 @@
     "v0.1.7": {
       "created_at": "2024-11-22T18:46:25Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.7/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "35852163f08770fac13e03e7089486689a01d80ca81c1de7726f20bed8f50e99",
       "size": 23598,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -95,6 +115,7 @@
     "v0.1.8": {
       "created_at": "2024-12-08T20:09:43Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.8/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "3ec6f47e89d23925049de4d5525364bc30f14fedf6228ecbacc31612f8b8ad62",
       "size": 23604,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -106,6 +127,7 @@
     "v0.1.9": {
       "created_at": "2025-01-18T14:13:51Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.9/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "28d0599d757a75e2351b32697dede11511e561d3e1c070ba3406cf7863a85c33",
       "size": 23604,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -117,6 +139,7 @@
     "v0.2.0": {
       "created_at": "2025-04-08T18:45:26Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.0/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "3524c45a56980e106ff8c65e4613254e4620a1a1194300c7dc12d07783c8c358",
       "prerelease": true,
       "size": 50559,
@@ -129,6 +152,7 @@
     "v0.2.1": {
       "created_at": "2025-04-09T19:14:27Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.1/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "6b9c878a8dc24979f3594adfe281acd2a68e94a6fd78f82a9c9e8fc93f9ebcf3",
       "prerelease": true,
       "size": 31747,
@@ -141,6 +165,7 @@
     "v0.2.2": {
       "created_at": "2025-04-10T13:29:23Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.2/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "7798c8049fdcae74f23d0c127cb3081b834eb1689e2f24aaf699987f79a21871",
       "prerelease": true,
       "size": 31866,
@@ -164,6 +189,7 @@
     "v0.2.3r2": {
       "created_at": "2025-04-15T06:00:21Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.3/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "959ee05776be297d82ee8228c2629e0590e19f3723294b25280e3c2a054b7c6a",
       "size": 31865,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -175,6 +201,7 @@
     "v0.2.4": {
       "created_at": "2025-05-07T19:06:31Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.4/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "3cf5118a51a7c50068c99ddc269e967be7ba44bf1ca6cf331befc68429f9f33d",
       "size": 32288,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -186,6 +213,7 @@
     "v0.2.5": {
       "created_at": "2025-05-13T10:23:12Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.5/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "90af3359bdcd1c6f86c3bd8930fd539709afdd098ebde10206a0f7dcdc54bd50",
       "size": 32286,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -197,6 +225,7 @@
     "v0.2.6": {
       "created_at": "2025-06-08T17:29:12Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.6/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "5fab8474d69c5314e2596279a27729f8defe2e609ef8be16ee56d371adb4cf33",
       "size": 32271,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -208,6 +237,7 @@
     "v0.2.7": {
       "created_at": "2025-06-29T08:55:13Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.7/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "c2b58b9cd9256dc892a207a78876af74b3d7e71f9c44bb220e4bdc6be0db7b98",
       "size": 99975,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -219,6 +249,7 @@
     "v0.3.0": {
       "created_at": "2025-07-03T17:42:10Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.3.0/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "14f94a553bb4a8e67c3033e43ae3a97288a758e994b54db0d3a1481f2068ff68",
       "size": 100852,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -230,6 +261,7 @@
     "v0.3.1": {
       "created_at": "2025-07-11T12:33:10Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.3.1/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "a66fb2ad8f35d5de0c1eea40ebaaefad828a14fa949b5c6fd0a07b212f1df558",
       "size": 100797,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -241,6 +273,7 @@
     "v0.4.0": {
       "created_at": "2025-10-08T11:58:26Z",
       "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.4.0/anodyne.apworld",
+      "has_manifest": false,
       "hash_sha256": "65e2cf027d9fc375a5f4a023a22b766e94f36a1bfa0df84d074fa2b71318a3c6",
       "size": 3941607,
       "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
@@ -248,6 +281,31 @@
       "title": "Anodyne Apworld 0.4.0 ",
       "version_simple": "0.4.0",
       "world_version": "0.4.0"
+    },
+    "v0.4.1": {
+      "created_at": "2025-10-12T18:37:11Z",
+      "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.4.1/anodyne.apworld",
+      "has_manifest": false,
+      "hash_sha256": "9902971203a7874fde6609ff23f1a2a9a3fa1f77fb1c82ba15246f0ec3671cad",
+      "size": 39850,
+      "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
+      "tag": "v0.4.1",
+      "title": "Anodyne APWorld 0.4.1",
+      "version_simple": "0.4.1",
+      "world_version": "0.4.1"
+    },
+    "v0.5.0": {
+      "created_at": "2025-12-15T15:29:53Z",
+      "download_url": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.5.0/anodyne.apworld",
+      "has_manifest": true,
+      "hash_sha256": "cf8497352ae65a60c5320708d31ab489416b339dfb6bd9ab58f884e416499f59",
+      "minimum_ap_version": "0.6.4",
+      "size": 43973,
+      "source_url": "https://api.github.com/repos/PixieCatSupreme/ArchipelagoAno",
+      "tag": "v0.5.0",
+      "title": "Anodyne APWorld 0.5.0",
+      "version_simple": "0.5.0",
+      "world_version": "0.5.0"
     }
   }
 }

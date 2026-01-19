@@ -10,6 +10,7 @@
     "v0.1.0": {
       "created_at": "2025-01-27T03:49:21Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.1.0/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "ad1a79658f6647b9db2516ae5d516cc086f783a98b8961d679972b2f77230908",
       "size": 18419,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -21,6 +22,7 @@
     "v0.1.1": {
       "created_at": "2025-01-29T03:57:57Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.1.1/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "65d32c7ee1ba378b5b49d67317f7244e71628ed9ad2c6c2a05ef5d3a5c398ac5",
       "size": 18423,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -32,6 +34,7 @@
     "v0.2.0": {
       "created_at": "2025-02-02T14:18:29Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.2.0/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "da15624f77dfe401681988c9352f28cdfac3d61da8ee0b41c2bc8291b886f4e9",
       "size": 19079,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -43,6 +46,7 @@
     "v0.2.1": {
       "created_at": "2025-02-03T11:17:40Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.2.1/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "b936adff4ad8dbf38968a5a159f39f05067a60e277b7ca244c3eb4f9f13b7ed4",
       "size": 19086,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -54,6 +58,7 @@
     "v0.2.5": {
       "created_at": "2025-02-18T00:09:07Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.2.5/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "22c7ff548f4ef5dc394048e9be0fbe6de30c349cee69763596a8794e201fe88a",
       "size": 31917,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -65,6 +70,7 @@
     "v0.2.6": {
       "created_at": "2025-02-21T07:26:29Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.2.6/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "9f31051a6e900aece1cf7a1663e0e5a28eee66db408dc81ceaf087b06c72878f",
       "size": 31907,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -76,6 +82,7 @@
     "v0.2.7": {
       "created_at": "2025-02-24T04:13:27Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.2.7/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "5ced1a87f398d57da4d4710ff09f3dfa09f4a88c245f79d81cf8a76e027c75f4",
       "size": 31910,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -87,6 +94,7 @@
     "v0.3.0": {
       "created_at": "2025-03-02T17:09:52Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.3.0/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "d56687cc6becdf893a5d2bf0d6abea6e623ccffe5baab860eceda09284111285",
       "size": 39427,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -98,6 +106,7 @@
     "v0.3.1": {
       "created_at": "2025-03-02T17:09:52Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.3.1/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "a7016576d055ee695c8bd93324f051d0bbca56b648634beb3d91d7b6d27c4090",
       "size": 39558,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -109,6 +118,7 @@
     "v0.4.0": {
       "created_at": "2025-06-08T16:40:05Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.0/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "44d55afab695dcb370bd920cb48d9e4a94b893538bbb68bf9c726c911ddd72fe",
       "size": 343183,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -120,6 +130,7 @@
     "v0.4.1": {
       "created_at": "2025-06-16T00:42:26Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.1/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "5fa9215942d8961c8d36b4682c9767dafe9ea738e454394fbe8acfef94383d90",
       "size": 344207,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -131,6 +142,7 @@
     "v0.4.2": {
       "created_at": "2025-06-26T06:14:30Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.2/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "8a4fb5f405b87998aeb065d0a77226fb074a702d58433d8497e93c1e8f7f04be",
       "size": 346713,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -142,6 +154,7 @@
     "v0.4.2.1": {
       "created_at": "2025-06-27T21:00:38Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.2.1/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "628b75e730f8d11b102ed551be232ee25d71e0bd3d389752e51549bda8fe4d2e",
       "size": 346881,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -153,6 +166,7 @@
     "v0.4.2.2": {
       "created_at": "2025-07-02T06:42:28Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.2.2/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "4675f61a1a230cf7d714937b158b794fff1c8dda2ec111476fe6da4e0f75b197",
       "size": 347070,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -164,6 +178,7 @@
     "v0.4.2.3": {
       "created_at": "2025-07-12T00:48:15Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.2.3/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "bcb4775f984419da1030f602bf875d4507b4f6a39246e0767f93d06589c62d25",
       "size": 347129,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -175,6 +190,7 @@
     "v0.4.2.4": {
       "created_at": "2025-07-28T21:58:11Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.2.4/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "856c58a757f91c741b3d97030f899885fd5aa87595ceec2df9eee8ba4a12c95c",
       "size": 348846,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -186,6 +202,7 @@
     "v0.4.3": {
       "created_at": "2025-08-26T03:49:43Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.3/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "a5a649b24c3b4bddaf553cd7f4f7db1b624b89ade1a345da70a3f46d8b00239a",
       "size": 351736,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -197,6 +214,7 @@
     "v0.4.3.1": {
       "created_at": "2025-08-30T15:59:40Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.3.1/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "1d6f024537cedaeca9a9064f5318f65c482c09cc7c4351903021fdf0f7225a2f",
       "size": 352695,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -208,6 +226,7 @@
     "v0.4.3.2": {
       "created_at": "2025-09-01T18:36:00Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.3.2/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "55519059b7ad88e3e6a3f9f862b69ece7b38623ae4b854e7066af57e65cc7bc6",
       "size": 350698,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -219,6 +238,7 @@
     "v0.4.3.3": {
       "created_at": "2025-09-14T18:26:02Z",
       "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.3.3/sm64hacks.apworld",
+      "has_manifest": false,
       "hash_sha256": "265ac77e0ca82363197b3c7eaeefbed90bf25a32403e5990fab14e830eaddad6",
       "size": 360005,
       "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
@@ -226,6 +246,58 @@
       "title": "v0.4.3.3",
       "version_simple": "0.4.3.3",
       "world_version": "0.4.3.3"
+    },
+    "v0.4.4": {
+      "created_at": "2025-10-26T02:11:01Z",
+      "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.4/sm64hacks.apworld",
+      "has_manifest": true,
+      "hash_sha256": "f7274269792c12a939c4ea86857fc48e2ce513dc24955103c741319820b50751",
+      "minimum_ap_version": "0.6.3",
+      "size": 274762,
+      "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
+      "tag": "v0.4.4",
+      "title": "v0.4.4",
+      "version_simple": "0.4.4",
+      "world_version": "0.4.4"
+    },
+    "v0.4.4.1": {
+      "created_at": "2025-10-27T17:00:23Z",
+      "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.4.1/sm64hacks.apworld",
+      "has_manifest": true,
+      "hash_sha256": "fb5e6247fa159b80864bb95a297b04456bbbabb7e49ef5a6a166745b808b54c1",
+      "minimum_ap_version": "0.6.3",
+      "size": 274748,
+      "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
+      "tag": "v0.4.4.1",
+      "title": "v0.4.4.1",
+      "version_simple": "0.4.4",
+      "world_version": "0.4.4"
+    },
+    "v0.4.4.2": {
+      "created_at": "2025-11-11T10:18:10Z",
+      "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.4.2/sm64hacks.apworld",
+      "has_manifest": true,
+      "hash_sha256": "62097c82e5089c280d2fa8abf2406813267631e47c23bcf3ab8a0cfc6077a628",
+      "minimum_ap_version": "0.6.3",
+      "size": 274892,
+      "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
+      "tag": "v0.4.4.2",
+      "title": "v0.4.4.2",
+      "version_simple": "0.4.4",
+      "world_version": "0.4.4"
+    },
+    "v0.4.4.3": {
+      "created_at": "2025-11-26T09:33:14Z",
+      "download_url": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.4.3/sm64hacks.apworld",
+      "has_manifest": true,
+      "hash_sha256": "cf20fde0a47d4be4f1ad37d5a9449bad8d37730b153522223e309e70f4b03a92",
+      "minimum_ap_version": "0.6.3",
+      "size": 275393,
+      "source_url": "https://api.github.com/repos/DNVIC/archipelago-sm64hacks",
+      "tag": "v0.4.4.3",
+      "title": "v0.4.4.3",
+      "version_simple": "0.4.4",
+      "world_version": "0.4.4"
     }
   }
 }

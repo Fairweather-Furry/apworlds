@@ -1,12 +1,13 @@
 {
   "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent.",
   "game": "Manual_PokemonSnap_AliRobotnik",
-  "github": "https://github.com/AliRobotnik/PokemonSnap-Archipelago-Manual/",
+  "github": "https://github.com/AliRobotnik/PokemonSnap-Archipelago-Manual",
   "license": "MIT",
   "versions": {
     "V1.3.0": {
       "created_at": "2024-08-23T02:16:17Z",
       "download_url": "https://github.com/AliRobotnik/PokemonSnap-Archipelago-Manual/releases/download/V1.3.0/manual_pokemonsnap_alirobotnik.apworld",
+      "has_manifest": false,
       "hash_sha256": "907ee4f0015b72798180099d336735ff5eed021665e73753e98167b54635a0df",
       "size": 43789,
       "source_url": "https://api.github.com/repos/AliRobotnik/PokemonSnap-Archipelago-Manual",
@@ -18,6 +19,7 @@
     "V1.3.1": {
       "created_at": "2024-08-31T04:47:25Z",
       "download_url": "https://github.com/AliRobotnik/PokemonSnap-Archipelago-Manual/releases/download/V1.3.1/manual_pokemonsnap_alirobotnik.apworld",
+      "has_manifest": false,
       "hash_sha256": "a04ac31c69c100ad2b3bbae30b29ddd8ea5f70535f908ce869c16c3becb809e1",
       "size": 43791,
       "source_url": "https://api.github.com/repos/AliRobotnik/PokemonSnap-Archipelago-Manual",
@@ -29,6 +31,7 @@
     "V1.3.2": {
       "created_at": "2024-08-31T04:47:25Z",
       "download_url": "https://github.com/AliRobotnik/PokemonSnap-Archipelago-Manual/releases/download/V1.3.2/manual_pokemonsnap_alirobotnik.apworld",
+      "has_manifest": false,
       "hash_sha256": "55acecf0495035eef83c8ffb45803d3f7c8d0cca78e968e9f5c0a6abb64f3236",
       "size": 46190,
       "source_url": "https://api.github.com/repos/AliRobotnik/PokemonSnap-Archipelago-Manual",
@@ -36,6 +39,30 @@
       "title": "Version 1.3.2",
       "version_simple": "1.3.2",
       "world_version": "1.3.2"
+    },
+    "V1.4.0": {
+      "created_at": "2024-08-31T04:47:25Z",
+      "download_url": "https://github.com/AliRobotnik/PokemonSnap-Archipelago-Manual/releases/download/V1.4.0/manual_pokemonsnap_alirobotnik.apworld",
+      "has_manifest": false,
+      "hash_sha256": "5058d1a2e524e82bff642eb771823a0f37991477a909353d2c77f65ce2490f15",
+      "size": 57773,
+      "source_url": "https://api.github.com/repos/AliRobotnik/PokemonSnap-Archipelago-Manual",
+      "tag": "V1.4.0",
+      "title": "Version 1.4.0",
+      "version_simple": "1.4.0",
+      "world_version": "1.4.0"
+    },
+    "V1.4.1": {
+      "created_at": "2024-08-31T04:47:25Z",
+      "download_url": "https://github.com/AliRobotnik/PokemonSnap-Archipelago-Manual/releases/download/V1.4.1/manual_pokemonsnap_alirobotnik.apworld",
+      "has_manifest": false,
+      "hash_sha256": "90fb1881948cf0085c66a15dad94fe2cfda0de260275a070b4e1183028557c87",
+      "size": 57821,
+      "source_url": "https://api.github.com/repos/AliRobotnik/PokemonSnap-Archipelago-Manual",
+      "tag": "V1.4.1",
+      "title": "Version 1.4.1",
+      "version_simple": "1.4.1",
+      "world_version": "1.4.1"
     }
   }
 }

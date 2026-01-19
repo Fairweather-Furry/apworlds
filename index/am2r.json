@@ -10,6 +10,7 @@
     "1.0": {
       "created_at": "2024-02-25T16:21:29Z",
       "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.0/am2r.apworld",
+      "has_manifest": false,
       "hash_sha256": "8d10309d941f39d8223bedb6cecc636bc509ec5f4815b05341538b703e745c69",
       "size": 33004,
       "source_url": "https://api.github.com/repos/Ehseezed/Archipelago-Integration",
@@ -21,6 +22,7 @@
     "1.0.3": {
       "created_at": "2024-04-03T22:32:58Z",
       "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.0.3/am2r.apworld",
+      "has_manifest": false,
       "hash_sha256": "89387599c8b513e37edda215e4ea3b615a29299c851841a1beec60fd892bcdd7",
       "size": 36301,
       "source_url": "https://api.github.com/repos/Ehseezed/Archipelago-Integration",
@@ -32,6 +34,7 @@
     "1.1.1-b": {
       "created_at": "2024-07-25T19:49:35Z",
       "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.1.1-b/am2r.apworld",
+      "has_manifest": false,
       "hash_sha256": "65afc181313ded225c2d9276760b4db54888d9827d8a004cc2c323bfd54be21e",
       "prerelease": true,
       "size": 33548,
@@ -44,6 +47,7 @@
     "1.1.2-M2": {
       "created_at": "2024-09-05T22:41:28Z",
       "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.1.2-M2/am2r.apworld",
+      "has_manifest": false,
       "hash_sha256": "8acffca7a51acdc631ed373202388f4628da671bb14011e008bd259947ac1c72",
       "size": 70195,
       "source_url": "https://api.github.com/repos/Ehseezed/Archipelago-Integration",
@@ -55,6 +59,7 @@
     "1.1.3-M2": {
       "created_at": "2024-09-08T19:31:59Z",
       "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.1.3-M2/am2r.apworld",
+      "has_manifest": false,
       "hash_sha256": "3d06341784fb5178299cf89c4b8f532493a00b7a6e5f941a13a44f4ce744dcaa",
       "size": 70350,
       "source_url": "https://api.github.com/repos/Ehseezed/Archipelago-Integration",
@@ -66,6 +71,7 @@
     "1.1.4-M2": {
       "created_at": "2024-08-14T15:07:06Z",
       "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.1.4-M2/am2r.apworld",
+      "has_manifest": false,
       "hash_sha256": "5a59728ba0993aeebbfd08a49ca27badadb7734e41a9718b3aa5e210ee00837d",
       "size": 70491,
       "source_url": "https://api.github.com/repos/Ehseezed/Archipelago-Integration",
@@ -77,6 +83,7 @@
     "1.2.0-M2": {
       "created_at": "2025-08-01T17:58:55Z",
       "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.2.0-M2/am2r.apworld",
+      "has_manifest": false,
       "hash_sha256": "17cdb6b2da75a2fb95bc26c2642523b7a30172094ce64d190c7ca767674d1111",
       "size": 78196,
       "source_url": "https://api.github.com/repos/Ehseezed/Archipelago-Integration",
@@ -88,6 +95,7 @@
     "1.3.0-M2": {
       "created_at": "2025-10-10T02:25:37Z",
       "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.3.0-M2/am2r.apworld",
+      "has_manifest": true,
       "hash_sha256": "466f6e934781049f066ca4fee15a012264a7a0ea8544f5ebd480a7744fb38432",
       "minimum_ap_version": "0.5.0",
       "size": 26431,
@@ -100,6 +108,7 @@
     "1.3.0-M2-RC2": {
       "created_at": "2025-10-09T02:10:53Z",
       "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.3.0-M2-RC2/am2r.apworld",
+      "has_manifest": true,
       "hash_sha256": "dd3aeaa80351b0f4e808909eb7f7f968fdda5a7febfd3fcfade16301c55a9019",
       "minimum_ap_version": "0.5.0",
       "prerelease": true,
@@ -113,6 +122,7 @@
     "1.3.0-M2-beta": {
       "created_at": "2025-10-08T17:52:42Z",
       "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.3.0-M2-beta/am2r.apworld",
+      "has_manifest": true,
       "hash_sha256": "6807b0be432fb9f22a3c640e17248a2560b951b93ff880a568ad8b053f18b0ab",
       "minimum_ap_version": "0.5.0",
       "prerelease": true,
@@ -120,12 +130,77 @@
       "source_url": "https://api.github.com/repos/Ehseezed/Archipelago-Integration",
       "tag": "1.3.0-M2-beta",
       "title": "1.3.0-M2-beta",
-      "version_simple": "2",
+      "version_simple": "1.3.0",
       "world_version": "1.3.0"
+    },
+    "1.3.1-M2": {
+      "created_at": "2025-10-11T01:13:42Z",
+      "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.3.1-M2/am2r.apworld",
+      "has_manifest": true,
+      "hash_sha256": "40f01d0375c209b8c81d373a69c992f116156b53749fcff52cbf4a9a3f7c8245",
+      "minimum_ap_version": "0.5.0",
+      "size": 26258,
+      "source_url": "https://api.github.com/repos/Ehseezed/Archipelago-Integration",
+      "tag": "1.3.1-M2",
+      "title": "1.3.1-M2",
+      "version_simple": "1.3.0",
+      "world_version": "1.3.0"
+    },
+    "1.3.2-M2": {
+      "created_at": "2025-10-16T00:45:57Z",
+      "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.3.2-M2/am2r.apworld",
+      "has_manifest": true,
+      "hash_sha256": "4a77823db082b587fbd2ab2b1b25f013949465926e14ac7a8e84fc7086b9d7e1",
+      "minimum_ap_version": "0.5.0",
+      "size": 26320,
+      "source_url": "https://api.github.com/repos/Ehseezed/Archipelago-Integration",
+      "tag": "1.3.2-M2",
+      "title": "1.3.2-M2",
+      "version_simple": "1.3.0",
+      "world_version": "1.3.0"
+    },
+    "1.4.0-M2": {
+      "created_at": "2025-10-24T20:52:12Z",
+      "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.4.0-M2/am2r.apworld",
+      "hash_sha256": "f40bb3e3400b2140c0ffb29170d4401c5ad2bfe87e5e9a10da5959a7652f9532",
+      "minimum_ap_version": "0.5.0",
+      "size": 28220,
+      "source_url": "https://api.github.com/repos/Ehseezed/Archipelago-Integration",
+      "tag": "1.4.0-M2",
+      "title": "1.4.0-M2",
+      "version_simple": "1.4.0",
+      "world_version": "1.4.0"
+    },
+    "1.4.1-M2": {
+      "created_at": "2025-10-21T08:07:36Z",
+      "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.4.1-M2/am2r.apworld",
+      "has_manifest": true,
+      "hash_sha256": "9735adb01905e3140c2cdcbcd6d6d5d44be282e7e796815f9994d063ebaa75d4",
+      "minimum_ap_version": "0.5.0",
+      "size": 29425,
+      "source_url": "https://api.github.com/repos/Ehseezed/Archipelago-Integration",
+      "tag": "1.4.1-M2",
+      "title": "1.4.1-M2",
+      "version_simple": "1.4.1",
+      "world_version": "1.4.1"
+    },
+    "1.4.2-M2": {
+      "created_at": "2025-11-24T06:11:01Z",
+      "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.4.2-M2/am2r.apworld",
+      "has_manifest": true,
+      "hash_sha256": "d1fbd14a149d517621cbdef17d8226060e956f93ccb5f9425b7a9e72bbb31983",
+      "minimum_ap_version": "0.5.0",
+      "size": 30399,
+      "source_url": "https://api.github.com/repos/Ehseezed/Archipelago-Integration",
+      "tag": "1.4.2-M2",
+      "title": "1.4.2-M2",
+      "version_simple": "1.4.2",
+      "world_version": "1.4.2"
     },
     "beta-2": {
       "created_at": "2024-02-05T01:20:44Z",
       "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/beta-2/am2r.apworld",
+      "has_manifest": false,
       "hash_sha256": "1a6722101ea472a6f4cbfc316f613be1ace597605c38c855e84420b91f916883",
       "ignore": true,
       "prerelease": true,
@@ -139,6 +214,7 @@
     "beta-3": {
       "created_at": "2024-02-10T21:11:13Z",
       "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/beta-3/am2r.apworld",
+      "has_manifest": false,
       "hash_sha256": "5c014e575997c31bc064b511ae938cccd4cb8a3f151d0965ac78190139422841",
       "ignore": true,
       "prerelease": true,
@@ -152,6 +228,7 @@
     "beta-4": {
       "created_at": "2024-02-25T16:21:29Z",
       "download_url": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/beta-4/am2r.apworld",
+      "has_manifest": false,
       "hash_sha256": "c3198f6e83ccf8a2d880969857fcad6540a801322f6addb9f2dd70d59be08cc5",
       "ignore": true,
       "prerelease": true,
