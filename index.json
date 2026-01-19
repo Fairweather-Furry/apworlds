@@ -13348,6 +13348,136 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.15.2/deep_rock_galactic.apworld",
+      "size": 26396,
+      "hash_sha256": "a9a65e7dcca8a322e62e531c2a800d9e50784f4a98ff1b890a4a22a06b58cf42",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.15.2",
+        "tag_version": "0.15.2",
+        "created_at": "2025-12-21T16:41:46Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.15.1/deep_rock_galactic.apworld",
+      "size": 24935,
+      "hash_sha256": "8fa1dccb655b0ce3eee9b4a521147bbfc862850a4b6694aae49218c1cca14f0c",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.15.1",
+        "tag_version": "0.15.1",
+        "created_at": "2025-12-17T21:58:32Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.15/deep_rock_galactic.apworld",
+      "size": 21380,
+      "hash_sha256": "a69e45e096d1d8a2f88ae6add24fed46b111a8ac0686ccab3697bb9966f13151",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.15",
+        "tag_version": "0.15",
+        "created_at": "2025-12-16T20:11:00Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.14.3/deep_rock_galactic.apworld",
+      "size": 19679,
+      "hash_sha256": "d8eeffbde4503f5a9fa6d88a361af2bd987ef5f94f6de1e4981388b6cf661393",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.14.3",
+        "tag_version": "0.14.3",
+        "created_at": "2025-12-09T18:00:05Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.14.2/deep_rock_galactic.apworld",
+      "size": 19319,
+      "hash_sha256": "2971e98456d8b49e1e341cb2352c27574abfa9a5472029e621e3c048af1d2e21",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.14.2",
+        "tag_version": "0.14.2",
+        "created_at": "2025-12-04T16:18:09Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.14.1/deep_rock_galactic.apworld",
+      "size": 19078,
+      "hash_sha256": "53b21ee0f6495300c79408e83a87a91eec8773e95478c4a8784fe86797027f0d",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.14.1",
+        "tag_version": "0.14.1",
+        "created_at": "2025-12-02T14:50:27Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.14/deep_rock_galactic.apworld",
+      "size": 19081,
+      "hash_sha256": "053d219e8b6fdddd797a7b82a3a8f9b5eb6fe5f760e37e911f64d2a632180282",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.14",
+        "tag_version": "0.14",
+        "created_at": "2025-11-29T22:04:28Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.13.2/deep_rock_galactic.apworld",
+      "size": 16258,
+      "hash_sha256": "a4df93846ee699c5052031905421f576fff42fdbdb2f65187fe84a3daf7be8dd",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.13.2",
+        "tag_version": "0.13.2",
+        "created_at": "2025-11-03T01:12:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
+      "size": 16029,
+      "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.13",
+        "tag_version": "0.13",
+        "created_at": "2025-10-31T00:58:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.12-alpha/deep_rock_galactic.apworld",
+      "size": 14471,
+      "hash_sha256": "0255e7d17ea1af6e29318bda02a598f1e182c6261098d0480cfb891b5452d7f6",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.12a0",
+        "tag_version": "0.12a0",
+        "created_at": "2025-10-06T19:51:26Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/StellatedCUBE/Delivering-Hope-Archipelago/releases/download/v0.3.0/DeliveringHope.apworld",
       "size": 15991,
       "hash_sha256": "3a9ee21a19622438c3788853857de65199b882862c2d7a99dac3d3a36ecfa5b5",
@@ -22197,6 +22327,19 @@
       }
     },
     {
+      "world": "https://github.com/BuffYoda21/ap-glyphs/releases/download/v1.1.2/glyphs.apworld",
+      "size": 55011,
+      "hash_sha256": "260f6f43570c36aad2938c717acce5d80306084aa0e846823ff1e2693851b89a",
+      "metadata": {
+        "game": "",
+        "id": "glyphs",
+        "world_version": "1.1.2",
+        "tag_version": "1.1.2",
+        "created_at": "2026-01-19T01:42:09Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/BuffYoda21/ap-glyphs/releases/download/v1.1.1/glyphs.apworld",
       "size": 52204,
       "hash_sha256": "be24612c175564381f83645c7d5e221af642e5f13e70f33d9c65b2daf3515457",
@@ -27030,6 +27173,22 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2025-10-31T18:27:55Z",
+        "flags": [
+          "unready",
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Ninjakakes/Archipelago/releases/download/j_v0.1.0/junko.apworld",
+      "size": 12748,
+      "hash_sha256": "9355e80c81f044b9b4deb898a413e13b3bcf6efe5b6a08ef70b6bb2e149bc95c",
+      "metadata": {
+        "game": "",
+        "id": "junko",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2026-01-05T00:04:19Z",
         "flags": [
           "unready",
           "after_dark"
@@ -32444,6 +32603,18 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2025-02-20T07:43:13Z"
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.7/lunacid.apworld",
+      "size": 4894978,
+      "hash_sha256": "59b3b0a67d4146a812abce5fd2dfad1690a2204be28cf778d198856fe6e69b6c",
+      "metadata": {
+        "game": "",
+        "id": "lunacid",
+        "world_version": "1.0.7",
+        "tag_version": "1.0.7",
+        "created_at": "2025-07-02T22:10:18Z"
       }
     },
     {
@@ -55169,6 +55340,19 @@
       }
     },
     {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.4.0-rc2/rac3.apworld",
+      "size": 2817296,
+      "hash_sha256": "ab525908f4e0868421bfc63d0313e8bcc7f4b90d2440d397643c89a62190987b",
+      "metadata": {
+        "game": "",
+        "id": "rac3",
+        "world_version": "0.4.0.post2",
+        "tag_version": "0.4.0.post2",
+        "created_at": "2025-12-28T21:01:53Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/jacobmix/Archipelago-RaC3/releases/download/v0.4.0/rac3.apworld",
       "size": 2759804,
       "hash_sha256": "b70c80f986af6cfd5fba0adc033b3ed95a3d8d6eb4b50b24b618969a61fefa7b",
@@ -74661,6 +74845,19 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2023-04-21T20:20:59Z"
+      }
+    },
+    {
+      "world": "https://github.com/AllPoland/unbeatAP/releases/download/v0.1.1-alpha/unbeatable_arcade.apworld",
+      "size": 21829,
+      "hash_sha256": "6c7b8dd1124f1e4cca9c9fc253992d2ecbdfe29ae5cec5cc8aff1a252f372992",
+      "metadata": {
+        "game": "",
+        "id": "unbeatable_arcade",
+        "world_version": "0.1.1a0",
+        "tag_version": "0.1.1a0",
+        "created_at": "2026-01-19T01:31:55Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
