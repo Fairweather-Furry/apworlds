@@ -1,7 +1,7 @@
 {
-  "total_repositories": 498,
-  "total_packages": 579,
-  "total_versions": 5745,
+  "total_repositories": 499,
+  "total_packages": 581,
+  "total_versions": 5756,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -445,6 +445,7 @@
     "shadowgate64": false,
     "shahrazad": false,
     "shapez": false,
+    "shapez_2": true,
     "shining_itd": true,
     "shivers": false,
     "signalis": false,
