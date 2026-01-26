@@ -13880,6 +13880,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.39/dk64.apworld",
+      "size": 36121391,
+      "hash_sha256": "f09e9068eaabd075827c6737b1e7114b36c423ae3a8c0b62f731e000c39c43fc",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.39",
+        "tag_version": "1.4.39",
+        "created_at": "2026-01-26T06:15:35Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.38/dk64.apworld",
       "size": 36121193,
       "hash_sha256": "71e4be5ecd9c1b37caabeb20efdcac9bacba6b022b2f0b3d18d94fd91c170a61",
@@ -21500,6 +21513,22 @@
         "tag_version": "1.1.0",
         "created_at": "2025-12-21T22:21:56Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/cheesepak/ap-forged-curse/releases/download/v1.1.0-beta.1/forgedcurse.apworld",
+      "size": 8245,
+      "hash_sha256": "d503d487cef70427b0b41024a2062d4293bb6456648e2d7ac3d8b2784192cd0a",
+      "metadata": {
+        "game": "",
+        "id": "forgedcurse",
+        "world_version": "1.1.0b1",
+        "tag_version": "1.1.0b1",
+        "created_at": "2025-12-30T07:27:07Z",
+        "minimum_ap_version": "0.6.1",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -55155,6 +55184,18 @@
         "flags": [
           "after_dark"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.2.7/rabbit_and_steel.apworld",
+      "size": 15593,
+      "hash_sha256": "68a8aa13d2d65382594feaaeea7915551381514b4ac6eeceb3185805d9e39353",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.2.7",
+        "tag_version": "0.2.7",
+        "created_at": "2026-01-26T06:10:05Z"
       }
     },
     {
