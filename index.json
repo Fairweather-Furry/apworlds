@@ -72263,6 +72263,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/v0.8.1-alpha/tloz_ph.apworld",
+      "size": 2571166,
+      "hash_sha256": "fa9ed0bf18406b08385bdcfeca6684259fd9d3e46d44c3c8d2f153b16968518f",
+      "metadata": {
+        "game": "",
+        "id": "tloz_ph",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-01-27T11:46:46Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/v0.8.0-alpha/tloz_ph.apworld",
       "size": 2566199,
       "hash_sha256": "86a914357c5fcaa074582de88d519670d7f871cfc589451f57b3a73a437ac1c5",
@@ -73133,6 +73146,19 @@
         "tag_version": "1.0.0",
         "created_at": "2025-11-22T16:27:48Z",
         "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.26/tracker.apworld",
+      "size": 82350,
+      "hash_sha256": "ce5674e899d0303f156d43f2c8ebe026498031bf7cd3382524c1d02ee359d463",
+      "metadata": {
+        "game": "",
+        "id": "tracker",
+        "world_version": "0.2.26",
+        "tag_version": "0.2.26",
+        "created_at": "2026-01-28T05:41:27Z",
+        "minimum_ap_version": "0.6.2"
       }
     },
     {
@@ -76208,6 +76234,19 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-12-18T22:18:17Z"
+      }
+    },
+    {
+      "world": "https://github.com/PixelShake92/Untitled-Goose-Game-Archipelago/releases/download/Alpha_2.1/untitled_goose_game.apworld",
+      "size": 43354,
+      "hash_sha256": "43067de88ed58d91a7d2bbf371e40a8e5d78b60c7864ddbff992b14e8e2a727f",
+      "metadata": {
+        "game": "",
+        "id": "untitled_goose_game",
+        "world_version": "2.1",
+        "tag_version": "2.1",
+        "created_at": "2026-01-28T06:05:42Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
