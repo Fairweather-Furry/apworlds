@@ -1,7 +1,7 @@
 {
-  "total_repositories": 499,
-  "total_packages": 582,
-  "total_versions": 5806,
+  "total_repositories": 500,
+  "total_packages": 581,
+  "total_versions": 5817,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -341,7 +341,7 @@
     "mm3": true,
     "mm_recomp": false,
     "mmbn6": true,
-    "mmx": false,
+    "mmx": true,
     "mmx2": false,
     "mmx3": true,
     "mmx4": false,
@@ -540,7 +540,7 @@
     "wordipelago": false,
     "wow": false,
     "x2wotc": true,
-    "xenobladex": false,
+    "xenobladex": true,
     "yachtdice": true,
     "yarg": false,
     "yoku": false,
