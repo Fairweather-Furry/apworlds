@@ -8336,6 +8336,22 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0-pre1/casualtiesunknown.apworld",
+      "size": 74768,
+      "hash_sha256": "bcabab53a4b20aed0d99a03d3a9c8e8360fe0ee4f4110fb0d790bd8cb56a6398",
+      "metadata": {
+        "game": "",
+        "id": "casualtiesunknown",
+        "world_version": "0.6.0rc1",
+        "tag_version": "0.6.0rc1",
+        "created_at": "2026-02-02T06:19:49Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.5.4/casualtiesunknown.apworld",
       "size": 74363,
       "hash_sha256": "b82168d33327e52b98c7baeca47e2a21408718b77e406b488194db70d6b31fa8",
@@ -16264,6 +16280,22 @@
         "flags": [
           "after_dark",
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Str8UpWHITE64/DRAP/releases/download/0.1.0/drdr.apworld",
+      "size": 18263,
+      "hash_sha256": "b5ec929c5d7995e03a84f570409659ee659287a0bd116da4b12e6be32dee607f",
+      "metadata": {
+        "game": "",
+        "id": "drdr",
+        "world_version": "0.0.1",
+        "tag_version": "0.0.1",
+        "created_at": "2026-02-02T01:14:47Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "after_dark"
         ]
       }
     },
@@ -72082,6 +72114,19 @@
       }
     },
     {
+      "world": "https://github.com/IgnisUmbrae/TJE-Archipelago/releases/download/v0.4.1/tje.apworld",
+      "size": 64076,
+      "hash_sha256": "4275ee38ef6045eabf8aae8182a0f88a0c09e567e8be4794fdc5b08616941a80",
+      "metadata": {
+        "game": "",
+        "id": "tje",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2026-02-02T12:00:59Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/IgnisUmbrae/TJE-Archipelago/releases/download/v0.4.0/tje.apworld",
       "size": 61225,
       "hash_sha256": "36f9e844b310b2a5847fecc84b103ade36c87733481c4d833119b6afaae38aba",
@@ -72091,6 +72136,19 @@
         "world_version": "0.4.0",
         "tag_version": "0.4.0",
         "created_at": "2026-01-27T13:06:09Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/IgnisUmbrae/TJE-Archipelago/releases/download/v0.4.0b/tje.apworld",
+      "size": 61229,
+      "hash_sha256": "05507710eddea6d117f3cbbf767e1574cb74418051726018ff2d63f2555295eb",
+      "metadata": {
+        "game": "",
+        "id": "tje",
+        "world_version": "0.4.0b0",
+        "tag_version": "0.4.0b0",
+        "created_at": "2026-01-28T01:59:55Z",
         "maximum_ap_version": "0.6.99"
       }
     },
