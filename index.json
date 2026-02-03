@@ -3716,6 +3716,18 @@
       }
     },
     {
+      "world": "https://github.com/ThatOneGuy27/Archipelago-aus/releases/download/v1.4-beta/aus.apworld",
+      "size": 14238,
+      "hash_sha256": "971f28fb2f798e1ec96310594a512893bdb58ad98e264ff2344e8d95d3fa7c65",
+      "metadata": {
+        "game": "",
+        "id": "aus",
+        "world_version": "1.4b0",
+        "tag_version": "1.4b0",
+        "created_at": "2026-02-03T02:57:32Z"
+      }
+    },
+    {
       "world": "https://github.com/ThatOneGuy27/Archipelago-aus/releases/download/v1.3-beta/aus.apworld",
       "size": 14175,
       "hash_sha256": "4aa2322911a0f5e078be15d346cbb4379842bccd20d002d9a59c5fe698e3615f",
@@ -10765,6 +10777,18 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.7.7/crosscode.apworld",
+      "size": 120756,
+      "hash_sha256": "2a832a32c5cade0e490e6d5fb9641b7ba012fe175d642b0518f6e2fe99c6e47f",
+      "metadata": {
+        "game": "",
+        "id": "crosscode",
+        "world_version": "0.7.7",
+        "tag_version": "0.7.7",
+        "created_at": "2026-02-01T23:30:55Z"
       }
     },
     {
@@ -21056,6 +21080,22 @@
         "maximum_ap_version": "0.6.99",
         "flags": [
           "unready",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.0-pre1/flipwitch.apworld",
+      "size": 71868,
+      "hash_sha256": "be35da2e6bdcdd729b34397262796241232fbfb83e48a277210a968867659433",
+      "metadata": {
+        "game": "",
+        "id": "flipwitch",
+        "world_version": "1.0.0rc1",
+        "tag_version": "1.0.0rc1",
+        "created_at": "2026-01-18T18:27:04Z",
+        "flags": [
+          "after_dark",
           "prerelease"
         ]
       }
@@ -40060,6 +40100,21 @@
         "tag_version": "0.1.0",
         "created_at": "2025-06-04T07:27:55Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v0.2.1/mario_super_sluggers.apworld",
+      "size": 23175,
+      "hash_sha256": "922f5ddd80767065478468c9098e35ed50f8769413b2fc2f653e4706b777638f",
+      "metadata": {
+        "game": "",
+        "id": "mario_super_sluggers",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-02-03T02:31:06Z",
+        "flags": [
+          "unready"
+        ]
       }
     },
     {
