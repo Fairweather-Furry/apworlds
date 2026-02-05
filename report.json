@@ -1,7 +1,7 @@
 {
-  "total_repositories": 500,
+  "total_repositories": 499,
   "total_packages": 581,
-  "total_versions": 5874,
+  "total_versions": 5877,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -49,7 +49,7 @@
     "buckshot": true,
     "candybox2": true,
     "cassette_beasts": true,
-    "casualtiesunknown": false,
+    "casualtiesunknown": true,
     "cat_quest": false,
     "cave_story": false,
     "cavern_of_dreams": false,

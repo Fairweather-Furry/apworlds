@@ -8361,6 +8361,22 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0-pre2/casualtiesunknown.apworld",
+      "size": 75460,
+      "hash_sha256": "40bfdd1278789eb57d735588d68f9727665ade78f7da13b3507a56c887a7d654",
+      "metadata": {
+        "game": "",
+        "id": "casualtiesunknown",
+        "world_version": "0.6.0rc2",
+        "tag_version": "0.6.0rc2",
+        "created_at": "2026-02-05T04:51:00Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0-pre1/casualtiesunknown.apworld",
       "size": 74768,
       "hash_sha256": "bcabab53a4b20aed0d99a03d3a9c8e8360fe0ee4f4110fb0d790bd8cb56a6398",
@@ -21154,6 +21170,22 @@
     },
     {
       "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.0-pre1/flipwitch.apworld",
+      "size": 72078,
+      "hash_sha256": "aaac134cc875ffc34536f15909ecafb9056d1a12681baa8f124d32ab7f32f185",
+      "metadata": {
+        "game": "",
+        "id": "flipwitch",
+        "world_version": "1.0.0.post2",
+        "tag_version": "1.0.0.post2",
+        "created_at": "2026-01-18T18:27:04Z",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.0-pre1/flipwitch.apworld",
       "size": 71868,
       "hash_sha256": "be35da2e6bdcdd729b34397262796241232fbfb83e48a277210a968867659433",
       "metadata": {
@@ -33385,6 +33417,18 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2025-02-20T07:43:13Z"
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/LunacidAPClient/releases/download/1.0.14/lunacid.apworld",
+      "size": 4896842,
+      "hash_sha256": "231008f1b168cee4e553f47b16ec6e9155d678989999c0ef0141b6fd2e0d3367",
+      "metadata": {
+        "game": "",
+        "id": "lunacid",
+        "world_version": "1.0.14",
+        "tag_version": "1.0.14",
+        "created_at": "2025-07-02T22:10:18Z"
       }
     },
     {
