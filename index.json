@@ -14190,6 +14190,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.43/dk64.apworld",
+      "size": 36933451,
+      "hash_sha256": "89e53d55b6da1a3d0c65debf01ab1aba233e18f217ba2527763e66df41e1ed91",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.43",
+        "tag_version": "1.4.43",
+        "created_at": "2026-02-05T01:29:29Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.42/dk64.apworld",
       "size": 36933509,
       "hash_sha256": "60cbb8a9cdd9408f2a855ac4753c006b9fc7fc51eb9aa99cca7b0f6a26b6bb39",
@@ -16356,6 +16369,22 @@
         "world_version": "0.0.1",
         "tag_version": "0.0.1",
         "created_at": "2026-02-02T01:14:47Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Str8UpWHITE64/DRAP/releases/download/0.1.1/drdr.apworld",
+      "size": 48933,
+      "hash_sha256": "2ee7057c35c93eb2e59ea0466bac2dd162c89e3f4b2047acce1e6ebd4683b79f",
+      "metadata": {
+        "game": "",
+        "id": "drdr",
+        "world_version": "0.0.1",
+        "tag_version": "0.0.1",
+        "created_at": "2026-02-04T17:39:36Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "after_dark"
@@ -31819,6 +31848,18 @@
         "tag_version": "1.0.0",
         "created_at": "2024-07-24T12:43:06Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v8.1.0/lingo2.apworld",
+      "size": 0,
+      "hash_sha256": "c040de1a0fccd87311995e91f98b77eed7a6c785642f3b27cd6cce57e96a08d8",
+      "metadata": {
+        "game": "",
+        "id": "lingo2",
+        "world_version": "8.1.0",
+        "tag_version": "8.1.0",
+        "created_at": null
       }
     },
     {
@@ -72693,6 +72734,32 @@
         "world_version": "0.0.0+ooa",
         "tag_version": "ooa",
         "created_at": null
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.0.5/tloz_oos.apworld",
+      "size": 224666,
+      "hash_sha256": "9a38bbb329cc0884d1c7c51661916243ab3ee45add8c378fc8511f0e19a22d6d",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "17.0.5",
+        "tag_version": "17.0.5",
+        "created_at": "2026-02-01T16:39:09Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.0.4/tloz_oos.apworld",
+      "size": 224634,
+      "hash_sha256": "571084c2745e8f7f64f5fbd725fb9e98b2290dbe308b1f0a1800e335b86b52c6",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "17.0.4",
+        "tag_version": "17.0.4",
+        "created_at": "2026-02-01T16:39:09Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
