@@ -1,7 +1,7 @@
 {
   "total_repositories": 499,
   "total_packages": 582,
-  "total_versions": 5901,
+  "total_versions": 5907,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -238,7 +238,7 @@
     "manual_ets2_dopin": false,
     "manual_fantasylife_jbtheshadow": false,
     "manual_fellowship_chakraa": false,
-    "manual_ffxivbmb_pizzie": false,
+    "manual_ffxivbmb_pizzie": true,
     "manual_fireemblempathofradiance_mercenarygreil": false,
     "manual_freedomplanet2_knuxfan24": false,
     "manual_frogpond_linkhs": false,
