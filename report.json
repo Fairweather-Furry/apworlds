@@ -1,7 +1,7 @@
 {
   "total_repositories": 500,
   "total_packages": 582,
-  "total_versions": 5912,
+  "total_versions": 5918,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -321,7 +321,7 @@
     "marioland2": true,
     "mariomissing": true,
     "medievil": false,
-    "medievil2": false,
+    "medievil2": true,
     "megamix": true,
     "melee": false,
     "messenger": false,
