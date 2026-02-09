@@ -7632,6 +7632,19 @@
       }
     },
     {
+      "world": "https://github.com/asdfwyay/APBuckshot/releases/download/v0.1.0/buckshot.apworld",
+      "size": 18177,
+      "hash_sha256": "321a5e38242d9b4e92f32028e08a43e7337afcd573f72146f215fc9505b0b702",
+      "metadata": {
+        "game": "",
+        "id": "buckshot",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2026-02-09T06:05:18Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/asdfwyay/APBuckshot/releases/download/v0.0.3/buckshot.apworld",
       "size": 17122,
       "hash_sha256": "b97f4bcd87ac066cbdaa9e565d0823f929fdc6ba5acceb467312e248a01ea155",
@@ -46507,6 +46520,101 @@
       }
     },
     {
+      "world": "https://github.com/POD-io/Oblivion-ArchipelagoWorld/releases/download/v0.4.5/oblivion.apworld",
+      "size": 199254,
+      "hash_sha256": "89df522f92359954b1062dfba4a3d7970dc5dc50defffe1b0e6100809b0a03a7",
+      "metadata": {
+        "game": "",
+        "id": "oblivion",
+        "world_version": "0.4.5",
+        "tag_version": "0.4.5",
+        "created_at": "2025-11-19T19:22:47Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/POD-io/Oblivion-ArchipelagoWorld/releases/download/v0.4.6/oblivion.apworld",
+      "size": 199928,
+      "hash_sha256": "23bc20987a76fdae6afc46f5e7b99e2757991f394507f14e43f4b23d2fdef7a1",
+      "metadata": {
+        "game": "",
+        "id": "oblivion",
+        "world_version": "0.4.5",
+        "tag_version": "0.4.5",
+        "created_at": "2025-11-30T18:29:09Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/POD-io/Oblivion-ArchipelagoWorld/releases/download/v0.4.0/oblivion.apworld",
+      "size": 196721,
+      "hash_sha256": "c40442eed4d62dc9777c4006968976d451988658d2af16dcb0fdcfe9ba4f0626",
+      "metadata": {
+        "game": "",
+        "id": "oblivion",
+        "world_version": "0.4.0.post2",
+        "tag_version": "0.4.0.post2",
+        "created_at": "2025-10-19T19:09:15Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/POD-io/Oblivion-ArchipelagoWorld/releases/download/v0.4.0/oblivion.apworld",
+      "size": 196709,
+      "hash_sha256": "7602eeb95405fcdcbad69118b0d0fc3224f9920d5c5259444d3b794d74f273c7",
+      "metadata": {
+        "game": "",
+        "id": "oblivion",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2025-10-19T19:09:15Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/POD-io/Oblivion-ArchipelagoWorld/releases/download/v0.3.0/oblivion.apworld",
+      "size": 34131,
+      "hash_sha256": "7928a4c6050f2ff562a7eb88090103e9026a1e579dca82046fcf80801889e005",
+      "metadata": {
+        "game": "",
+        "id": "oblivion",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2025-08-24T23:41:38Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/POD-io/Oblivion-ArchipelagoWorld/releases/download/v0.2.0-beta/oblivion.apworld",
+      "size": 24001,
+      "hash_sha256": "d46142a19ea181d744a960e40f5a6dfa3a6a1bec2c480653160bcafef73cd014",
+      "metadata": {
+        "game": "",
+        "id": "oblivion",
+        "world_version": "0.2.0b0",
+        "tag_version": "0.2.0b0",
+        "created_at": "2025-07-22T23:57:04Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/wkcheezy/ObraDinnArchipelagoWorld/releases/download/v0.0.2/obra_dinn.apworld",
       "size": 18558,
       "hash_sha256": "6d419eb48c1bec63033c7417ad0ebd10495d74b3137cc95ad8c53e59a21d3239",
@@ -46645,6 +46753,70 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-11-13T02:02:09Z"
+      }
+    },
+    {
+      "world": "https://github.com/ShadowKitty42/ONI-Archipelago/releases/download/v0.99/oni.apworld",
+      "size": 49160,
+      "hash_sha256": "c25c76fdc83e0d5890e2c5cbdcebccc4dc10f109f483927bc73677852ff03ae5",
+      "metadata": {
+        "game": "",
+        "id": "oni",
+        "world_version": "0.99",
+        "tag_version": "0.99",
+        "created_at": "2025-12-05T19:22:55Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/ShadowKitty42/ONI-Archipelago/releases/download/v0.98/oni.apworld",
+      "size": 48829,
+      "hash_sha256": "20873602f0e661c7af4504f6add1f12bc93b2600ede5fbe7fcdf5d215e13f7bd",
+      "metadata": {
+        "game": "",
+        "id": "oni",
+        "world_version": "0.98",
+        "tag_version": "0.98",
+        "created_at": "2025-10-23T20:03:18Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/ShadowKitty42/ONI-Archipelago/releases/download/v0.96/oni.apworld",
+      "size": 48650,
+      "hash_sha256": "39d4b1fbb133bca97464256e010c0b988c9d5637dcec24b5f04bb360e212e778",
+      "metadata": {
+        "game": "",
+        "id": "oni",
+        "world_version": "0.9.6",
+        "tag_version": "0.9.6",
+        "created_at": "2025-09-19T03:51:21Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/ShadowKitty42/ONI-Archipelago/releases/download/v0.9/oni.apworld",
+      "size": 46647,
+      "hash_sha256": "eb19325a6887c339fc6620623d49e0e322203613277ba3e3476c07ee6c88bf3c",
+      "metadata": {
+        "game": "",
+        "id": "oni",
+        "world_version": "0.9.post2",
+        "tag_version": "0.9.post2",
+        "created_at": "2025-04-06T06:03:57Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/ShadowKitty42/ONI-Archipelago/releases/download/v0.9/oni.apworld",
+      "size": 46669,
+      "hash_sha256": "8528d1531a54e14cd2a45b33543a634904eaab80619f146fce0f660ab024cc48",
+      "metadata": {
+        "game": "",
+        "id": "oni",
+        "world_version": "0.9",
+        "tag_version": "0.9",
+        "created_at": "2025-04-06T06:03:57Z"
       }
     },
     {
@@ -49137,6 +49309,38 @@
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/SergeAzel/Archipelago_PDTB/releases/download/paquerette_down_the_bunburrows-0.1.0/paquerette_down_the_bunburrows.apworld",
+      "size": 13711,
+      "hash_sha256": "83b3abbed695ec652a9804f4a225592ba5a9f38eeb008680c64d3fa5a7194702",
+      "metadata": {
+        "game": "",
+        "id": "paquerette_down_the_bunburrows",
+        "world_version": "0.1.0.post2",
+        "tag_version": "0.1.0.post2",
+        "created_at": "2025-12-31T07:05:20Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/SergeAzel/Archipelago_PDTB/releases/download/paquerette_down_the_bunburrows-0.1.0/paquerette_down_the_bunburrows.apworld",
+      "size": 10149,
+      "hash_sha256": "c7870ba00b25c15a53ba3928833166e00fda5b3973a21e5d5f834b1278c53420",
+      "metadata": {
+        "game": "",
+        "id": "paquerette_down_the_bunburrows",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2025-12-31T07:05:20Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "unready"
         ]
       }
     },
@@ -60233,6 +60437,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.9.0/rotn.apworld",
+      "size": 54485,
+      "hash_sha256": "b8f121d6981243546d19bfa77e8214c9cb15e22016f611f27100dd477181bd2f",
+      "metadata": {
+        "game": "",
+        "id": "rotn",
+        "world_version": "0.9.0",
+        "tag_version": "0.9.0",
+        "created_at": "2026-01-10T20:10:42Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -82374,6 +82591,10 @@
       "game": "Nonopelagram",
       "description": "Nonopelagram (Picross) is a picture logic puzzle where you fill in cells\nbased on number clues to reveal a hidden image. This Archipelago\nintegration adds progression items that unlock game features."
     },
+    "oblivion": {
+      "game": "Oblivion Remastered",
+      "description": "The Elder Scrolls IV: Oblivion Remastered - Archipelago Integration\n\nThis APWorld allows Oblivion Remastered to participate in Archipelago multiworld\nrandomizers. Players complete Daedric shrine quests to send location checks and\nitems to other players, while receiving shrine unlock tokens and helpful items\nfrom the multiworld."
+    },
     "obra_dinn": {
       "game": "Return of the Obra Dinn",
       "description": "Return of the Obra Dinn is an Insurance Adventure with Minimal Color. It is 1807 and the Obra Dinn, declared lost at\n sea in 1803, has reappeared without a trace of crew or cargo. As an insurance investigator, it is your job to\n investigate what happened and prepare a full assessment of damages. Determine the fates of each soul on board using\n a mysterious pocket watch, and solve the mystery behind the disappearance and return of the Obra Dinn."
@@ -82385,6 +82606,10 @@
     "old_launcher": {
       "game": "Old Launcher",
       "description": "Do you miss the old Archipelago launcher?"
+    },
+    "oni": {
+      "game": "Oxygen Not Included",
+      "description": ""
     },
     "oot_soh": {
       "game": "Ship of Harkinian",
@@ -82437,6 +82662,10 @@
     "papermario": {
       "game": "Paper Mario",
       "description": "Paper Mario is a turn-based adventure RPG. Bowser has kidnapped Princess Peach along with her castle using the\npower of the Star Rod, which grants the wishes of the holder. You must rescue the Star Spirits so that they can\nhelp you take back the Star Rod from Bowser and save Peach. You will have to defeat powerful foes\nand venture through dangerous lands with the help of partners you meet along the way."
+    },
+    "paquerette_down_the_bunburrows": {
+      "game": "Paquerette Down The Bunburrows",
+      "description": "Capture Bunnies and explore the Bunburrows in this Soko-bun experience!\nArchipelago amps up this already difficult puzzle game by further locking your progression behind the Multiworld."
     },
     "parkitect": {
       "game": "Parkitect",
