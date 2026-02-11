@@ -6813,6 +6813,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-57/borderlands2.apworld",
+      "size": 49596,
+      "hash_sha256": "0f78fba71602718b834d392a626eca07b5d4887381b8e8b3460938b4f8e40cb6",
+      "metadata": {
+        "game": "",
+        "id": "borderlands2",
+        "world_version": "57",
+        "tag_version": "57",
+        "created_at": "2026-02-10T21:43:14Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-55/borderlands2.apworld",
       "size": 49511,
       "hash_sha256": "063ae98c4f8c0b491ac14f97fda01afd7fbd9e5aa4a1be6a6140a2b09d9332a7",
@@ -8474,6 +8490,19 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.1/casualtiesunknown.apworld",
+      "size": 78691,
+      "hash_sha256": "20f55c60564811e7a01c33ebb92b4ee63cb307588c0676cdbb2d4449bca5aab2",
+      "metadata": {
+        "game": "",
+        "id": "casualtiesunknown",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-02-10T21:58:49Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0-pre4/casualtiesunknown.apworld",
       "size": 78228,
       "hash_sha256": "9d164d0e686fe7f46b91d156caf08d94bee623139a23d0bf14c25f3cb1434610",
@@ -8768,6 +8797,19 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2025-08-26T11:22:35Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.3.0-alpha/cat_quest.apworld",
+      "size": 18196,
+      "hash_sha256": "99f1c4b0a62ca1ad306aff4790fdfb8dedf6bd33d87c7e306d5793d5d9c49a9b",
+      "metadata": {
+        "game": "",
+        "id": "cat_quest",
+        "world_version": "0.3.0a0",
+        "tag_version": "0.3.0a0",
+        "created_at": "2026-02-11T01:10:07Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -13753,6 +13795,175 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.16.2/deep_rock_galactic.apworld",
+      "size": 27745,
+      "hash_sha256": "e424a6cd5e09d12fba705dcf5253ab2c8f9d0eb44dde467b7c0fdf5ad051cfcf",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.16.2",
+        "tag_version": "0.16.2",
+        "created_at": "2026-02-10T16:18:27Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.16.1/deep_rock_galactic.apworld",
+      "size": 27412,
+      "hash_sha256": "888baeff18a15d4fc34c061e99845e4dead18a468f08e277a15eec16af9062dd",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.16.1",
+        "tag_version": "0.16.1",
+        "created_at": "2026-01-30T18:08:55Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.16/deep_rock_galactic.apworld",
+      "size": 27364,
+      "hash_sha256": "edab81dfc1a950418fafa5da931f459c8575f1b45194dc408f5d867f44190db6",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.16",
+        "tag_version": "0.16",
+        "created_at": "2026-01-29T13:50:02Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.15.2/deep_rock_galactic.apworld",
+      "size": 26396,
+      "hash_sha256": "a9a65e7dcca8a322e62e531c2a800d9e50784f4a98ff1b890a4a22a06b58cf42",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.15.2",
+        "tag_version": "0.15.2",
+        "created_at": "2025-12-21T16:41:46Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.15.1/deep_rock_galactic.apworld",
+      "size": 24935,
+      "hash_sha256": "8fa1dccb655b0ce3eee9b4a521147bbfc862850a4b6694aae49218c1cca14f0c",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.15.1",
+        "tag_version": "0.15.1",
+        "created_at": "2025-12-17T21:58:32Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.15/deep_rock_galactic.apworld",
+      "size": 21380,
+      "hash_sha256": "a69e45e096d1d8a2f88ae6add24fed46b111a8ac0686ccab3697bb9966f13151",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.15",
+        "tag_version": "0.15",
+        "created_at": "2025-12-16T20:11:00Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.14.3/deep_rock_galactic.apworld",
+      "size": 19679,
+      "hash_sha256": "d8eeffbde4503f5a9fa6d88a361af2bd987ef5f94f6de1e4981388b6cf661393",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.14.3",
+        "tag_version": "0.14.3",
+        "created_at": "2025-12-09T18:00:05Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.14.2/deep_rock_galactic.apworld",
+      "size": 19319,
+      "hash_sha256": "2971e98456d8b49e1e341cb2352c27574abfa9a5472029e621e3c048af1d2e21",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.14.2",
+        "tag_version": "0.14.2",
+        "created_at": "2025-12-04T16:18:09Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.14.1/deep_rock_galactic.apworld",
+      "size": 19078,
+      "hash_sha256": "53b21ee0f6495300c79408e83a87a91eec8773e95478c4a8784fe86797027f0d",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.14.1",
+        "tag_version": "0.14.1",
+        "created_at": "2025-12-02T14:50:27Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.14/deep_rock_galactic.apworld",
+      "size": 19081,
+      "hash_sha256": "053d219e8b6fdddd797a7b82a3a8f9b5eb6fe5f760e37e911f64d2a632180282",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.14",
+        "tag_version": "0.14",
+        "created_at": "2025-11-29T22:04:28Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.13.2/deep_rock_galactic.apworld",
+      "size": 16258,
+      "hash_sha256": "a4df93846ee699c5052031905421f576fff42fdbdb2f65187fe84a3daf7be8dd",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.13.2",
+        "tag_version": "0.13.2",
+        "created_at": "2025-11-03T01:12:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/Beta/deep_rock_galactic.apworld",
+      "size": 16029,
+      "hash_sha256": "071c6361b8871dfdfd802d5f24d842d2aaa773efaf9c91b5c2ce82572ea4e78e",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.13",
+        "tag_version": "0.13",
+        "created_at": "2025-10-31T00:58:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.12-alpha/deep_rock_galactic.apworld",
+      "size": 14471,
+      "hash_sha256": "0255e7d17ea1af6e29318bda02a598f1e182c6261098d0480cfb891b5452d7f6",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.12a0",
+        "tag_version": "0.12a0",
+        "created_at": "2025-10-06T19:51:26Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/StellatedCUBE/Delivering-Hope-Archipelago/releases/download/v0.3.0/DeliveringHope.apworld",
       "size": 15991,
       "hash_sha256": "3a9ee21a19622438c3788853857de65199b882862c2d7a99dac3d3a36ecfa5b5",
@@ -13930,6 +14141,279 @@
           "unready",
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v1.1.3/diddy_kong_racing.apworld",
+      "size": 36132,
+      "hash_sha256": "15cde9690b026f4d8df64e1cecf3891e141b307c563ddfef0ebb0a300ebdbbe0",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "1.1.3",
+        "tag_version": "1.1.3",
+        "created_at": "2026-01-14T23:33:10Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v1.1.2/diddy_kong_racing.apworld",
+      "size": 36155,
+      "hash_sha256": "2ba134751871e9c48b1b04c46fc9df4c190c3891c7f9df3daccea4a954edf483",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "1.1.2",
+        "tag_version": "1.1.2",
+        "created_at": "2025-12-23T22:11:52Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v1.1.1/diddy_kong_racing.apworld",
+      "size": 36345,
+      "hash_sha256": "df5c21afad722955248e12db2a2d91509f6926f3453703aa8b2d83be1be8ee07",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "1.1.1",
+        "tag_version": "1.1.1",
+        "created_at": "2025-11-30T16:31:03Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v1.1.0/diddy_kong_racing.apworld",
+      "size": 138210,
+      "hash_sha256": "7ca00a7d5531cd83fcbd34d6fd9a547ac68fcbebe7640a27ed084290d882735e",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2025-10-12T00:59:40Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v1.0.0/diddy_kong_racing.apworld",
+      "size": 125272,
+      "hash_sha256": "5470f66090bcf84f4fb0a780f3c529d6d0905672bc507df1661d7275ae6e5729",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2025-07-02T21:53:54Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.6.1/diddy_kong_racing.apworld",
+      "size": 110944,
+      "hash_sha256": "826430814dd9ab5e17eb691cbb8c7879b6e9186741bc409822af156912dde66e",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.6.1",
+        "tag_version": "0.6.1",
+        "created_at": "2025-04-19T21:10:08Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.6.0/diddy_kong_racing.apworld",
+      "size": 100820,
+      "hash_sha256": "20bf3550bbabc9f629677d77feaf9d0117fa6ed73ed43c29316f49118735d813",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2025-03-25T00:35:57Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.5.2/diddy_kong_racing.apworld",
+      "size": 99200,
+      "hash_sha256": "61ceb7ab80fc453d5cba639a38b3bb8e50ef0954d37b9a55318104b159e9fba0",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2025-02-28T17:48:48Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.5.1/diddy_kong_racing.apworld",
+      "size": 99197,
+      "hash_sha256": "b6208a53531f4b0f0492ffe9423edf77d09dce02f2a992c2e7efa161865fcd76",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2025-02-02T19:54:18Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.5.0/diddy_kong_racing.apworld",
+      "size": 98967,
+      "hash_sha256": "613cba47b06d2a4c2e6f45b16028bc59a08881014c221f4d0c192460022a538e",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2025-01-15T02:07:48Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.4.0/diddy_kong_racing.apworld",
+      "size": 100064,
+      "hash_sha256": "ed6b5402388e429358bf35f4ac0a6a4ff9a4432f3aab3faf31d6b4a7abc5ebc7",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2024-11-14T02:48:42Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.3.1/diddy_kong_racing.apworld",
+      "size": 99066,
+      "hash_sha256": "c928b1c54773c8d5c3fa4f58585ca7e388c6761491a12d86bc9f7171a0498a94",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2024-10-03T17:07:27Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.3.0/diddy_kong_racing.apworld",
+      "size": 99055,
+      "hash_sha256": "1cb4baed6770cbce8ed156ac29045bc749fd39b58ba12370dd04d0c8b7594c5c",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2024-09-27T01:43:22Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.2.6/diddy_kong_racing.apworld",
+      "size": 85356,
+      "hash_sha256": "c66fd37239b8225e2313f3fb8dcdf5a2812901748f9afd19cff92ad6483262e2",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.2.6",
+        "tag_version": "0.2.6",
+        "created_at": "2024-07-30T15:06:16Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.2.5/diddy_kong_racing.apworld",
+      "size": 85402,
+      "hash_sha256": "492a0880532baeee152a67b76127519a0bb0d976b0b00ebc8561950e57bb2dcb",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.2.5",
+        "tag_version": "0.2.5",
+        "created_at": "2024-07-23T23:51:45Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.2.4/diddy_kong_racing.apworld",
+      "size": 85424,
+      "hash_sha256": "ccef7265c42ede6eada56cde49896f4d2fe621f72b9249edf9476596b60563bf",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.2.4",
+        "tag_version": "0.2.4",
+        "created_at": "2024-07-19T03:08:09Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.2.3/diddy_kong_racing.apworld",
+      "size": 85444,
+      "hash_sha256": "1876a3afc5a78a75ea0a5e6d0e19a9d49f72cc61d1853b64428eaee8e7bc3d5f",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.2.3",
+        "tag_version": "0.2.3",
+        "created_at": "2024-07-13T19:21:54Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.2.2/diddy_kong_racing.apworld",
+      "size": 76540,
+      "hash_sha256": "25f0240549bb9f5ce2788a7ad255842fb72f07d4ece185e4eb2667ddafb28d39",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.2.2",
+        "tag_version": "0.2.2",
+        "created_at": "2024-07-09T02:41:31Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.2.1/diddy_kong_racing.apworld",
+      "size": 51191,
+      "hash_sha256": "d5a53748d1c6d63e151fbacf85f9b4c683167216820ec4ec00891b046fa6ce61",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2024-06-28T05:16:38Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.2.0/diddy_kong_racing.apworld",
+      "size": 51767,
+      "hash_sha256": "6820eaf6e7f25d3ff69ccdddc64549b623345079dd7d2a480482a104b5cd9349",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2024-06-19T02:45:30Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/zakwiz/DiddyKongRacingAP/releases/download/v0.1.0/diddy_kong_racing.apworld",
+      "size": 48850,
+      "hash_sha256": "099eca0eef07c8a79b612aedcf2d3ed005f9023a0ff65a4dfadfd5796b8b4079",
+      "metadata": {
+        "game": "",
+        "id": "diddy_kong_racing",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2024-06-13T23:07:24Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -68089,6 +68573,22 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S3AP/releases/download/1.2.3-rc1/spyro3.apworld",
+      "size": 50767,
+      "hash_sha256": "6df76e202db3137d777d5044ed8c7f0739b2f455b46cafd5ab4bad60a1a0e652",
+      "metadata": {
+        "game": "",
+        "id": "spyro3",
+        "world_version": "1.2.3rc1",
+        "tag_version": "1.2.3rc1",
+        "created_at": "2026-02-10T22:33:47Z",
+        "minimum_ap_version": "0.6.1",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S3AP/releases/download/1.2.2/spyro3.apworld",
       "size": 44526,
       "hash_sha256": "8af056b76e8cd3287d159f1f33e86e24de28e920729e31dc0d1982e5b06718e2",
@@ -81199,6 +81699,10 @@
       "game": "Death's Door",
       "description": "Reaping souls of the dead and punching a clock might get monotonous but it's honest work for a Crow.\nThe job gets lively when your assigned soul is stolen and you must track down a desperate thief to a realm\nuntouched by death - where creatures grow far past their expiry."
     },
+    "deep_rock_galactic": {
+      "game": "Deep Rock Galactic",
+      "description": ""
+    },
     "DeliveringHope": {
       "game": "Delivering Hope",
       "description": "Delivering Hope is a game about throwing IRyS as far as you can while not letting her get distracted by Bae figurines."
@@ -81206,6 +81710,10 @@
     "deltarune": {
       "game": "Deltarune",
       "description": "Deltarune is an RPG."
+    },
+    "diddy_kong_racing": {
+      "game": "Diddy Kong Racing",
+      "description": "Diddy Kong Racing is a kart racing game with a story mode, complete with bosses and hidden collectibles."
     },
     "difficult_climbing": {
       "game": "A Difficult Game About Climbing",
@@ -81222,6 +81730,10 @@
     "dkc2": {
       "game": "Donkey Kong Country 2",
       "description": "Donkey Kong Country 2 is an action platforming game. \nPlay as Diddy Kong and his girlfriend Dixie as they go to Crocodile Isle \nto rescue Donkey Kong from the clutches of Kaptain K. Rool."
+    },
+    "dlcquest": {
+      "game": "DLCQuest",
+      "description": "DLCQuest is a metroid ish game where everything is an in-game dlc."
     },
     "dmc3": {
       "game": "Devil May Cry 3",
