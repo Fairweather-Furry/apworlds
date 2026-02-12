@@ -1,7 +1,7 @@
 {
   "total_repositories": 500,
   "total_packages": 583,
-  "total_versions": 5925,
+  "total_versions": 5951,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -207,6 +207,7 @@
     "lethal_company": false,
     "liesofp": true,
     "lil_gator_game": true,
+    "lingo2": true,
     "little_witch_nobeta": true,
     "lobotomycorporation": false,
     "lol": false,
@@ -404,7 +405,7 @@
     "PokemonStadium": false,
     "pokepark": true,
     "portal2": true,
-    "powerwashsimulator": false,
+    "powerwashsimulator": true,
     "priestess_lust": false,
     "pseudoregalia": true,
     "psychonauts": true,
