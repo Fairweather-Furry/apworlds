@@ -11,6 +11,9 @@
 #### v6
 - <a href="https://github.com/Uroogla/S2AP/releases/download/test_jan_6/spyro2.apworld">https://github.com/Uroogla/S2AP/releases/download/test_jan_6/spyro2.apworld</a>
 
+#### v1.0.2
+- <a href="https://github.com/Uroogla/S2AP/releases/download/1.0.2/spyro2.apworld">https://github.com/Uroogla/S2AP/releases/download/1.0.2/spyro2.apworld</a>
+
 #### v1.0.1
 - <a href="https://github.com/Uroogla/S2AP/releases/download/1.0.1/spyro2.apworld">https://github.com/Uroogla/S2AP/releases/download/1.0.1/spyro2.apworld</a>
 

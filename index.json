@@ -45478,6 +45478,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.29/musedash.apworld",
+      "size": 33262,
+      "hash_sha256": "4f4f6e6bea80b554a96bc7261671fc19e20411b8861c53ff0ced9c3aabbab113",
+      "metadata": {
+        "game": "",
+        "id": "musedash",
+        "world_version": "1.5.29",
+        "tag_version": "1.5.29",
+        "created_at": "2026-02-13T11:40:27Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.28/musedash.apworld",
       "size": 33177,
       "hash_sha256": "ed0d7e9e38490445a7e28c218b547ff5e34aaec01e432e360b8fcd6548026e4a",
@@ -56872,6 +56885,18 @@
         "flags": [
           "after_dark"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.2.8/rabbit_and_steel.apworld",
+      "size": 15593,
+      "hash_sha256": "68a8aa13d2d65382594feaaeea7915551381514b4ac6eeceb3185805d9e39353",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.2.8",
+        "tag_version": "0.2.8",
+        "created_at": "2026-02-13T01:47:06Z"
       }
     },
     {
@@ -68529,6 +68554,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/1.0.2/spyro2.apworld",
+      "size": 35216,
+      "hash_sha256": "31f6b34d00b4c17220d02898afeaf331520059627ceb6905fafb0565ce6b82b6",
+      "metadata": {
+        "game": "",
+        "id": "spyro2",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2026-02-13T04:19:23Z",
+        "minimum_ap_version": "0.6.1"
       }
     },
     {
