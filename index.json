@@ -395,6 +395,19 @@
       }
     },
     {
+      "world": "https://github.com/dmwever/Ageipelago/releases/download/0.1.0/age2de.apworld",
+      "size": 2131787,
+      "hash_sha256": "88976940b5130af441b88be212752f3a8023818a8a7050c4df8a9c319795948b",
+      "metadata": {
+        "game": "",
+        "id": "age2de",
+        "world_version": "0.0.1",
+        "tag_version": "0.0.1",
+        "created_at": "2026-02-14T18:18:18Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/qwint/ap-air-delivery/releases/download/0.1.6/air_delivery.apworld",
       "size": 4790,
       "hash_sha256": "4b636da4fe0fdeba1ec2c3c5597471c01e1fc462bc192a4d61c0dd9746163129",
@@ -6890,6 +6903,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-59/borderlands2.apworld",
+      "size": 49673,
+      "hash_sha256": "86a35599b4b064d3c20e5f663fd0db2d23786778460e27ab3d934772ef161930",
+      "metadata": {
+        "game": "",
+        "id": "borderlands2",
+        "world_version": "59",
+        "tag_version": "59",
+        "created_at": "2026-02-15T04:42:59Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-58/borderlands2.apworld",
       "size": 49571,
       "hash_sha256": "0c49e5577db8a4678404f7603d07bf727444691dd805ecd58351bc21e72749bc",
@@ -7781,6 +7810,19 @@
         "tag_version": "0.0.1",
         "created_at": "2023-10-15T18:12:56Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/asdfwyay/APBuckshot/releases/download/v0.1.1/buckshot.apworld",
+      "size": 18385,
+      "hash_sha256": "85c56a09d19541c005edd7b251db8a0770b84fe52955309347eaee86c3f2c819",
+      "metadata": {
+        "game": "",
+        "id": "buckshot",
+        "world_version": "0.1.1",
+        "tag_version": "0.1.1",
+        "created_at": "2026-02-15T08:20:52Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -22199,6 +22241,22 @@
         "maximum_ap_version": "0.6.99",
         "flags": [
           "unready",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.0-pre1/flipwitch.apworld",
+      "size": 72122,
+      "hash_sha256": "9c530243c8eb54e4d32fdd46f54e15e6ecc67a47cf92f1e65e55d82a261f5114",
+      "metadata": {
+        "game": "",
+        "id": "flipwitch",
+        "world_version": "1.0.0.post5",
+        "tag_version": "1.0.0.post5",
+        "created_at": "2026-01-18T18:27:04Z",
+        "flags": [
+          "after_dark",
           "prerelease"
         ]
       }
@@ -57258,6 +57316,18 @@
         "tag_version": "0.6.1",
         "created_at": "2024-06-17T07:49:09Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.4.2/pvzr.apworld",
+      "size": 23342,
+      "hash_sha256": "a95119afa9caaf5280b2a5b89e78922a26c819ce6def262d950e1235615d22d6",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.4.2",
+        "tag_version": "1.4.2",
+        "created_at": "2026-02-15T11:06:26Z"
       }
     },
     {
