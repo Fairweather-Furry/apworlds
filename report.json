@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
   "total_packages": 607,
-  "total_versions": 6016,
+  "total_versions": 6025,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -80,7 +80,7 @@
     "crossword_ap": false,
     "crystal_project": true,
     "crystalis": true,
-    "ctjot": false,
+    "ctjot": true,
     "cuphead": false,
     "custom_robo": false,
     "cv64": false,
@@ -331,7 +331,7 @@
     "mario_super_sluggers": true,
     "marioland2": true,
     "mariomissing": true,
-    "medievil": false,
+    "medievil": true,
     "medievil2": true,
     "megamix": true,
     "melee": false,
@@ -576,20 +576,20 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 385,
+    "": 384,
     "0.5.0": 8,
     "0.6.0": 14,
     "0.6.1": 12,
     "0.6.2": 8,
     "0.6.3": 56,
     "0.6.4": 55,
-    "0.6.5": 17,
+    "0.6.5": 18,
     "0.6.6": 5
   },
   "max_maximum_ap_version": {
-    "": 238,
+    "": 239,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 316
+    "0.6.99": 315
   }
 }

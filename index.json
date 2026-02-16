@@ -12785,6 +12785,18 @@
       }
     },
     {
+      "world": "https://github.com/Anguirel86/Archipelago/releases/download/v0.0.4/ctjot.apworld",
+      "size": 25702,
+      "hash_sha256": "7c324e8e26f60a6f96714b730ba2076530c3b64c113bd14fd817d105f156a1e7",
+      "metadata": {
+        "game": "",
+        "id": "ctjot",
+        "world_version": "0.0.4",
+        "tag_version": "0.0.4",
+        "created_at": "2026-02-15T17:51:24Z"
+      }
+    },
+    {
       "world": "https://github.com/Anguirel86/Archipelago/releases/download/v0.0.3/ctjot.apworld",
       "size": 26672,
       "hash_sha256": "776348df7aff9acf7e02813a9b94eff8a5aa194a874413470089b88ceedfd492",
@@ -14638,6 +14650,23 @@
       }
     },
     {
+      "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.1.2.1-beta/diceydungeons.apworld",
+      "size": 75526,
+      "hash_sha256": "6fd615177c985c2dd88ad947305f31400139da1df21acf829fbeaecb43b2c7c6",
+      "metadata": {
+        "game": "",
+        "id": "diceydungeons",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2026-02-15T15:42:26Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "unready",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.1.0-beta/diceydungeons.apworld",
       "size": 75372,
       "hash_sha256": "79f56835c94bdd6f07e287d5b7ced9aae73d59f6e8c39c3042181623fc0c7700",
@@ -15032,6 +15061,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-02-06T00:10:12Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.4.46/dk64.apworld",
+      "size": 36935051,
+      "hash_sha256": "7c86b7c77c08bb32b710beb26f592433e2f0eb3fe8e3117cd1b8f7cbfa213b37",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.4.46",
+        "tag_version": "1.4.46",
+        "created_at": "2026-02-15T20:29:43Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -25656,6 +25698,22 @@
       }
     },
     {
+      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v4.0pre0/hammerwatch.apworld",
+      "size": 70777009,
+      "hash_sha256": "ec8b9fc338a19a328ae75afdef957376e96a2a70fc1400225d4940836e88d7ca",
+      "metadata": {
+        "game": "",
+        "id": "hammerwatch",
+        "world_version": "4.0rc0",
+        "tag_version": "4.0rc0",
+        "created_at": "2025-08-15T12:55:11Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v1.2.3/hammerwatch.apworld",
       "size": 70916568,
       "hash_sha256": "b40bf46a3385569126d40aadef02ff95a25f0e9f73efdc7e06a25276a95eff84",
@@ -32448,6 +32506,18 @@
     },
     {
       "world": "https://github.com/Xtruh/LiesOfAP/releases/download/0.1.5/liesofp.apworld",
+      "size": 68831,
+      "hash_sha256": "0b0a6bcc6b73e12a1aa67b3b731556650e0fd3a1a98dd81c36ea19f939ec69dc",
+      "metadata": {
+        "game": "",
+        "id": "liesofp",
+        "world_version": "0.1.5.post2",
+        "tag_version": "0.1.5.post2",
+        "created_at": "2026-02-14T20:01:31Z"
+      }
+    },
+    {
+      "world": "https://github.com/Xtruh/LiesOfAP/releases/download/0.1.5/liesofp.apworld",
       "size": 68672,
       "hash_sha256": "7667d6aa01f195217c5658d3974a7ae51d72eebd4723043f98849ef4c7c986bf",
       "metadata": {
@@ -38715,6 +38785,22 @@
       }
     },
     {
+      "world": "https://github.com/Fabriel1323/OutcomeMemoriesAP/releases/download/playmyrandomizer/manual_outcomememories_1sobbe.apworld",
+      "size": 54345,
+      "hash_sha256": "54e4a60f432fb5e66ca2cb15df09bc7b649ea5f697712bbdb2aa2a2c4ab542ac",
+      "metadata": {
+        "game": "",
+        "id": "manual_outcomememories_1sobbe",
+        "world_version": "0.2",
+        "tag_version": "0.2",
+        "created_at": "2025-12-18T06:52:15Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/nicopop/ManualApworlds/releases/download/6.5.1/manual_outerwilds_nicopopxd.apworld",
       "size": 74673,
       "hash_sha256": "325adcfe1cb2fe6746680022f155f0f819be119a091536fed086e3309dd28f7f",
@@ -41561,6 +41647,19 @@
         "tag_version": "0.2.8",
         "created_at": "2026-01-07T21:48:27Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.10/medievil.apworld",
+      "size": 25411,
+      "hash_sha256": "1c4266a1846810398902fc4c97247bbbf5800e2e643edc39d3c5e41d5ad4abf8",
+      "metadata": {
+        "game": "",
+        "id": "medievil",
+        "world_version": "0.2.8",
+        "tag_version": "0.2.8",
+        "created_at": "2026-02-15T22:41:45Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -46787,6 +46886,19 @@
         "tag_version": "0.1.0",
         "created_at": "2024-07-03T12:55:54Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.4/nine_sols.apworld",
+      "size": 2924934,
+      "hash_sha256": "5938249073f0bd33f484db6812cd820e22605e9e92620e3b4764670c381a5ac4",
+      "metadata": {
+        "game": "",
+        "id": "nine_sols",
+        "world_version": "0.4.4",
+        "tag_version": "0.4.4",
+        "created_at": "2026-02-15T17:07:30Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -58986,6 +59098,18 @@
         "tag_version": "2.0rc2",
         "created_at": "2025-06-26T22:12:48Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/alphappy/ArchipelagoRW/releases/download/v1.5.0/rain_world.apworld",
+      "size": 176751,
+      "hash_sha256": "154e9a3b21ea762b5083dfc27528ecb6a1d64e352f5e9de923c0a8b97a053c81",
+      "metadata": {
+        "game": "",
+        "id": "rain_world",
+        "world_version": "1.5.0",
+        "tag_version": "1.5.0",
+        "created_at": "2026-02-13T18:47:37Z"
       }
     },
     {
