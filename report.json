@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
   "total_packages": 607,
-  "total_versions": 6031,
+  "total_versions": 6045,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -208,7 +208,7 @@
     "legend_of_dragoon": true,
     "lego_batman_1": true,
     "lego_star_wars_tcs": true,
-    "lethal_company": false,
+    "lethal_company": true,
     "liesofp": true,
     "lil_gator_game": true,
     "lingo2": true,
@@ -587,9 +587,9 @@
     "0.6.6": 5
   },
   "max_maximum_ap_version": {
-    "": 239,
+    "": 240,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 315
+    "0.6.99": 314
   }
 }
