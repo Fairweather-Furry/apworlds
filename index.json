@@ -1599,6 +1599,19 @@
       }
     },
     {
+      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.1/ape_escape_3.apworld",
+      "size": 137951,
+      "hash_sha256": "7da998cce6bb094a08b7862c4a1738bec740a76534bc3feb4ec091225c8e02c6",
+      "metadata": {
+        "game": "",
+        "id": "ape_escape_3",
+        "world_version": "2.0.1.post2",
+        "tag_version": "2.0.1.post2",
+        "created_at": "2026-02-16T16:56:00Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.4/ape_escape_3.apworld",
       "size": 139468,
       "hash_sha256": "e32461029eabe61faf8fb46a0f0ea49f4adb67e7c3821e521c2079620bc128ff",
@@ -9177,6 +9190,18 @@
         "tag_version": "0.1.0a0",
         "created_at": "2025-01-12T19:45:11Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/kl3cks7r/CaveStoryArchipelago/releases/download/0.6.6/cave_story.apworld",
+      "size": 2059286,
+      "hash_sha256": "21e19d41b6191f1b2a8b41fc50cf17232062cba284f3ee92b3b8fdf3698256f0",
+      "metadata": {
+        "game": "",
+        "id": "cave_story",
+        "world_version": "0.6.6",
+        "tag_version": "0.6.6",
+        "created_at": "2026-02-17T03:23:59Z"
       }
     },
     {
@@ -41760,19 +41785,6 @@
       }
     },
     {
-      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.8/medievil.apworld",
-      "size": 26517,
-      "hash_sha256": "8a281c926012d1ca5c45fff608a353d78d8ea90e8e4d56163384ff617505f651",
-      "metadata": {
-        "game": "",
-        "id": "medievil",
-        "world_version": "0.2.8",
-        "tag_version": "0.2.8",
-        "created_at": "2026-01-07T21:48:27Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.11/medievil.apworld",
       "size": 25410,
       "hash_sha256": "b7ae56163b62250007a0f3ff1ff4e5e451e9251644769f87aa5de2434bd99b10",
@@ -41783,6 +41795,19 @@
         "tag_version": "0.2.8",
         "created_at": "2026-02-16T18:31:55Z",
         "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.8/medievil.apworld",
+      "size": 26517,
+      "hash_sha256": "8a281c926012d1ca5c45fff608a353d78d8ea90e8e4d56163384ff617505f651",
+      "metadata": {
+        "game": "",
+        "id": "medievil",
+        "world_version": "0.2.8",
+        "tag_version": "0.2.8",
+        "created_at": "2026-01-07T21:48:27Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -71260,6 +71285,19 @@
         "world_version": "0.1.0a0",
         "tag_version": "0.1.0a0",
         "created_at": "2025-03-23T19:24:02Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/JammyGeeza/Stacklands-Randomizer/releases/download/v0.2.4-alpha/stacklands.apworld",
+      "size": 25821,
+      "hash_sha256": "2025bb99a9a7e4bfd008617a535a5f7ead16cb6d2ddc3731d122a8dc73b0bf6d",
+      "metadata": {
+        "game": "",
+        "id": "stacklands",
+        "world_version": "0.2.4a0",
+        "tag_version": "0.2.4a0",
+        "created_at": "2026-02-17T10:09:48Z",
         "maximum_ap_version": "0.6.99"
       }
     },
