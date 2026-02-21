@@ -7906,6 +7906,19 @@
       }
     },
     {
+      "world": "https://github.com/asdfwyay/APBuckshot/releases/download/v0.1.2/buckshot.apworld",
+      "size": 19599,
+      "hash_sha256": "3494229c638d39e32003e7e3a3622823c3e5e0855c417614d43f687b36c9cd11",
+      "metadata": {
+        "game": "",
+        "id": "buckshot",
+        "world_version": "0.1.2",
+        "tag_version": "0.1.2",
+        "created_at": "2026-02-21T03:00:46Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/asdfwyay/APBuckshot/releases/download/v0.1.1/buckshot.apworld",
       "size": 18385,
       "hash_sha256": "85c56a09d19541c005edd7b251db8a0770b84fe52955309347eaee86c3f2c819",
@@ -22582,6 +22595,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.0/flipwitch.apworld",
+      "size": 72133,
+      "hash_sha256": "17cd480e23906c9727680d4381bc19da8e6ce4d675345dff057b850c31367141",
+      "metadata": {
+        "game": "",
+        "id": "flipwitch",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-01-18T18:27:04Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.0-pre1/flipwitch.apworld",
       "size": 71868,
       "hash_sha256": "be35da2e6bdcdd729b34397262796241232fbfb83e48a277210a968867659433",
@@ -34008,6 +34036,19 @@
         "world_version": "0.5.21",
         "tag_version": "0.5.21",
         "created_at": "2026-01-20T08:51:41Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.5.22/luigismansion.apworld",
+      "size": 206969,
+      "hash_sha256": "91cfaa216f5c32f80e11e8cd5a77eaf313ff455e00a9c5af4d740f099cc8d37a",
+      "metadata": {
+        "game": "",
+        "id": "luigismansion",
+        "world_version": "0.5.21",
+        "tag_version": "0.5.21",
+        "created_at": "2026-02-19T00:49:22Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -56396,6 +56437,19 @@
       }
     },
     {
+      "world": "https://github.com/jciii91/Pokemon-Stadium-AP-World/releases/download/v0.4.2/PokemonStadium.apworld",
+      "size": 141721,
+      "hash_sha256": "f641b66c370c520a20ae68b92a8f18c9f3a3d9e4820db8cc4d260a98cff26836",
+      "metadata": {
+        "game": "",
+        "id": "PokemonStadium",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-02-21T06:49:55Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/jciii91/Pokemon-Stadium-AP-World/releases/download/v0.4.1/PokemonStadium.apworld",
       "size": 90309,
       "hash_sha256": "b2b5c86a64f2b64156f83177639f0a685da90d824355e3dd0ec32445bea1a39a",
@@ -57926,6 +57980,18 @@
         "tag_version": "0.6.1",
         "created_at": "2024-06-17T07:49:09Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.5.1/pvzr.apworld",
+      "size": 27702,
+      "hash_sha256": "bba8cd8d409bb25789f9c9ddfabcc04d58d99b492e6b8a6b5e2f0b58993301db",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.5.1",
+        "tag_version": "1.5.1",
+        "created_at": "2026-02-21T12:38:12Z"
       }
     },
     {
@@ -75130,6 +75196,19 @@
         "world_version": "0.4.2",
         "tag_version": "0.4.2",
         "created_at": "2026-02-20T13:18:53Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/IgnisUmbrae/TJE-Archipelago/releases/download/v0.4.2a/tje.apworld",
+      "size": 77687,
+      "hash_sha256": "70eca2edfa99ac1bd0dea8df717585000344a1b526a7a3359b0362ebf0c8d5bb",
+      "metadata": {
+        "game": "",
+        "id": "tje",
+        "world_version": "0.4.2a0",
+        "tag_version": "0.4.2a0",
+        "created_at": "2026-02-21T04:15:07Z",
         "maximum_ap_version": "0.6.99"
       }
     },
