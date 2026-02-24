@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
   "total_packages": 609,
-  "total_versions": 6112,
+  "total_versions": 6107,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -211,7 +211,6 @@
     "lethal_company": true,
     "liesofp": true,
     "lil_gator_game": true,
-    "lingo2": true,
     "little_witch_nobeta": true,
     "lobotomycorporation": false,
     "lol": false,
@@ -561,7 +560,7 @@
     "witness": true,
     "wl": false,
     "wl4": true,
-    "wordipelago": false,
+    "wordipelago": true,
     "wordsearch": false,
     "wow": false,
     "x2wotc": true,
@@ -576,18 +575,18 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 382,
+    "": 380,
     "0.5.0": 8,
     "0.6.0": 13,
     "0.6.1": 12,
     "0.6.2": 8,
     "0.6.3": 56,
-    "0.6.4": 56,
+    "0.6.4": 57,
     "0.6.5": 17,
     "0.6.6": 8
   },
   "max_maximum_ap_version": {
-    "": 244,
+    "": 243,
     "0.0.1": 1,
     "0.4.6": 5,
     "0.6.99": 310

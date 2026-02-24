@@ -58,6 +58,18 @@
       "title": "Hunie Cam Studio Archipelago plugin v0.3.0",
       "version_simple": "0.3.0",
       "world_version": "0.3.0"
+    },
+    "V0.3.1": {
+      "created_at": "2026-02-24T01:00:49Z",
+      "download_url": "https://github.com/DotsofdarknessArchipelago/Hunie-Cam-Studio-Archipelago/releases/download/V0.3.1/huniecamstudio.apworld",
+      "has_manifest": true,
+      "hash_sha256": "88ed953525a42cbb9d755e9bbb57bcc14eee0ffc791442c168c19acd8065b538",
+      "size": 8585,
+      "source_url": "https://api.github.com/repos/DotsofdarknessArchipelago/Hunie-Cam-Studio-Archipelago",
+      "tag": "V0.3.1",
+      "title": "Hunie Cam Studio Archipelago plugin v0.3.1",
+      "version_simple": "0.3.1",
+      "world_version": "0.3.1"
     }
   }
 }
