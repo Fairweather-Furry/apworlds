@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
-  "total_packages": 609,
-  "total_versions": 6107,
+  "total_packages": 608,
+  "total_versions": 6131,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -186,7 +186,6 @@
     "ittle_dew_2": false,
     "jakanddaxter": true,
     "jakii": false,
-    "jet_island": false,
     "jigsaw": true,
     "junko": true,
     "k64": true,
@@ -211,6 +210,7 @@
     "lethal_company": true,
     "liesofp": true,
     "lil_gator_game": true,
+    "lingo2": true,
     "little_witch_nobeta": true,
     "lobotomycorporation": false,
     "lol": false,
@@ -507,7 +507,7 @@
     "stick_ranger": false,
     "superjunkoid": false,
     "supraland": true,
-    "swr": false,
+    "swr": true,
     "tabs": true,
     "taskipelago": false,
     "tboir": true,
@@ -586,9 +586,9 @@
     "0.6.6": 8
   },
   "max_maximum_ap_version": {
-    "": 243,
+    "": 247,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 310
+    "0.6.99": 306
   }
 }
