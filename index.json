@@ -212,6 +212,18 @@
       }
     },
     {
+      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v1.2.0/against_the_storm.apworld",
+      "size": 20320,
+      "hash_sha256": "3068b85d24be8c49b96acaec52a70e5e4c173c05c4c524610e086e0732ffa6d7",
+      "metadata": {
+        "game": "",
+        "id": "against_the_storm",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-02-24T23:18:09Z"
+      }
+    },
+    {
       "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v1.0.0/against_the_storm.apworld",
       "size": 19264,
       "hash_sha256": "0a45d48578cf1c0acd9a025b053b72f35ad9f2377c8e79fd2ab8f24e6bc8c45f",
@@ -4048,6 +4060,19 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.12/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-02-24T21:50:22Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/airbreather/Autopelago/releases/download/v0.10.4/autopelago.apworld",
       "size": 25648,
       "hash_sha256": "d3b91745b3bfb163ef7bf03d5cba7771e306e251df73748d4365ac8fa18d8ba0",
@@ -7009,6 +7034,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-62/borderlands2.apworld",
+      "size": 50840,
+      "hash_sha256": "7766a11f17bf37b753e2ec0e0cb2166de39cac7d82ffdce6848cdbbea765dc37",
+      "metadata": {
+        "game": "",
+        "id": "borderlands2",
+        "world_version": "62",
+        "tag_version": "62",
+        "created_at": "2026-02-24T20:26:20Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-61/borderlands2.apworld",
       "size": 50528,
       "hash_sha256": "7e8de26e1c5d1b078b514087de865a166bc3519cbfec9bc4383d85753fefc621",
@@ -7422,6 +7463,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/v0.5/borderlands2.apworld",
+      "size": 50840,
+      "hash_sha256": "7766a11f17bf37b753e2ec0e0cb2166de39cac7d82ffdce6848cdbbea765dc37",
+      "metadata": {
+        "game": "",
+        "id": "borderlands2",
+        "world_version": "0.5",
+        "tag_version": "0.5",
+        "created_at": "2026-02-24T20:26:20Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -14590,6 +14644,19 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.16.4/deep_rock_galactic.apworld",
+      "size": 28025,
+      "hash_sha256": "b2f4c69e5ffc838d2cc004cca72340985e240424e16b0f1c16622095f08af9f7",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.16.4",
+        "tag_version": "0.16.4",
+        "created_at": "2026-02-24T16:38:38Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.16.3/deep_rock_galactic.apworld",
       "size": 27836,
       "hash_sha256": "bc29ce1a344702789f57a03537ebbe26f624efc771e7feebc050983cab06c45e",
@@ -14945,6 +15012,23 @@
         "tag_version": "0.0.2",
         "created_at": "2025-06-16T23:46:00Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "unready",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.2.0-beta/diceydungeons.apworld",
+      "size": 887519,
+      "hash_sha256": "e20ee7ed6d0c4c3df729f40ecb05242405c4b7951e7b17ceb04e3814447484be",
+      "metadata": {
+        "game": "",
+        "id": "diceydungeons",
+        "world_version": "0.2.0b0",
+        "tag_version": "0.2.0b0",
+        "created_at": "2026-02-25T00:06:51Z",
+        "minimum_ap_version": "0.6.6",
         "flags": [
           "unready",
           "prerelease"
@@ -17995,6 +18079,22 @@
         "tag_version": "0.0.2",
         "created_at": "2025-09-15T16:55:59Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.0.22.0/dsr.apworld",
+      "size": 42563,
+      "hash_sha256": "3c57fdf0fa2f2e5c0a6ba2c72d3ee170d2874334ff5d49d920bda2fa80735ffa",
+      "metadata": {
+        "game": "",
+        "id": "dsr",
+        "world_version": "0.0.22",
+        "tag_version": "0.0.22",
+        "created_at": "2026-02-24T14:19:34Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -28751,6 +28851,38 @@
         "tag_version": "0.0.1",
         "created_at": "2025-09-19T18:36:56Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Nullctipus/JetIslandArchipelago/releases/download/0.0.2/jet_island.apworld",
+      "size": 4381,
+      "hash_sha256": "a7af98c592e8b937979a64568a990612f2878b7b6a1006a066e0652884bc139e",
+      "metadata": {
+        "game": "",
+        "id": "jet_island",
+        "world_version": "0.0.2",
+        "tag_version": "0.0.2",
+        "created_at": "2025-05-17T00:41:52Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Nullctipus/JetIslandArchipelago/releases/download/0.0.1/jet_island.apworld",
+      "size": 4381,
+      "hash_sha256": "a7af98c592e8b937979a64568a990612f2878b7b6a1006a066e0652884bc139e",
+      "metadata": {
+        "game": "",
+        "id": "jet_island",
+        "world_version": "0.0.1",
+        "tag_version": "0.0.1",
+        "created_at": "2025-05-10T22:40:02Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -44096,6 +44228,22 @@
         "tag_version": "0.1.0",
         "created_at": "2025-08-28T23:34:07Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/JohnMahglass/Archipelago-Mindustry/releases/download/v0.5.0/mindustry.apworld",
+      "size": 142127,
+      "hash_sha256": "bb6db6f9240746b3fce51d620170e4fd3b9506fb3a92a6854c370cd6bfb67a7f",
+      "metadata": {
+        "game": "",
+        "id": "mindustry",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-02-17T02:38:21Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -73842,6 +73990,19 @@
       }
     },
     {
+      "world": "https://github.com/barretg/Taskipelago/releases/download/v0.5/taskipelago.apworld",
+      "size": 21637,
+      "hash_sha256": "3f6d3d3c463b96ea0b758a4b8cb226234760e265bc49a985689b28ee4ff8fd1d",
+      "metadata": {
+        "game": "",
+        "id": "taskipelago",
+        "world_version": "0.5",
+        "tag_version": "0.5",
+        "created_at": "2026-02-24T22:07:16Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/barretg/Taskipelago/releases/download/v0.4/taskipelago.apworld",
       "size": 17747,
       "hash_sha256": "848513c3d3523b4e975b05845e9ae7362942f0c264977cfeea35659b4f46c921",
@@ -85196,6 +85357,10 @@
     "jakii": {
       "game": "Jak II",
       "description": "Jak II is an action-adventure game published by Naughty Dog in 2003 for the PlayStation 2.\nSet directly after the events of Jak and Daxter: The Precursor Legacy, Jak, Daxter, Samos\nand Keira have set up the Rift Rider they found at the end of their previous adventure, and\nare ready to see where it leads. However, a strange and hostile species of creatures known as\nMetal Heads suddenly fly through the portal, and in a panic, Daxter activates the machine,\nsending them flying through the open portal. Separated, they find themselves in \"glorious\" Haven City,\nand Jak is quickly captured. Two years later, Daxter finds Jak locked up in prison,\nand Jak has only one thought on his mind: vengeance."
+    },
+    "jet_island": {
+      "game": "Jet Island",
+      "description": ""
     },
     "jigsaw": {
       "game": "Jigsaw",
