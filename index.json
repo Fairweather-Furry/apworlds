@@ -8944,395 +8944,6 @@
       }
     },
     {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.5/casualtiesunknown.apworld",
-      "size": 81466,
-      "hash_sha256": "2f9a98740016551cb57667ecf8cf1f6bb2be79de64dac177f3e07c56a6122f0e",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.6.5",
-        "tag_version": "0.6.5",
-        "created_at": "2026-02-22T01:15:07Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.4/casualtiesunknown.apworld",
-      "size": 81145,
-      "hash_sha256": "3208d3cae4c1d745c342464365aa02af64806fb8e626f97927aa0cc838b7ec64",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.6.4",
-        "tag_version": "0.6.4",
-        "created_at": "2026-02-14T03:56:00Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.3/casualtiesunknown.apworld",
-      "size": 81027,
-      "hash_sha256": "c65638f2240327b02d698b624da093f08110783add0f8b3629e2044b9408fff8",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.6.3",
-        "tag_version": "0.6.3",
-        "created_at": "2026-02-12T21:26:39Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0/casualtiesunknown.apworld",
-      "size": 78316,
-      "hash_sha256": "437f5ace297c330c731bb5b8ca895184ad6fa1cafda948c538ebf8d5cd9c67e0",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.6.0",
-        "tag_version": "0.6.0",
-        "created_at": "2026-02-09T22:49:44Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0-hotfix1/casualtiesunknown.apworld",
-      "size": 78327,
-      "hash_sha256": "aef0475ff2204af00db01045efb07e6d7222d2f18388a42043a57e28b61ced65",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.6.0",
-        "tag_version": "0.6.0",
-        "created_at": "2026-02-09T23:09:33Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.1/casualtiesunknown.apworld",
-      "size": 78691,
-      "hash_sha256": "20f55c60564811e7a01c33ebb92b4ee63cb307588c0676cdbb2d4449bca5aab2",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.6.0",
-        "tag_version": "0.6.0",
-        "created_at": "2026-02-10T21:58:49Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.2/casualtiesunknown.apworld",
-      "size": 81026,
-      "hash_sha256": "a35fa6de05b8cf86cff148aa7cd9cac296e01d53d09045d9160a634a563b4e28",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.6.0",
-        "tag_version": "0.6.0",
-        "created_at": "2026-02-12T07:58:14Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0-pre4/casualtiesunknown.apworld",
-      "size": 78228,
-      "hash_sha256": "9d164d0e686fe7f46b91d156caf08d94bee623139a23d0bf14c25f3cb1434610",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.6.0rc4",
-        "tag_version": "0.6.0rc4",
-        "created_at": "2026-02-08T02:29:49Z",
-        "minimum_ap_version": "0.6.5",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0-pre3/casualtiesunknown.apworld",
-      "size": 76381,
-      "hash_sha256": "b0a98b1fa174be0425b5b1b58766a3e693d96e3cfce3f22652f741ac41181920",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.6.0rc3",
-        "tag_version": "0.6.0rc3",
-        "created_at": "2026-02-07T09:21:56Z",
-        "minimum_ap_version": "0.6.5",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0-pre2/casualtiesunknown.apworld",
-      "size": 75460,
-      "hash_sha256": "40bfdd1278789eb57d735588d68f9727665ade78f7da13b3507a56c887a7d654",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.6.0rc2",
-        "tag_version": "0.6.0rc2",
-        "created_at": "2026-02-05T04:51:00Z",
-        "minimum_ap_version": "0.6.5",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.0-pre1/casualtiesunknown.apworld",
-      "size": 74768,
-      "hash_sha256": "bcabab53a4b20aed0d99a03d3a9c8e8360fe0ee4f4110fb0d790bd8cb56a6398",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.6.0rc1",
-        "tag_version": "0.6.0rc1",
-        "created_at": "2026-02-02T06:19:49Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.5.4/casualtiesunknown.apworld",
-      "size": 74363,
-      "hash_sha256": "b82168d33327e52b98c7baeca47e2a21408718b77e406b488194db70d6b31fa8",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.5.4",
-        "tag_version": "0.5.4",
-        "created_at": "2026-01-26T21:34:32Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.5.3/casualtiesunknown.apworld",
-      "size": 74363,
-      "hash_sha256": "b82168d33327e52b98c7baeca47e2a21408718b77e406b488194db70d6b31fa8",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.5.3",
-        "tag_version": "0.5.3",
-        "created_at": "2026-01-24T03:04:13Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.5.2/casualtiesunknown.apworld",
-      "size": 74363,
-      "hash_sha256": "b82168d33327e52b98c7baeca47e2a21408718b77e406b488194db70d6b31fa8",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.5.2",
-        "tag_version": "0.5.2",
-        "created_at": "2026-01-17T07:42:33Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.5.1/casualtiesunknown.apworld",
-      "size": 73901,
-      "hash_sha256": "615e44777e0cffa8b9a231915974892b2204aeef024084176e0206e62758f0d1",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.5.1",
-        "tag_version": "0.5.1",
-        "created_at": "2025-12-30T01:17:51Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.5.0/casualtiesunknown.apworld",
-      "size": 42778,
-      "hash_sha256": "53fab3774a06761da21122777e38ba4bf520213faaf99a3413ca2a82491c1e61",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.5.0",
-        "tag_version": "0.5.0",
-        "created_at": "2025-12-25T09:33:56Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.4.5/casualtiesunknown.apworld",
-      "size": 41175,
-      "hash_sha256": "b870df107b7eeabd3b2ea6f52fccbeb7ebb60fbd9e8ab45c3f5c4abeb3ba312a",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.4.5",
-        "tag_version": "0.4.5",
-        "created_at": "2025-12-22T19:39:49Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.4.4/casualtiesunknown.apworld",
-      "size": 41125,
-      "hash_sha256": "6e84edf848f0a5dbcb59262647abea2e9787e31688cf3126673eb65fe22bc832",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.4.4",
-        "tag_version": "0.4.4",
-        "created_at": "2025-12-21T21:17:14Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.4.3/casualtiesunknown.apworld",
-      "size": 41125,
-      "hash_sha256": "6e84edf848f0a5dbcb59262647abea2e9787e31688cf3126673eb65fe22bc832",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.4.3",
-        "tag_version": "0.4.3",
-        "created_at": "2025-12-12T05:06:28Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.4.2/casualtiesunknown.apworld",
-      "size": 41811,
-      "hash_sha256": "a8157251bdb28af5ce0020c49b5b52e7ea1b8618b304c0de930b1ddf2ddb2b97",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.4.2",
-        "tag_version": "0.4.2",
-        "created_at": "2025-12-09T22:48:17Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.4.1/casualtiesunknown.apworld",
-      "size": 42393,
-      "hash_sha256": "d8c4b652dd2a867623775998a608c25c028a5dc77dd4a4688a98750431bf1986",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.4.1",
-        "tag_version": "0.4.1",
-        "created_at": "2025-12-07T11:24:14Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.4.0/casualtiesunknown.apworld",
-      "size": 42236,
-      "hash_sha256": "5c5f46cfde30eda2a22d020473bc79f19e6b97b107c6363de006c108399e1ec5",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.4.0",
-        "tag_version": "0.4.0",
-        "created_at": "2025-12-05T08:28:40Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.3.1/casualtiesunknown.apworld",
-      "size": 39043,
-      "hash_sha256": "63e8d79574ace1f43550646f046dd137b2e6ec790f0d526c977d60250856427a",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.3.1",
-        "tag_version": "0.3.1",
-        "created_at": "2025-12-03T03:30:28Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.3.0/casualtiesunknown.apworld",
-      "size": 39124,
-      "hash_sha256": "6ba749c30b1cb3dae732b61d83116f5bbb1a75a9d6d518ce3ec2e2208a353159",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.3.0",
-        "tag_version": "0.3.0",
-        "created_at": "2025-12-01T02:37:12Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.2.1/casualtiesunknown.apworld",
-      "size": 44309,
-      "hash_sha256": "9d3e2671a026bcd0cbc4d22be972c72a7e6b099725305a2836627dfb19590c95",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.2.1",
-        "tag_version": "0.2.1",
-        "created_at": "2025-08-29T02:11:44Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.2.0/casualtiesunknown.apworld",
-      "size": 44285,
-      "hash_sha256": "0d7389820011b49f8dc5ef3324b38ba4d0c8de1e9bec7f575733dcfe73c2afc0",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.2.0",
-        "tag_version": "0.2.0",
-        "created_at": "2025-08-28T13:40:33Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.1.2/casualtiesunknown.apworld",
-      "size": 39368,
-      "hash_sha256": "d35f744dec06eb38ac094bc00df4232819bfbab5177fb1c18f795c2fb2436a00",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2025-08-28T03:24:25Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.1.1/casualtiesunknown.apworld",
-      "size": 39654,
-      "hash_sha256": "38f48159201547050674dcb025d9e8a0894fc7356626d21aded8fcf3c41a5530",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2025-08-27T10:07:18Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.1.0/casualtiesunknown.apworld",
-      "size": 39654,
-      "hash_sha256": "38f48159201547050674dcb025d9e8a0894fc7356626d21aded8fcf3c41a5530",
-      "metadata": {
-        "game": "",
-        "id": "casualtiesunknown",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2025-08-26T11:22:35Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Nikkilites/Archipelago-CatQuest/releases/download/0.3.0-alpha/cat_quest.apworld",
       "size": 18196,
       "hash_sha256": "99f1c4b0a62ca1ad306aff4790fdfb8dedf6bd33d87c7e306d5793d5d9c49a9b",
@@ -10711,117 +10322,6 @@
       }
     },
     {
-      "world": "https://github.com/Demorck/ClairObscur_APWorld/releases/download/v0.2.0/clair_obscur.apworld",
-      "size": 88585,
-      "hash_sha256": "4543e1dd473a7899deb6683c7cf9687c3ddbd3527856a34f62675324075f53ad",
-      "metadata": {
-        "game": "",
-        "id": "clair_obscur",
-        "world_version": "0.2.0",
-        "tag_version": "0.2.0",
-        "created_at": "2025-12-22T15:46:29Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "after_dark"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Demorck/ClairObscur_APWorld/releases/download/v0.1.8/clair_obscur.apworld",
-      "size": 55774,
-      "hash_sha256": "3d2eacf9c3d297df85c767040d9137429cffed795863686409db9764c6d56a5d",
-      "metadata": {
-        "game": "",
-        "id": "clair_obscur",
-        "world_version": "0.1.8",
-        "tag_version": "0.1.8",
-        "created_at": "2025-10-23T01:53:03Z",
-        "flags": [
-          "after_dark"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Demorck/ClairObscur_APWorld/releases/download/v0.1.4/clair_obscur.apworld",
-      "size": 82564,
-      "hash_sha256": "ffeb6e45d7a3bb11f4bd6a6f90d7c7b6812f9c8ea2f96fcceb345e68007e8707",
-      "metadata": {
-        "game": "",
-        "id": "clair_obscur",
-        "world_version": "0.1.4",
-        "tag_version": "0.1.4",
-        "created_at": "2025-10-15T15:37:19Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "after_dark"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Demorck/ClairObscur_APWorld/releases/download/v0.1.3/clair_obscur.apworld",
-      "size": 82491,
-      "hash_sha256": "08207f8b47014508a761bcff9dd763ff79489154d79607909f2760833cee0c86",
-      "metadata": {
-        "game": "",
-        "id": "clair_obscur",
-        "world_version": "0.1.3",
-        "tag_version": "0.1.3",
-        "created_at": "2025-10-14T22:52:51Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "after_dark"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Demorck/ClairObscur_APWorld/releases/download/v0.1.2/clair_obscur.apworld",
-      "size": 140056,
-      "hash_sha256": "efe1e99da5d4c344ef158ae345a56b194293f60b1691763f199fcede3a663ecc",
-      "metadata": {
-        "game": "",
-        "id": "clair_obscur",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2025-10-09T23:48:52Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "after_dark"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Demorck/ClairObscur_APWorld/releases/download/v0.1.1/clair_obscur.apworld",
-      "size": 59584,
-      "hash_sha256": "f8998a9bc23af666bec0ab25d623376b2ba278002b5df993c3d6195da0f0cfcd",
-      "metadata": {
-        "game": "",
-        "id": "clair_obscur",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2025-10-05T22:23:11Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "after_dark"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Demorck/ClairObscur_APWorld/releases/download/v0.1/clair_obscur.apworld",
-      "size": 81452,
-      "hash_sha256": "76f1c2940b4aeaf206e9e0ef0270106a26128efd7a115dd48232740f9221554e",
-      "metadata": {
-        "game": "",
-        "id": "clair_obscur",
-        "world_version": "0.1",
-        "tag_version": "0.1",
-        "created_at": "2025-09-27T09:24:40Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "after_dark"
-        ]
-      }
-    },
-    {
       "world": "https://pharware.com/git/Phar/Clique/releases/download/1.5.4/clique.apworld",
       "size": 2303,
       "hash_sha256": "e7b44541d8593789eb263ba79dd4b97c6fdfd9323ba7c43b3f4620fc1f0313ee",
@@ -11177,151 +10677,6 @@
       }
     },
     {
-      "world": "https://github.com/themogulAP/ArchipelagoCM/releases/download/V0.1.62/commandmission.apworld",
-      "size": 50418,
-      "hash_sha256": "c0a913e97a694988b5108ecf1ec41fe5cab0c1cda873baa3eaec96c2f9cbf2cf",
-      "metadata": {
-        "game": "",
-        "id": "commandmission",
-        "world_version": "0.1.62",
-        "tag_version": "0.1.62",
-        "created_at": "2025-12-18T04:43:35Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/themogulAP/ArchipelagoCM/releases/download/V0.1.61/commandmission.apworld",
-      "size": 49878,
-      "hash_sha256": "a0aa0d5097b75d48adb4de1502987c20a60d9f016c6b9d1bbcf9a57a13d04e9d",
-      "metadata": {
-        "game": "",
-        "id": "commandmission",
-        "world_version": "0.1.61",
-        "tag_version": "0.1.61",
-        "created_at": "2025-11-29T03:00:32Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/themogulAP/ArchipelagoCM/releases/download/V0.1.7/commandmission.apworld",
-      "size": 50268,
-      "hash_sha256": "1cfa8e8886abc7c44d794b91de46841999e3439d4a9374f11ef5011e7e2423c0",
-      "metadata": {
-        "game": "",
-        "id": "commandmission",
-        "world_version": "0.1.7",
-        "tag_version": "0.1.7",
-        "created_at": "2025-12-31T21:27:17Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/themogulAP/ArchipelagoCM/releases/download/V0.1.6/commandmission.apworld",
-      "size": 49618,
-      "hash_sha256": "54c952148f6005dcdd672bf3e6686c31a9beb372e997112e6c5923ea56974f64",
-      "metadata": {
-        "game": "",
-        "id": "commandmission",
-        "world_version": "0.1.6.post2",
-        "tag_version": "0.1.6.post2",
-        "created_at": "2025-11-17T21:09:01Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/themogulAP/ArchipelagoCM/releases/download/V0.1.6/commandmission.apworld",
-      "size": 49344,
-      "hash_sha256": "5f47f3ee6639283a66e7789f083634e0455ac5d3a8bd086772d92ec737e622d0",
-      "metadata": {
-        "game": "",
-        "id": "commandmission",
-        "world_version": "0.1.6",
-        "tag_version": "0.1.6",
-        "created_at": "2025-11-17T21:09:01Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/themogulAP/ArchipelagoCM/releases/download/V0.1.5-CharacterUpdate/commandmission.apworld",
-      "size": 48719,
-      "hash_sha256": "7304c9716f718a04b66d3924eff1672f1ecc6ebc051735a4b2ac54db320e7f53",
-      "metadata": {
-        "game": "",
-        "id": "commandmission",
-        "world_version": "0.1.5rc0",
-        "tag_version": "0.1.5rc0",
-        "created_at": "2025-11-14T06:10:42Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/themogulAP/ArchipelagoCM/releases/download/V0.1.2/commandmission.apworld",
-      "size": 42026,
-      "hash_sha256": "9f8ef23b87a69ac20a8a7a9d4b68bb19f4ac4da18d9523704c943768edfac95d",
-      "metadata": {
-        "game": "",
-        "id": "commandmission",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2025-10-23T02:08:35Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/themogulAP/ArchipelagoCM/releases/download/V0.1.3/commandmission.apworld",
-      "size": 43061,
-      "hash_sha256": "6fc22baa412bb0581f565cc20a15adf9957afd9d621cc1512b2eaaf3ca876f31",
-      "metadata": {
-        "game": "",
-        "id": "commandmission",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2025-11-08T18:04:17Z",
-        "minimum_ap_version": "0.6.3",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/themogulAP/ArchipelagoCM/releases/download/V0.1.4/commandmission.apworld",
-      "size": 43277,
-      "hash_sha256": "875f1c15173723649efe3d5076a2e0e90e65c20b5f067bb9c5eca0a0378a780f",
-      "metadata": {
-        "game": "",
-        "id": "commandmission",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2025-11-10T20:58:42Z",
-        "minimum_ap_version": "0.6.3",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/themogulAP/ArchipelagoCM/releases/download/V0.1.1/commandmission.apworld",
-      "size": 41812,
-      "hash_sha256": "2ead6d22a564ff529462fb4c4e9216578cbf1d1c62b577c42a3d3f7951d221b3",
-      "metadata": {
-        "game": "",
-        "id": "commandmission",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2025-10-22T02:24:17Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/themogulAP/ArchipelagoCM/releases/download/V0.1.0/commandmission.apworld",
-      "size": 41551,
-      "hash_sha256": "16414d4a98df85bc81e033f927cdfb213959d1a8bdec18bf97c06ac4ab17a811",
-      "metadata": {
-        "game": "",
-        "id": "commandmission",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2025-10-21T03:54:17Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Simik1997/AP_CookieClicker/releases/download/0.3/cookieclicker.apworld",
       "size": 88000,
       "hash_sha256": "9895a15d69163dc4e25bd86da3c12e51d41c4784dc5cc416d3f4609dc5547e86",
@@ -11463,197 +10818,6 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2025-11-17T20:15:33Z"
-      }
-    },
-    {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.4.2/cotnd.apworld",
-      "size": 21909068,
-      "hash_sha256": "c51e0558d200d3e6a62b0c64d1d634f7c7af9ed0b6583ab8c6370b96b35d92ff",
-      "metadata": {
-        "game": "",
-        "id": "cotnd",
-        "world_version": "0.4.2",
-        "tag_version": "0.4.2",
-        "created_at": "2026-02-07T22:18:39Z"
-      }
-    },
-    {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.4.1/cotnd.apworld",
-      "size": 17849720,
-      "hash_sha256": "2adff01680bf4e93a65ec08fba0f195dba46ffc8189c36fb7d6a32d705f3daa1",
-      "metadata": {
-        "game": "",
-        "id": "cotnd",
-        "world_version": "0.4.1",
-        "tag_version": "0.4.1",
-        "created_at": "2026-01-24T19:10:20Z"
-      }
-    },
-    {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.4.0/cotnd.apworld",
-      "size": 552893,
-      "hash_sha256": "d5d8d7af64326a8d16d5eb7e5ac01e524269c4be53a991cb1ea0e31234df792f",
-      "metadata": {
-        "game": "",
-        "id": "cotnd",
-        "world_version": "0.4.0",
-        "tag_version": "0.4.0",
-        "created_at": "2026-01-24T00:56:01Z"
-      }
-    },
-    {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.3.5/cotnd.apworld",
-      "size": 89063,
-      "hash_sha256": "cc568414926f574564d7bbc35f758da106cb99164603c1cffe4acaa3357b8b6f",
-      "metadata": {
-        "game": "",
-        "id": "cotnd",
-        "world_version": "0.3.5",
-        "tag_version": "0.3.5",
-        "created_at": "2025-12-09T21:38:23Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.3.4/cotnd.apworld",
-      "size": 31083,
-      "hash_sha256": "3ccca31bc8c1a014deb4df6c744b2e34de8f69728af19a46dc7f6da307c5093c",
-      "metadata": {
-        "game": "",
-        "id": "cotnd",
-        "world_version": "0.3.4",
-        "tag_version": "0.3.4",
-        "created_at": "2025-11-29T18:10:53Z"
-      }
-    },
-    {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.3.3/cotnd.apworld",
-      "size": 88989,
-      "hash_sha256": "3dfbf7a420d1feca1dac1e240a289fe646af50b08c609ac808d4d5c55abfe920",
-      "metadata": {
-        "game": "",
-        "id": "cotnd",
-        "world_version": "0.3.3",
-        "tag_version": "0.3.3",
-        "created_at": "2025-11-02T00:16:20Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.3.2/cotnd.apworld",
-      "size": 88914,
-      "hash_sha256": "6728686897f3ddd889503c159ec8d0b1d09abca1eb281d9b42ebe65487af4f28",
-      "metadata": {
-        "game": "",
-        "id": "cotnd",
-        "world_version": "0.3.2",
-        "tag_version": "0.3.2",
-        "created_at": "2025-10-26T15:19:45Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.3.1/cotnd.apworld",
-      "size": 109969,
-      "hash_sha256": "ed4211c8352fbbd06211dfe8f7a81c14b4af5f2eda1db9c2cd216494fc2fe7b4",
-      "metadata": {
-        "game": "",
-        "id": "cotnd",
-        "world_version": "0.3.1",
-        "tag_version": "0.3.1",
-        "created_at": "2025-10-19T17:33:57Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.3.0/cotnd.apworld",
-      "size": 87926,
-      "hash_sha256": "fccf8d27b425ce6eb6471943ce8d029b06243528073c7f76028dabb578ecbfcb",
-      "metadata": {
-        "game": "",
-        "id": "cotnd",
-        "world_version": "0.3.0",
-        "tag_version": "0.3.0",
-        "created_at": "2025-10-17T00:37:27Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.2.2/cotnd.apworld",
-      "size": 80225,
-      "hash_sha256": "bfe53a063e958f331ddd2b2a362682e0f3c4d0e90d7f8ff44bb0d8ff1db67928",
-      "metadata": {
-        "game": "",
-        "id": "cotnd",
-        "world_version": "0.2.2",
-        "tag_version": "0.2.2",
-        "created_at": "2025-09-26T02:18:28Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.2.1/cotnd.apworld",
-      "size": 77512,
-      "hash_sha256": "89d99f00884d8d55cdd93bba675628797c43354b3375d0350a92af54d67de1fa",
-      "metadata": {
-        "game": "",
-        "id": "cotnd",
-        "world_version": "0.2.1",
-        "tag_version": "0.2.1",
-        "created_at": "2025-09-19T03:16:24Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.2.0/cotnd.apworld",
-      "size": 76546,
-      "hash_sha256": "a9eeb7e025c0d396231ccd5b909d6a4151b87fb59267c102cf25fbb226ed6852",
-      "metadata": {
-        "game": "",
-        "id": "cotnd",
-        "world_version": "0.2.0",
-        "tag_version": "0.2.0",
-        "created_at": "2025-09-01T22:27:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.1.2/cotnd.apworld",
-      "size": 67536,
-      "hash_sha256": "bb4d3914dfaeab986bfe0546a8a9f84d85c2635ce4b2f3fb4afe684819aa34ae",
-      "metadata": {
-        "game": "",
-        "id": "cotnd",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2025-08-22T12:07:13Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.1.1/cotnd.apworld",
-      "size": 65026,
-      "hash_sha256": "4673c66ec6803931d2e1e3b7604eeb9331be489a527bfa7a73a67d864120f1de",
-      "metadata": {
-        "game": "",
-        "id": "cotnd",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2025-08-21T03:49:18Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.1.0/cotnd.apworld",
-      "size": 64653,
-      "hash_sha256": "db28787b22fe125a9aa0132c2f349d27d4888e5293d8976f302b6f1d22cfb078",
-      "metadata": {
-        "game": "",
-        "id": "cotnd",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2025-08-19T00:49:14Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -20010,6 +19174,22 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.4.0/everhood_2.apworld",
+      "size": 20522,
+      "hash_sha256": "ff3f954f86ee629d1dadabfdd2a71d72864ecb86c2e2cd754a576593db1f08fb",
+      "metadata": {
+        "game": "",
+        "id": "everhood_2",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-03-01T10:37:05Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.3.1/everhood_2.apworld",
       "size": 52145,
       "hash_sha256": "7d682e3a94dc7e6f7043b0a12ae8d61acb79c62932a08e149dff2addf17ffcc5",
@@ -25135,22 +24315,6 @@
       }
     },
     {
-      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.0-PR3/grinch.apworld",
-      "size": 121343,
-      "hash_sha256": "337431f41200a1305f3070ff2493b99d34fa70645a4555379c011923506cd041",
-      "metadata": {
-        "game": "",
-        "id": "grinch",
-        "world_version": "1.5.0",
-        "tag_version": "1.5.0",
-        "created_at": "2026-02-28T23:59:14Z",
-        "minimum_ap_version": "0.6.6",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.0-PR2/grinch.apworld",
       "size": 121333,
       "hash_sha256": "7bafc90eea1ce7a891147bfbd01e4a5a288fe33f658c1a7b36dd97aa3e3f208d",
@@ -25160,6 +24324,22 @@
         "world_version": "1.5.0",
         "tag_version": "1.5.0",
         "created_at": "2026-02-28T05:08:34Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.0-PR3/grinch.apworld",
+      "size": 121343,
+      "hash_sha256": "337431f41200a1305f3070ff2493b99d34fa70645a4555379c011923506cd041",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.5.0",
+        "tag_version": "1.5.0",
+        "created_at": "2026-02-28T23:59:14Z",
         "minimum_ap_version": "0.6.6",
         "flags": [
           "prerelease"
@@ -48033,6 +47213,19 @@
         "tag_version": "0.1.0",
         "created_at": "2024-07-03T12:55:54Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.4.5/nine_sols.apworld",
+      "size": 2579580,
+      "hash_sha256": "521697fb11e298e011c2b043cd847ec98e63b7d92478967b6178dc01c9c2a939",
+      "metadata": {
+        "game": "",
+        "id": "nine_sols",
+        "world_version": "0.4.5",
+        "tag_version": "0.4.5",
+        "created_at": "2026-03-01T02:43:25Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -85337,10 +84530,6 @@
       "game": "Cassette Beasts",
       "description": "Collect awesome monsters to use during turn-based battles in this open-world RPG.\nCombine any two monster forms using Cassette Beasts\u2019 Fusion System to create\nunique and powerful new ones!"
     },
-    "casualtiesunknown": {
-      "game": "Casualties: Unknown",
-      "description": "This is where you describe your game. Pretend you are marketing the game and that people have no clue what it is.\nOr make it silly. Whatever you wish I have no control over you."
-    },
     "cat_quest": {
       "game": "Cat Quest",
       "description": "Cat Quest is a small open world ARPG set in a cute world full of cats and cat puns. \nSlash and dodge enemies while completing quests, dungeons and obtaining new gear."
@@ -85389,10 +84578,6 @@
       "game": "yrtnuoC gnoK yeknoD",
       "description": "eknom"
     },
-    "clair_obscur": {
-      "game": "Clair Obscur Expedition 33",
-      "description": "When one falls, we continue.\nClair Obscur: Expedition 33 is a turn-based \"j'RPG\" with real-time dodging/parrying and tons of build variety,\nthe debut game from French studio Sandfall Interactive.\nFor those who come after."
-    },
     "clique": {
       "game": "Clique",
       "description": "The greatest game of all time."
@@ -85413,10 +84598,6 @@
       "game": "Codeforces",
       "description": "Codeforces is an online judge serving 1000s of competitive programming problems.\n\nChecks are few! Most of the location requirements are within your brain :)"
     },
-    "commandmission": {
-      "game": "Mega Man X Command Mission",
-      "description": "Mega Man X: Command Mission is a turn-based RPG set in the Mega Man X universe."
-    },
     "cookieclicker": {
       "game": "Cookie Clicker",
       "description": ""
@@ -85428,10 +84609,6 @@
     "corruobserver": {
       "game": "CorruObserver",
       "description": ""
-    },
-    "cotnd": {
-      "game": "Crypt of the NecroDancer",
-      "description": "Crypt of the NecroDancer is a roguelike rhythm game. Move to the beat in an ever-changing dungeon while fighting\nskeletons, dragons, and rapping moles. Descend into the crypt to defeat the NecroDancer and claim the Golden Lute!"
     },
     "crash2": {
       "game": "Crash2",
