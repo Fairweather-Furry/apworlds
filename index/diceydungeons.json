@@ -151,6 +151,20 @@
       "title": "v0.2.1-beta",
       "version_simple": "0.2.0",
       "world_version": "0.2.0"
+    },
+    "v0.2.2-beta": {
+      "created_at": "2026-02-28T21:38:01Z",
+      "download_url": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.2.2-beta/diceydungeons.apworld",
+      "has_manifest": true,
+      "hash_sha256": "23ee34b72aa2203111e46201dbd33f05ee1ae334fc7f89458a1e72464eb68433",
+      "minimum_ap_version": "0.6.6",
+      "prerelease": true,
+      "size": 888991,
+      "source_url": "https://api.github.com/repos/Fylcoast/AP_diceydungeons",
+      "tag": "v0.2.2-beta",
+      "title": "v0.2.2-beta",
+      "version_simple": "0.2.2",
+      "world_version": "0.2.2b0"
     }
   }
 }
