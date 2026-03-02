@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
-  "total_packages": 606,
-  "total_versions": 6119,
+  "total_packages": 611,
+  "total_versions": 6190,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -51,6 +51,7 @@
     "burnout3": true,
     "candybox2": true,
     "cassette_beasts": true,
+    "casualtiesunknown": true,
     "cat_quest": false,
     "cave_story": true,
     "cavern_of_dreams": false,
@@ -63,14 +64,17 @@
     "christmasdeliveryapworld-main": false,
     "civv": true,
     "ckd": true,
+    "clair_obscur": true,
     "clique": false,
     "cluster_truck": true,
     "cobalt_core": true,
     "cod_bo3": false,
     "codeforces": true,
+    "commandmission": false,
     "cookieclicker": false,
     "cornkidz64": false,
     "corruobserver": true,
+    "cotnd": true,
     "crash2": true,
     "crosscode": true,
     "crossword_ap": false,
@@ -572,20 +576,20 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 377,
+    "": 379,
     "0.5.0": 8,
     "0.6.0": 13,
     "0.6.1": 12,
     "0.6.2": 8,
-    "0.6.3": 55,
+    "0.6.3": 56,
     "0.6.4": 58,
-    "0.6.5": 14,
+    "0.6.5": 15,
     "0.6.6": 11
   },
   "max_maximum_ap_version": {
-    "": 247,
+    "": 249,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 303
+    "0.6.99": 305
   }
 }
