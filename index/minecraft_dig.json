@@ -3,7 +3,11 @@
   "game": "Minecraft Dig",
   "github": "https://github.com/jacobmix/Minecraft_AP_Randomizer",
   "license": null,
-  "manifest_fields": [],
+  "manifest_fields": [
+    "authors",
+    "minimum_ap_version",
+    "world_version"
+  ],
   "versions": {
     "0.0.5_dig": {
       "created_at": "2026-02-13T01:36:03Z",
@@ -31,6 +35,19 @@
       "title": "Dig apworld 0.0.7 (MC1.19.4)",
       "version_simple": "0.0.7",
       "world_version": "0.0.7"
+    },
+    "0.0.8_dig": {
+      "created_at": "2026-03-02T15:38:10Z",
+      "download_url": "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.0.8_dig/minecraft_dig.apworld",
+      "has_manifest": true,
+      "hash_sha256": "acfba685977242d9925ceb083aebe76ff8c087484fb17d331c6e181dacb2c06a",
+      "minimum_ap_version": "0.5.0",
+      "size": 16624,
+      "source_url": "https://api.github.com/repos/jacobmix/Minecraft_AP_Randomizer",
+      "tag": "0.0.8_dig",
+      "title": "Dig apworld 0.0.8 (MC1.19.4)",
+      "version_simple": "0.0.8",
+      "world_version": "0.0.8"
     },
     "0.1.5_hotfix": {
       "created_at": "2025-12-08T16:32:43Z",
