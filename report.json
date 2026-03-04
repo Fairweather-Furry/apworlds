@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
   "total_packages": 611,
-  "total_versions": 6202,
+  "total_versions": 6206,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -386,6 +386,7 @@
     "oribf": false,
     "osrs": false,
     "osu": true,
+    "ourascent": true,
     "outer_wilds": true,
     "p5r": false,
     "paint": true,
@@ -581,12 +582,12 @@
     "0.6.1": 12,
     "0.6.2": 8,
     "0.6.3": 57,
-    "0.6.4": 57,
+    "0.6.4": 58,
     "0.6.5": 15,
     "0.6.6": 12
   },
   "max_maximum_ap_version": {
-    "": 248,
+    "": 249,
     "0.0.1": 1,
     "0.4.6": 5,
     "0.6.99": 305
