@@ -417,48 +417,6 @@
       }
     },
     {
-      "world": "https://github.com/dmwever/Ageipelago/releases/download/0.0.1/age2de.apworld",
-      "size": 2127491,
-      "hash_sha256": "69bbe09c503a9ded775b6aa495b87f9957d7db949e43e1066b6b08e287291f15",
-      "metadata": {
-        "game": "",
-        "id": "age2de",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2025-12-20T02:07:58Z",
-        "minimum_ap_version": "0.6.5",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/dmwever/Ageipelago/releases/download/0.1.0/age2de.apworld",
-      "size": 2131787,
-      "hash_sha256": "88976940b5130af441b88be212752f3a8023818a8a7050c4df8a9c319795948b",
-      "metadata": {
-        "game": "",
-        "id": "age2de",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2026-02-14T18:18:18Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/dmwever/Ageipelago/releases/download/0.1.1/age2de.apworld",
-      "size": 2132062,
-      "hash_sha256": "c8c89cfa152b43b28ff4d8cc3c4892f2ad9063ec92b35c8d324808a3ebc52411",
-      "metadata": {
-        "game": "",
-        "id": "age2de",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2026-02-22T00:50:16Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
       "world": "https://github.com/qwint/ap-air-delivery/releases/download/0.1.6/air_delivery.apworld",
       "size": 4790,
       "hash_sha256": "4b636da4fe0fdeba1ec2c3c5597471c01e1fc462bc192a4d61c0dd9746163129",
@@ -1124,366 +1082,6 @@
       }
     },
     {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.5.1/anodyne.apworld",
-      "size": 44014,
-      "hash_sha256": "9c9c444823b6fb8956f79d9afc4d507088a4ca8ff62fb7b15c3f046eeaa7608c",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.5.1",
-        "tag_version": "0.5.1",
-        "created_at": "2026-02-04T10:46:16Z",
-        "minimum_ap_version": "0.6.4"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.5.2/anodyne.apworld",
-      "size": 44050,
-      "hash_sha256": "fffe0c0c9c92fa2821eb24a9204f2527349d21de8fe0037d9a54d542166d2415",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.5.1",
-        "tag_version": "0.5.1",
-        "created_at": "2026-02-09T21:44:40Z",
-        "minimum_ap_version": "0.6.4"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.5.0/anodyne.apworld",
-      "size": 43973,
-      "hash_sha256": "cf8497352ae65a60c5320708d31ab489416b339dfb6bd9ab58f884e416499f59",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.5.0",
-        "tag_version": "0.5.0",
-        "created_at": "2025-12-15T15:29:53Z",
-        "minimum_ap_version": "0.6.4"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.4.1/anodyne.apworld",
-      "size": 39850,
-      "hash_sha256": "9902971203a7874fde6609ff23f1a2a9a3fa1f77fb1c82ba15246f0ec3671cad",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.4.1",
-        "tag_version": "0.4.1",
-        "created_at": "2025-10-12T18:37:11Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.4.0/anodyne.apworld",
-      "size": 3941607,
-      "hash_sha256": "65e2cf027d9fc375a5f4a023a22b766e94f36a1bfa0df84d074fa2b71318a3c6",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.4.0",
-        "tag_version": "0.4.0",
-        "created_at": "2025-10-08T11:58:26Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.3.1/anodyne.apworld",
-      "size": 100797,
-      "hash_sha256": "a66fb2ad8f35d5de0c1eea40ebaaefad828a14fa949b5c6fd0a07b212f1df558",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.3.1",
-        "tag_version": "0.3.1",
-        "created_at": "2025-07-11T12:33:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.3.0/anodyne.apworld",
-      "size": 100852,
-      "hash_sha256": "14f94a553bb4a8e67c3033e43ae3a97288a758e994b54db0d3a1481f2068ff68",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.3.0",
-        "tag_version": "0.3.0",
-        "created_at": "2025-07-03T17:42:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.7/anodyne.apworld",
-      "size": 99975,
-      "hash_sha256": "c2b58b9cd9256dc892a207a78876af74b3d7e71f9c44bb220e4bdc6be0db7b98",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.2.7",
-        "tag_version": "0.2.7",
-        "created_at": "2025-06-29T08:55:13Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.6/anodyne.apworld",
-      "size": 32271,
-      "hash_sha256": "5fab8474d69c5314e2596279a27729f8defe2e609ef8be16ee56d371adb4cf33",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.2.6",
-        "tag_version": "0.2.6",
-        "created_at": "2025-06-08T17:29:12Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.5/anodyne.apworld",
-      "size": 32286,
-      "hash_sha256": "90af3359bdcd1c6f86c3bd8930fd539709afdd098ebde10206a0f7dcdc54bd50",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.2.5",
-        "tag_version": "0.2.5",
-        "created_at": "2025-05-13T10:23:12Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.4/anodyne.apworld",
-      "size": 32288,
-      "hash_sha256": "3cf5118a51a7c50068c99ddc269e967be7ba44bf1ca6cf331befc68429f9f33d",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.2.4",
-        "tag_version": "0.2.4",
-        "created_at": "2025-05-07T19:06:31Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.3/anodyne.apworld",
-      "size": 31865,
-      "hash_sha256": "959ee05776be297d82ee8228c2629e0590e19f3723294b25280e3c2a054b7c6a",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.2.3.post2",
-        "tag_version": "0.2.3.post2",
-        "created_at": "2025-04-15T06:00:21Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.3/anodyne.apworld",
-      "size": 31863,
-      "hash_sha256": "547e9b76153ffd5db4859ce848e299a99fe63cb95bb0de33a20a97707900a85b",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.2.3",
-        "tag_version": "0.2.3",
-        "created_at": "2025-04-15T06:00:21Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.2/anodyne.apworld",
-      "size": 31866,
-      "hash_sha256": "7798c8049fdcae74f23d0c127cb3081b834eb1689e2f24aaf699987f79a21871",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.2.2",
-        "tag_version": "0.2.2",
-        "created_at": "2025-04-10T13:29:23Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.1/anodyne.apworld",
-      "size": 31747,
-      "hash_sha256": "6b9c878a8dc24979f3594adfe281acd2a68e94a6fd78f82a9c9e8fc93f9ebcf3",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.2.1",
-        "tag_version": "0.2.1",
-        "created_at": "2025-04-09T19:14:27Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.2.0/anodyne.apworld",
-      "size": 50559,
-      "hash_sha256": "3524c45a56980e106ff8c65e4613254e4620a1a1194300c7dc12d07783c8c358",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.2.0",
-        "tag_version": "0.2.0",
-        "created_at": "2025-04-08T18:45:26Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.9/anodyne.apworld",
-      "size": 23604,
-      "hash_sha256": "28d0599d757a75e2351b32697dede11511e561d3e1c070ba3406cf7863a85c33",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.1.9",
-        "tag_version": "0.1.9",
-        "created_at": "2025-01-18T14:13:51Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.8/anodyne.apworld",
-      "size": 23604,
-      "hash_sha256": "3ec6f47e89d23925049de4d5525364bc30f14fedf6228ecbacc31612f8b8ad62",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.1.8",
-        "tag_version": "0.1.8",
-        "created_at": "2024-12-08T20:09:43Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.7/anodyne.apworld",
-      "size": 23598,
-      "hash_sha256": "35852163f08770fac13e03e7089486689a01d80ca81c1de7726f20bed8f50e99",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.1.7",
-        "tag_version": "0.1.7",
-        "created_at": "2024-11-22T18:46:25Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.6/anodyne.apworld",
-      "size": 23596,
-      "hash_sha256": "26726613565591966fc59aa629449541c375aae5087dc6e13c8b70db84b769ee",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.1.6",
-        "tag_version": "0.1.6",
-        "created_at": "2024-11-21T20:20:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.5/anodyne.apworld",
-      "size": 23590,
-      "hash_sha256": "96b352106225de10448a755a4213cece60a681386cf578e36f944ca69da51a00",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.1.5",
-        "tag_version": "0.1.5",
-        "created_at": "2024-08-08T02:53:23Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.4/anodyne.apworld",
-      "size": 25385,
-      "hash_sha256": "a5875c49e8a9ec58b41e3d7a7c176a5f6191b99bb10239de489ab2190e291491",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.1.4",
-        "tag_version": "0.1.4",
-        "created_at": "2024-08-02T20:47:33Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.3/anodyne.apworld",
-      "size": 59843,
-      "hash_sha256": "f75fc0406189dfdfcd2fe972e4231237c8198cac9dbaf2b435d64664316fa338",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.1.3",
-        "tag_version": "0.1.3",
-        "created_at": "2024-07-17T22:49:59Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.2/anodyne.apworld",
-      "size": 22753,
-      "hash_sha256": "77bdddf8a156321b3362ad05337464c2da3ac10b2b25e96bb87d5365563939eb",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2024-07-22T03:13:35Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.1/anodyne.apworld",
-      "size": 22667,
-      "hash_sha256": "ac592dc818a4eaf9f583eb6e682b1b1f94678d48a73c352914dd5bd5d2fd6f9f",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2024-07-21T17:53:11Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/hatkirby/Archipelago/releases/download/anodyne-v0.1.0/anodyne.apworld",
-      "size": 23974,
-      "hash_sha256": "23cc09596a8b434a18db3db76b3bbfd10c870c7ed82110bf33d76f0e054b8e55",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2024-05-26T17:12:12Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/PixieCatSupreme/ArchipelagoAno/releases/download/v0.1.0/anodyne.apworld",
-      "size": 21804,
-      "hash_sha256": "6934f664d1f0164265f71f1d7e242c28e11e36db28ff53e414c527166f706d10",
-      "metadata": {
-        "game": "",
-        "id": "anodyne",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2024-07-20T21:50:19Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Automagic00/ACT-AP-Client-Plugin/releases/download/0.4.4/another_crab.apworld",
       "size": 135337,
       "hash_sha256": "38875d9672853a3772149260fd7c49686ad0d48ebc9befa73ef0eecd4e9f21a8",
@@ -1662,385 +1260,6 @@
         "world_version": "0.1.1",
         "tag_version": "0.1.1",
         "created_at": "2024-09-15T03:24:36Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.1/ape_escape_3.apworld",
-      "size": 137951,
-      "hash_sha256": "7da998cce6bb094a08b7862c4a1738bec740a76534bc3feb4ec091225c8e02c6",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "2.0.1.post2",
-        "tag_version": "2.0.1.post2",
-        "created_at": "2026-02-16T16:56:00Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.4/ape_escape_3.apworld",
-      "size": 139468,
-      "hash_sha256": "e32461029eabe61faf8fb46a0f0ea49f4adb67e7c3821e521c2079620bc128ff",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0.post3",
-        "tag_version": "2.0.0.post3",
-        "created_at": "2025-12-14T10:20:12Z",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.4/ape_escape_3.apworld",
-      "size": 139449,
-      "hash_sha256": "c3f8c952e2b3b36f7221fa6539f45d8e8e0ddc0a3bb9246a5169560f6cc28806",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0.post2",
-        "tag_version": "2.0.0.post2",
-        "created_at": "2025-12-14T10:20:12Z",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00/ape_escape_3.apworld",
-      "size": 143949,
-      "hash_sha256": "98e526bf6b03730e6acb3200f6b87f9242060d5f564efed217dd5aa63eaf4ee1",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0",
-        "tag_version": "2.0.0",
-        "created_at": "2025-06-19T01:39:46Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.5/ape_escape_3.apworld",
-      "size": 140799,
-      "hash_sha256": "25a8722c02d0656025d5393550418d49cb703aca9f4f1436a005f6a4b430f729",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0",
-        "tag_version": "2.0.0",
-        "created_at": "2025-12-25T03:48:14Z",
-        "minimum_ap_version": "0.6.3",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.5%2B1/ape_escape_3.apworld",
-      "size": 140856,
-      "hash_sha256": "c040dcb6e863af0c5183014ee7c7ebb4090b92f323c778911815d59e163ce18c",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0",
-        "tag_version": "2.0.0",
-        "created_at": "2025-06-19T01:39:46Z",
-        "minimum_ap_version": "0.6.3",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.5%2B2/ape_escape_3.apworld",
-      "size": 140915,
-      "hash_sha256": "7f4d88184d8e354042340635e82a9d4674476dc67b92c1b54cca3cbe75a766df",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0",
-        "tag_version": "2.0.0",
-        "created_at": "2026-01-05T14:27:12Z",
-        "minimum_ap_version": "0.6.3",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.1/ape_escape_3.apworld",
-      "size": 143420,
-      "hash_sha256": "34aeeeba19443fcf1b854604bb32dd89ca26881717ed29fa234a1a92307a7fc7",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0",
-        "tag_version": "2.0.0",
-        "created_at": "2026-02-16T16:56:00Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.4/ape_escape_3.apworld",
-      "size": 139450,
-      "hash_sha256": "cff817718af76f17792f7c1420faf1fa0405857506e4b4392bfa552b6146d43d",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0b4",
-        "tag_version": "2.0.0b4",
-        "created_at": "2025-12-14T10:20:12Z",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.3%2B1/ape_escape_3.apworld",
-      "size": 135548,
-      "hash_sha256": "e254e93d5fcf112fc7eed72733af2c9298275d0f747b81dab3539d7eb658589d",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0b3+1",
-        "tag_version": "2.0.0b3+1",
-        "created_at": "2025-10-06T11:18:28Z",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.3/ape_escape_3.apworld",
-      "size": 138454,
-      "hash_sha256": "9b162285c44efcb3ec6e2ba44086604ecd254d0145a386d05e7a0857575e0a3d",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0b3",
-        "tag_version": "2.0.0b3",
-        "created_at": "2025-06-19T01:39:46Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00-beta.2/ape_escape_3.apworld",
-      "size": 112614,
-      "hash_sha256": "ea9a78cac7413fd74c27f83c135ee7082ba13e0e47a3f4677528cfbb288a3170",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0b2",
-        "tag_version": "2.0.0b2",
-        "created_at": "2025-10-06T11:18:28Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00beta-2/ape_escape_3.apworld",
-      "size": 112614,
-      "hash_sha256": "ea9a78cac7413fd74c27f83c135ee7082ba13e0e47a3f4677528cfbb288a3170",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0b2",
-        "tag_version": "2.0.0b2",
-        "created_at": "2025-07-16T13:51:45Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.00beta-1/ape_escape_3.apworld",
-      "size": 111109,
-      "hash_sha256": "c8ca4577c007234ea6a9d7d80671d323839f977c1469a077d475b453c4353c8f",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "2.0.0b1",
-        "tag_version": "2.0.0b1",
-        "created_at": "2025-06-19T01:39:46Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v1.0.80exp/ape_escape_3.apworld",
-      "size": 102145,
-      "hash_sha256": "48c561a06fb47e0115bf30a182d900d3cc1d8a0773455935a9bf733c4920dac6",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "1.0.80.post3",
-        "tag_version": "1.0.80.post3",
-        "created_at": "2025-06-06T03:18:05Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v1.0.80exp/ape_escape_3.apworld",
-      "size": 139449,
-      "hash_sha256": "c3f8c952e2b3b36f7221fa6539f45d8e8e0ddc0a3bb9246a5169560f6cc28806",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "1.0.80.post2",
-        "tag_version": "1.0.80.post2",
-        "created_at": "2025-06-06T03:18:05Z"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v1.0.80exp/ape_escape_3.apworld",
-      "size": 103660,
-      "hash_sha256": "bd8b10d4ca4c0f719383c6c6d42fb1c4ebdb13b5823ced4df322453dbe531ebb",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "1.0.80",
-        "tag_version": "1.0.80",
-        "created_at": "2025-06-06T03:18:05Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v1.0.72/ape_escape_3.apworld",
-      "size": 103372,
-      "hash_sha256": "133669c2b935605b0b055523d9caf3a5816f526e864b4198b1701d373ef08cee",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "1.0.72",
-        "tag_version": "1.0.72",
-        "created_at": "2025-05-28T02:24:11Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v1.0.71/ape_escape_3.apworld",
-      "size": 103115,
-      "hash_sha256": "73dd872742962d98d8fe170599c01012bfad1d7a1e6f7e698da0ccd1e1f34bd1",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "1.0.71",
-        "tag_version": "1.0.71",
-        "created_at": "2025-05-27T15:20:00Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v1.0.70/ape_escape_3.apworld",
-      "size": 103098,
-      "hash_sha256": "360b7540c92ae340df033865873a5cfe1d3c94d7f4e6e9828600193bd5daa2f8",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "1.0.70",
-        "tag_version": "1.0.70",
-        "created_at": "2025-05-24T11:43:59Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v1.0.60/ape_escape_3.apworld",
-      "size": 102604,
-      "hash_sha256": "1354219fee3bfa1078e17d2dc6fa6ee7bc7138d1721cb5bd9f6295d9e0153895",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "1.0.60",
-        "tag_version": "1.0.60",
-        "created_at": "2025-05-19T10:06:12Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v1.0.50/ape_escape_3.apworld",
-      "size": 101673,
-      "hash_sha256": "6b8b661627db0f340bf2446165389843866124870c9cf07b1b79618dff875f07",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "1.0.50",
-        "tag_version": "1.0.50",
-        "created_at": "2025-05-16T09:06:45Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v1.0.40/ape_escape_3.apworld",
-      "size": 101346,
-      "hash_sha256": "f50cdfc5f0615c93b56df49b72c518984118ffba6bcd836e4fe200bc8f8acf30",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "1.0.40",
-        "tag_version": "1.0.40",
-        "created_at": "2025-05-15T08:21:15Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v1.0.30/ape_escape_3.apworld",
-      "size": 101194,
-      "hash_sha256": "36a1c4f192eb745d8ba27e01cf77444b359208b195c5ea8ec60c94d651d6b8b3",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "1.0.30",
-        "tag_version": "1.0.30",
-        "created_at": "2025-05-12T16:10:37Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v1.0.20/ape_escape_3.apworld",
-      "size": 98846,
-      "hash_sha256": "89ddb1040ed9fc78c3adb8d78b1778023a1ebb24a41e070f305a68a12facb652",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "1.0.20",
-        "tag_version": "1.0.20",
-        "created_at": "2025-05-09T15:50:32Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/1.0.10/ape_escape_3.apworld",
-      "size": 98628,
-      "hash_sha256": "781dc26b9e260adb9abdbc8a67c10f6f96b7e0cb5b92ba16e9c6d61d607a2e35",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "1.0.10",
-        "tag_version": "1.0.10",
-        "created_at": "2025-05-08T16:06:06Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/1.0.00/ape_escape_3.apworld",
-      "size": 98216,
-      "hash_sha256": "97021a97707e1a1db457d2645705f62f016ba252d32b9751ecdda7677cebcd20",
-      "metadata": {
-        "game": "",
-        "id": "ape_escape_3",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2025-05-07T15:02:03Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -3129,81 +2348,6 @@
         "world_version": "0.0.1",
         "tag_version": "0.0.1",
         "created_at": "2025-02-27T00:05:34Z"
-      }
-    },
-    {
-      "world": "https://github.com/tioui/Aquaria_Randomizer/releases/download/v1.5.2-Release/aquaria.apworld",
-      "size": 97035,
-      "hash_sha256": "91729c198141160c8183a9467ac5e96c8c8a7d5dbd52ca322b54f56540d4058f",
-      "metadata": {
-        "game": "",
-        "id": "aquaria",
-        "world_version": "1.5.2.post5",
-        "tag_version": "1.5.2.post5",
-        "created_at": "2025-04-02T23:17:49Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/tioui/Aquaria_Randomizer/releases/download/v1.5.2-Release/aquaria.apworld",
-      "size": 96960,
-      "hash_sha256": "f7a5b796114f672ab0722698cbac40ff5342cf0981a052286b7bc5fffd861e7a",
-      "metadata": {
-        "game": "",
-        "id": "aquaria",
-        "world_version": "1.5.2.post4",
-        "tag_version": "1.5.2.post4",
-        "created_at": "2025-04-02T23:17:49Z"
-      }
-    },
-    {
-      "world": "https://github.com/tioui/Aquaria_Randomizer/releases/download/v1.5.2-Release/aquaria.apworld",
-      "size": 91777,
-      "hash_sha256": "67709b4120c6ce6def51fd0d18c46a9ab59df5feee077537bd1a0b3cb31c0e82",
-      "metadata": {
-        "game": "",
-        "id": "aquaria",
-        "world_version": "1.5.2.post3",
-        "tag_version": "1.5.2.post3",
-        "created_at": "2025-04-02T23:17:49Z"
-      }
-    },
-    {
-      "world": "https://github.com/tioui/Aquaria_Randomizer/releases/download/v1.5.2-Release/aquaria.apworld",
-      "size": 95847,
-      "hash_sha256": "86b4b7f3b1ac2c3025a95425936cfc781191e6e30d58c5c1bddf48b272ecb923",
-      "metadata": {
-        "game": "",
-        "id": "aquaria",
-        "world_version": "1.5.2.post2",
-        "tag_version": "1.5.2.post2",
-        "created_at": "2025-04-02T23:17:49Z"
-      }
-    },
-    {
-      "world": "https://github.com/tioui/Aquaria_Randomizer/releases/download/v1.5.2-Release/aquaria.apworld",
-      "size": 94112,
-      "hash_sha256": "b7fa1c29a74a0e727637d23b755cb5ed9b6292a5a6fe9f96cbf99e5e5a08d181",
-      "metadata": {
-        "game": "",
-        "id": "aquaria",
-        "world_version": "1.5.2.post0",
-        "tag_version": "1.5.2.post0",
-        "created_at": "2025-04-02T23:17:49Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/tioui/Aquaria_Randomizer/releases/download/v1.5.1TongueFix/aquaria.apworld",
-      "size": 74565,
-      "hash_sha256": "98b5fd437053e68643c4ae32eef82b8966a85ea9d3e3bc576a86a8cb3a10cb61",
-      "metadata": {
-        "game": "",
-        "id": "aquaria",
-        "world_version": "1.5.1",
-        "tag_version": "1.5.1",
-        "created_at": "2025-02-26T14:36:16Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -29656,6 +28800,19 @@
       }
     },
     {
+      "world": "https://github.com/Silvris/Archipelago/releases/download/k64_0.3.2/k64.apworld",
+      "size": 50663,
+      "hash_sha256": "8883369770056a232db0a6a9ba6802841fe7c463d3aff2a192c2751d14157e35",
+      "metadata": {
+        "game": "",
+        "id": "k64",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-03-06T07:23:13Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Silvris/Archipelago/releases/download/k64_0.3.1/k64.apworld",
       "size": 50670,
       "hash_sha256": "da7ab4d6bddea5256f50768a866a0667f8b3c917efbf50d5b9b8a8ddf50f9edd",
@@ -31965,6 +31122,19 @@
         "tag_version": "1.0.0",
         "created_at": "2025-06-29T11:52:45Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Silvris/Archipelago/releases/download/kss_0.1.8/kss.apworld",
+      "size": 42630,
+      "hash_sha256": "d65b85594fcf4c46ee5ee5c2951ce997f3361b3212e4970a75afed323e75376b",
+      "metadata": {
+        "game": "",
+        "id": "kss",
+        "world_version": "0.1.8",
+        "tag_version": "0.1.8",
+        "created_at": "2026-03-06T05:33:57Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -67702,237 +66872,6 @@
       }
     },
     {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.6/sly2.apworld",
-      "size": 3494514,
-      "hash_sha256": "5e153eb706bc21bade3588de7b9fc8a7627b2f09f0440663b4f846f9269923a9",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.8.6",
-        "tag_version": "0.8.6",
-        "created_at": "2026-01-23T23:19:42Z"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.5/sly2.apworld",
-      "size": 3492899,
-      "hash_sha256": "48028406cbbfef057e1ee76b3e4c1d3487e197ec8c3f84ffec4004d9ee22284f",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.8.5",
-        "tag_version": "0.8.5",
-        "created_at": "2026-01-13T10:23:20Z"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.4/sly2.apworld",
-      "size": 3492826,
-      "hash_sha256": "8d8c820cbf2d64c5354323b97cb4334f5ca740dac4b7cb48074667b3a8420b6e",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.8.4",
-        "tag_version": "0.8.4",
-        "created_at": "2026-01-11T15:54:56Z"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.3/sly2.apworld",
-      "size": 3492752,
-      "hash_sha256": "f3b4fda3c089f79985babbedb2e48e979d286bc7f8f165074d1158c08f381d1d",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.8.3",
-        "tag_version": "0.8.3",
-        "created_at": "2026-01-11T15:32:56Z"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.1/sly2.apworld",
-      "size": 15563522,
-      "hash_sha256": "cbd552d0a7ce1dc58df17a1afad1fcbe665963591c74fc8d798d7c6da657de80",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.8.1",
-        "tag_version": "0.8.1",
-        "created_at": "2026-01-09T17:39:11Z"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.2/sly2.apworld",
-      "size": 3672211,
-      "hash_sha256": "d8bf6e877499cfcaf445cbe5221f394f1ae4b7ceab431c22ab24efee16c80ded",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.8.1",
-        "tag_version": "0.8.1",
-        "created_at": "2026-01-09T17:39:11Z"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.8.0/sly2.apworld",
-      "size": 15563213,
-      "hash_sha256": "247eb36446be3413d176631b416a4be4292ff91e6f72c159d9039827b08c5369",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.8.0",
-        "tag_version": "0.8.0",
-        "created_at": "2026-01-09T16:23:55Z"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.7.0/sly2.apworld",
-      "size": 15559357,
-      "hash_sha256": "e06eea76c1e8371296bd77383fb87c2621ccbcede81c9c072f634bae656e997a",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.7.0",
-        "tag_version": "0.7.0",
-        "created_at": "2025-12-09T15:39:31Z"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.6.0/sly2.apworld",
-      "size": 15557849,
-      "hash_sha256": "07e18f8274d1ceed397d5ff76f5de697db8f6a386ccbc127a257bff63c702075",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.6.0",
-        "tag_version": "0.6.0",
-        "created_at": "2025-10-16T12:33:48Z"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.5.0/sly2.apworld",
-      "size": 15557126,
-      "hash_sha256": "5d8059c691c9d277708c7cc8f84064018a8be061666969b46e0350f57fac5054",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.5.0",
-        "tag_version": "0.5.0",
-        "created_at": "2025-08-24T09:50:55Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.4.1/sly2.apworld",
-      "size": 254547,
-      "hash_sha256": "ccd379bd7433ed738558de9d0bcdb5096d14a60b43a690e0835f3096be1c04b3",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.4.1",
-        "tag_version": "0.4.1",
-        "created_at": "2025-07-05T15:46:52Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.4.0/sly2.apworld",
-      "size": 254359,
-      "hash_sha256": "0de5deacdd98b223f183e383c74bcbe6a1549833fd7401846d2fbaf7810afbf8",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.4.0",
-        "tag_version": "0.4.0",
-        "created_at": "2025-06-29T14:55:41Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.3.1/sly2.apworld",
-      "size": 253158,
-      "hash_sha256": "243c6c8f32487d030af77023bb2a3bad16f3436ae3ad7743aceb29471c921478",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.3.1",
-        "tag_version": "0.3.1",
-        "created_at": "2025-05-08T09:02:35Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.3.0/sly2.apworld",
-      "size": 253158,
-      "hash_sha256": "9ee9e084976e627345d9e3ebe43b220178e6ec428b97553e00fa20a2884058f1",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.3.0",
-        "tag_version": "0.3.0",
-        "created_at": "2025-05-04T15:49:46Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.2.0/sly2.apworld",
-      "size": 251862,
-      "hash_sha256": "a94d22bb04cfddc8933de61651aeaa0c4c62f97840a9bc66bd36c586662f1146",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.2.0",
-        "tag_version": "0.2.0",
-        "created_at": "2025-05-01T18:47:03Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.1.2/sly2.apworld",
-      "size": 251143,
-      "hash_sha256": "0161822444699c0f9682cc9fd90dbabddc1fc3523028316b17753d95265abd16",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2025-04-21T13:03:13Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.1.1/sly2.apworld",
-      "size": 251264,
-      "hash_sha256": "dcf59e5e1d7ec15ddf9a5153320f7aa5d238fd986aa1b74f4c89f16047405041",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2025-04-21T09:53:28Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v0.1.0/sly2.apworld",
-      "size": 251249,
-      "hash_sha256": "15ee9c520dca573dfca555ec702994c74b24dd30bc4f1a49e2a34f92d9c1ec23",
-      "metadata": {
-        "game": "",
-        "id": "sly2",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2025-04-21T09:37:57Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.4/sm64hacks.apworld",
       "size": 274762,
       "hash_sha256": "f7274269792c12a939c4ea86857fc48e2ce513dc24955103c741319820b50751",
@@ -68317,184 +67256,6 @@
       }
     },
     {
-      "world": "https://github.com/Kgamer77/SuperMarioOdysseyArchipelago/releases/download/v1.6.3/smo.apworld",
-      "size": 62808,
-      "hash_sha256": "93b978f81e8aa8b3f024132b1df5785445d4fa19fad7ddadeb6efd6839c62dce",
-      "metadata": {
-        "game": "",
-        "id": "smo",
-        "world_version": "1.6.3.post2",
-        "tag_version": "1.6.3.post2",
-        "created_at": "2025-12-14T22:12:37Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Kgamer77/SuperMarioOdysseyArchipelago/releases/download/v1.6.3/smo.apworld",
-      "size": 192280,
-      "hash_sha256": "f582c49cf2cb4ae37c44cb548257e277f17fc3f28f5446499aabbacb8ca88c0c",
-      "metadata": {
-        "game": "",
-        "id": "smo",
-        "world_version": "1.6.3",
-        "tag_version": "1.6.3",
-        "created_at": "2025-12-14T22:12:37Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Kgamer77/SuperMarioOdysseyArchipelago/releases/download/v1.6/smo.apworld",
-      "size": 62317,
-      "hash_sha256": "bd2be2f1895bd682fc3ff3ff9dfabad1f476a8254c85c18c6b46eb0148395128",
-      "metadata": {
-        "game": "",
-        "id": "smo",
-        "world_version": "1.6",
-        "tag_version": "1.6",
-        "created_at": "2025-12-13T22:15:15Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Kgamer77/SuperMarioOdysseyArchipelago/releases/download/v1.5.1-beta/smo.apworld",
-      "size": 1180140,
-      "hash_sha256": "338354456728626da9ac3f185fe16d1029fea3ce35e6b2ad2e30c06564d9807e",
-      "metadata": {
-        "game": "",
-        "id": "smo",
-        "world_version": "1.5.1b0",
-        "tag_version": "1.5.1b0",
-        "created_at": "2025-06-15T21:30:03Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready",
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Kgamer77/SuperMarioOdysseyArchipelago/releases/download/v1.5/smo.apworld",
-      "size": 1383562,
-      "hash_sha256": "35909e46d19778781974935f50356b369d37f2963a68e0501989cdd0b9e72591",
-      "metadata": {
-        "game": "",
-        "id": "smo",
-        "world_version": "1.5",
-        "tag_version": "1.5",
-        "created_at": "2025-07-30T21:30:00Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Kgamer77/SuperMarioOdysseyArchipelago/releases/download/v1.5-beta/smo.apworld",
-      "size": 1428124,
-      "hash_sha256": "12bf26aa9f0d9eb0ea0e46d1298239184d635a5d1a8fc9062e5ac647dee9a468",
-      "metadata": {
-        "game": "",
-        "id": "smo",
-        "world_version": "1.5b0",
-        "tag_version": "1.5b0",
-        "created_at": "2025-05-19T23:14:47Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready",
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Kgamer77/SuperMarioOdysseyArchipelago/releases/download/v1.4/smo.apworld",
-      "size": 75731,
-      "hash_sha256": "bd5e4a4093c49a31f60601459bc4c1dfafbb773dbf11e0a4a552818bf1665236",
-      "metadata": {
-        "game": "",
-        "id": "smo",
-        "world_version": "1.4",
-        "tag_version": "1.4",
-        "created_at": "2025-04-08T05:15:51Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Kgamer77/SuperMarioOdysseyArchipelago/releases/download/v1.3/smo.apworld",
-      "size": 73357,
-      "hash_sha256": "423f06aa7c77097c2514cd8f149cca51ee77e007f579da77e9e7b6e192f472e6",
-      "metadata": {
-        "game": "",
-        "id": "smo",
-        "world_version": "1.3",
-        "tag_version": "1.3",
-        "created_at": "2025-03-30T16:38:03Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Kgamer77/SuperMarioOdysseyArchipelago/releases/download/v1.2/smo.apworld",
-      "size": 70905,
-      "hash_sha256": "90f771ce6b3d5b0e1bf3be84075d8da85c6e285d80d3eb720e45823584e00014",
-      "metadata": {
-        "game": "",
-        "id": "smo",
-        "world_version": "1.2",
-        "tag_version": "1.2",
-        "created_at": "2025-03-24T09:45:32Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Kgamer77/SuperMarioOdysseyArchipelago/releases/download/v1.1.1/smo.apworld",
-      "size": 56552,
-      "hash_sha256": "2187fc354e4b93a96936770e33444c378b9c342b56c4d26ffd08a6e7eddaff3d",
-      "metadata": {
-        "game": "",
-        "id": "smo",
-        "world_version": "1.1.1",
-        "tag_version": "1.1.1",
-        "created_at": "2025-03-09T01:52:02Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Kgamer77/SuperMarioOdysseyArchipelago/releases/download/v1.1/smo.apworld",
-      "size": 56552,
-      "hash_sha256": "2187fc354e4b93a96936770e33444c378b9c342b56c4d26ffd08a6e7eddaff3d",
-      "metadata": {
-        "game": "",
-        "id": "smo",
-        "world_version": "1.1",
-        "tag_version": "1.1",
-        "created_at": "2025-03-08T22:23:53Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/TheRealSolidusSnake/SMRPG_apworld/releases/download/0.0.6/smrpg.apworld",
       "size": 1141618,
       "hash_sha256": "f76ce86af32368d303656bdc71e58ac152688d50c252d94c36be191d781c888a",
@@ -68629,6 +67390,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Joshark/archipelago-sms/releases/download/0.5.3/sms.apworld",
+      "size": 119318,
+      "hash_sha256": "081aca481f064a017c62c608368ebede7f4d348d0e52602a7cfd9f9826ac6367",
+      "metadata": {
+        "game": "",
+        "id": "sms",
+        "world_version": "0.5.3",
+        "tag_version": "0.5.3",
+        "created_at": "2026-03-06T05:02:55Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -78276,6 +77050,19 @@
       }
     },
     {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.6.1/tloz_st.apworld",
+      "size": 261358,
+      "hash_sha256": "dfccf945bd5c85fbf11c1de29d9bec5f6ef558f91bbd8f8102d9c7d60129b992",
+      "metadata": {
+        "game": "",
+        "id": "tloz_st",
+        "world_version": "0.6.1",
+        "tag_version": "0.6.1",
+        "created_at": "2026-03-06T07:23:29Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.6.0/tloz_st.apworld",
       "size": 260663,
       "hash_sha256": "a162463f36251b3b1bd0a022e5bab9d009c3606a26ff4bfa331e0acb40dec447",
@@ -85662,10 +84449,6 @@
       "game": "Against the Storm",
       "description": "Against the Storm is a roguelite city builder"
     },
-    "age2de": {
-      "game": "Age Of Empires II: Definitive Edition",
-      "description": "Age of Empires II: Definitive Edition is a Real-Time Strategy game centered around the medieval\nages and the various battles, conquests, and wars of history."
-    },
     "air_delivery": {
       "game": "Air Delivery",
       "description": "You\u2019re a sky-island delivery worker delivering mail to all the nearby islands. Everything runs smoothly until the\nletters suddenly aren\u2019t being delivered. Find all of the letters and deliver them to their recipients.\nMaybe they\u2019ll give you something as a thank you."
@@ -85682,17 +84465,9 @@
       "game": "ANIMAL WELL",
       "description": "Hatch from your flower and spelunk through the beautiful and sometimes haunting world of ANIMAL WELL, a pixelated\naction-exploration game rendered in intricate audio and visual detail. Encounter lively creatures small and large,\nhelpful and ominous as you discover unconventional upgrades and unravel the well\u2019s secrets."
     },
-    "anodyne": {
-      "game": "Anodyne",
-      "description": "Anodyne is a unique Zelda-like game, influenced by games such as Yume Nikki and Link's Awakening. \nIn Anodyne, you'll visit areas urban, natural, and bizarre, fighting your way through dungeons \nand areas in Young's subconscious."
-    },
     "another_crab": {
       "game": "Another Crab's Treasure",
       "description": "Another Crab's Treasure is an underwater souls-like with a charming art style and a quirky sense of humor."
-    },
-    "ape_escape_3": {
-      "game": "Ape Escape 3",
-      "description": "Ape Escape 3 is a 3D platformer published and developed by Sony Computer Entertainment, released \nin 2005 for the Sony Playstation 2. Specter for the third time has escaped again, and this time,\nhe and his Pipo Monkey army has taken over Television and programs anyone who watches into a \nmindless couch potato. Even our previous heroes have fallen for the trap, and now its up to Kei\nand Yumi to save the world from the control of Specter."
     },
     "apeescape": {
       "game": "Ape Escape",
@@ -85710,10 +84485,6 @@
     "apworld_manager": {
       "game": "APWorld Manager",
       "description": "Package manager for Archipelago Worlds"
-    },
-    "aquaria": {
-      "game": "Aquaria",
-      "description": "Aquaria is a side-scrolling action-adventure game. It follows Naija, an\naquatic humanoid woman, as she explores the underwater world of Aquaria.\nAlong her journey, she learns about the history of the world she inhabits\nas well as her own past. The gameplay focuses on a combination of swimming,\nsinging, and combat, through which Naija can interact with the world. Her\nsongs can move items, affect plants and animals, and change her physical\nappearance into other forms that have different abilities, like firing\nprojectiles at hostile creatures, or passing through barriers inaccessible\nto her in her natural form.\nFrom: https://en.wikipedia.org/wiki/Aquaria_(video_game)"
     },
     "archipelacode": {
       "game": "ArchipelaCode",
@@ -87537,17 +86308,9 @@
       "game": "Sly Cooper and the Thievius Raccoonus",
       "description": "Sly Cooper and the Thievius Raccoonus is a action-stealth game set in a cartoony cel-shaded world.\nAvenge your father and take back the pages of the Thievius Raccoonus from the Fiendish Five!"
     },
-    "sly2": {
-      "game": "Sly 2: Band of Thieves",
-      "description": "Sly 2: Band of Thieves is a 2004 stealth action video game developed by\nSucker Punch Productions and published by Sony Computer Entertainment for\nthe PlayStation 2."
-    },
     "sm64hacks": {
       "game": "SM64 Romhack",
       "description": ""
-    },
-    "smo": {
-      "game": "Super Mario Odyssey",
-      "description": "Super Mario Odyssey is a 3-D Platformer where Mario sets off across the world with his companion Cappy to save Princess Peach and Cappy's sister Tiara from Bowser's wedding plans."
     },
     "smrpg": {
       "game": "Super Mario RPG Legend of the Seven Stars",
