@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
-  "total_packages": 610,
-  "total_versions": 6217,
+  "total_packages": 609,
+  "total_versions": 6216,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -223,7 +223,6 @@
     "madou": true,
     "manual_adventuresofdreamland_bennydreamly": false,
     "manual_baldisbasicsclassicremastered_wolfboi008": false,
-    "manual_baldursgate2_angevon": false,
     "manual_bandhero_gwaf": false,
     "manual_betrayal_axxroy": false,
     "manual_blocktales_wolfboi008": false,
@@ -576,7 +575,7 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 377,
+    "": 376,
     "0.5.0": 8,
     "0.6.0": 13,
     "0.6.1": 12,
@@ -590,6 +589,6 @@
     "": 250,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 304
+    "0.6.99": 303
   }
 }
