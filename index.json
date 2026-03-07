@@ -23094,6 +23094,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.3/flipwitch.apworld",
+      "size": 72175,
+      "hash_sha256": "0d99f16e52e9a6192bcdb8091cb04536e4dbab864ae535c1bcd148786ae547ea",
+      "metadata": {
+        "game": "",
+        "id": "flipwitch",
+        "world_version": "1.0.3",
+        "tag_version": "1.0.3",
+        "created_at": "2026-03-02T13:39:32Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.2/flipwitch.apworld",
       "size": 72154,
       "hash_sha256": "c9676278ed9073665ed1017f24a6602de725ff718f0409d24196cccb30d74c30",
@@ -25352,6 +25367,22 @@
         "world_version": "1.5.0",
         "tag_version": "1.5.0",
         "created_at": "2026-03-04T00:27:50Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.0-PR5/grinch.apworld",
+      "size": 123158,
+      "hash_sha256": "9d46285442e1f073d93abfbc4a633ab75a9c7715dbaeb21e870081c7478ffb41",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.5.0",
+        "tag_version": "1.5.0",
+        "created_at": "2026-03-07T03:43:43Z",
         "minimum_ap_version": "0.6.6",
         "flags": [
           "prerelease"
@@ -36704,6 +36735,19 @@
         "world_version": "0.0.1",
         "tag_version": "0.0.1",
         "created_at": "2024-06-14T05:00:31Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/4.2.2/manual_blocktales_wolfboi008.apworld",
+      "size": 75615,
+      "hash_sha256": "29cd5520f01d1d5c67728017ac96424a45a25aa072ff84f1c6aab23a06de31b2",
+      "metadata": {
+        "game": "",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "4.2.2",
+        "tag_version": "4.2.2",
+        "created_at": "2026-03-07T04:05:13Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -59325,6 +59369,18 @@
         "tag_version": "0.6.1",
         "created_at": "2024-06-17T07:49:09Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.6.0/pvzr.apworld",
+      "size": 30443,
+      "hash_sha256": "57369342f35cf2435936e9207ac3e14b4ba851fa5d3b80913932bd982517f7a8",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-03-07T12:20:45Z"
       }
     },
     {
