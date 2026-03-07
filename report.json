@@ -1,21 +1,25 @@
 {
   "total_repositories": 518,
-  "total_packages": 604,
-  "total_versions": 6128,
+  "total_packages": 609,
+  "total_versions": 6230,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
     "adofai": false,
     "against_the_storm": true,
+    "age2de": true,
     "air_delivery": false,
     "albw": true,
     "am2r": true,
     "animal_well": false,
+    "anodyne": true,
     "another_crab": false,
+    "ape_escape_3": true,
     "apeescape": true,
     "apgo": false,
     "apquest": true,
     "apworld_manager": true,
+    "aquaria": true,
     "archipelacode": true,
     "archipollago": false,
     "armoredcore": true,
@@ -467,7 +471,9 @@
     "slotlock": true,
     "slowrelease": true,
     "sly1": false,
+    "sly2": true,
     "sm64hacks": true,
+    "smo": false,
     "smrpg": true,
     "sms": false,
     "smsa2": false,
@@ -569,20 +575,20 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 373,
+    "": 376,
     "0.5.0": 8,
     "0.6.0": 13,
     "0.6.1": 12,
     "0.6.2": 8,
-    "0.6.3": 56,
-    "0.6.4": 57,
-    "0.6.5": 14,
+    "0.6.3": 57,
+    "0.6.4": 58,
+    "0.6.5": 15,
     "0.6.6": 12
   },
   "max_maximum_ap_version": {
-    "": 246,
+    "": 250,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 301
+    "0.6.99": 303
   }
 }
