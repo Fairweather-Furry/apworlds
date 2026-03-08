@@ -18020,6 +18020,22 @@
       }
     },
     {
+      "world": "https://github.com/Str8UpWHITE64/DRAP/releases/download/0.2.0/drdr.apworld",
+      "size": 440463,
+      "hash_sha256": "a46b9632794f77b3d86ba74139deee00ac40477fb5db699c025900de69641daa",
+      "metadata": {
+        "game": "",
+        "id": "drdr",
+        "world_version": "0.0.1",
+        "tag_version": "0.0.1",
+        "created_at": "2026-03-08T07:06:39Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/alextric234/ArchipelagoDredge/releases/download/dredge_0.5.0/dredge.apworld",
       "size": 21899,
       "hash_sha256": "74c3de89e89b783a0e7e232cf6a4557a893307b99a85153879a67d8df9a289c1",
@@ -45838,6 +45854,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Edsploration/MK64-Archipelago/releases/download/mk64/0.2.4/mk64.apworld",
+      "size": 126122,
+      "hash_sha256": "f3ca4b2ee914aaf308e6edb28f406b83e0c77e2cef14858bab39a063b032f0de",
+      "metadata": {
+        "game": "",
+        "id": "mk64",
+        "world_version": "0.2.4",
+        "tag_version": "0.2.4",
+        "created_at": "2024-04-01T04:07:57Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -83185,6 +83214,19 @@
         "world_version": "1.1.5",
         "tag_version": "1.1.5",
         "created_at": "2026-01-27T01:56:29Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/FlySniper/Archipelago/releases/download/wargroove2-1.1.6/wargroove2.apworld",
+      "size": 2447665,
+      "hash_sha256": "2244c7d308b5b9e3e4b8c3d49df7719b4affbb7bdcb863f70a2f2187ca3be612",
+      "metadata": {
+        "game": "",
+        "id": "wargroove2",
+        "world_version": "1.1.5",
+        "tag_version": "1.1.5",
+        "created_at": "2026-03-08T03:25:59Z",
         "minimum_ap_version": "0.6.3"
       }
     },
