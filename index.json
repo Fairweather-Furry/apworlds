@@ -15164,6 +15164,23 @@
       }
     },
     {
+      "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.2.3-beta/diceydungeons.apworld",
+      "size": 889048,
+      "hash_sha256": "0163081b8121d0e583db37ae13fb0a40855edab8db95e0cfbf9731907334e2c6",
+      "metadata": {
+        "game": "",
+        "id": "diceydungeons",
+        "world_version": "0.2.3b0",
+        "tag_version": "0.2.3b0",
+        "created_at": "2026-03-09T00:08:10Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "unready",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.2.2.1-beta/diceydungeons.apworld",
       "size": 889000,
       "hash_sha256": "0481a2bb42e1558674acbd550f10acee06d2e6ceda2f29aa42e52eb49234c041",
@@ -21450,6 +21467,19 @@
       }
     },
     {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.16/ff1pr.apworld",
+      "size": 28092,
+      "hash_sha256": "d404248bc75e828a8328d0b038b478e828a05a26bb8e5edcaec31819304c4b90",
+      "metadata": {
+        "game": "",
+        "id": "ff1pr",
+        "world_version": "0.5.12",
+        "tag_version": "0.5.12",
+        "created_at": "2026-03-08T22:22:36Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.10/ff1pr.apworld",
       "size": 89453,
       "hash_sha256": "64892c510cb2b63bf578bafaaaff497ca13d9f81628da2788fd8e549b28e262c",
@@ -25412,6 +25442,22 @@
         "world_version": "1.5.0",
         "tag_version": "1.5.0",
         "created_at": "2026-03-07T03:43:43Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.0-PR6/grinch.apworld",
+      "size": 123210,
+      "hash_sha256": "06e5352119c92cbefc3ecae6591f6c3a522fb79b2ceca640fe08315604cf4aa3",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.5.0",
+        "tag_version": "1.5.0",
+        "created_at": "2026-03-08T23:23:06Z",
         "minimum_ap_version": "0.6.6",
         "flags": [
           "prerelease"
@@ -36510,6 +36556,18 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/Archipelago/releases/download/MadouMonogatari105/madou.apworld",
+      "size": 44508,
+      "hash_sha256": "06ddd84d9588aea5c0b2fd960e098f2cc8661aa2ec443260f1ac037ef237a5a9",
+      "metadata": {
+        "game": "",
+        "id": "madou",
+        "world_version": "105",
+        "tag_version": "105",
+        "created_at": "2026-03-06T00:41:48Z"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/Archipelago/releases/download/MadouMonogatari104/madou.apworld",
       "size": 44501,
       "hash_sha256": "3899c27c38712d56555ce498942a5a79f3d51cdfe6c9925d88027fd3679b82a6",
@@ -44623,6 +44681,22 @@
       }
     },
     {
+      "world": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.2.0_beta.2/metrocubevania.apworld",
+      "size": 3980,
+      "hash_sha256": "df404df4ca12eb0fc92f54a34bfbe67eddee6f0ba1636efda91827547268e0ec",
+      "metadata": {
+        "game": "",
+        "id": "metrocubevania",
+        "world_version": "0.2.0b2",
+        "tag_version": "0.2.0b2",
+        "created_at": "2026-03-09T00:30:17Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.2.0_beta/metrocubevania.apworld",
       "size": 3660,
       "hash_sha256": "ba52e82d88e501f1d13839a111c5bc649c5c3796c7f19e6aea4ab7da6ab0ab24",
@@ -44636,6 +44710,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.1.2/metrocubevania.apworld",
+      "size": 3977,
+      "hash_sha256": "1864a30e59de797f6d20a434b88af6d6fa3d11fb2bef9bb2c784ab70a098b210",
+      "metadata": {
+        "game": "",
+        "id": "metrocubevania",
+        "world_version": "0.1.2",
+        "tag_version": "0.1.2",
+        "created_at": "2026-03-09T00:24:36Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -45152,6 +45239,19 @@
         "flags": [
           "unready"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.0.9_dig/minecraft_dig.apworld",
+      "size": 17216,
+      "hash_sha256": "110962b68b50a0e37273cfa71c6b3ccdd9cdbcdc934e9cc1231d8aa3419b24d2",
+      "metadata": {
+        "game": "",
+        "id": "minecraft_dig",
+        "world_version": "0.0.9",
+        "tag_version": "0.0.9",
+        "created_at": "2026-03-06T16:37:22Z",
+        "minimum_ap_version": "0.5.0"
       }
     },
     {
@@ -48179,6 +48279,19 @@
         "tag_version": "1.5.9",
         "created_at": "2025-01-26T11:09:47Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.5.0/mzm.apworld",
+      "size": 136873,
+      "hash_sha256": "57e62d858831f7a0af6813581caa25d143e84c6d8f58f36a462c0d190dd8975d",
+      "metadata": {
+        "game": "",
+        "id": "mzm",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-03-08T14:03:35Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -54631,6 +54744,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.19/pokemon_bw.apworld",
+      "size": 37639654,
+      "hash_sha256": "a40672e95cad178408c5dcce622f07fd4daa5696124d2cc9d5f66110dfc3baad",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_bw",
+        "world_version": "0.3.19",
+        "tag_version": "0.3.19",
+        "created_at": "2026-03-09T02:01:50Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -68239,6 +68365,22 @@
       }
     },
     {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.0.1/sm64hacks.apworld",
+      "size": 292140,
+      "hash_sha256": "ada0966a2ae030bb30f747714ec002b9b12ceb781995ab7d6878db1b4fd74580",
+      "metadata": {
+        "game": "",
+        "id": "sm64hacks",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-03-08T19:55:29Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.4/sm64hacks.apworld",
       "size": 274762,
       "hash_sha256": "f7274269792c12a939c4ea86857fc48e2ce513dc24955103c741319820b50751",
@@ -77116,6 +77258,19 @@
       }
     },
     {
+      "world": "https://github.com/IgnisUmbrae/TJE-Archipelago/releases/download/v0.5.0/tje.apworld",
+      "size": 89521,
+      "hash_sha256": "4dabcee1df801994fa0513e54fb984adfb1b120e18d5818ce10dd7d3d62f186f",
+      "metadata": {
+        "game": "",
+        "id": "tje",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-03-08T15:48:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/IgnisUmbrae/TJE-Archipelago/releases/download/v0.4.2/tje.apworld",
       "size": 77671,
       "hash_sha256": "d617b75da0d2c3ab51cf4a5d082bdf999d567f03f68743a5029b59019fcd6432",
@@ -81769,6 +81924,18 @@
         "tag_version": "0.1.0",
         "created_at": "2025-02-02T11:21:17Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.4.0/ultrakill.apworld",
+      "size": 45996,
+      "hash_sha256": "9c596d84261e466a4e826742f495ee1d8e8c97206a740ed1a4e184dca10cc94f",
+      "metadata": {
+        "game": "",
+        "id": "ultrakill",
+        "world_version": "3.4.0",
+        "tag_version": "3.4.0",
+        "created_at": "2026-03-09T00:24:20Z"
       }
     },
     {
