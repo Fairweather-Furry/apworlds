@@ -6020,6 +6020,22 @@
       }
     },
     {
+      "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.4.3/bg3.apworld",
+      "size": 93444,
+      "hash_sha256": "e466fbe6a0c31d91abda70eff0a04cae758bf684c173126c00cb470cff82ac0f",
+      "metadata": {
+        "game": "",
+        "id": "bg3",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-03-10T06:47:52Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.4.1/bg3.apworld",
       "size": 89292,
       "hash_sha256": "415f79666896fb5b770b3775421bab9ffd05a331469d13f15d02097b99a578d5",
@@ -44744,6 +44760,22 @@
       }
     },
     {
+      "world": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.2.0_beta.3/metrocubevania.apworld",
+      "size": 3980,
+      "hash_sha256": "00d6d871023e99a831f46d5aa28dbda251b449c182771acd2568bf415f7f7d27",
+      "metadata": {
+        "game": "",
+        "id": "metrocubevania",
+        "world_version": "0.2.0b3",
+        "tag_version": "0.2.0b3",
+        "created_at": "2026-03-10T02:43:29Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.2.0_beta.2/metrocubevania.apworld",
       "size": 3980,
       "hash_sha256": "df404df4ca12eb0fc92f54a34bfbe67eddee6f0ba1636efda91827547268e0ec",
@@ -44773,6 +44805,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/ap-metrocubevania/ap-metrocubevania/releases/download/v_0.1.3/metrocubevania.apworld",
+      "size": 3980,
+      "hash_sha256": "44188c1aaa034cfd2a20cd480eb0f750849282ded385e060973d285f68723bca",
+      "metadata": {
+        "game": "",
+        "id": "metrocubevania",
+        "world_version": "0.1.3",
+        "tag_version": "0.1.3",
+        "created_at": "2026-03-10T02:44:05Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -75429,6 +75474,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/barretg/Taskipelago/releases/download/v0.5.1/taskipelago.apworld",
+      "size": 22671,
+      "hash_sha256": "fa03d33fd0c3460f9dbb819d811c7c24b982a9b16927e358b35828e74a88a466",
+      "metadata": {
+        "game": "",
+        "id": "taskipelago",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-03-10T07:18:39Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {

@@ -75,6 +75,18 @@
       "title": "v0.5",
       "version_simple": "0.5",
       "world_version": "0.5"
+    },
+    "v0.5.1": {
+      "created_at": "2026-03-10T07:18:39Z",
+      "download_url": "https://github.com/barretg/Taskipelago/releases/download/v0.5.1/taskipelago.apworld",
+      "has_manifest": false,
+      "hash_sha256": "fa03d33fd0c3460f9dbb819d811c7c24b982a9b16927e358b35828e74a88a466",
+      "size": 22671,
+      "source_url": "https://api.github.com/repos/barretg/Taskipelago",
+      "tag": "v0.5.1",
+      "title": "v0.5.1",
+      "version_simple": "0.5.1",
+      "world_version": "0.5.1"
     }
   }
 }
