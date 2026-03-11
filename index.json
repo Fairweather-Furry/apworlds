@@ -3207,19 +3207,6 @@
       }
     },
     {
-      "world": "https://github.com/tioui/Aquaria_Randomizer/releases/download/v1.5.1TongueFix/aquaria.apworld",
-      "size": 74565,
-      "hash_sha256": "98b5fd437053e68643c4ae32eef82b8966a85ea9d3e3bc576a86a8cb3a10cb61",
-      "metadata": {
-        "game": "",
-        "id": "aquaria",
-        "world_version": "1.5.1",
-        "tag_version": "1.5.1",
-        "created_at": "2025-02-26T14:36:16Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/ShackledMars261/Archipelago/releases/download/archipelacode-v0.0.2/archipelacode.apworld",
       "size": 296049,
       "hash_sha256": "eac0bd80814781f187361c83d5d4f3d9606a2ccd84dbfef1d09206ac8811c707",
@@ -10018,19 +10005,6 @@
       }
     },
     {
-      "world": "https://github.com/PoryGoneDev/Celeste64/releases/download/v1.3.0/celeste64.apworld",
-      "size": 57701,
-      "hash_sha256": "78c99d427a94bf3cf81a1f952e7295b0fea5c39b449549d3cc12624cf884111b",
-      "metadata": {
-        "game": "",
-        "id": "celeste64",
-        "world_version": "1.3.0",
-        "tag_version": "1.3.0",
-        "created_at": "2025-01-30T05:14:13Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World/releases/download/v1.0.7/celeste_open_world.apworld",
       "size": 154900,
       "hash_sha256": "f99037f706ed7227d594bacbcef3338b18d57b86b18f4346ada54e221377e58a",
@@ -11783,6 +11757,18 @@
         "tag_version": "0.1.0",
         "created_at": "2026-01-16T20:59:03Z",
         "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.8.0/crosscode.apworld",
+      "size": 122779,
+      "hash_sha256": "dd107ce38fbba75b86819c516c78fe5aa318aa0ea4b90451feded5016119f910",
+      "metadata": {
+        "game": "",
+        "id": "crosscode",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-03-10T23:36:04Z"
       }
     },
     {
@@ -33361,6 +33347,18 @@
       }
     },
     {
+      "world": "https://github.com/T0r1nn/APLC/releases/download/v0.7.10-beta/lethal_company.apworld",
+      "size": 499924,
+      "hash_sha256": "318ed6f35b49e5aff4774747013259729567551278c5d6ce9b84d90ce685d39a",
+      "metadata": {
+        "game": "",
+        "id": "lethal_company",
+        "world_version": "0.7.10b0",
+        "tag_version": "0.7.10b0",
+        "created_at": "2026-03-11T00:45:34Z"
+      }
+    },
+    {
       "world": "https://github.com/T0r1nn/APLC/releases/download/v0.7.9-beta/lethal_company.apworld",
       "size": 499855,
       "hash_sha256": "44e09021b5b7071fabd1cd81dcc2ad36a297576542f115d990e91c71ed5b03b3",
@@ -44728,6 +44726,22 @@
       }
     },
     {
+      "world": "https://github.com/Jouramie/Archipelago/releases/download/0.6.6-messenger-ut-map/messenger.apworld",
+      "size": 81596,
+      "hash_sha256": "83f1642e688265f383d99485e4514da7af73723b4d6bd6b766b1e2b3c3e9b19e",
+      "metadata": {
+        "game": "",
+        "id": "messenger",
+        "world_version": "0.6.6",
+        "tag_version": "0.6.6",
+        "created_at": "2026-03-11T01:08:30Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Jouramie/Archipelago/releases/download/0.6.3-messenger-ut/messenger.apworld",
       "size": 65064,
       "hash_sha256": "d8a3ee2ad8c1cf8b59c88fcde36cdb2a1fe7ce536851f589f559591887586340",
@@ -48338,55 +48352,16 @@
       }
     },
     {
-      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.12/musedash.apworld",
-      "size": 31135,
-      "hash_sha256": "3a74a7a0334ab62b955308c8dcb662b63633b5fe3c0b38dfa4f8ff2342c2c180",
+      "world": "https://github.com/lilDavid/Archipelago-Metroid-Zero-Mission/releases/download/0.5.1/mzm.apworld",
+      "size": 136317,
+      "hash_sha256": "583e5503f84cd179b2cfc92a2502ac8ef12fa05560becffd8471cb41909c05b4",
       "metadata": {
         "game": "",
-        "id": "musedash",
-        "world_version": "1.5.12",
-        "tag_version": "1.5.12",
-        "created_at": "2025-03-07T23:12:18Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.11/musedash.apworld",
-      "size": 31135,
-      "hash_sha256": "3a74a7a0334ab62b955308c8dcb662b63633b5fe3c0b38dfa4f8ff2342c2c180",
-      "metadata": {
-        "game": "",
-        "id": "musedash",
-        "world_version": "1.5.11",
-        "tag_version": "1.5.11",
-        "created_at": "2025-02-28T09:26:07Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.10/musedash.apworld",
-      "size": 31010,
-      "hash_sha256": "e239cd532cc39409ff2f158742b12a81998dfb383d551a7772856ec8f2993bbb",
-      "metadata": {
-        "game": "",
-        "id": "musedash",
-        "world_version": "1.5.10",
-        "tag_version": "1.5.10",
-        "created_at": "2025-02-16T04:59:09Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.9/musedash.apworld",
-      "size": 31010,
-      "hash_sha256": "516013ffdc3200e19171986a2e0d673a45640d2a66dc2cd38f02e8db7751dd42",
-      "metadata": {
-        "game": "",
-        "id": "musedash",
-        "world_version": "1.5.9",
-        "tag_version": "1.5.9",
-        "created_at": "2025-01-26T11:09:47Z",
-        "maximum_ap_version": "0.6.99"
+        "id": "mzm",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-03-11T00:21:40Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -50621,6 +50596,18 @@
       }
     },
     {
+      "world": "https://github.com/c-ostic/Archipelago/releases/download/v0.4.1/oribf.apworld",
+      "size": 29561,
+      "hash_sha256": "fee46b113b22fbbb2cc3fbaf4abbdc9b4db76c53198b96a73dd4b354a788398d",
+      "metadata": {
+        "game": "",
+        "id": "oribf",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2026-03-10T17:41:26Z"
+      }
+    },
+    {
       "world": "https://github.com/c-ostic/Archipelago/releases/download/v0.4.0/oribf.apworld",
       "size": 30243,
       "hash_sha256": "ae4ea8f4996cdb9a4bcc5e049006731d53ef849feec71ed260e907975d139fb7",
@@ -50772,19 +50759,6 @@
         "world_version": "2",
         "tag_version": "2",
         "created_at": "2025-09-04T20:48:46Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/digiholic/Archipelago/releases/download/osrs-v2.0.0/osrs.apworld",
-      "size": 158545,
-      "hash_sha256": "137405cc4f7d23d1f438ad16b678cb246319354727dc71599b99c9d485d76c72",
-      "metadata": {
-        "game": "",
-        "id": "osrs",
-        "world_version": "2.0.0",
-        "tag_version": "2.0.0",
-        "created_at": "2025-01-25T20:15:29Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -53541,6 +53515,19 @@
         "world_version": "0.2.5.1",
         "tag_version": "0.2.5.1",
         "created_at": "2026-03-04T19:00:20Z"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.7/plateup.apworld",
+      "size": 28374,
+      "hash_sha256": "2632fd4bee612d22a83866b72ba70c1bce831dedf95a7fda2dec447561b96ced",
+      "metadata": {
+        "game": "",
+        "id": "plateup",
+        "world_version": "0.2.5",
+        "tag_version": "0.2.5",
+        "created_at": "2026-03-09T22:00:11Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -59729,6 +59716,18 @@
         "tag_version": "0.6.1",
         "created_at": "2024-06-17T07:49:09Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.6.1/pvzr.apworld",
+      "size": 30437,
+      "hash_sha256": "11da55a051b48bc4dc07b15c6f0cb9dc3b946bb919652412485e64897e578922",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.6.1",
+        "tag_version": "1.6.1",
+        "created_at": "2026-03-10T19:37:56Z"
       }
     },
     {
@@ -75064,39 +75063,7 @@
         "world_version": "0.6.0",
         "tag_version": "0.6.0",
         "created_at": "2025-03-02T01:49:53Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/Archipelago/releases/download/0.6.0-stardew-6.8.2-tracker/stardew_valley.apworld",
-      "size": 5846208,
-      "hash_sha256": "e15b73d05a91484adaa67093e3e91f332152aa32c3a934674b214757bdc3a6de",
-      "metadata": {
-        "game": "",
-        "id": "stardew_valley",
-        "world_version": "0.6.0",
-        "tag_version": "0.6.0",
-        "created_at": "2025-03-02T01:49:53Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/Archipelago/releases/download/0.5.1-stardew-6.8.2-tracker/stardew_valley.apworld",
-      "size": 5841750,
-      "hash_sha256": "232fbac01cb97ee2dad8c01df1eb2970d55656d672b086b7c0a28d0bc80ea47e",
-      "metadata": {
-        "game": "",
-        "id": "stardew_valley",
-        "world_version": "0.5.1",
-        "tag_version": "0.5.1",
-        "created_at": "2025-03-02T03:00:52Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -77903,6 +77870,22 @@
         "tag_version": "ooa",
         "created_at": null,
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-17.1.2/tloz_oos.apworld",
+      "size": 626790,
+      "hash_sha256": "e47672985aa446834e51d56a3902a853c1406e327b38bb0f3190f58eac41b68a",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "17.1.2",
+        "tag_version": "17.1.2",
+        "created_at": "2026-03-10T21:57:14Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -80896,45 +80879,6 @@
         "world_version": "4.2.0",
         "tag_version": "4.2.0",
         "created_at": "2025-03-14T22:48:38Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/silent-destroyer/tunic-randomizer/releases/download/4.1.2/tunic.apworld",
-      "size": 139448,
-      "hash_sha256": "74af6f582354f087c24bdd3b5701b2e7f035581d453f30064ff0cfda00c61747",
-      "metadata": {
-        "game": "",
-        "id": "tunic",
-        "world_version": "4.1.2",
-        "tag_version": "4.1.2",
-        "created_at": "2025-01-26T19:44:35Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/silent-destroyer/tunic-randomizer/releases/download/4.1.1/tunic.apworld",
-      "size": 539972,
-      "hash_sha256": "134d3047e8c9e44ccacbe030f8f2d8b751566b2bb58c126b2ac206f01e629826",
-      "metadata": {
-        "game": "",
-        "id": "tunic",
-        "world_version": "4.1.1",
-        "tag_version": "4.1.1",
-        "created_at": "2025-01-26T02:59:20Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/silent-destroyer/tunic-randomizer/releases/download/4.1.0/tunic.apworld",
-      "size": 539972,
-      "hash_sha256": "134d3047e8c9e44ccacbe030f8f2d8b751566b2bb58c126b2ac206f01e629826",
-      "metadata": {
-        "game": "",
-        "id": "tunic",
-        "world_version": "4.1.0",
-        "tag_version": "4.1.0",
-        "created_at": "2025-01-25T21:28:02Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -86028,6 +85972,18 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/JustinMarshall98/Archipelago---YuGiOh-Dungeon-Dice-Monsters-GBA-/releases/download/v0.3.3/yugiohddm.apworld",
+      "size": 70974,
+      "hash_sha256": "45503e86dd028e16da06ace4531dc90acb304de935dce8bb7e578a937aa67df1",
+      "metadata": {
+        "game": "",
+        "id": "yugiohddm",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2026-03-10T22:10:05Z"
       }
     },
     {
