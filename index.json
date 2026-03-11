@@ -44710,6 +44710,22 @@
       }
     },
     {
+      "world": "https://github.com/Jouramie/Archipelago/releases/download/0.6.6-messenger-ut-map/messenger.apworld",
+      "size": 79048,
+      "hash_sha256": "ac1664f4ead07b4fe2b20f60effd35197cfa2b4481c3f43f2ec961502605766b",
+      "metadata": {
+        "game": "",
+        "id": "messenger",
+        "world_version": "0.6.6.post2",
+        "tag_version": "0.6.6.post2",
+        "created_at": "2026-03-11T01:08:30Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Jouramie/Archipelago/releases/download/0.6.6-messenger-ut/messenger.apworld",
       "size": 66918,
       "hash_sha256": "5a830e95f2a66b776552f6a1cca50e10c9bbf4ecb3f2a420ca9887485f596fe2",
