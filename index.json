@@ -3352,6 +3352,19 @@
       }
     },
     {
+      "world": "https://github.com/drtchops/Archipelago-Astalon/releases/download/v0.27.1/astalon.apworld",
+      "size": 308084,
+      "hash_sha256": "db71a77bb5041f60b1a9462f233d5de3ae04e36b8662806914563d0271d2ebc0",
+      "metadata": {
+        "game": "",
+        "id": "astalon",
+        "world_version": "0.27.1",
+        "tag_version": "0.27.1",
+        "created_at": "2026-03-12T00:17:47Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/drtchops/Archipelago-Astalon/releases/download/v0.27.0/astalon.apworld",
       "size": 309732,
       "hash_sha256": "52347d734459e6ba79797bf94d6911d9c28977f5b0a0d0e1d4e77d4e7a66cf32",
@@ -20439,6 +20452,18 @@
         "world_version": "2.1.4",
         "tag_version": "2.1.4",
         "created_at": "2026-03-03T09:14:48Z"
+      }
+    },
+    {
+      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.1.5/factorio_bobs.apworld",
+      "size": 1034279,
+      "hash_sha256": "c4984629e0c652f0488fab6ef41ba8e5ee9d3067fde825a25202e9544c782dcc",
+      "metadata": {
+        "game": "",
+        "id": "factorio_bobs",
+        "world_version": "2.1.4",
+        "tag_version": "2.1.4",
+        "created_at": "2026-03-11T23:20:03Z"
       }
     },
     {
@@ -44694,22 +44719,6 @@
       }
     },
     {
-      "world": "https://github.com/Jouramie/Archipelago/releases/download/0.6.6-messenger-ut/messenger.apworld",
-      "size": 66924,
-      "hash_sha256": "5965354e088125d0a61f0699f9f53d73eede6c2ff6a4a50e29a98cdf6be9358e",
-      "metadata": {
-        "game": "",
-        "id": "messenger",
-        "world_version": "0.6.6.post2",
-        "tag_version": "0.6.6.post2",
-        "created_at": "2026-02-22T22:19:34Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/Jouramie/Archipelago/releases/download/0.6.6-messenger-ut-map/messenger.apworld",
       "size": 79048,
       "hash_sha256": "ac1664f4ead07b4fe2b20f60effd35197cfa2b4481c3f43f2ec961502605766b",
@@ -44719,6 +44728,22 @@
         "world_version": "0.6.6.post2",
         "tag_version": "0.6.6.post2",
         "created_at": "2026-03-11T01:08:30Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Jouramie/Archipelago/releases/download/0.6.6-messenger-ut/messenger.apworld",
+      "size": 66924,
+      "hash_sha256": "5965354e088125d0a61f0699f9f53d73eede6c2ff6a4a50e29a98cdf6be9358e",
+      "metadata": {
+        "game": "",
+        "id": "messenger",
+        "world_version": "0.6.6.post2",
+        "tag_version": "0.6.6.post2",
+        "created_at": "2026-02-22T22:19:34Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -52659,6 +52684,19 @@
       }
     },
     {
+      "world": "https://github.com/Mickemoose/peak-archipelago/releases/download/0.5.8/peak.apworld",
+      "size": 32124,
+      "hash_sha256": "fbdf8588de5575adec2c5a3bb68c7530cc0eec080c79df1b67d4735bfa5c7d54",
+      "metadata": {
+        "game": "",
+        "id": "peak",
+        "world_version": "0.5.8",
+        "tag_version": "0.5.8",
+        "created_at": "2026-03-11T14:12:24Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Mickemoose/peak-archipelago/releases/download/0.5.8.rc-2/peak.apworld",
       "size": 32124,
       "hash_sha256": "fbdf8588de5575adec2c5a3bb68c7530cc0eec080c79df1b67d4735bfa5c7d54",
@@ -53543,6 +53581,19 @@
         "world_version": "0.2.5",
         "tag_version": "0.2.5",
         "created_at": "2026-03-09T22:00:11Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.8/plateup.apworld",
+      "size": 34371,
+      "hash_sha256": "81c498079753184f4909eba2e778492252ae876f1c85a91740479d74859cf323",
+      "metadata": {
+        "game": "",
+        "id": "plateup",
+        "world_version": "0.2.5",
+        "tag_version": "0.2.5",
+        "created_at": "2026-03-11T15:42:13Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -54891,6 +54942,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.20/pokemon_bw.apworld",
+      "size": 37643457,
+      "hash_sha256": "a05dc9d4e0826c46d21085900601e17831b6b47c00486b0d3298a16b797c06ce",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_bw",
+        "world_version": "0.3.20",
+        "tag_version": "0.3.20",
+        "created_at": "2026-03-11T22:54:07Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -82889,6 +82953,19 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-12-18T22:18:17Z"
+      }
+    },
+    {
+      "world": "https://github.com/PixelShake92/Untitled-Goose-Game-Archipelago/releases/download/Alpha_2.2/untitled_goose_game.apworld",
+      "size": 43863,
+      "hash_sha256": "159b1d068e05fb1c8ce34811b994843956a921246d87febd0986820c3b9adf23",
+      "metadata": {
+        "game": "",
+        "id": "untitled_goose_game",
+        "world_version": "2.2",
+        "tag_version": "2.2",
+        "created_at": "2026-03-11T20:37:22Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
