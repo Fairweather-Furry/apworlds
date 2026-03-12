@@ -11718,6 +11718,22 @@
       }
     },
     {
+      "world": "https://github.com/Sim10XXX/C2AP/releases/download/v0.3.0-pre/crash2.apworld",
+      "size": 41274,
+      "hash_sha256": "dd60c8e46de7a00cfc9eb8019707f0ce441c55ee25210c9bcda5c71cbf301590",
+      "metadata": {
+        "game": "",
+        "id": "crash2",
+        "world_version": "0.3.0rc0",
+        "tag_version": "0.3.0rc0",
+        "created_at": "2026-03-12T02:44:23Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Sim10XXX/C2AP/releases/download/v0.2.0/crash2.apworld",
       "size": 36451,
       "hash_sha256": "23f112f52aa41f74f6604307c62a4130d1373c0bdd0ec019f029fbcbc36a2e4d",
@@ -24823,6 +24839,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.2/gl.apworld",
+      "size": 432524,
+      "hash_sha256": "7a7826511ad78a32ae70c72ade389d59a3a93746acda1cf0443f06b327fb85b7",
+      "metadata": {
+        "game": "",
+        "id": "gl",
+        "world_version": "2.1.2",
+        "tag_version": "2.1.2",
+        "created_at": "2026-03-12T03:15:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.1/gl.apworld",
       "size": 432281,
       "hash_sha256": "d22e3816b62c45fd648b996b5fa9bdfce52a666416625476d909c9a515892b3b",
@@ -26851,6 +26880,22 @@
         "world_version": "0.0.0+macexperimental",
         "tag_version": "0.0.0+macexperimental",
         "created_at": "2024-06-08T13:29:03Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v4.1/hammerwatch.apworld",
+      "size": 4316772,
+      "hash_sha256": "229ab4c0ad99326e116bd39de7b5123f48559ade6104f17ccab0d08a2469963f",
+      "metadata": {
+        "game": "",
+        "id": "hammerwatch",
+        "world_version": "4.1",
+        "tag_version": "4.1",
+        "created_at": "2026-03-12T02:53:08Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -74350,6 +74395,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/7.4.4/stardew_valley.apworld",
+      "size": 520577,
+      "hash_sha256": "c6e67cfa473fd4ced1cf3990721679177bb98a4df10e578b0260b04172f5087c",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "7.4.4",
+        "tag_version": "7.4.4",
+        "created_at": "2026-03-12T04:09:32Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/7.4.0/stardew_valley.apworld",
       "size": 525161,
       "hash_sha256": "3e9609bab7f3da9a5cc8e4b829f7b0e4005160b3369e7cdf632e021b64924bfa",
@@ -82149,6 +82210,18 @@
         "tag_version": "0.1.0",
         "created_at": "2025-02-02T11:21:17Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.4.1/ultrakill.apworld",
+      "size": 46057,
+      "hash_sha256": "f9a38f17ae0d15797ca83f0dc9f15544922ae3342063298cc148d1f4de14fe97",
+      "metadata": {
+        "game": "",
+        "id": "ultrakill",
+        "world_version": "3.4.1",
+        "tag_version": "3.4.1",
+        "created_at": "2026-03-12T02:15:13Z"
       }
     },
     {
