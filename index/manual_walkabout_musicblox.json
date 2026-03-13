@@ -117,6 +117,18 @@
       "title": "Tiki \u00e0 Coco!",
       "version_simple": "2.1.0",
       "world_version": "2.1.0"
+    },
+    "2.2.0": {
+      "created_at": "2026-03-13T10:13:10Z",
+      "download_url": "https://github.com/energymaster22/walkabout-mini-golf-ap-manual/releases/download/2.2.0/manual_walkabout_musicblox.apworld",
+      "has_manifest": false,
+      "hash_sha256": "b5af7c8b0f8f0a55323240b07714b6b65e1bc8ddc846f8c9ff93bbb83e2bba5e",
+      "size": 63495,
+      "source_url": "https://api.github.com/repos/energymaster22/walkabout-mini-golf-ap-manual",
+      "tag": "2.2.0",
+      "title": "Hollywood!",
+      "version_simple": "2.2.0",
+      "world_version": "2.2.0"
     }
   }
 }
