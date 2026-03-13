@@ -14778,6 +14778,19 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.18/deep_rock_galactic.apworld",
+      "size": 41088,
+      "hash_sha256": "f63419e0a2ddd32f2c10104d1e41b666832f20f0f3f0a597662c50e286dd670d",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.18.0",
+        "tag_version": "0.18.0",
+        "created_at": "2026-03-12T13:48:26Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.17-Beta/deep_rock_galactic.apworld",
       "size": 31487,
       "hash_sha256": "c53e032cf154f29173e5a0917561e8f448473db1761b7776cae1e39746dde7ec",
@@ -15725,6 +15738,32 @@
         "tag_version": "0.1.0",
         "created_at": "2025-02-06T00:10:12Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Release/releases/download/v1.5.0/dk64.apworld",
+      "size": 37028839,
+      "hash_sha256": "968655e7a8b3b44e0951a107e51869d29708cdf1b6bba136c08220ec09eba1ba",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.5.0.post2",
+        "tag_version": "1.5.0.post2",
+        "created_at": "2026-03-12T20:58:11Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.5.0/dk64.apworld",
+      "size": 37028581,
+      "hash_sha256": "f843cfa853e6667126f49511f7dc002060707f67dcf29e785bc445a711844937",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.5.0",
+        "tag_version": "1.5.0",
+        "created_at": "2026-03-12T20:45:27Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -18071,6 +18110,22 @@
       "world": "https://github.com/Str8UpWHITE64/DRAP/releases/download/0.2.0/drdr.apworld",
       "size": 440463,
       "hash_sha256": "a46b9632794f77b3d86ba74139deee00ac40477fb5db699c025900de69641daa",
+      "metadata": {
+        "game": "",
+        "id": "drdr",
+        "world_version": "0.0.1",
+        "tag_version": "0.0.1",
+        "created_at": "2026-03-08T07:06:39Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Str8UpWHITE64/DRAP/releases/download/0.2.2/drdr.apworld",
+      "size": 441776,
+      "hash_sha256": "61189743febdc23dfe5a718840efc85fe8cd9cc34d5fb7230951412661248fbd",
       "metadata": {
         "game": "",
         "id": "drdr",
@@ -45450,6 +45505,19 @@
       }
     },
     {
+      "world": "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.0.10_dig/minecraft_dig.apworld",
+      "size": 17347,
+      "hash_sha256": "3c96d2b417e9996f301b73ab4f5a88f311e31ea84847c4616cca05e569852d06",
+      "metadata": {
+        "game": "",
+        "id": "minecraft_dig",
+        "world_version": "0.0.10",
+        "tag_version": "0.0.10",
+        "created_at": "2026-03-08T19:18:59Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
       "world": "https://github.com/jacobmix/Minecraft_AP_Randomizer/releases/download/0.0.9_dig/minecraft_dig.apworld",
       "size": 17216,
       "hash_sha256": "110962b68b50a0e37273cfa71c6b3ccdd9cdbcdc934e9cc1231d8aa3419b24d2",
@@ -53639,6 +53707,19 @@
         "world_version": "0.2.5",
         "tag_version": "0.2.5",
         "created_at": "2026-03-11T15:42:13Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.5.9/plateup.apworld",
+      "size": 37057,
+      "hash_sha256": "a602c52c86a07ba899fb97524c2f3cd62468a6b0498aced64a0b40faec0cebb4",
+      "metadata": {
+        "game": "",
+        "id": "plateup",
+        "world_version": "0.2.5",
+        "tag_version": "0.2.5",
+        "created_at": "2026-03-10T10:38:02Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -72678,6 +72759,19 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S3AP/releases/download/1.3.2/spyro3.apworld",
+      "size": 53317,
+      "hash_sha256": "3d4a0287bc69bdb475312705ce49d489315b28f94fad031234be8d3c357fc524",
+      "metadata": {
+        "game": "",
+        "id": "spyro3",
+        "world_version": "1.3.2",
+        "tag_version": "1.3.2",
+        "created_at": "2026-03-12T18:55:00Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S3AP/releases/download/1.3.1/spyro3.apworld",
       "size": 54243,
       "hash_sha256": "bf20c155738c67907e3722f334b8f8641a383c252e98456458356f4e076835fc",
@@ -82210,6 +82304,18 @@
         "tag_version": "0.1.0",
         "created_at": "2025-02-02T11:21:17Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.4.2/ultrakill.apworld",
+      "size": 46067,
+      "hash_sha256": "b4b181687f89d43be64692c92b69571fd7ea2c9872546551cc7cad0770d531ac",
+      "metadata": {
+        "game": "",
+        "id": "ultrakill",
+        "world_version": "3.4.2",
+        "tag_version": "3.4.2",
+        "created_at": "2026-03-13T01:48:15Z"
       }
     },
     {
