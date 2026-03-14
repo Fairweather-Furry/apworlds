@@ -23312,6 +23312,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.4/flipwitch.apworld",
+      "size": 72190,
+      "hash_sha256": "6f89f0c533be38ceb2fa1c81bb7b96a6e7060d4d8d87b76395fe7db7a21776cc",
+      "metadata": {
+        "game": "",
+        "id": "flipwitch",
+        "world_version": "1.0.4",
+        "tag_version": "1.0.4",
+        "created_at": "2026-03-02T13:39:32Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.3/flipwitch.apworld",
       "size": 72175,
       "hash_sha256": "0d99f16e52e9a6192bcdb8091cb04536e4dbab864ae535c1bcd148786ae547ea",
@@ -64066,6 +64081,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.11.0/rotn.apworld",
+      "size": 16649,
+      "hash_sha256": "2ffd9e3f73bbd2a94acb2d92e9dcc7885b07d26424fbdccb43ab72cadbb9ac69",
+      "metadata": {
+        "game": "",
+        "id": "rotn",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-03-14T04:34:00Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
