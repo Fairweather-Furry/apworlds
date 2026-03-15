@@ -4891,6 +4891,22 @@
       }
     },
     {
+      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.5/banjo_tooie.apworld",
+      "size": 272800,
+      "hash_sha256": "030d23365807e09a767f51bc00a1afc789c7807489b28fa5c9b0c96e6d72120c",
+      "metadata": {
+        "game": "",
+        "id": "banjo_tooie",
+        "world_version": "4.11.5",
+        "tag_version": "4.11.5",
+        "created_at": "2025-12-26T23:18:09Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.4/banjo_tooie.apworld",
       "size": 274495,
       "hash_sha256": "63bd3f3091e8dc68b466be9f615061949f571e4c6f7917e744bf9cc763ef23bd",
@@ -9015,6 +9031,19 @@
         "tag_version": "0.0.1",
         "created_at": "2025-09-12T14:07:40Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.6.6/casualtiesunknown.apworld",
+      "size": 81809,
+      "hash_sha256": "15cdc0b58313d75dfffa5bd0376270be46a99b89eb21a8430d8224074aed27b9",
+      "metadata": {
+        "game": "",
+        "id": "casualtiesunknown",
+        "world_version": "0.6.6",
+        "tag_version": "0.6.6",
+        "created_at": "2026-03-15T08:59:49Z",
+        "minimum_ap_version": "0.6.6"
       }
     },
     {
@@ -23308,6 +23337,21 @@
         "flags": [
           "unready",
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.4/flipwitch.apworld",
+      "size": 72208,
+      "hash_sha256": "c068c4227c6ddae6b05ad86b7d5f036360448a132c4f669b4fa483f775696db9",
+      "metadata": {
+        "game": "",
+        "id": "flipwitch",
+        "world_version": "1.0.4.post2",
+        "tag_version": "1.0.4.post2",
+        "created_at": "2026-03-02T13:39:32Z",
+        "flags": [
+          "after_dark"
         ]
       }
     },
@@ -47636,6 +47680,22 @@
       }
     },
     {
+      "world": "https://github.com/Stuff691734/ModdedMCArchipelago/releases/download/2.0.0/moddedminecraft.apworld",
+      "size": 7815,
+      "hash_sha256": "fa538d946979de09a77f96e2a0daeae133fb83bcd6c019cc2eae48f08de10268",
+      "metadata": {
+        "game": "",
+        "id": "moddedminecraft",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-03-15T03:47:00Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Stuff691734/ModdedMCArchipelago/releases/download/v1.0.2/moddedminecraft.apworld",
       "size": 5664,
       "hash_sha256": "65ce093236bc0084ed842bad5b32f94103eceaad84945b1e556e41f535515f2d",
@@ -52859,6 +52919,22 @@
         "tag_version": "1.0",
         "created_at": "2023-07-06T20:05:38Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Mickemoose/peak-archipelago/releases/download/0.5.9.rc-1/peak.apworld",
+      "size": 46400,
+      "hash_sha256": "b0e445da08d02953a0443dca3530214d77476b6b340795d2dbcea2fb9c18be36",
+      "metadata": {
+        "game": "",
+        "id": "peak",
+        "world_version": "0.5.9rc1",
+        "tag_version": "0.5.9rc1",
+        "created_at": "2026-03-15T03:58:06Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -58766,6 +58842,19 @@
       }
     },
     {
+      "world": "https://github.com/GlassToadstool/Archipelago/releases/download/0.6.0/portal2.apworld",
+      "size": 45447,
+      "hash_sha256": "e45298ae7bb1d50b532b0fc76c656ccb212a8705c01b9e2cf848bff3fc1211e7",
+      "metadata": {
+        "game": "",
+        "id": "portal2",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-03-15T08:14:47Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/GlassToadstool/Archipelago/releases/download/0.5.2/portal2.apworld",
       "size": 39659,
       "hash_sha256": "0fbc631a3b65eab303ec85d1062af4b8ae4c72950f1eddb8c93be11db4efd458",
@@ -61807,6 +61896,18 @@
         "tag_version": "2.0rc2",
         "created_at": "2025-06-26T22:12:48Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/alphappy/ArchipelagoRW/releases/download/v1.5.1/rain_world.apworld",
+      "size": 178536,
+      "hash_sha256": "94af8493ce67724953aef5cb3b7916d221ac4a62f9fba9eb850aa2432a0eb868",
+      "metadata": {
+        "game": "",
+        "id": "rain_world",
+        "world_version": "1.5.1",
+        "tag_version": "1.5.1",
+        "created_at": "2026-03-15T04:33:42Z"
       }
     },
     {
@@ -73408,6 +73509,22 @@
         "world_version": "2",
         "tag_version": "2",
         "created_at": "2025-04-26T12:47:25Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/GraymonDgt/SRB2Archipelago/releases/download/v1.6.1/srb2.apworld",
+      "size": 87030,
+      "hash_sha256": "0610dcd70b04038010eba02297d657a3a431e04870004fac8692bb84a9598d09",
+      "metadata": {
+        "game": "",
+        "id": "srb2",
+        "world_version": "1.6.1",
+        "tag_version": "1.6.1",
+        "created_at": "2026-03-15T09:15:23Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "unready"

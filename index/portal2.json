@@ -213,6 +213,19 @@
       "title": "Portal 2 Archipelago v0.5",
       "version_simple": "0.5.0",
       "world_version": "0.5.0"
+    },
+    "0.6.0": {
+      "created_at": "2026-03-15T08:14:47Z",
+      "download_url": "https://github.com/GlassToadstool/Archipelago/releases/download/0.6.0/portal2.apworld",
+      "has_manifest": true,
+      "hash_sha256": "e45298ae7bb1d50b532b0fc76c656ccb212a8705c01b9e2cf848bff3fc1211e7",
+      "minimum_ap_version": "0.6.3",
+      "size": 45447,
+      "source_url": "https://api.github.com/repos/GlassToadstool/Archipelago",
+      "tag": "0.6.0",
+      "title": "Portal 2 Archipelago v0.6.0",
+      "version_simple": "0.6.0",
+      "world_version": "0.6.0"
     }
   }
 }
