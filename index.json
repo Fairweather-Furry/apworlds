@@ -55136,6 +55136,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.23/pokemon_bw.apworld",
+      "size": 37642598,
+      "hash_sha256": "aceeb485b5eaff8f0d6417817fb0b96f056a9ddcbb39252567b34a51bdbf549a",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_bw",
+        "world_version": "0.3.23",
+        "tag_version": "0.3.23",
+        "created_at": "2026-03-14T11:11:28Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.21/pokemon_bw.apworld",
       "size": 37641927,
       "hash_sha256": "47e3e154d467ef43039d74f14068462190535ac2eb97ec1bdc74466082588641",
@@ -59344,6 +59357,19 @@
         "flags": [
           "unready"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/pseudoregalia-modding/pseudoregalia-archipelago/releases/download/0.10.2/pseudoregalia.apworld",
+      "size": 31879,
+      "hash_sha256": "54a99a2bad4ff7e240dcd218f2251e908fda31dc17fe39b16a266aa3c99d1f45",
+      "metadata": {
+        "game": "",
+        "id": "pseudoregalia",
+        "world_version": "0.10.2",
+        "tag_version": "0.10.2",
+        "created_at": "2026-03-14T18:23:41Z",
+        "minimum_ap_version": "0.6.2"
       }
     },
     {
@@ -76469,6 +76495,22 @@
       }
     },
     {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.12/tevi.apworld",
+      "size": 163392,
+      "hash_sha256": "5b93ff542921e5cf9faf31d836c312678b5a905f92cdbbe9f834dee2db0476a9",
+      "metadata": {
+        "game": "",
+        "id": "tevi",
+        "world_version": "1.4.12",
+        "tag_version": "1.4.12",
+        "created_at": "2026-03-14T12:53:18Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.11/tevi.apworld",
       "size": 173372,
       "hash_sha256": "a38a35e54b0d4210bd6e3f9d7598ca8a428a69efa8165eed32099acdedfaba22",
@@ -77768,6 +77810,19 @@
       }
     },
     {
+      "world": "https://github.com/IgnisUmbrae/TJE-Archipelago/releases/download/v0.5.2/tje.apworld",
+      "size": 307966,
+      "hash_sha256": "a1990919428d52799eb3537f5800a67a6cf4f50ebe789929084521700d085e03",
+      "metadata": {
+        "game": "",
+        "id": "tje",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-03-14T20:34:02Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/IgnisUmbrae/TJE-Archipelago/releases/download/v0.5.1/tje.apworld",
       "size": 302813,
       "hash_sha256": "08497573991e0fe16805b80f47f2889846b7f3246af1cc0335f3a41925a5bc72",
@@ -78225,6 +78280,38 @@
         "tag_version": "ooa",
         "created_at": null,
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-18.0.1/tloz_oos.apworld",
+      "size": 640571,
+      "hash_sha256": "bae0f7d96ba969be5a04a44096911212f63e4637255984cde301c90eacbad7ef",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "18.0.1",
+        "tag_version": "18.0.1",
+        "created_at": "2026-03-15T01:17:41Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-18.0.0/tloz_oos.apworld",
+      "size": 640563,
+      "hash_sha256": "688732ff86d4cf295691a6157b8cbbc6aa691497cfa83db378f55107c48a1724",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "18.0.0",
+        "tag_version": "18.0.0",
+        "created_at": "2026-03-15T00:59:47Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
