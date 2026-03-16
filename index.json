@@ -25734,6 +25734,22 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.0-PR7/grinch.apworld",
+      "size": 123263,
+      "hash_sha256": "7857d0e1d1e79ef4ba5db334798066a1f130b7bb6e57001bac92dc82dd7c53bc",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.5.0",
+        "tag_version": "1.5.0",
+        "created_at": "2026-03-16T04:57:12Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.4.0/grinch.apworld",
       "size": 108418,
       "hash_sha256": "624f54caacd76dd507bf2432a07cb239a658f1f84393639b9f2df6d0f6fa0c44",
@@ -83652,6 +83668,19 @@
         "flags": [
           "unready"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.0/vampire_survivors.apworld",
+      "size": 28256,
+      "hash_sha256": "cc3878a57b86256b16bff8760b0aa9ae2d997a55a96db51001499c79ab72d0a9",
+      "metadata": {
+        "game": "",
+        "id": "vampire_survivors",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-03-16T04:00:57Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
