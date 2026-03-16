@@ -62,6 +62,19 @@
       "title": "Pinball FX3 - 1.1.1",
       "version_simple": "1.1.1",
       "world_version": "1.1.1.post2"
+    },
+    "pinballfx3-v1.1.1r3": {
+      "created_at": "2026-02-10T11:31:11Z",
+      "download_url": "https://github.com/SerpentAI/Archipelago/releases/download/pinballfx3-v1.1.1/pinball_fx3.apworld",
+      "has_manifest": true,
+      "hash_sha256": "2ab1379f0e43fa44e8c2af6117d17a94ddbeb7d55988a922844f09335afdc128",
+      "minimum_ap_version": "0.6.5",
+      "size": 1989320,
+      "source_url": "https://api.github.com/repos/SerpentAI/Archipelago",
+      "tag": "pinballfx3-v1.1.1r3",
+      "title": "Pinball FX3 - 1.1.1",
+      "version_simple": "1.1.1",
+      "world_version": "1.1.1.post3"
     }
   }
 }
