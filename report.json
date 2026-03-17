@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
-  "total_packages": 609,
-  "total_versions": 6321,
+  "total_packages": 610,
+  "total_versions": 6327,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -185,7 +185,7 @@
     "isles_of_sea_and_sky": false,
     "ittle_dew_2": false,
     "jakanddaxter": true,
-    "jakii": false,
+    "jakii": true,
     "jet_island": false,
     "jigsaw": true,
     "junko": true,
@@ -587,9 +587,9 @@
     "0.6.7": 2
   },
   "max_maximum_ap_version": {
-    "": 255,
+    "": 256,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 298
+    "0.6.99": 297
   }
 }
