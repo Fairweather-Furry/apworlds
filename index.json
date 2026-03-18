@@ -6654,6 +6654,18 @@
       }
     },
     {
+      "world": "https://github.com/BK-Simulator/BK-Simulator/releases/download/1.0.0/bksim.apworld",
+      "size": 7375,
+      "hash_sha256": "24b738b470885360ce7dc9da37780f5873855747e28e2fdb62b0df01156c8c86",
+      "metadata": {
+        "game": "",
+        "id": "bksim",
+        "world_version": "0.1.2",
+        "tag_version": "0.1.2",
+        "created_at": "2026-03-18T04:41:37Z"
+      }
+    },
+    {
       "world": "https://github.com/BK-Simulator/BK-Simulator/releases/download/0.1.1/bksim.apworld",
       "size": 7244,
       "hash_sha256": "10d6721cfb08db6dfffba4e30ca62f11dc70256b1f4dc0ea344b22d5ea2bd97e",
@@ -76193,6 +76205,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/barretg/Taskipelago/releases/download/v0.5.2/taskipelago.apworld",
+      "size": 22757,
+      "hash_sha256": "a0e2608459f67ab7e136113cbf8c4783c5300b7b68343c342b8cdd3b1d911363",
+      "metadata": {
+        "game": "",
+        "id": "taskipelago",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-03-18T06:57:34Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
