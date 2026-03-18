@@ -1,30 +1,42 @@
-# PlateUp Multiworld Setup Guide
+# PlateUp! Randomizer Setup Guide
 
 ## Required Software
 
-- [PlateUp!](https://store.steampowered.com/app/1599600/PlateUp/) on Steam
-- [PlateUp Archipelago Mod](https://github.com/CazIsABoi/PlateUpArchipelago) (follow the installation instructions in that repository)
+- [Archipelago](github.com/ArchipelagoMW/Archipelago/releases/latest)
+- [The PlateUp apworld](https://github.com/CazIsABoi/Archipelago/releases), 
+  if not bundled with your version of Archipelago
+- [PlateUp Archipelago Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=3484431423) 
+  available in the Steam workshop as "Archipelago for PlateUp!"
+- Be sure to also install any mods that are listed as dependencies. Steam will ask.
 
-## Installation
+## How to play
 
-1. Install the PlateUp Archipelago mod by following the instructions in the mod repository.
-2. Launch PlateUp with the mod enabled.
-3. In the Archipelago connection settings, enter your server address, slot name, and password.
-4. Connect and begin your run — day completions and other checks will automatically send items.
+First, you need a room to connect to. For this, you or someone you know has to generate a game.  
+This will not be explained here,
+but you can check the [Archipelago Setup Guide](https://archipelago.gg/tutorial/Archipelago/setup_en#generating-a-game).
 
-## Options
+You also need to have [Archipelago](github.com/ArchipelagoMW/Archipelago/releases/latest) installed
+and the [The APQuest apworld](https://github.com/CazIsABoi/Archipelago/releases) installed into Archipelago.
 
-Configure your PlateUp randomizer experience on your [player settings page](../player-settings). Key options include:
+## How to install
 
-- **Goal**: Choose between completing X days, franchising X times, or reaching a target day with a minimum number of dishes.
-- **Dish Count**: How many dishes are randomized into the item pool.
-- **Day Count / Franchise Count**: The length of your run.
-- **Trap Cards**: Enable or disable negative trap items in the pool.
-- **Speed Upgrades**: Configure how many player and appliance speed upgrades are included.
+1. [Recommended] Subscribe to the mod on the Steam Workshop
+2. Via GitHub
+   1. Download the zip file
+   2. Put the unzipped mod folder in the Mods folder (Windows: C:\Program Files (x86)\Steam\steamapps\common\PlateUp\PlateUp\Mods)
 
-## Connecting to a MultiWorld
+## How to connect
 
-1. Open PlateUp with the Archipelago mod installed.
-2. From the main menu, open the Archipelago connection panel.
-3. Enter the server hostname, your slot name, and the room password (if any).
-4. Click **Connect** and start a new run — your multiworld session will begin automatically.
+After installing the mod, launch PlateUp!. After going into the HQ (Lobby), you can open the menu and click through 
+the menu to find the "PlateupAP" menu: Options > PreferenceSystem > PlateupAP
+
+From here, you can use the "Create Config" option to generate a file where you can enter your room's connection info.
+This creates a file named `archipelago_config.json`
+
+- Windows: You can find the file by pressing `Windows` + `R` and pasting in the following path: 
+   `%AppData%\..\LocalLow\It's Happening\PlateUp`
+- Linux and Others: Starting from your Steam install folder, it may be located in a path like: 
+    `./Steam/steamapps/compatdata/1599600/pfx/drive_c/users/steamuser/AppData/LocalLow/It%27s%20Happening/PlateUp/PlateUpAPConfig/`
+
+Fill this file out with your room's info. If you don't have a username and/or password, then you can leave these fields 
+alone. Save the file and return to the game. Now you can click "Connect" to attempt to connect to the server.
