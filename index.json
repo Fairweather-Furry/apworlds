@@ -4021,6 +4021,19 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.13/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-03-19T20:50:57Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.2/autopelago.apworld",
       "size": 25294,
       "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
@@ -4124,19 +4137,6 @@
         "world_version": "0.11.0",
         "tag_version": "0.11.0",
         "created_at": "2026-01-31T20:15:16Z",
-        "minimum_ap_version": "0.6.4"
-      }
-    },
-    {
-      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.13/autopelago.apworld",
-      "size": 25294,
-      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
-      "metadata": {
-        "game": "",
-        "id": "autopelago",
-        "world_version": "0.11.0",
-        "tag_version": "0.11.0",
-        "created_at": "2026-03-19T20:50:57Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -84110,6 +84110,19 @@
         "flags": [
           "unready"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.1/vampire_survivors.apworld",
+      "size": 27950,
+      "hash_sha256": "8f009a0b5b3af07e859dc83a27fbaa6cc0649986089fdc0631f8548b1126c431",
+      "metadata": {
+        "game": "",
+        "id": "vampire_survivors",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-03-20T03:35:54Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
