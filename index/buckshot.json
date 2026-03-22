@@ -101,6 +101,19 @@
       "title": "APBuckshot 0.1.2",
       "version_simple": "0.1.2",
       "world_version": "0.1.2"
+    },
+    "v0.2.0": {
+      "created_at": "2026-03-22T01:10:17Z",
+      "download_url": "https://github.com/asdfwyay/APBuckshot/releases/download/v0.2.0/buckshot.apworld",
+      "has_manifest": true,
+      "hash_sha256": "edc8ff4e3e9f258f63ad8d49fe3765da58b6f18ae8ea4ad514a44938afab475d",
+      "minimum_ap_version": "0.6.4",
+      "size": 20156,
+      "source_url": "https://api.github.com/repos/asdfwyay/APBuckshot",
+      "tag": "v0.2.0",
+      "title": "APBuckshot 0.2.0",
+      "version_simple": "0.2.0",
+      "world_version": "0.2.0"
     }
   }
 }
