@@ -4178,6 +4178,22 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.14/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-03-24T01:34:58Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/airbreather/Autopelago/releases/download/v0.10.4/autopelago.apworld",
       "size": 25648,
       "hash_sha256": "d3b91745b3bfb163ef7bf03d5cba7771e306e251df73748d4365ac8fa18d8ba0",
@@ -43657,6 +43673,19 @@
       }
     },
     {
+      "world": "https://github.com/aXu-AP/archipelago-double-dash/releases/download/v0.3.0/mario_kart_double_dash.apworld",
+      "size": 168495,
+      "hash_sha256": "2c8dd6b78e4e4a0ec2e22f32952181b8a7cdc3aa9299e957f4bdd4c92c6880fa",
+      "metadata": {
+        "game": "",
+        "id": "mario_kart_double_dash",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-03-23T18:11:48Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/aXu-AP/archipelago-double-dash/releases/download/v0.2.3/mario_kart_double_dash.apworld",
       "size": 141682,
       "hash_sha256": "5c455ec979e2194da4f1ef532b296939d79258cbeebf4f3d714cb349f0b0bf9e",
@@ -44879,6 +44908,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.4.4B/megamix.apworld",
+      "size": 45458,
+      "hash_sha256": "10be08c91d7d396c9874c1447e3aa6a553c3d85d7722a843f22479d8a2948558",
+      "metadata": {
+        "game": "",
+        "id": "megamix",
+        "world_version": "1.4.4.post2",
+        "tag_version": "1.4.4.post2",
+        "created_at": "2026-03-22T23:26:06Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -77586,6 +77628,22 @@
       }
     },
     {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.14/tevi.apworld",
+      "size": 163984,
+      "hash_sha256": "eeed8eff7a087eb141835945adcec5ae09f824b167af44f374ea9fcbaf3a9c55",
+      "metadata": {
+        "game": "",
+        "id": "tevi",
+        "world_version": "1.4.14",
+        "tag_version": "1.4.14",
+        "created_at": "2026-03-23T18:09:15Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.4.13/tevi.apworld",
       "size": 163758,
       "hash_sha256": "7bd6d2a7e575937f4ef0ffbc33722e53f38f4f6c62d65cf7d6082997f9eeaba8",
@@ -79425,6 +79483,22 @@
         "world_version": "19.0.1",
         "tag_version": "19.0.1",
         "created_at": "2026-03-23T03:09:16Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-19.0.2/tloz_oos.apworld",
+      "size": 240109,
+      "hash_sha256": "c65fb1a695181f51ddca9f4dc54874f6cac746d8f5480497befb73fad778c0c7",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "19.0.1",
+        "tag_version": "19.0.1",
+        "created_at": "2026-03-23T15:21:23Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
