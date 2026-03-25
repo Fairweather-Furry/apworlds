@@ -14545,6 +14545,19 @@
       }
     },
     {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.4.3/dc1.apworld",
+      "size": 81671,
+      "hash_sha256": "7c1b2cc029c375fc3f4c20d5734d85636f73a724a1a9790ccd8d425c2277483d",
+      "metadata": {
+        "game": "",
+        "id": "dc1",
+        "world_version": "0.4.3",
+        "tag_version": "0.4.3",
+        "created_at": "2026-03-24T16:17:32Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.4.2/dc1.apworld",
       "size": 65747,
       "hash_sha256": "20c11777398fbe3abf437e3f64aed35b408aab7962b2405bece2ce45602436ac",
@@ -40184,6 +40197,19 @@
       }
     },
     {
+      "world": "https://github.com/Gameplushy/manual_Meteos_Konoko/releases/download/v1.1/manual_Meteos_Konoko.apworld",
+      "size": 157717,
+      "hash_sha256": "369e678d1a29145665471adb22ab50cd015083204edc593d6d0436d04ad10bc2",
+      "metadata": {
+        "game": "",
+        "id": "manual_Meteos_Konoko",
+        "world_version": "1.1",
+        "tag_version": "1.1",
+        "created_at": "2026-03-24T21:03:31Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Gameplushy/manual_Meteos_Konoko/releases/download/prod/manual_Meteos_Konoko.apworld",
       "size": 150403,
       "hash_sha256": "5378a50f5a08add456cc767ee043f9c94b0b5348ea6e23fe079ffec2ab498507",
@@ -45912,6 +45938,19 @@
       }
     },
     {
+      "world": "https://github.com/QPL22/MHW_Archipelago/releases/download/v0.1.3-alpha/mhw.apworld",
+      "size": 15979,
+      "hash_sha256": "f342d6ee1954896e8ec9938dea68418e429bb4e1a43757992c7d9a76752791b4",
+      "metadata": {
+        "game": "",
+        "id": "mhw",
+        "world_version": "0.1.3a0",
+        "tag_version": "0.1.3a0",
+        "created_at": "2026-03-24T21:09:21Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/QPL22/MHW_Archipelago/releases/download/v0.1.2-alpha/mhw.apworld",
       "size": 15914,
       "hash_sha256": "5da0676b413e8a4d6af31e6c6ef6e0c82f3b71f4a2e81761b3238c386b10f97e",
@@ -48141,6 +48180,19 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-08-19T18:28:44Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.2.1/mmzero3.apworld",
+      "size": 40988,
+      "hash_sha256": "4f48b0a74c906bfddc8d1adfb4761532e8e866c12e60afcbdfdbb2e90576ef92",
+      "metadata": {
+        "game": "",
+        "id": "mmzero3",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-03-24T23:52:27Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -65515,6 +65567,22 @@
       }
     },
     {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.1-pre-release-1/sadx.apworld",
+      "size": 3155774,
+      "hash_sha256": "aee0b77ec2af43c6f9ffef6aae7d806a06dc3b153f9b8e796423e352c59e37f4",
+      "metadata": {
+        "game": "",
+        "id": "sadx",
+        "world_version": "1.2.1rc0.post0",
+        "tag_version": "1.2.1rc0.post0",
+        "created_at": "2026-03-24T23:53:14Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.0/sadx.apworld",
       "size": 3155667,
       "hash_sha256": "525ff9508bb492bb0b71a0a852b371891f8e2e639a08f1e3cbc02bb9235b5d9a",
@@ -66392,6 +66460,22 @@
         "flags": [
           "unready",
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/MacH8s/Narcopelago/releases/download/v3.5.3/Schedule_I.apworld",
+      "size": 33387,
+      "hash_sha256": "2626d006ac18cd96fda5db58acb21a3b9ba9c8c9fdb490b0670a36f93b13a901",
+      "metadata": {
+        "game": "",
+        "id": "Schedule_I",
+        "world_version": "3.5.3",
+        "tag_version": "3.5.3",
+        "created_at": "2026-03-24T19:43:06Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "unready"
         ]
       }
     },
@@ -71210,6 +71294,19 @@
       }
     },
     {
+      "world": "https://github.com/EthicalLogic-Archipelago-Org/SonicHeroesArchipelago/releases/download/2.2.0/sonic_heroes.apworld",
+      "size": 204372,
+      "hash_sha256": "3bbb9a2c9d20c11168b1496b050defa5a4a91db3098c3495cdca276d67bceb55",
+      "metadata": {
+        "game": "",
+        "id": "sonic_heroes",
+        "world_version": "2.2.0",
+        "tag_version": "2.2.0",
+        "created_at": "2026-03-08T22:17:43Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/EthicalLogic-Archipelago-Org/SonicHeroesArchipelago/releases/download/2.1.0/sonic_heroes.apworld",
       "size": 202933,
       "hash_sha256": "1e104a1275778aad4331c8bee6c263f073eb58c730f21f8d85c911c1a8e75907",
@@ -75764,6 +75861,22 @@
         "world_version": "7.4.4",
         "tag_version": "7.4.4",
         "created_at": "2026-03-12T04:09:32Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/7.4.5/stardew_valley.apworld",
+      "size": 520577,
+      "hash_sha256": "c6e67cfa473fd4ced1cf3990721679177bb98a4df10e578b0260b04172f5087c",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "7.4.4",
+        "tag_version": "7.4.4",
+        "created_at": "2026-03-25T00:43:27Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
