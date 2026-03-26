@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
-  "total_packages": 612,
-  "total_versions": 6418,
+  "total_packages": 611,
+  "total_versions": 6415,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -315,7 +315,6 @@
     "manual_thehuntercotwtrophyhunt_camoufladies": false,
     "manual_thevault_chakraa": false,
     "Manual_TheWrathofCortex_MuffinJets": false,
-    "manual_thmusic_awesome7285": true,
     "manual_vampiresurvivors_jones": false,
     "manual_walkabout_energymaster": false,
     "manual_walkabout_musicblox": false,
@@ -580,14 +579,14 @@
     "0.6.0": 13,
     "0.6.1": 12,
     "0.6.2": 9,
-    "0.6.3": 56,
+    "0.6.3": 55,
     "0.6.4": 60,
     "0.6.5": 15,
     "0.6.6": 14,
     "0.6.7": 2
   },
   "max_maximum_ap_version": {
-    "": 260,
+    "": 259,
     "0.0.1": 1,
     "0.4.6": 5,
     "0.6.6": 1,

@@ -25448,6 +25448,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.3/gl.apworld",
+      "size": 432390,
+      "hash_sha256": "af664564fcd735cafe4cc3aef5ba87e7d43bbb960d1902c61aaa4bd084fe917d",
+      "metadata": {
+        "game": "",
+        "id": "gl",
+        "world_version": "2.1.3",
+        "tag_version": "2.1.3",
+        "created_at": "2026-03-26T02:52:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.2/gl.apworld",
       "size": 432524,
       "hash_sha256": "7a7826511ad78a32ae70c72ade389d59a3a93746acda1cf0443f06b327fb85b7",
@@ -42770,84 +42783,6 @@
       }
     },
     {
-      "world": "https://github.com/Awesome7285/manual_thmusic_awesome7285/releases/download/v0.1.5/manual_thmusic_awesome7285.apworld",
-      "size": 397461,
-      "hash_sha256": "dbff819ad5297f94f7adacaa66cdedfad3588e8a698387d7d5904a9e86a8bae9",
-      "metadata": {
-        "game": "",
-        "id": "manual_thmusic_awesome7285",
-        "world_version": "0.1.5",
-        "tag_version": "0.1.5",
-        "created_at": "2025-11-22T06:13:26Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/Awesome7285/manual_thmusic_awesome7285/releases/download/v0.1.4/manual_thmusic_awesome7285.apworld",
-      "size": 79370,
-      "hash_sha256": "440d82dd0cb1b334562f75fc466c72967d16a43b2fcb067098c15e82f965f38d",
-      "metadata": {
-        "game": "",
-        "id": "manual_thmusic_awesome7285",
-        "world_version": "0.1.4",
-        "tag_version": "0.1.4",
-        "created_at": "2025-11-10T08:47:27Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/Awesome7285/manual_thmusic_awesome7285/releases/download/v0.1.5/manual_thmusic_awesome7285.apworld",
-      "size": 397181,
-      "hash_sha256": "cbf4affb7da4ad93b32d9a8aac57e536a368e434b521572a67eebbd4cc369419",
-      "metadata": {
-        "game": "",
-        "id": "manual_thmusic_awesome7285",
-        "world_version": "0.1.4",
-        "tag_version": "0.1.4",
-        "created_at": "2025-11-22T06:13:26Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/Awesome7285/manual_thmusic_awesome7285/releases/download/v0.1.3/manual_thmusic_awesome7285.apworld",
-      "size": 502289,
-      "hash_sha256": "0b7072c39773fb021acd4b41987f28bedfc56988dec687342069d403d4b43764",
-      "metadata": {
-        "game": "",
-        "id": "manual_thmusic_awesome7285",
-        "world_version": "0.1.3",
-        "tag_version": "0.1.3",
-        "created_at": "2025-09-17T14:30:11Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Awesome7285/manual_thmusic_awesome7285/releases/download/v0.1.2/manual_thmusic_awesome7285.apworld",
-      "size": 502169,
-      "hash_sha256": "f86f3633b8336b67096ddc2ae63708d887ff0d95969e1a567f57c6ce06cd8138",
-      "metadata": {
-        "game": "",
-        "id": "manual_thmusic_awesome7285",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2025-09-16T11:26:53Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Awesome7285/manual_thmusic_awesome7285/releases/download/v0.1.1/manual_thmusic_awesome7285.apworld",
-      "size": 443162,
-      "hash_sha256": "de610dd6876c9a6672e532734a066273aacc064ab0bc34d7a63c8d59a939490c",
-      "metadata": {
-        "game": "",
-        "id": "manual_thmusic_awesome7285",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2025-09-15T04:52:43Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/wrjones104/manual_vampiresurvivors_jones/releases/download/v1.9.2/manual_vampiresurvivors_jones.apworld",
       "size": 395912,
       "hash_sha256": "87668cd3f35c11a02e21f3da849d668d5368baf7d3d089fe455de0228c25c917",
@@ -47019,6 +46954,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Edsploration/MK64-Archipelago/releases/download/mk64/0.2.5/mk64.apworld",
+      "size": 126366,
+      "hash_sha256": "2ffc549e4d13e82802ca0c3f1e495b14fb5314541fc440d57f9eccb08c1131fc",
+      "metadata": {
+        "game": "",
+        "id": "mk64",
+        "world_version": "0.2.5",
+        "tag_version": "0.2.5",
+        "created_at": "2024-04-01T04:07:57Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -70137,6 +70085,22 @@
       }
     },
     {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.0.4/sm64hacks.apworld",
+      "size": 292548,
+      "hash_sha256": "c14c07f5b185281e56b40fca4db7f59104589ada7b718f592c88532a0cf8e701",
+      "metadata": {
+        "game": "",
+        "id": "sm64hacks",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-03-26T05:17:42Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.4/sm64hacks.apworld",
       "size": 274762,
       "hash_sha256": "f7274269792c12a939c4ea86857fc48e2ce513dc24955103c741319820b50751",
@@ -89665,10 +89629,6 @@
     },
     "Manual_TheWrathofCortex_MuffinJets": {
       "game": "Manual_TheWrathofCortex_MuffinJets",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_thmusic_awesome7285": {
-      "game": "Manual_THMusic_Awesome7285",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_vampiresurvivors_jones": {
