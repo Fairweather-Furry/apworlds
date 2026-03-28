@@ -17,6 +17,18 @@
       "version_simple": "0.0.10",
       "world_version": "0.0.10"
     },
+    "0.0.11": {
+      "created_at": "2026-03-28T02:55:20Z",
+      "download_url": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.11/yarg.apworld",
+      "has_manifest": false,
+      "hash_sha256": "68b080b2cfb2ed3b52384bd53f8f54cdcf78c43ed6ad4be847dbe0af3b11a510",
+      "size": 30114,
+      "source_url": "https://api.github.com/repos/energymaster22/YARGArchipelago",
+      "tag": "0.0.11",
+      "title": "0.0.11",
+      "version_simple": "0.0.11",
+      "world_version": "0.0.11"
+    },
     "0.0.4": {
       "created_at": "2025-12-30T07:03:36Z",
       "download_url": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.4/yarg.apworld",

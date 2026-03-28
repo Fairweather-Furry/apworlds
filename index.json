@@ -14070,6 +14070,19 @@
       }
     },
     {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0/cv_dos.apworld",
+      "size": 90051,
+      "hash_sha256": "ec8dc72b52f1923389bcd9ec5b63a2cdbdb732cecffc4ea8b866928c5b7c91ab",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-03-09T21:48:16Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos1.4/cv_dos.apworld",
       "size": 70319,
       "hash_sha256": "09ea9853e10e9f199d315dd536bb78e21c9110f5415b1c0c6efda2a2dd74c009",
@@ -17531,6 +17544,19 @@
         "tag_version": "0.1.0",
         "created_at": "2024-11-09T06:19:48Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/AshIndigo/Archipelago/releases/download/v0.5.0/dmc3.apworld",
+      "size": 27959,
+      "hash_sha256": "418a1ae6538b74311d8cf90534c01c5c9015396fb3adacb4898e5c1a0fdc01c2",
+      "metadata": {
+        "game": "",
+        "id": "dmc3",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-03-28T03:16:31Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -23791,6 +23817,21 @@
         "flags": [
           "unready",
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.7/flipwitch.apworld",
+      "size": 72380,
+      "hash_sha256": "aa66a5a830033da69d71d5a6c373232bb1f36f9ace7f5f7d9859acf1cc493f5e",
+      "metadata": {
+        "game": "",
+        "id": "flipwitch",
+        "world_version": "1.0.7",
+        "tag_version": "1.0.7",
+        "created_at": "2026-03-25T11:53:39Z",
+        "flags": [
+          "after_dark"
         ]
       }
     },
@@ -56308,6 +56349,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.28/pokemon_bw.apworld",
+      "size": 37643128,
+      "hash_sha256": "ab2fab36e27986ac17a97608ecfab5f100efb3e9c6af7912ab739e2d6a20fa11",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_bw",
+        "world_version": "0.3.28",
+        "tag_version": "0.3.28",
+        "created_at": "2026-03-28T12:03:24Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.27/pokemon_bw.apworld",
       "size": 37643140,
       "hash_sha256": "8094956630f6bfd890e38e35f2831f4870a7ab96f146b1ab79fbf3d01d84fb55",
@@ -87972,6 +88026,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.11/yarg.apworld",
+      "size": 30114,
+      "hash_sha256": "68b080b2cfb2ed3b52384bd53f8f54cdcf78c43ed6ad4be847dbe0af3b11a510",
+      "metadata": {
+        "game": "",
+        "id": "yarg",
+        "world_version": "0.0.11",
+        "tag_version": "0.0.11",
+        "created_at": "2026-03-28T02:55:20Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
