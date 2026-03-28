@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
-  "total_packages": 612,
-  "total_versions": 6429,
+  "total_packages": 613,
+  "total_versions": 6435,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -575,14 +575,14 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 370,
+    "": 369,
     "0.5.0": 8,
     "0.6.0": 13,
     "0.6.1": 12,
     "0.6.2": 9,
     "0.6.3": 56,
     "0.6.4": 60,
-    "0.6.5": 15,
+    "0.6.5": 16,
     "0.6.6": 14,
     "0.6.7": 2
   },
