@@ -4207,6 +4207,19 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.15/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-03-28T14:30:25Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/airbreather/Autopelago/releases/download/v0.10.4/autopelago.apworld",
       "size": 25648,
       "hash_sha256": "d3b91745b3bfb163ef7bf03d5cba7771e306e251df73748d4365ac8fa18d8ba0",
@@ -14067,6 +14080,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-11-17T04:57:55Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0.1/cv_dos.apworld",
+      "size": 94615,
+      "hash_sha256": "7a7dc18ebb382c43b2b09be7abac0949639e5b457d1f68e32435cc3d606c58a8",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "2.0.1",
+        "tag_version": "2.0.1",
+        "created_at": "2026-03-09T21:48:16Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -31229,6 +31255,19 @@
       }
     },
     {
+      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-KeyWe/releases/download/1.1.0/keywe.apworld",
+      "size": 11126,
+      "hash_sha256": "a76aac30c315c58dddb0caea28df5e422b426994dd1a998a5528f1f77f821020",
+      "metadata": {
+        "game": "",
+        "id": "keywe",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-03-28T23:58:27Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/xMcacutt-Archipelago/Archipelago-KeyWe/releases/download/1.0.3/keywe.apworld",
       "size": 11090,
       "hash_sha256": "675eab02790c4eebeb9f6ecc1c8c7d510a85e03cd62b12ad33ccd48b9b1e81b6",
@@ -35009,291 +35048,6 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2024-07-24T12:43:06Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v9.2.2/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "e78439e9660e8b59572eb337511c02b2599d12d4c9ca33d5aff28e295f9096b0",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "9.2.2",
-        "tag_version": "9.2.2",
-        "created_at": null
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v9.2.1/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "51eeef88b26d3545a28e6249e8506c2c24aecd6703a3c8c244764361e975a76f",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "9.2.1",
-        "tag_version": "9.2.1",
-        "created_at": null
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v9.2.0/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "e13a0aa0679376cddb2e1291b5927eb63bd7d9a85e9560d7cda98f335abf5607",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "9.2.0",
-        "tag_version": "9.2.0",
-        "created_at": null
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v9.1.0/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "8d5d8f6ac38997fb6b84beb154fb91b535e4f6e282c64782848bf87b41da0cc5",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "9.1.0",
-        "tag_version": "9.1.0",
-        "created_at": null
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v9.0.0/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "492172301b88c94d8feb1dcde74bc820209e5a078fa5206bcc994f8d1e11341d",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "9.0.0",
-        "tag_version": "9.0.0",
-        "created_at": null
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v8.1.1/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "a26295b9455b088e9e64608cbaa6800511dae19fdbf9cdad6932d93dee91be52",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "8.1.1",
-        "tag_version": "8.1.1",
-        "created_at": null
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v8.1.0/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "c040de1a0fccd87311995e91f98b77eed7a6c785642f3b27cd6cce57e96a08d8",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "8.1.0",
-        "tag_version": "8.1.0",
-        "created_at": null
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v8.0.5/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "49a0c428305a6ee8aabee55f17d4a23f3cf2bbacf1aef08e48a06a2e78ceed0d",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "8.0.5",
-        "tag_version": "8.0.5",
-        "created_at": null
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v8.0.4/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "833055613e3c414f20996f277ee1955d62595782200fb06e9adfe2784c10be01",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "8.0.4",
-        "tag_version": "8.0.4",
-        "created_at": null
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v8.0.3/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "3a6ddcc3f5b07b3caba48cf0802cd4adb739249e8a6974bcfcae8a360dc5d1cd",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "8.0.3",
-        "tag_version": "8.0.3",
-        "created_at": null
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v8.0.2/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "584ea5a48077b7443d5a3a78f9c9f393533b0186cc87ed57394cc9699c3128b2",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "8.0.2",
-        "tag_version": "8.0.2",
-        "created_at": null
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v8.0.1/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "c95461618748a6d8a1df7d2926e7d80679f8b600173ed9ed506e2b4c7af7ba89",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "8.0.1",
-        "tag_version": "8.0.1",
-        "created_at": null
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v8.0.0/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "63d163cdce35ec423101b34caba2fa3caadd8f3d7d042cefec101be0d2d56fb8",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "8.0.0",
-        "tag_version": "8.0.0",
-        "created_at": null
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v7.2.0/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "c83fe2f78a2bd420940d9d424a55cfa050b68d9760ee4a0c9a33440e51b102f0",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "7.2.0",
-        "tag_version": "7.2.0",
-        "created_at": null
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v7.1.0/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "19a3f0555f6c0a37205f994f40879ce4bec39e96bb090426883406a45b2e3eb5",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "7.1.0",
-        "tag_version": "7.1.0",
-        "created_at": null,
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v7.0.2/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "7acf33abd0d6ab0d830592ac5f336d3b55dfb72292cb2e0f85862643e4831fbd",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "7.0.2",
-        "tag_version": "7.0.2",
-        "created_at": null,
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v7.0.1/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "044914dbae216e2a9ba56de9c1e1b0fe51cc876197a693916755f9e02f79a39f",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "7.0.1",
-        "tag_version": "7.0.1",
-        "created_at": null,
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v7.0.0/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "c95fd736629a599abd44798f3dc22a7e25e01f02fe86f9f93fbdf5e5fd694165",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "7.0.0",
-        "tag_version": "7.0.0",
-        "created_at": null,
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v6.6/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "7ad8f4e80f8d7d34f75a8d8945db15cda34de08360b390e22ba860b1c756ebe3",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "6.6",
-        "tag_version": "6.6",
-        "created_at": null,
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v5.5/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "401ee925fcc46b08466dfb9def593ebd2bae9ad5a9d54a711e0aee716912c402",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "5.5",
-        "tag_version": "5.5",
-        "created_at": null,
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v4.4/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "247f13b14ba527c52eee29aa24c1939cd87516f4cc5e35a3f7dc292d6e329cca",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "4.4",
-        "tag_version": "4.4",
-        "created_at": null,
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v4.3/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "a458333e5042965f648024bfa62b5185c08883e2c8d1e4473dec5a5e798cb57b",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "4.3",
-        "tag_version": "4.3",
-        "created_at": null,
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v3.2/lingo2.apworld",
-      "size": 0,
-      "hash_sha256": "e4d5f61df52a39f8a040a354594a0c2e1f68e2c515538aabdc5b0d99e3b1f747",
-      "metadata": {
-        "game": "",
-        "id": "lingo2",
-        "world_version": "3.2",
-        "tag_version": "3.2",
-        "created_at": null,
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -48588,6 +48342,22 @@
       }
     },
     {
+      "world": "https://github.com/Stuff691734/ModdedMCArchipelago/releases/download/v2.2.1/moddedminecraft.apworld",
+      "size": 8517,
+      "hash_sha256": "023189099f4c2615812e8961228b2b58314d6487ad236c8538729a626cbf2d89",
+      "metadata": {
+        "game": "",
+        "id": "moddedminecraft",
+        "world_version": "2.2.1",
+        "tag_version": "2.2.1",
+        "created_at": "2026-03-22T22:07:08Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Stuff691734/ModdedMCArchipelago/releases/download/v2.2.0/moddedminecraft.apworld",
       "size": 8016,
       "hash_sha256": "c52752440ab68571b4f316767aeed37b579b1cae21dfb8511abd2ff7cd3aef0b",
@@ -59746,6 +59516,19 @@
         "flags": [
           "unready"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/jciii91/Pokemon-Stadium-AP-World/releases/download/v0.5.2/PokemonStadium.apworld",
+      "size": 177657,
+      "hash_sha256": "952f9bd659d8a9f39cef8a7e10292ce277cf10f4a597945d5dc8e103edef4ffe",
+      "metadata": {
+        "game": "",
+        "id": "PokemonStadium",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-03-29T01:21:53Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -79970,6 +79753,38 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.0.1/tloz_oos.apworld",
+      "size": 242064,
+      "hash_sha256": "899c12eb21c25444fc7914624b16e107d4fdc53e215af75cbe041a36a9700042",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "20.0.1",
+        "tag_version": "20.0.1",
+        "created_at": "2026-03-29T00:38:10Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.0.0/tloz_oos.apworld",
+      "size": 242039,
+      "hash_sha256": "c27b7359e5d35765be10718e5b2193290910c01648e29d52e200ff99c0737c5c",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "20.0.0",
+        "tag_version": "20.0.0",
+        "created_at": "2026-03-28T22:55:57Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-19.0.1/tloz_oos.apworld",
       "size": 240109,
       "hash_sha256": "c65fb1a695181f51ddca9f4dc54874f6cac746d8f5480497befb73fad778c0c7",
@@ -89544,10 +89359,6 @@
     "lil_gator_game": {
       "game": "Lil Gator Game",
       "description": "Embark on an adorable adventure, discover new friends and uncover everything the island has to offer. Climb,\nSwim, Glide and slide your way into the hearts of the many different characters you meet on your travels!"
-    },
-    "lingo2": {
-      "game": "",
-      "description": ""
     },
     "little_witch_nobeta": {
       "game": "Little Witch Nobeta",
