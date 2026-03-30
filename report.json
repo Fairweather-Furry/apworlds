@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
-  "total_packages": 613,
-  "total_versions": 6425,
+  "total_packages": 614,
+  "total_versions": 6439,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -466,7 +466,7 @@
     "silverdaze": false,
     "simpsonshitnrun": true,
     "sims4": true,
-    "slime_rancher": false,
+    "slime_rancher": true,
     "slotlock": true,
     "slowrelease": true,
     "sly1": false,
@@ -574,22 +574,22 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 367,
+    "": 366,
     "0.5.0": 8,
     "0.6.0": 13,
     "0.6.1": 12,
     "0.6.2": 9,
     "0.6.3": 56,
     "0.6.4": 60,
-    "0.6.5": 17,
+    "0.6.5": 18,
     "0.6.6": 14,
     "0.6.7": 2
   },
   "max_maximum_ap_version": {
-    "": 259,
+    "": 260,
     "0.0.1": 1,
     "0.4.6": 5,
     "0.6.6": 1,
-    "0.6.99": 292
+    "0.6.99": 291
   }
 }

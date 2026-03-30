@@ -73,6 +73,19 @@
       "title": "v0.2.1 Alpha",
       "version_simple": "0.2.1",
       "world_version": "0.2.1a0"
+    },
+    "v0.3.0-alpha": {
+      "created_at": "2026-03-29T22:31:42Z",
+      "download_url": "https://github.com/AllPoland/unbeatAP/releases/download/v0.3.0-alpha/unbeatable_arcade.apworld",
+      "has_manifest": true,
+      "hash_sha256": "19f9f46ca007ffdc35d3b50d57b782228418a223e151c34eb0b3a006a6fa8cad",
+      "minimum_ap_version": "0.6.4",
+      "size": 23144,
+      "source_url": "https://api.github.com/repos/AllPoland/unbeatAP",
+      "tag": "v0.3.0-alpha",
+      "title": "v0.3.0 Alpha",
+      "version_simple": "0.3.0",
+      "world_version": "0.3.0a0"
     }
   }
 }
