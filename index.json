@@ -23667,6 +23667,18 @@
       }
     },
     {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.27.1/ffxiv.apworld",
+      "size": 136980,
+      "hash_sha256": "ee6c6e412c6708c22077e91552b0a868b8db29b0ad0d5e2ad23e88eb85780cb7",
+      "metadata": {
+        "game": "",
+        "id": "ffxiv",
+        "world_version": "0.27.1",
+        "tag_version": "0.27.1",
+        "created_at": "2026-03-31T04:44:16Z"
+      }
+    },
+    {
       "world": "https://github.com/silasary/APxiv/releases/download/0.27.0/ffxiv.apworld",
       "size": 130731,
       "hash_sha256": "08184379fc358f99eab5194d6b96b62b6e8124e85c6064af9e31cbbffa6d0f33",
@@ -28866,6 +28878,21 @@
         "tag_version": "0.1.0",
         "created_at": "2025-08-29T02:50:57Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/DotsofdarknessArchipelago/Hunie-Cam-Studio-Archipelago/releases/download/V0.3.2/huniecamstudio.apworld",
+      "size": 8585,
+      "hash_sha256": "604bbfc3680606fe910792d29f2a28294b227f49cad267bf856163ea028af65e",
+      "metadata": {
+        "game": "",
+        "id": "huniecamstudio",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-03-31T07:53:25Z",
+        "flags": [
+          "after_dark"
+        ]
       }
     },
     {
