@@ -5,6 +5,7 @@
   "license": "MIT",
   "manifest_fields": [
     "authors",
+    "minimum_ap_version",
     "world_version"
   ],
   "versions": {
@@ -67,6 +68,19 @@
       "title": "BK Simulator 1.0.1",
       "version_simple": "0.1.2",
       "world_version": "0.1.2"
+    },
+    "1.0.2": {
+      "created_at": "2026-03-31T15:16:10Z",
+      "download_url": "https://github.com/BK-Simulator/BK-Simulator/releases/download/1.0.2/bksim.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c88d5511ff5f3aa4a0bf5b77a76b8d04c8964166570a9c9a8177b27c773e7193",
+      "minimum_ap_version": "0.6.7",
+      "size": 7459,
+      "source_url": "https://api.github.com/repos/BK-Simulator/BK-Simulator",
+      "tag": "1.0.2",
+      "title": "BK Simulator 1.0.2",
+      "version_simple": "1.0.2",
+      "world_version": "1.0.2"
     }
   }
 }
