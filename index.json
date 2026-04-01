@@ -23696,6 +23696,18 @@
       }
     },
     {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.27.2/ffxiv.apworld",
+      "size": 137109,
+      "hash_sha256": "31b129e170b7dfbcdbe85c72d8e1b853ed1816040a12ad4f5920a9dcacb69e21",
+      "metadata": {
+        "game": "",
+        "id": "ffxiv",
+        "world_version": "0.27.2",
+        "tag_version": "0.27.2",
+        "created_at": "2026-04-01T13:06:14Z"
+      }
+    },
+    {
       "world": "https://github.com/silasary/APxiv/releases/download/0.27.1/ffxiv.apworld",
       "size": 136980,
       "hash_sha256": "ee6c6e412c6708c22077e91552b0a868b8db29b0ad0d5e2ad23e88eb85780cb7",
@@ -70426,6 +70438,22 @@
       }
     },
     {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.0/sm64hacks.apworld",
+      "size": 294681,
+      "hash_sha256": "5d267733ba46c076e92156f275630292bc8a8d9769d5e5cd8691eeab5a97d98b",
+      "metadata": {
+        "game": "",
+        "id": "sm64hacks",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-04-01T05:47:49Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.4/sm64hacks.apworld",
       "size": 274762,
       "hash_sha256": "f7274269792c12a939c4ea86857fc48e2ce513dc24955103c741319820b50751",
@@ -77457,6 +77485,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/barretg/Taskipelago/releases/download/v0.5.3/taskipelago.apworld",
+      "size": 22776,
+      "hash_sha256": "b25c546f1f8395a0008d9947278a2f329a188d6b49e66f0c40727ad967a6f2b9",
+      "metadata": {
+        "game": "",
+        "id": "taskipelago",
+        "world_version": "0.5.3",
+        "tag_version": "0.5.3",
+        "created_at": "2026-04-01T06:37:50Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
