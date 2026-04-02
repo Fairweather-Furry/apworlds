@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
-  "total_packages": 616,
-  "total_versions": 6452,
+  "total_packages": 620,
+  "total_versions": 6464,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -190,6 +190,7 @@
     "jigsaw": true,
     "junko": true,
     "k64": true,
+    "kdl3": true,
     "keymasters_keep": true,
     "keymasters_keep_manager": true,
     "keywe": true,
@@ -574,19 +575,19 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 365,
+    "": 366,
     "0.5.0": 8,
     "0.6.0": 13,
     "0.6.1": 12,
     "0.6.2": 9,
-    "0.6.3": 56,
+    "0.6.3": 54,
     "0.6.4": 60,
-    "0.6.5": 18,
+    "0.6.5": 16,
     "0.6.6": 14,
-    "0.6.7": 3
+    "0.6.7": 7
   },
   "max_maximum_ap_version": {
-    "": 260,
+    "": 261,
     "0.0.1": 1,
     "0.4.6": 5,
     "0.6.6": 1,

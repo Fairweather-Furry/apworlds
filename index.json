@@ -617,6 +617,22 @@
       "lib_file": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.1.2/albwrandomizer.zip"
     },
     {
+      "world": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.4.4-M2/am2r.apworld",
+      "size": 35326,
+      "hash_sha256": "7bca7b24accbf7679fc649af05abf8092bf92c33e422b5ac7c622376a799e754",
+      "metadata": {
+        "game": "",
+        "id": "am2r",
+        "world_version": "1.4.4",
+        "tag_version": "1.4.4",
+        "created_at": "2026-04-02T00:50:20Z",
+        "minimum_ap_version": "0.5.0",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.4.3-M2/am2r.apworld",
       "size": 32320,
       "hash_sha256": "62b2ebbe1e0eb59df321e7785d5538221edf58e30b7a47b211ceda57ff1c67b4",
@@ -17290,6 +17306,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc-v1.2.3/dkc.apworld",
+      "size": 72346,
+      "hash_sha256": "8ace167f8818f4a986218b6419bad1e835193d94c632ef7e30690b84f7f13968",
+      "metadata": {
+        "game": "",
+        "id": "dkc",
+        "world_version": "1.2.3",
+        "tag_version": "1.2.3",
+        "created_at": "2026-04-01T07:27:31Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc-v1.2.2/dkc.apworld",
       "size": 61110,
       "hash_sha256": "b493fb03b970c61323f6ef5620dab2c835a6da2947c75dcc8201430fdafc4f36",
@@ -17430,6 +17459,19 @@
         "tag_version": "1.0.0",
         "created_at": "2025-05-03T07:15:41Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.1.0/dkc2.apworld",
+      "size": 111110,
+      "hash_sha256": "74196c8262bc14d68f1ee4de96b2c9a689bc4d8651261fef3fa7cda6a0dda5c6",
+      "metadata": {
+        "game": "",
+        "id": "dkc2",
+        "world_version": "3.1.0",
+        "tag_version": "3.1.0",
+        "created_at": "2026-03-31T05:35:46Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -31040,6 +31082,18 @@
       }
     },
     {
+      "world": "https://github.com/Silvris/Archipelago/releases/download/kdl3_3.0.0-beta1/kdl3.apworld",
+      "size": 117575,
+      "hash_sha256": "e91b23f3da5d171d85b638b103d2d6e9bea99d7672ab7b634835ae6609de11cd",
+      "metadata": {
+        "game": "",
+        "id": "kdl3",
+        "world_version": "3.0.0b1",
+        "tag_version": "3.0.0b1",
+        "created_at": "2026-03-22T23:02:51Z"
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/keymasters_keep-2.1.5/keymasters_keep.apworld",
       "size": 960694,
       "hash_sha256": "4462c210d17dad7765c9bbc6a32780cc8c78ddbc9d7b7544710836e46bb07bab",
@@ -42071,6 +42125,19 @@
       }
     },
     {
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.0.10/manual_residentevil4_vincentssin.apworld",
+      "size": 92469,
+      "hash_sha256": "6e9b6656bb2c842fbd63d013a4fbc63b62c3ac5729868dd28af80a0ddffcb399",
+      "metadata": {
+        "game": "",
+        "id": "manual_residentevil4_vincentssin",
+        "world_version": "2.0.10",
+        "tag_version": "2.0.10",
+        "created_at": "2026-04-01T22:22:56Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.0.9/manual_residentevil4_vincentssin.apworld",
       "size": 92665,
       "hash_sha256": "a5aba63020bf4a4f66a962d0ffe379d5bf8b1a6f0246754db13b8f02edc9752c",
@@ -43856,6 +43923,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-04-17T01:12:17Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/aXu-AP/archipelago-double-dash/releases/download/v0.3.1/mario_kart_double_dash.apworld",
+      "size": 144717,
+      "hash_sha256": "a20c6acc47b92b3af5578f42005da728dbba9c0fec9d00be08e71efa5dc8c0b2",
+      "metadata": {
+        "game": "",
+        "id": "mario_kart_double_dash",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-04-01T14:08:03Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {
@@ -54465,6 +54545,19 @@
       }
     },
     {
+      "world": "https://github.com/SerpentAI/Archipelago/releases/download/pinballfx3-v1.2.0/pinball_fx3.apworld",
+      "size": 1989055,
+      "hash_sha256": "4ad20b1d5166d85c4c6a2645384d413600bf0d69d38e342dc5dcb8ade673f585",
+      "metadata": {
+        "game": "",
+        "id": "pinball_fx3",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-03-27T00:13:54Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/SerpentAI/Archipelago/releases/download/pinballfx3-v1.1.1/pinball_fx3.apworld",
       "size": 1989320,
       "hash_sha256": "2ab1379f0e43fa44e8c2af6117d17a94ddbeb7d55988a922844f09335afdc128",
@@ -59722,6 +59815,19 @@
       }
     },
     {
+      "world": "https://github.com/jciii91/Pokemon-Stadium-AP-World/releases/download/v0.5.3/PokemonStadium.apworld",
+      "size": 177692,
+      "hash_sha256": "bbed66e5fa0cf5bf9a03633c8f1afb943f088f996080056bd5dc7cb26b6e0f33",
+      "metadata": {
+        "game": "",
+        "id": "PokemonStadium",
+        "world_version": "0.5.3",
+        "tag_version": "0.5.3",
+        "created_at": "2026-04-02T00:41:32Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/jciii91/Pokemon-Stadium-AP-World/releases/download/v0.5.2/PokemonStadium.apworld",
       "size": 177657,
       "hash_sha256": "952f9bd659d8a9f39cef8a7e10292ce277cf10f4a597945d5dc8e103edef4ffe",
@@ -63318,6 +63424,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v0.10.0-TEST/refunct.apworld",
+      "size": 15970,
+      "hash_sha256": "956025a7e378dcdc944f76b1230ad4d40a6c59f17a68d4e475719ccf1aa1007e",
+      "metadata": {
+        "game": "",
+        "id": "refunct",
+        "world_version": "0.10.0",
+        "tag_version": "0.10.0",
+        "created_at": "2026-04-02T01:00:56Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -67775,6 +67894,22 @@
         "tag_version": "0.1.1rc0",
         "created_at": "2024-09-09T04:04:22Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.4/shadow_the_hedgehog.apworld",
+      "size": 237722,
+      "hash_sha256": "ef590dcce28f75937b9fb94f4f9c3341c31c13ca69594a918384ec924ee1956b",
+      "metadata": {
+        "game": "",
+        "id": "shadow_the_hedgehog",
+        "world_version": "0.4.4",
+        "tag_version": "0.4.4",
+        "created_at": "2026-03-14T07:07:43Z",
+        "minimum_ap_version": "0.6.2",
         "flags": [
           "prerelease"
         ]
@@ -81328,6 +81463,19 @@
       }
     },
     {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.2/tloz_st.apworld",
+      "size": 348229,
+      "hash_sha256": "e23bd60d3e577fe598a4f5837711abd2fed4f41b2f3265d38b1913297d5a71da",
+      "metadata": {
+        "game": "",
+        "id": "tloz_st",
+        "world_version": "0.7.2",
+        "tag_version": "0.7.2",
+        "created_at": "2026-04-01T13:56:14Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.1/tloz_st.apworld",
       "size": 347336,
       "hash_sha256": "bc9de062e454ce1e4f3e16f4ae57dff97874034bf0a9a7a8ef6700395132833e",
@@ -88666,6 +88814,22 @@
       }
     },
     {
+      "world": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.1.0/zork_grand_inquisitor.apworld",
+      "size": 1143138,
+      "hash_sha256": "effbb4d815c7ddc25640b557d41e98a02d6f3fcde3bf62611be38e8556091dbc",
+      "metadata": {
+        "game": "",
+        "id": "zork_grand_inquisitor",
+        "world_version": "2.1.0",
+        "tag_version": "2.1.0",
+        "created_at": "2026-03-27T00:21:50Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.0.7/zork_grand_inquisitor.apworld",
       "size": 1141460,
       "hash_sha256": "582be6c33d15a712d568cebc765ab9a8cd2ba90f983c53634c0e168ae86dd0fb",
@@ -89671,6 +89835,10 @@
     "k64": {
       "game": "Kirby 64 - The Crystal Shards",
       "description": "After Dark Matter attacks the distant Ripple Star's crystal, the young Ribbon attempts to flee with the crystal to save it.\nThe crystal shattered, stranding Ribbon in Dream Land. Now it's up to Kirby and friends to travel the galaxy in order to\nrestore the shattered crystal, and bring peace to the world."
+    },
+    "kdl3": {
+      "game": "Kirby's Dream Land 3",
+      "description": "Join Kirby and his Animal Friends on an adventure to collect Heart Stars and drive Dark Matter away from Dream Land!"
     },
     "keymasters_keep": {
       "game": "Keymaster's Keep",
