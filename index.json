@@ -3431,6 +3431,22 @@
       }
     },
     {
+      "world": "https://github.com/drtchops/Archipelago-Astalon/releases/download/v1.0.0-rc1/astalon.apworld",
+      "size": 303808,
+      "hash_sha256": "5cda92a5e2c1476749ee5fccea23b5a02aac5301aa91b398e3f56c7f4806a2b5",
+      "metadata": {
+        "game": "",
+        "id": "astalon",
+        "world_version": "0.99.0",
+        "tag_version": "0.99.0",
+        "created_at": "2026-04-02T02:30:22Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/drtchops/Archipelago-Astalon/releases/download/v0.27.1/astalon.apworld",
       "size": 308084,
       "hash_sha256": "db71a77bb5041f60b1a9462f233d5de3ae04e36b8662806914563d0271d2ebc0",
@@ -42125,6 +42141,32 @@
       }
     },
     {
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.0.11/manual_residentevil4_vincentssin.apworld",
+      "size": 92480,
+      "hash_sha256": "316a4ffa52fb8e18fc370c0d975d8553bf7a9b5943473a389b61df1a0eb81545",
+      "metadata": {
+        "game": "",
+        "id": "manual_residentevil4_vincentssin",
+        "world_version": "2.0.11",
+        "tag_version": "2.0.11",
+        "created_at": "2026-04-02T06:18:30Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.0.10%2Bhotfix1/manual_residentevil4_vincentssin.apworld",
+      "size": 92470,
+      "hash_sha256": "56fdbc167133faa8985823c2281dafdfc9c74a15bd56196a3604560924d84577",
+      "metadata": {
+        "game": "",
+        "id": "manual_residentevil4_vincentssin",
+        "world_version": "2.0.10+hotfix1",
+        "tag_version": "2.0.10+hotfix1",
+        "created_at": "2026-04-02T03:15:04Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.0.10/manual_residentevil4_vincentssin.apworld",
       "size": 92469,
       "hash_sha256": "6e9b6656bb2c842fbd63d013a4fbc63b62c3ac5729868dd28af80a0ddffcb399",
@@ -70589,6 +70631,22 @@
       }
     },
     {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.1/sm64hacks.apworld",
+      "size": 294646,
+      "hash_sha256": "6ab715d4545e32ef82e02a064d27adc03f2d147f8fbb417422570e9c4ac34604",
+      "metadata": {
+        "game": "",
+        "id": "sm64hacks",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-04-02T04:30:00Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v0.4.4/sm64hacks.apworld",
       "size": 274762,
       "hash_sha256": "f7274269792c12a939c4ea86857fc48e2ce513dc24955103c741319820b50751",
@@ -88375,6 +88433,19 @@
       }
     },
     {
+      "world": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.12/yarg.apworld",
+      "size": 30590,
+      "hash_sha256": "b75f35b63e24d2564a2a7df03978369dd0abfa9755cd947173bc4b9ddf65dc6c",
+      "metadata": {
+        "game": "",
+        "id": "yarg",
+        "world_version": "0.0.12",
+        "tag_version": "0.0.12",
+        "created_at": "2026-04-02T06:32:08Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.11/yarg.apworld",
       "size": 30114,
       "hash_sha256": "68b080b2cfb2ed3b52384bd53f8f54cdcf78c43ed6ad4be847dbe0af3b11a510",
@@ -88475,6 +88546,19 @@
         "world_version": "0.0.4",
         "tag_version": "0.0.4",
         "created_at": "2025-12-30T07:03:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/GirlWithoutAFairy/YARGArchipelago-GH-and-RB-forks/releases/download/26.04.02/YARGGuitarHero1.apworld",
+      "size": 22768,
+      "hash_sha256": "e07a86d33032b6c6e4ea31d04ae096b4a83c9cf313dc3ebaefe98d13ad826435",
+      "metadata": {
+        "game": "",
+        "id": "YARGGuitarHero1",
+        "world_version": "26.4.2",
+        "tag_version": "26.4.2",
+        "created_at": "2026-03-29T23:04:33Z",
         "maximum_ap_version": "0.6.99"
       }
     },
