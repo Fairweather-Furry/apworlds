@@ -8,6 +8,9 @@
 #### v0.4.3
 - <a href="https://github.com/Lizardman175/DC1AP/releases/download/v0.4.3/dc1.apworld">https://github.com/Lizardman175/DC1AP/releases/download/v0.4.3/dc1.apworld</a>
 
+#### v0.4.3
+- <a href="https://github.com/Lizardman175/DC1AP/releases/download/v0.4.3.1/dc1.apworld">https://github.com/Lizardman175/DC1AP/releases/download/v0.4.3.1/dc1.apworld</a>
+
 #### v0.4.2
 - <a href="https://github.com/Lizardman175/DC1AP/releases/download/v0.4.2/dc1.apworld">https://github.com/Lizardman175/DC1AP/releases/download/v0.4.2/dc1.apworld</a>
 
