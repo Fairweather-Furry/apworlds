@@ -62,6 +62,18 @@
       "title": "Implement YARG Setlist 0 and Exclude Songs Setting",
       "version_simple": "26.4.2",
       "world_version": "26.4.2"
+    },
+    "26.04.04": {
+      "created_at": "2026-04-04T05:56:53Z",
+      "download_url": "https://github.com/GirlWithoutAFairy/YARGArchipelago-GH-and-RB-forks/releases/download/26.04.04/YARGGuitarHero1.apworld",
+      "has_manifest": false,
+      "hash_sha256": "e07a86d33032b6c6e4ea31d04ae096b4a83c9cf313dc3ebaefe98d13ad826435",
+      "size": 22768,
+      "source_url": "https://api.github.com/repos/GirlWithoutAFairy/YARGArchipelago-GH-and-RB-forks",
+      "tag": "26.04.04",
+      "title": "All Setlists version 1.21 Hotfix",
+      "version_simple": "26.4.4",
+      "world_version": "26.4.4"
     }
   }
 }
