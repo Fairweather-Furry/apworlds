@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
   "total_packages": 619,
-  "total_versions": 6484,
+  "total_versions": 6516,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -212,6 +212,7 @@
     "lethal_company": true,
     "liesofp": true,
     "lil_gator_game": true,
+    "lingo2": true,
     "little_witch_nobeta": true,
     "lobotomycorporation": false,
     "lol": false,
@@ -584,10 +585,10 @@
     "0.6.4": 60,
     "0.6.5": 15,
     "0.6.6": 14,
-    "0.6.7": 9
+    "0.6.7": 10
   },
   "max_maximum_ap_version": {
-    "": 261,
+    "": 262,
     "0.0.1": 1,
     "0.4.6": 5,
     "0.6.6": 1,
