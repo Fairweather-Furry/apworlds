@@ -4190,6 +4190,19 @@
       }
     },
     {
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.16/autopelago.apworld",
+      "size": 25294,
+      "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
+      "metadata": {
+        "game": "",
+        "id": "autopelago",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-04-07T11:41:26Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.2/autopelago.apworld",
       "size": 25294,
       "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
@@ -4297,7 +4310,7 @@
       }
     },
     {
-      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.16/autopelago.apworld",
+      "world": "https://github.com/airbreather/Autopelago/releases/download/v0.11.17/autopelago.apworld",
       "size": 25294,
       "hash_sha256": "e6b7d1d509538c1fe6ba6cbe59fc3f2db687cfa2ee18b7839238cac73bb60355",
       "metadata": {
@@ -4305,7 +4318,7 @@
         "id": "autopelago",
         "world_version": "0.11.0",
         "tag_version": "0.11.0",
-        "created_at": "2026-04-07T11:41:26Z",
+        "created_at": "2026-04-07T22:09:24Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -9406,6 +9419,19 @@
     },
     {
       "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.8.0/casualtiesunknown.apworld",
+      "size": 93920,
+      "hash_sha256": "ec768aa943ebb6ea0944e5686c9b486d6fa9e4c96c859defad9c3cddedc676bf",
+      "metadata": {
+        "game": "",
+        "id": "casualtiesunknown",
+        "world_version": "0.8.0.post2",
+        "tag_version": "0.8.0.post2",
+        "created_at": "2026-04-07T04:04:35Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.8.0/casualtiesunknown.apworld",
       "size": 94132,
       "hash_sha256": "6ec805f964c3fe91e181ff6b06ec91546ba525cdbd007edacdbe165bda9b224c",
       "metadata": {
@@ -12254,6 +12280,22 @@
         "tag_version": "0.1.0",
         "created_at": "2025-08-19T00:49:14Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Sim10XXX/C2AP/releases/download/v0.3.0-pre2-1/crash2.apworld",
+      "size": 42127,
+      "hash_sha256": "88784395b16a2efa91503b1ff3637d337c43c061d32cd2204d77e3132628c720",
+      "metadata": {
+        "game": "",
+        "id": "crash2",
+        "world_version": "0.3.0rc2.post1",
+        "tag_version": "0.3.0rc2.post1",
+        "created_at": "2026-04-07T23:50:58Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -17653,6 +17695,19 @@
         "tag_version": "1.0.0",
         "created_at": "2025-05-03T07:15:41Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.1.0/dkc2.apworld",
+      "size": 147306,
+      "hash_sha256": "1d83578d1db1775ccb38d24e8fcb72731e597c5a572497d28616456aff334c72",
+      "metadata": {
+        "game": "",
+        "id": "dkc2",
+        "world_version": "3.1.0.post2",
+        "tag_version": "3.1.0.post2",
+        "created_at": "2026-03-31T05:35:46Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -24250,6 +24305,21 @@
         "flags": [
           "unready",
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.8/flipwitch.apworld",
+      "size": 72326,
+      "hash_sha256": "ae2332749c5bf3d62251a35e26decafda355b5598e9f83d25012a2a773a5d2e1",
+      "metadata": {
+        "game": "",
+        "id": "flipwitch",
+        "world_version": "1.0.8",
+        "tag_version": "1.0.8",
+        "created_at": "2026-03-25T11:53:39Z",
+        "flags": [
+          "after_dark"
         ]
       }
     },
@@ -81124,6 +81194,32 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.6/tloz_oos.apworld",
+      "size": 243468,
+      "hash_sha256": "9c92e956df93dfd419996011ac7dbcd3789bebdfcf99a3ec9f0454bde73ab76a",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "20.1.6",
+        "tag_version": "20.1.6",
+        "created_at": "2026-04-08T01:06:54Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.5/tloz_oos.apworld",
+      "size": 243449,
+      "hash_sha256": "515ef3674e73ffd5d649d93e232b2cbd31430d4ce0ab4f559705ac265dba40e6",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "20.1.5",
+        "tag_version": "20.1.5",
+        "created_at": "2026-04-08T00:11:20Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.4/tloz_oos.apworld",
       "size": 242598,
       "hash_sha256": "d696d856ed53e68cc56c871545d9eea8f65d0f4a85507426d75d9f99aba397bf",
@@ -86697,6 +86793,18 @@
         "flags": [
           "unready"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/CriminalPancake/void-stranger-ap/releases/download/v0.9.2.1/voidstranger.apworld",
+      "size": 18687,
+      "hash_sha256": "6a27413dacfc9254626827f5366b38884e709c16986bfe467e2b11b2c188ebef",
+      "metadata": {
+        "game": "",
+        "id": "voidstranger",
+        "world_version": "0.9.2.1",
+        "tag_version": "0.9.2.1",
+        "created_at": "2026-04-07T14:46:01Z"
       }
     },
     {

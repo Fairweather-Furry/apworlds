@@ -75,6 +75,20 @@
       "title": "v0.3.0 Pre Release",
       "version_simple": "0.3.0",
       "world_version": "0.3.0rc0"
+    },
+    "v0.3.0-pre2-1": {
+      "created_at": "2026-04-07T23:50:58Z",
+      "download_url": "https://github.com/Sim10XXX/C2AP/releases/download/v0.3.0-pre2-1/crash2.apworld",
+      "has_manifest": true,
+      "hash_sha256": "88784395b16a2efa91503b1ff3637d337c43c061d32cd2204d77e3132628c720",
+      "minimum_ap_version": "0.6.5",
+      "prerelease": true,
+      "size": 42127,
+      "source_url": "https://api.github.com/repos/Sim10XXX/C2AP",
+      "tag": "v0.3.0-pre2-1",
+      "title": "v0.3.0 Pre Release 2-1",
+      "version_simple": "0.3.0",
+      "world_version": "0.3.0rc2.post1"
     }
   }
 }
