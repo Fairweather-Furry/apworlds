@@ -26115,6 +26115,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.5/gl.apworld",
+      "size": 381442,
+      "hash_sha256": "5a8fd8b2078c809a2beda41218e74c7c56f11693a00555c71230263ea23c892b",
+      "metadata": {
+        "game": "",
+        "id": "gl",
+        "world_version": "2.1.5",
+        "tag_version": "2.1.5",
+        "created_at": "2026-04-10T08:03:45Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.4/gl.apworld",
       "size": 381379,
       "hash_sha256": "d9d2e5acabcb0ec582ec421452400618832f8065f320e97bc4c602e7169c769d",
@@ -47345,6 +47358,22 @@
         "tag_version": "0.0.2",
         "created_at": "2025-12-08T16:32:43Z",
         "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
+      "world": "https://github.com/Deadlydiamond98/MinecraftFabricAPWorld/releases/download/v.1.0.7/minecraft_fabric.apworld",
+      "size": 34116,
+      "hash_sha256": "15f452bbe8c9d00f6c31891d8b0f19d657f39c2af99c8b86ee2ed5252ea49c7e",
+      "metadata": {
+        "game": "",
+        "id": "minecraft_fabric",
+        "world_version": "1.0.7",
+        "tag_version": "1.0.7",
+        "created_at": "2026-04-10T09:37:41Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "unready"
+        ]
       }
     },
     {
