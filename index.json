@@ -7463,6 +7463,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-69/borderlands2.apworld",
+      "size": 105553,
+      "hash_sha256": "29de9d158ad6111240a56eb4844647cb4910c6ddcbe71db8f9b7a1421c03009f",
+      "metadata": {
+        "game": "",
+        "id": "borderlands2",
+        "world_version": "69",
+        "tag_version": "69",
+        "created_at": "2026-04-11T21:57:56Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-68/borderlands2.apworld",
       "size": 54432,
       "hash_sha256": "44ee3afecefac52ed649d8155b38a078b4b2fff537e396e6b1bfddf567523693",
@@ -24409,6 +24425,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.9/flipwitch.apworld",
+      "size": 72334,
+      "hash_sha256": "1a7114b4676bd7ace8554ff6c979cc818e05684c006c6572801171437e1d0eae",
+      "metadata": {
+        "game": "",
+        "id": "flipwitch",
+        "world_version": "1.0.9",
+        "tag_version": "1.0.9",
+        "created_at": "2026-03-25T11:53:39Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.0.8/flipwitch.apworld",
       "size": 72326,
       "hash_sha256": "ae2332749c5bf3d62251a35e26decafda355b5598e9f83d25012a2a773a5d2e1",
@@ -29960,6 +29991,19 @@
         "world_version": "0.7.1",
         "tag_version": "v0.7.1",
         "created_at": "2024-04-29T00:19:26Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_14/isles_of_sea_and_sky.apworld",
+      "size": 1499634,
+      "hash_sha256": "c849ae013f12be7f4bb666e5e916194adfe0de60450ef22c4acad2b84843423d",
+      "metadata": {
+        "game": "",
+        "id": "isles_of_sea_and_sky",
+        "world_version": "14.post2",
+        "tag_version": "14.post2",
+        "created_at": "2025-12-03T12:53:39Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -53357,6 +53401,19 @@
       }
     },
     {
+      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.2.1/outer_wilds.apworld",
+      "size": 86353,
+      "hash_sha256": "4109418091ca4805e72372a23f87f412e41706878ad62eab67205d4f19ce3090",
+      "metadata": {
+        "game": "",
+        "id": "outer_wilds",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-04-11T20:36:58Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
       "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.2.0/outer_wilds.apworld",
       "size": 86304,
       "hash_sha256": "cdc44050bd084e7ba0adbdafaa76b426d13010f4d8d6ef4ae1fe7cdd33785e80",
@@ -60717,6 +60774,19 @@
       }
     },
     {
+      "world": "https://github.com/jciii91/Pokemon-Stadium-AP-World/releases/download/v0.5.6/PokemonStadium.apworld",
+      "size": 179134,
+      "hash_sha256": "17bd8b48e011fd5f90cdc44e266a2306c7b830e02edfa05927bb73b2fc66a496",
+      "metadata": {
+        "game": "",
+        "id": "PokemonStadium",
+        "world_version": "0.5.6",
+        "tag_version": "0.5.6",
+        "created_at": "2026-04-12T00:43:54Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/jciii91/Pokemon-Stadium-AP-World/releases/download/v0.5.5/PokemonStadium.apworld",
       "size": 50920,
       "hash_sha256": "c16acddce8f75772ae7a36344f6aacbaee8ef3024dbcc528c005497c6c20d008",
@@ -65173,6 +65243,22 @@
       }
     },
     {
+      "world": "https://github.com/TheRealSolidusSnake/RE3R_AP_World/releases/download/0.2.9/residentevil3remake.apworld",
+      "size": 47325,
+      "hash_sha256": "1ee9d770c34d273cbf55c07b5fa071fe7fc38b5d98d24d3a86feaa6ba5f18e66",
+      "metadata": {
+        "game": "",
+        "id": "residentevil3remake",
+        "world_version": "0.2.7",
+        "tag_version": "0.2.7",
+        "created_at": "2026-04-10T23:36:26Z",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/TheRealSolidusSnake/RE3R_AP_World/releases/download/0.2.6/residentevil3remake.apworld",
       "size": 32361,
       "hash_sha256": "48db21177e9cf61cf33f1ed67ac6a964df9a708fdd1bfed218402de86edf9ef7",
@@ -67005,6 +67091,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-11-14T09:17:22Z",
         "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.1/sadx.apworld",
+      "size": 3156368,
+      "hash_sha256": "7c3937a5f0bdfda191c22b4cab843781dd70d5d5e743b257eadf31d5bf731ee5",
+      "metadata": {
+        "game": "",
+        "id": "sadx",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-04-11T18:32:06Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -77031,6 +77130,19 @@
       }
     },
     {
+      "world": "https://codeberg.org/Partatio/SS2-Apworld/releases/download/0.5.0/ss2.apworld",
+      "size": 39222,
+      "hash_sha256": "50d0cc3fd81109ce6fbff96b907698ff3beca6db7813532141cceebfd1a699c7",
+      "metadata": {
+        "game": "",
+        "id": "ss2",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-04-12T00:12:15+02:00",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://codeberg.org/Partatio/SS2-Apworld/releases/download/0.4.1/ss2.apworld",
       "size": 39067,
       "hash_sha256": "43d848e1ed10b81a86509d04869b02230ef6857f8741bf17aead703f2dda352b",
@@ -86943,6 +87055,19 @@
         "world_version": "0.3.2",
         "tag_version": "0.3.2",
         "created_at": "2026-03-30T22:08:35Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.4/vampire_survivors.apworld",
+      "size": 28716,
+      "hash_sha256": "dec14f8cbd918a038e5f5098ac07d37f7b4398ff02d3b284c4f04836895e09d8",
+      "metadata": {
+        "game": "",
+        "id": "vampire_survivors",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-04-11T20:23:12Z",
         "minimum_ap_version": "0.6.5"
       }
     },
