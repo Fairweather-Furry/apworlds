@@ -57934,6 +57934,19 @@
       }
     },
     {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.4.3/pokemon_crystal.apworld",
+      "size": 649690,
+      "hash_sha256": "976a43f8240379680dd153c603043df659ae67d3ed70db9141146c5e33e47a90",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_crystal",
+        "world_version": "5.4.3",
+        "tag_version": "5.4.3",
+        "created_at": "2026-04-13T11:33:07Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.4.2/pokemon_crystal.apworld",
       "size": 648034,
       "hash_sha256": "97a157a6a0e4689b40f4fa2b473ab4ef82dacfb2289b5f444708c1cae69fc874",
@@ -65531,21 +65544,6 @@
       }
     },
     {
-      "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.3.3/residentevil7biohazard.apworld",
-      "size": 30391,
-      "hash_sha256": "cb64d11a315061148f73d4d66a556e4863eb0e708d5673ee1c22b20f51d7a062",
-      "metadata": {
-        "game": "",
-        "id": "residentevil7biohazard",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2026-04-12T21:19:13Z",
-        "flags": [
-          "after_dark"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.3.1/residentevil7biohazard.apworld",
       "size": 30222,
       "hash_sha256": "1b4bccd9361c6bb4db8a34c34f4a14c65ffe4187257de33ed8d8791dce4b080f",
@@ -65558,6 +65556,21 @@
         "flags": [
           "after_dark",
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.3.3/residentevil7biohazard.apworld",
+      "size": 30391,
+      "hash_sha256": "cb64d11a315061148f73d4d66a556e4863eb0e708d5673ee1c22b20f51d7a062",
+      "metadata": {
+        "game": "",
+        "id": "residentevil7biohazard",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-04-12T21:19:13Z",
+        "flags": [
+          "after_dark"
         ]
       }
     },
