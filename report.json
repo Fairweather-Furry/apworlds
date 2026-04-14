@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
-  "total_packages": 619,
-  "total_versions": 6602,
+  "total_packages": 607,
+  "total_versions": 6572,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -225,13 +225,11 @@
     "manual_adventuresofdreamland_bennydreamly": false,
     "manual_baldisbasicsclassicremastered_wolfboi008": false,
     "manual_bandhero_gwaf": false,
-    "manual_betrayal_axxroy": false,
     "manual_blocktales_wolfboi008": false,
     "manual_castleminerz_garbo": false,
     "manual_crashteamracing_hallstead": false,
     "manual_crashteamracingarcade_hallstead": false,
     "manual_crashteamracingnitrofueled_hallstead": false,
-    "manual_ctcsudoku_axxroy": false,
     "manual_dbdsurven_wabadjakk": false,
     "manual_dbdsurvfr_wabadjakk": false,
     "manual_deadbydaylight-killer-c34_nivomi": false,
@@ -259,7 +257,6 @@
     "manual_halflife2episode1_relentingzero": false,
     "manual_halflife2episode2_relentingzero": false,
     "manual_honkaistarrailgoldandgears_erkigmo": false,
-    "manual_ironsworn_axxroy": false,
     "manual_kirbyforgottenland_tailsmk4": false,
     "manual_legorockband_gwaf": false,
     "manual_linklink_nicopopxd": true,
@@ -268,10 +265,6 @@
     "manual_mariokartworld_greengamefire": false,
     "manual_marvellegendary_samitian": false,
     "manual_Meteos_Konoko": false,
-    "manual_mhrise_hub_axxroy": false,
-    "manual_mhrise_village_axxroy": false,
-    "manual_mhrisehub_axxroy": false,
-    "manual_mhrisevillage_axxroy": false,
     "manual_monopolygo_wolfboi008": false,
     "manual_mp9_squidy": false,
     "manual_mp9v1_squidy": false,
@@ -284,7 +277,6 @@
     "manual_outcomememories_1sobbe": false,
     "manual_outerwilds_nicopopxd": true,
     "manual_outerwildseye_nicopopxd": false,
-    "manual_penkopark_axxroy": false,
     "manual_pewdiepielegendofthebrofist_wolfboi008": false,
     "manual_phantomhourglass_carrot": false,
     "manual_pikmin3_squidy": false,
@@ -298,9 +290,7 @@
     "manual_powerwashsimulator_hallojasper": false,
     "manual_residentevil4_vincentssin": false,
     "manual_residentevil5_garbo": false,
-    "manual_riftofthenecrodancer_axxroy": false,
     "manual_skylandersgiants_thisguyhere": true,
-    "manual_slimerancher_axxroy": false,
     "manual_smo_empathymp3": false,
     "manual_smo_mp3": false,
     "manual_SMOFestival": false,
@@ -311,7 +301,6 @@
     "manual_supermariopartyjamboree_dve": false,
     "manual_taleoftwowastelands_fallenkingdoms": true,
     "manual_taylorswiftdiscography_bennydreamly": false,
-    "manual_teamfortress2_axxroy": false,
     "manual_thehenrystickmincollection_coolpro": false,
     "manual_thehuntercotwtrophyhunt_camoufladies": false,
     "manual_thevault_chakraa": false,
@@ -325,7 +314,6 @@
     "manual_worldofwarcraftdungeons_chakraa": false,
     "manual_worldofwarcraftleveling_chakraa": false,
     "manual_worldofwarcraftmopleveling_chakraa": false,
-    "manual_wyrmspan_axxroy": false,
     "manual_yakuzadeadsouls_cfood": false,
     "mario_kart_double_dash": true,
     "mario_super_sluggers": true,
@@ -576,7 +564,7 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 364,
+    "": 352,
     "0.5.0": 8,
     "0.6.0": 12,
     "0.6.1": 12,
@@ -590,8 +578,8 @@
   "max_maximum_ap_version": {
     "": 266,
     "0.0.1": 1,
-    "0.4.6": 5,
+    "0.4.6": 2,
     "0.6.6": 1,
-    "0.6.99": 287
+    "0.6.99": 278
   }
 }

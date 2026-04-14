@@ -38630,32 +38630,6 @@
       }
     },
     {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Betrayal_0.0.2/manual_betrayal_axxroy.apworld",
-      "size": 127440,
-      "hash_sha256": "324baa6a67fd10404f6ebd0eeff44eff7d2817b71048d11ced2bfe9c42631128",
-      "metadata": {
-        "game": "",
-        "id": "manual_betrayal_axxroy",
-        "world_version": "0.0.2",
-        "tag_version": "0.0.2",
-        "created_at": "2024-06-15T02:00:12Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Betrayal_0.0.1/manual_betrayal_axxroy.apworld",
-      "size": 107563,
-      "hash_sha256": "232b101662a7f3ff513d1864c608623a388a55d2cf4ecc5d32a67d70c8f0c5dc",
-      "metadata": {
-        "game": "",
-        "id": "manual_betrayal_axxroy",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2024-06-14T05:00:31Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/4.2.3/manual_blocktales_wolfboi008.apworld",
       "size": 82698,
       "hash_sha256": "a1f8a6639b89a25215142b7327ee7eb8a4b4a9f1d86d084461f2fe9fec5ca4b9",
@@ -39637,84 +39611,6 @@
         "world_version": "2.1",
         "tag_version": "2.1",
         "created_at": "2024-01-27T02:49:37Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Sudoku_1.2.1/manual_ctcsudoku_axxroy.apworld",
-      "size": 132274,
-      "hash_sha256": "555cbe3a6cb6f7f7ad496da9105a9e76287504608075bcdd9a443fd752f02e07",
-      "metadata": {
-        "game": "",
-        "id": "manual_ctcsudoku_axxroy",
-        "world_version": "1.2.1",
-        "tag_version": "1.2.1",
-        "created_at": "2024-07-06T22:56:18Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Sudoku_1.2.0/manual_ctcsudoku_axxroy.apworld",
-      "size": 53582,
-      "hash_sha256": "bbfa08a8a9879f398fc232e680cdae855ea786fb2a07aef621cbe0c94f8b5288",
-      "metadata": {
-        "game": "",
-        "id": "manual_ctcsudoku_axxroy",
-        "world_version": "1.2.0",
-        "tag_version": "1.2.0",
-        "created_at": "2024-06-09T17:29:32Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Sudoku_1.1.2/manual_ctcsudoku_axxroy.apworld",
-      "size": 99437,
-      "hash_sha256": "b9ff388cbd4677b2141c4bac3ce7ee962152864a5efda0b04e1c3807afaa494c",
-      "metadata": {
-        "game": "",
-        "id": "manual_ctcsudoku_axxroy",
-        "world_version": "1.1.2",
-        "tag_version": "1.1.2",
-        "created_at": "2024-02-11T17:30:58Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Sudoku_1.1.1/manual_ctcsudoku_axxroy.apworld",
-      "size": 92567,
-      "hash_sha256": "a9918a26264c0a38f0e90bc756d2bfcc590140d97f02fa3ca7ab4949246ff1bb",
-      "metadata": {
-        "game": "",
-        "id": "manual_ctcsudoku_axxroy",
-        "world_version": "1.1.1",
-        "tag_version": "1.1.1",
-        "created_at": "2023-12-30T19:48:33Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Sudoku_1.1.0/manual_ctcsudoku_axxroy.apworld",
-      "size": 41268,
-      "hash_sha256": "84577c68dcc7c88e764f9fc0878c87ed1c2305ab0dc34dfa736cef64dff9d316",
-      "metadata": {
-        "game": "",
-        "id": "manual_ctcsudoku_axxroy",
-        "world_version": "1.1.0",
-        "tag_version": "1.1.0",
-        "created_at": "2023-12-09T23:32:35Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Sudoku_1.0.0/manual_ctcsudoku_axxroy.apworld",
-      "size": 31240,
-      "hash_sha256": "157480684629b15d5e9cf9b491ec3430d7a265bb59b64bbb47f9132aef23bde1",
-      "metadata": {
-        "game": "",
-        "id": "manual_ctcsudoku_axxroy",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2023-12-01T00:44:17Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -40880,45 +40776,6 @@
       }
     },
     {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Ironsworn_1.0.0/manual_ironsworn_axxroy.apworld",
-      "size": 148211,
-      "hash_sha256": "a183df670214660659ad49b2de9b6d17638e2c7330a0ed21a0a0d52d95ed58b5",
-      "metadata": {
-        "game": "",
-        "id": "manual_ironsworn_axxroy",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2024-04-04T03:43:48Z",
-        "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Ironsworn_0.0.2/manual_ironsworn_axxroy.apworld",
-      "size": 89394,
-      "hash_sha256": "0f354646a9d3b7a08a3e7fb5be0851551c8709e5094b214a2cf129e889952012",
-      "metadata": {
-        "game": "",
-        "id": "manual_ironsworn_axxroy",
-        "world_version": "0.0.2",
-        "tag_version": "0.0.2",
-        "created_at": "2024-01-09T04:42:29Z",
-        "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Ironsworn_0.0.1/manual_ironsworn_axxroy.apworld",
-      "size": 25709,
-      "hash_sha256": "3a13d795c976688ba52818d8c507930bfb20096e055db0c828fdecc2aeb4c609",
-      "metadata": {
-        "game": "",
-        "id": "manual_ironsworn_axxroy",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2023-11-29T04:11:38Z",
-        "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
       "world": "https://github.com/TailsMK4/Kirby-And-The-Forgotten-Land-Archipelago-Manual/releases/download/kfl_main_1-0-3/manual_kirbyforgottenland_tailsmk4.apworld",
       "size": 70498,
       "hash_sha256": "798f78b71a4c7a724fc9f839101629d7646c477ec3d48886af67f06ba81747c0",
@@ -41288,175 +41145,6 @@
         "world_version": "1",
         "tag_version": "1",
         "created_at": "2025-09-29T20:53:17Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Rise_1.0.0/manual_mhrise_hub_axxroy.apworld",
-      "size": 27414,
-      "hash_sha256": "276a8db15f67e099f4af54a47f5be028cb851ffb81b1c38c92e25fde29788bfc",
-      "metadata": {
-        "game": "",
-        "id": "manual_mhrise_hub_axxroy",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2023-11-25T21:13:03Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Rise_0.1.1/manual_mhrise_hub_axxroy.apworld",
-      "size": 25608,
-      "hash_sha256": "ce40b0406d32b32a5ba4a77e3f60950032ae58ce5bf336329c6d36efccecb711",
-      "metadata": {
-        "game": "",
-        "id": "manual_mhrise_hub_axxroy",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2023-11-19T03:58:35Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Rise_1.0.0/manual_mhrise_village_axxroy.apworld",
-      "size": 66418,
-      "hash_sha256": "069421a2a5de6bf40ddba556559de92cff0b49c2fef37f42786a0718ee21a3da",
-      "metadata": {
-        "game": "",
-        "id": "manual_mhrise_village_axxroy",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2023-11-25T21:13:03Z",
-        "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Rise_0.1.1/manual_mhrise_village_axxroy.apworld",
-      "size": 66418,
-      "hash_sha256": "069421a2a5de6bf40ddba556559de92cff0b49c2fef37f42786a0718ee21a3da",
-      "metadata": {
-        "game": "",
-        "id": "manual_mhrise_village_axxroy",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2023-11-19T03:58:35Z",
-        "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Rise_2.0.1/manual_mhrisehub_axxroy.apworld",
-      "size": 135715,
-      "hash_sha256": "2af415378106d57df2810740fc65953e1c15db4fc420fd3ee0b7e34f4fe6f246",
-      "metadata": {
-        "game": "",
-        "id": "manual_mhrisehub_axxroy",
-        "world_version": "2.0.1",
-        "tag_version": "2.0.1",
-        "created_at": "2024-07-06T23:02:44Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Rise_2.0.0/manual_mhrisehub_axxroy.apworld",
-      "size": 123942,
-      "hash_sha256": "6e85e24186e98c02162cd4d3eb32d2cc09986f0b5c0fadb858a36189133d8b04",
-      "metadata": {
-        "game": "",
-        "id": "manual_mhrisehub_axxroy",
-        "world_version": "2.0.0",
-        "tag_version": "2.0.0",
-        "created_at": "2024-04-16T01:14:37Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Rise_1.1.1/manual_mhrisehub_axxroy.apworld",
-      "size": 87155,
-      "hash_sha256": "936a8883fb9fcdd07b1cf05c3e6a58d521afe41a9aa002f7b3d4da139ecdecb5",
-      "metadata": {
-        "game": "",
-        "id": "manual_mhrisehub_axxroy",
-        "world_version": "1.1.1",
-        "tag_version": "1.1.1",
-        "created_at": "2023-12-30T19:36:40Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Rise_1.1.0/manual_mhrisehub_axxroy.apworld",
-      "size": 31269,
-      "hash_sha256": "b94d57d8535410f91f11c99030a2e9d30b57ed0dcd0782f75a0a414866a792b4",
-      "metadata": {
-        "game": "",
-        "id": "manual_mhrisehub_axxroy",
-        "world_version": "1.1.0",
-        "tag_version": "1.1.0",
-        "created_at": "2023-11-28T05:42:17Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Rise_1.0.1/manual_mhrisehub_axxroy.apworld",
-      "size": 27363,
-      "hash_sha256": "034f787e839230d707b09987cd463f94e84285d62596acaf94838ff9792dbf49",
-      "metadata": {
-        "game": "",
-        "id": "manual_mhrisehub_axxroy",
-        "world_version": "1.0.1",
-        "tag_version": "1.0.1",
-        "created_at": "2023-11-27T00:07:39Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Rise_2.0.1/manual_mhrisevillage_axxroy.apworld",
-      "size": 107005,
-      "hash_sha256": "1fcbb22bb08e0b2d0a8d32b198f874a56e1388a7fc0ea2b23f0d479c1aba5745",
-      "metadata": {
-        "game": "",
-        "id": "manual_mhrisevillage_axxroy",
-        "world_version": "2.0.1",
-        "tag_version": "2.0.1",
-        "created_at": "2024-07-06T23:02:44Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Rise_1.1.1/manual_mhrisevillage_axxroy.apworld",
-      "size": 23991,
-      "hash_sha256": "7ca1cee35919b2965f41e41cd6046a19b78e8b0a3657fed2bf4196c93c8f1f38",
-      "metadata": {
-        "game": "",
-        "id": "manual_mhrisevillage_axxroy",
-        "world_version": "1.1.1",
-        "tag_version": "1.1.1",
-        "created_at": "2023-12-30T19:36:40Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Rise_1.1.0/manual_mhrisevillage_axxroy.apworld",
-      "size": 22054,
-      "hash_sha256": "a28bf5324c170480e9eb1a435497ad9d44b50d3faae4a81e5f18678d353e71c9",
-      "metadata": {
-        "game": "",
-        "id": "manual_mhrisevillage_axxroy",
-        "world_version": "1.1.0",
-        "tag_version": "1.1.0",
-        "created_at": "2023-11-28T05:42:17Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Rise_1.0.1/manual_mhrisevillage_axxroy.apworld",
-      "size": 22054,
-      "hash_sha256": "a28bf5324c170480e9eb1a435497ad9d44b50d3faae4a81e5f18678d353e71c9",
-      "metadata": {
-        "game": "",
-        "id": "manual_mhrisevillage_axxroy",
-        "world_version": "1.0.1",
-        "tag_version": "1.0.1",
-        "created_at": "2023-11-27T00:07:39Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -42421,19 +42109,6 @@
       }
     },
     {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Penko_0.0.1/manual_penkopark_axxroy.apworld",
-      "size": 95173,
-      "hash_sha256": "aec98c1afd6848ab29810417d278e336c06163bcbd97e570f6870f3071cee266",
-      "metadata": {
-        "game": "",
-        "id": "manual_penkopark_axxroy",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2024-02-19T03:54:58Z",
-        "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
       "world": "https://github.com/WolfBoi008/PewDiePie-Legend-of-the-BroFist/releases/download/1.1.1/manual_pewdiepielegendofthebrofist_wolfboi008.apworld",
       "size": 59654,
       "hash_sha256": "a6079dd70126519527dd946a5818161b28377cad8ec6c883278d164caf05d4b1",
@@ -43227,19 +42902,6 @@
       }
     },
     {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/rift_0.1.0/manual_riftofthenecrodancer_axxroy.apworld",
-      "size": 52652,
-      "hash_sha256": "cb11ef552cebbba039c0cea6d85ac7297145ac5cf817f0b6cc1dac195818a60c",
-      "metadata": {
-        "game": "",
-        "id": "manual_riftofthenecrodancer_axxroy",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2025-02-14T05:19:56Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/IThisGuyHere/SkylandersGiants_Manual/releases/download/v1.1.0/manual_skylandersgiants_thisguyhere.apworld",
       "size": 74573,
       "hash_sha256": "cd5d936fc1d6c02a7a67247a18be8b270041b0f599d45debe547019a3b125089",
@@ -43261,48 +42923,6 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-05-28T19:59:17Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/slimerancher_0.1.2a/manual_slimerancher_axxroy.apworld",
-      "size": 14173713,
-      "hash_sha256": "59b187359211d8f9290522221eed753fd95278380aaf91ca880af390a4cce92f",
-      "metadata": {
-        "game": "",
-        "id": "manual_slimerancher_axxroy",
-        "world_version": "0.1.2a0",
-        "tag_version": "0.1.2a0",
-        "created_at": "2025-02-24T03:07:59Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/slimerancher_0.1.1/manual_slimerancher_axxroy.apworld",
-      "size": 14187386,
-      "hash_sha256": "7ed981dba4f15a780dcaa39ac201a869f04b7b0b8880e6f62ad18a038998d51e",
-      "metadata": {
-        "game": "",
-        "id": "manual_slimerancher_axxroy",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2024-11-12T01:16:40Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/slimerancher_0.1.0/manual_slimerancher_axxroy.apworld",
-      "size": 47204,
-      "hash_sha256": "f2a48e64cf37ea0c5252d4920f1dfbb742735015c8fef4a8fe475d6c78d31e4a",
-      "metadata": {
-        "game": "",
-        "id": "manual_slimerancher_axxroy",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2024-11-03T21:44:23Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -43646,19 +43266,6 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-10-01T22:37:18Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/TF2_0.0.1/manual_teamfortress2_axxroy.apworld",
-      "size": 41493,
-      "hash_sha256": "eb9104abaf5769387c037c46db5ea782e3c19a150ba5b53709ff50fa014cdebb",
-      "metadata": {
-        "game": "",
-        "id": "manual_teamfortress2_axxroy",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2024-07-10T03:29:52Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -44804,19 +44411,6 @@
         "flags": [
           "unready"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/wyrmspan_0.1.0/manual_wyrmspan_axxroy.apworld",
-      "size": 42086,
-      "hash_sha256": "20b6055dd8b9d5bcfbe432ebdd5c2f049d36a66e2b91e490f31ab4c5ea0d6a46",
-      "metadata": {
-        "game": "",
-        "id": "manual_wyrmspan_axxroy",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2025-02-23T01:51:58Z",
-        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -50359,6 +49953,19 @@
         "world_version": "1.5.30",
         "tag_version": "1.5.30",
         "created_at": "2026-03-27T10:50:03Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.31/musedash.apworld",
+      "size": 33538,
+      "hash_sha256": "1222c43837582ae70b5c85ea33506b63a46d7be8e0a86564a20ec0d1cfdbe4f3",
+      "metadata": {
+        "game": "",
+        "id": "musedash",
+        "world_version": "1.5.30",
+        "tag_version": "1.5.30",
+        "created_at": "2026-04-14T08:44:50Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -91845,10 +91452,6 @@
       "game": "Manual_BandHero_GWAF",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
-    "manual_betrayal_axxroy": {
-      "game": "Manual_Betrayal_Axxroy",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
     "manual_blocktales_wolfboi008": {
       "game": "Manual_BlockTales_WolfBoi008",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
@@ -91868,10 +91471,6 @@
     },
     "manual_crashteamracingnitrofueled_hallstead": {
       "game": "Manual_CrashTeamRacingNitroFueled_Hallstead",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_ctcsudoku_axxroy": {
-      "game": "Manual_CTCSudoku_Axxroy",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_dbdsurven_wabadjakk": {
@@ -91983,10 +91582,6 @@
       "game": "Manual_HonkaiStarRailGoldAndGears_Erkigmo",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
-    "manual_ironsworn_axxroy": {
-      "game": "",
-      "description": ""
-    },
     "manual_kirbyforgottenland_tailsmk4": {
       "game": "Manual_KirbyForgottenLand_TailsMK4",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
@@ -92017,22 +91612,6 @@
     },
     "manual_Meteos_Konoko": {
       "game": "Manual_Meteos_Konoko",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_mhrise_hub_axxroy": {
-      "game": "",
-      "description": ""
-    },
-    "manual_mhrise_village_axxroy": {
-      "game": "",
-      "description": ""
-    },
-    "manual_mhrisehub_axxroy": {
-      "game": "Manual_MHRiseHub_Axxroy",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_mhrisevillage_axxroy": {
-      "game": "Manual_MHRiseVillage_Axxroy",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_monopolygo_wolfboi008": {
@@ -92082,10 +91661,6 @@
     "manual_outerwildseye_nicopopxd": {
       "game": "Manual_OuterWildsEye_Nicopopxd",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nIn this case the game from 2019: OuterWilds \nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_penkopark_axxroy": {
-      "game": "",
-      "description": ""
     },
     "manual_pewdiepielegendofthebrofist_wolfboi008": {
       "game": "Manual_PewDiePieLegendoftheBrofist_WolfBoi008",
@@ -92139,16 +91714,8 @@
       "game": "Manual_ResidentEvil5_Garbo",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
-    "manual_riftofthenecrodancer_axxroy": {
-      "game": "Manual_RiftoftheNecrodancer_Axxroy",
-      "description": "Built on the Manual APWorld, this allows for any rhythm game to be randomized.\nBased on DeamonHunter's Muse Dash implementation, play each song you have unlocked in order to get checks!\nCollect your Goal Locking items in order to beat your final song!"
-    },
     "manual_skylandersgiants_thisguyhere": {
       "game": "Manual_SkylandersGiants_ThisGuyHere",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_slimerancher_axxroy": {
-      "game": "Manual_SlimeRancher_Axxroy",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_smo_empathymp3": {
@@ -92189,10 +91756,6 @@
     },
     "manual_taylorswiftdiscography_bennydreamly": {
       "game": "Manual_TaylorSwiftDiscography_bennydreamly",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_teamfortress2_axxroy": {
-      "game": "Manual_TeamFortress2_Axxroy",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_thehenrystickmincollection_coolpro": {
@@ -92247,10 +91810,6 @@
       "game": "Manual_WorldofWarcraftMoPLeveling_Chakraa",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent.",
       "upgrades_into": "manual_worldofwarcraftleveling_chakraa"
-    },
-    "manual_wyrmspan_axxroy": {
-      "game": "Manual_Wyrmspan_Axxroy",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_yakuzadeadsouls_cfood": {
       "game": "Manual_YakuzaDeadSouls_CFood",
