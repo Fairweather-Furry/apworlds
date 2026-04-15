@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
-  "total_packages": 620,
-  "total_versions": 6606,
+  "total_packages": 616,
+  "total_versions": 6542,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -84,7 +84,6 @@
     "cuphead": false,
     "custom_robo": false,
     "cv64": false,
-    "cv_dos": true,
     "cvcotm": false,
     "cvhodis": false,
     "cvlod": true,
@@ -119,7 +118,6 @@
     "duke3d": false,
     "dungeon_clawler": false,
     "dw1": false,
-    "earthbound": true,
     "easy_delivery_co": true,
     "elementipelago": false,
     "enderlilies": false,
@@ -129,7 +127,6 @@
     "exocolonist": true,
     "factorio_bobs": true,
     "factorio_saws": true,
-    "faxanadu": false,
     "fe8": true,
     "fez": true,
     "ff12_open_world": true,
@@ -334,7 +331,6 @@
     "medievil": true,
     "medievil2": true,
     "megamix": true,
-    "melee": false,
     "messenger": true,
     "metrocubevania": false,
     "metroidfusion": true,
@@ -572,26 +568,25 @@
     "yoku": false,
     "yooka_laylee": false,
     "yugiohddm": true,
-    "zelda2": false,
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 364,
+    "": 362,
     "0.5.0": 8,
     "0.6.0": 12,
     "0.6.1": 12,
     "0.6.2": 9,
-    "0.6.3": 53,
+    "0.6.3": 51,
     "0.6.4": 60,
     "0.6.5": 16,
     "0.6.6": 13,
     "0.6.7": 13
   },
   "max_maximum_ap_version": {
-    "": 266,
+    "": 264,
     "0.0.1": 1,
     "0.4.6": 5,
     "0.6.6": 1,
-    "0.6.99": 287
+    "0.6.99": 285
   }
 }
