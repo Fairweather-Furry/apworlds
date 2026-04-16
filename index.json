@@ -4813,6 +4813,19 @@
       }
     },
     {
+      "world": "https://github.com/Nikkilites/Archipelago-BacklogExpedition-APWorld/releases/download/v1.2.1/backlog_expedition.apworld",
+      "size": 317970,
+      "hash_sha256": "e05a7125a8c84b527ec08b8b0b7d86bf97afeafda12ebd378609a693a1ef04c4",
+      "metadata": {
+        "game": "",
+        "id": "backlog_expedition",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-04-16T00:20:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Nikkilites/Archipelago-BacklogExpedition-APWorld/releases/download/v1.2.0/backlog_expedition.apworld",
       "size": 199949,
       "hash_sha256": "904c60608f840d4741686a581dc9ac06e5592b3af631d57420239fcd9c89cc04",
@@ -14463,6 +14476,162 @@
       }
     },
     {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0.2/cv_dos.apworld",
+      "size": 92004,
+      "hash_sha256": "fe4d7e8aa6fc41cb683bdf00b85bcb8f0a701eba7ff4b4709acd9060b06cf41f",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "2.0.2",
+        "tag_version": "2.0.2",
+        "created_at": "2026-03-09T21:48:16Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0.1/cv_dos.apworld",
+      "size": 91800,
+      "hash_sha256": "3a2c377cfb895566e61698059b076b8a6fd127de3967322db1e11f4c5b44849d",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "2.0.1.post3",
+        "tag_version": "2.0.1.post3",
+        "created_at": "2026-03-09T21:48:16Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0.1/cv_dos.apworld",
+      "size": 91670,
+      "hash_sha256": "8e42f23995a9868a63eba57b2e814546d0f753a488107ffb68e8797d4ade2afc",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "2.0.1.post2",
+        "tag_version": "2.0.1.post2",
+        "created_at": "2026-03-09T21:48:16Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0.1/cv_dos.apworld",
+      "size": 94615,
+      "hash_sha256": "7a7dc18ebb382c43b2b09be7abac0949639e5b457d1f68e32435cc3d606c58a8",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "2.0.1",
+        "tag_version": "2.0.1",
+        "created_at": "2026-03-09T21:48:16Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0/cv_dos.apworld",
+      "size": 90051,
+      "hash_sha256": "ec8dc72b52f1923389bcd9ec5b63a2cdbdb732cecffc4ea8b866928c5b7c91ab",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-03-09T21:48:16Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos1.4/cv_dos.apworld",
+      "size": 70319,
+      "hash_sha256": "09ea9853e10e9f199d315dd536bb78e21c9110f5415b1c0c6efda2a2dd74c009",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "1.4.0",
+        "tag_version": "1.4.0",
+        "created_at": "2026-01-14T04:48:30Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos1.3/cv_dos.apworld",
+      "size": 65192,
+      "hash_sha256": "fdb66484d0564eb3d0cab54b20bad98dc7844fca5aa3a8ee65bff7618e458baa",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "1.3.0",
+        "tag_version": "1.3.0",
+        "created_at": "2025-12-20T12:35:48Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos1.2.1/cv_dos.apworld",
+      "size": 62131,
+      "hash_sha256": "30e69789054115f450160817092dbc67199c596db3190f89e43447f73b486fc0",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2025-12-14T01:54:14Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos1.2/cv_dos.apworld",
+      "size": 62017,
+      "hash_sha256": "72452a44dff8225c75df703eaa2979c8d7a20968ba6de775a132b1a0edf96dc0",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2025-12-14T01:54:14Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos1.1/cv_dos.apworld",
+      "size": 57037,
+      "hash_sha256": "e4ea507fab7459cc73196414f2f21a957ff469863d16233136a4621e797b7673",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2025-08-19T14:26:12Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos1.0.1/cv_dos.apworld",
+      "size": 43076,
+      "hash_sha256": "79990a34a537355845ff2445559d7a1d91e43f4c23b78e30c2442a0e451bf27d",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2025-08-19T14:26:12Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos1.0/cv_dos.apworld",
+      "size": 43090,
+      "hash_sha256": "05c215033cbf453442507b507a7950c7a77d6c4d4f22c18702480faa5de16293",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2025-08-19T14:26:12Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvhodis_v2.0/cvhodis.apworld",
       "size": 82559,
       "hash_sha256": "d60a8ebd0fa0f1af67335609b2726973eae6be7c7a470e48e684f20cf95bd052",
@@ -20278,6 +20447,577 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.3.1/earthbound.apworld",
+      "size": 372706,
+      "hash_sha256": "b035f16af38e5b0580d0e97f7de99b5829b4e4391ba98bd3d7babec409862b87",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.3.1",
+        "tag_version": "4.3.1",
+        "created_at": "2025-12-14T01:54:14Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.3/earthbound.apworld",
+      "size": 372585,
+      "hash_sha256": "a03dbc7623899ad0a323bf67bec579dad3bb7413a23fca9cb09be97d71e80cd0",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.3.0",
+        "tag_version": "4.3.0",
+        "created_at": "2025-08-19T14:26:12Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.7/earthbound.apworld",
+      "size": 384836,
+      "hash_sha256": "e23e105ee7cc13775c8594a386c933167c5ee7780862686e15b17917028106e4",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.2.7",
+        "tag_version": "4.2.7",
+        "created_at": "2025-08-19T14:26:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.7/earthbound.apworld",
+      "size": 384704,
+      "hash_sha256": "0c835c69dade6717321d89b5f991771354e05d8184469648589cfaee2032ba32",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.2.7",
+        "tag_version": "4.2.7",
+        "created_at": "2025-08-19T14:26:12Z"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.6/earthbound.apworld",
+      "size": 1056253,
+      "hash_sha256": "8893096b18cf7c4ce2a8c45ebd8f796018f30ae1c0640b6b3b0b64e50a94e3b0",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.2.6",
+        "tag_version": "4.2.6",
+        "created_at": "2025-08-19T14:26:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.5/earthbound.apworld",
+      "size": 1055735,
+      "hash_sha256": "ed2ea9ee57071148db1fe3a7ec7219b3a0ac47627b6e0606fbb7558ab32b9c77",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.2.5",
+        "tag_version": "4.2.5",
+        "created_at": "2025-07-01T03:44:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.4/earthbound.apworld",
+      "size": 1054255,
+      "hash_sha256": "164007a1305c0145d6e8534ea2732feb2afd369a3d193188d178f3053bb336cf",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.2.4",
+        "tag_version": "4.2.4",
+        "created_at": "2025-07-01T03:44:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.3/earthbound.apworld",
+      "size": 1053671,
+      "hash_sha256": "34cf3440c589b43d4eeb3dad267f61e26ce9bdbe6b18d72136533d760b1846ce",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.2.3",
+        "tag_version": "4.2.3",
+        "created_at": "2025-07-01T03:44:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.2/earthbound.apworld",
+      "size": 1051818,
+      "hash_sha256": "578d122e1ddeb0ceb7165d79109d26e7d3ba95ef545427d32ad6abde329a1bb7",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.2.2.post2",
+        "tag_version": "4.2.2.post2",
+        "created_at": "2025-07-01T03:44:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.2/earthbound.apworld",
+      "size": 1051840,
+      "hash_sha256": "fb5992222c511528329f4402c31e893ea1b0fe6660613b5080397d3ae43a4bcb",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.2.2",
+        "tag_version": "4.2.2",
+        "created_at": "2025-07-01T03:44:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2.1/earthbound.apworld",
+      "size": 1048772,
+      "hash_sha256": "8a5acf5f117a4b0c9c5d29ed8853e32b9245fe2a3856e0b58684ef41604e53fa",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.2.1",
+        "tag_version": "4.2.1",
+        "created_at": "2025-07-01T03:44:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2/earthbound.apworld",
+      "size": 1048392,
+      "hash_sha256": "8f113966b647db0d62aec2911c2c2316cf87c22cde949afe371070c8b519002b",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.2.post2",
+        "tag_version": "4.2.post2",
+        "created_at": "2025-07-01T03:44:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.2/earthbound.apworld",
+      "size": 1018480,
+      "hash_sha256": "a1ffb3a7b62a0ae8b5a1cf0e4af4d630bf61831506debc6b8da735a5e387f5ba",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.2",
+        "tag_version": "4.2",
+        "created_at": "2025-07-01T03:44:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.1.3/earthbound.apworld",
+      "size": 1018480,
+      "hash_sha256": "a1ffb3a7b62a0ae8b5a1cf0e4af4d630bf61831506debc6b8da735a5e387f5ba",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.1.3",
+        "tag_version": "4.1.3",
+        "created_at": "2025-05-15T14:30:54Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.1.2/earthbound.apworld",
+      "size": 1005102,
+      "hash_sha256": "e1a4c6837c2a8a543bdbf05242e5d31844ccbb3f4fb1bd9b4ef5ba2340df4bf8",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.1.2",
+        "tag_version": "4.1.2",
+        "created_at": "2025-05-15T14:30:54Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.1.1/earthbound.apworld",
+      "size": 999212,
+      "hash_sha256": "db2572acc7335cdb94ccf39070961c89953a16ee9e3ba532c9783c97d8199ce8",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.1.1",
+        "tag_version": "4.1.1",
+        "created_at": "2025-05-15T14:30:54Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.1/earthbound.apworld",
+      "size": 1140986,
+      "hash_sha256": "ab78c19a97b705f947a1546efbfd9cfc799b5b7447bd85be605d9b87f70148f2",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.1",
+        "tag_version": "4.1",
+        "created_at": "2025-05-15T14:30:54Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.0.1/earthbound.apworld",
+      "size": 1111184,
+      "hash_sha256": "dc8360b14aea5c11f082681c675bc08ac405ed68ba3c8656e83572357acf70cd",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.0.1",
+        "tag_version": "4.0.1",
+        "created_at": "2025-04-05T14:16:14Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.0/earthbound.apworld",
+      "size": 1111115,
+      "hash_sha256": "5ce3031ec179b978d56d64c8c2a3512ce4ed37e526c98628e237c3ace439b1b2",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.0",
+        "tag_version": "4.0",
+        "created_at": "2025-04-05T14:16:14Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.5/earthbound.apworld",
+      "size": 1106677,
+      "hash_sha256": "2b3182c7f5ef28399919dd32175f65d63ea802d01a947ceb9924ab4e6970142f",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "3.5",
+        "tag_version": "3.5",
+        "created_at": "2025-04-05T14:16:14Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.4/earthbound.apworld",
+      "size": 1103650,
+      "hash_sha256": "85a93006a71337c6ac5c72b1b8d0d0fea76847659c388c9f5570e0084ff21267",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "3.4",
+        "tag_version": "3.4",
+        "created_at": "2025-04-05T14:16:14Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.3.1/earthbound.apworld",
+      "size": 1049409,
+      "hash_sha256": "160c34fc78a64f446728ddd03099cb3ff927363adf2cfcdc35691c4230295105",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "3.3.1",
+        "tag_version": "3.3.1",
+        "created_at": "2025-03-17T01:30:09Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.3/earthbound.apworld",
+      "size": 1047881,
+      "hash_sha256": "e953d76b6bdd417294f37e374077f5772a43ee60d9b978a9f22ba8f05b138279",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "3.3",
+        "tag_version": "3.3",
+        "created_at": "2025-03-17T01:30:09Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.2/earthbound.apworld",
+      "size": 1008440,
+      "hash_sha256": "4ef78787d5c54b3197d3571ad5c13a0bb3b7f26c8e2b256aff974e3ff2e739b9",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "3.2",
+        "tag_version": "3.2",
+        "created_at": "2025-02-01T01:26:59Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.1/earthbound.apworld",
+      "size": 994380,
+      "hash_sha256": "c72cb44e3775a51017445a78a80da5959654b0171437eef917fbfe471221b80f",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "3.1",
+        "tag_version": "3.1",
+        "created_at": "2025-02-01T01:26:59Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.0.2/earthbound.apworld",
+      "size": 933368,
+      "hash_sha256": "7c9b68578ad2418292325d8ad848df195f2cc0ed5586e77ab4f172519999e2f4",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "3.0.2",
+        "tag_version": "3.0.2",
+        "created_at": "2025-01-26T12:06:27Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.0.2B/earthbound.apworld",
+      "size": 933373,
+      "hash_sha256": "6a535cf4a4856ae3c1202285ef77a68cb65abe9c727e0e9ef660fcc9e1ac7507",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "3.0.2b0",
+        "tag_version": "3.0.2b0",
+        "created_at": "2025-01-26T12:06:27Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.0.1/earthbound.apworld",
+      "size": 932993,
+      "hash_sha256": "01381d5069f120ba15e1854bf1f61092bc8a687f8d8a8e47dadcbeb2b018a58f",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "3.0.1",
+        "tag_version": "3.0.1",
+        "created_at": "2025-01-18T02:38:59Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap3.0/earthbound.apworld",
+      "size": 927445,
+      "hash_sha256": "875da360529552edd8c9153ee68ea3dcb9a808807ecc504a75ecf9d59153c40b",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "3.0",
+        "tag_version": "3.0",
+        "created_at": "2024-11-24T17:43:28Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap2.4.1/earthbound.apworld",
+      "size": 785566,
+      "hash_sha256": "12aa8ba9c23ac4bae253441c76e1d9268ae5421e68dec57c21a623c27919ff14",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "2.4.1",
+        "tag_version": "2.4.1",
+        "created_at": "2024-11-24T17:43:28Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap2.4/earthbound.apworld",
+      "size": 785027,
+      "hash_sha256": "15301f924be631ad350cd96f739062146f8d70a78c10fdd219e511b8a9599313",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "2.4",
+        "tag_version": "2.4",
+        "created_at": "2024-11-24T17:43:28Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap2.3.1/earthbound.apworld",
+      "size": 586827,
+      "hash_sha256": "f93320e9220a032f50ae891fdc5710e3f8a97afe1b193760a7a6dcec7d3711e2",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "2.3.1",
+        "tag_version": "2.3.1",
+        "created_at": "2024-08-22T05:33:08Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap2.3/earthbound.apworld",
+      "size": 587023,
+      "hash_sha256": "1e49cca3d47b91dda0415ee67f3d5ad1b891bf23e9f5426d7c02adbbd91ff3fc",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "2.3",
+        "tag_version": "2.3",
+        "created_at": "2024-08-22T05:33:08Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap2.2/earthbound.apworld",
+      "size": 537653,
+      "hash_sha256": "ae4d7ba01d820b7adb00e2c4240932d73768833f54fdbbe4b8cd9697d18fc383",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "2.2",
+        "tag_version": "2.2",
+        "created_at": "2024-08-22T05:33:08Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap2.1/earthbound.apworld",
+      "size": 514693,
+      "hash_sha256": "7315d5049c740e5c4072f6c4c8be1b149f2eaec34ecbf79267a7c0196a088e6d",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "2.1",
+        "tag_version": "2.1",
+        "created_at": "2024-08-22T05:33:08Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap2.0.2/earthbound.apworld",
+      "size": 158391,
+      "hash_sha256": "4b7b3b46b47f7a2439ff97a0e657376f76dd2b0a3596b623b89eca51f3bcb46c",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "2.0.2",
+        "tag_version": "2.0.2",
+        "created_at": "2024-08-22T05:33:08Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap2.0.1/earthbound.apworld",
+      "size": 421276,
+      "hash_sha256": "0244408327f9720aebe42d904f6cadcc15a07e2e5291d3280214c4379591814a",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "2.0.1",
+        "tag_version": "2.0.1",
+        "created_at": "2024-08-22T05:33:08Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap2.0/earthbound.apworld",
+      "size": 419415,
+      "hash_sha256": "08470600533d8b522d2ecad521e8f063942a1920234431380ed9d4a6d0d29c33",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "2.0",
+        "tag_version": "2.0",
+        "created_at": "2024-08-22T05:33:08Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap1.4.1/earthbound.apworld",
+      "size": 373178,
+      "hash_sha256": "20f3b101d3415ed6667ddb6b2b6dd8e52a0b1316336f7f4233ae78f643b70757",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "1.4.1",
+        "tag_version": "1.4.1",
+        "created_at": "2024-06-23T22:36:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap1.4/earthbound.apworld",
+      "size": 373167,
+      "hash_sha256": "db0cf1ece7e0b196f28e6fec562dd78ab5579de6a1197e05aea2803384c49997",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "1.4",
+        "tag_version": "1.4",
+        "created_at": "2024-06-23T22:36:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthbound1.3/earthbound.apworld",
+      "size": 130547,
+      "hash_sha256": "4ecd0d8c7c067e48617646bf1450954e379da88d996c704a7308abb816875d8a",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "1.3",
+        "tag_version": "1.3",
+        "created_at": "2024-06-23T22:36:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthbound1.2/earthbound.apworld",
+      "size": 356458,
+      "hash_sha256": "04011b115d86dfd3ad780995304e26a19d5bb037a82b838be41dd66432b1e670",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "1.2",
+        "tag_version": "1.2",
+        "created_at": "2024-06-23T22:36:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthbound1.1ap/earthbound.apworld",
+      "size": 350546,
+      "hash_sha256": "96f7de73088730831f89455677f54897bc6fabee161c1495dea99989d0c8fb6d",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "1.1",
+        "tag_version": "1.1",
+        "created_at": "2024-06-23T22:36:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/apworld/earthbound.apworld",
+      "size": 350497,
+      "hash_sha256": "019e72a9aa80050c778741dffd76cc06298c327960591a4de34c654d41395130",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "1.0",
+        "tag_version": "1.0",
+        "created_at": "2024-06-23T22:36:12Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -45931,6 +46671,71 @@
       }
     },
     {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap1.1/melee.apworld",
+      "size": 248328,
+      "hash_sha256": "d1ad1374e238ee894005f7c0472da9988d6428b13be1621995f0bfcc1bd0493e",
+      "metadata": {
+        "game": "",
+        "id": "melee",
+        "world_version": "1.1",
+        "tag_version": "1.1",
+        "created_at": "2025-08-19T14:26:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap1.0.2/melee.apworld",
+      "size": 238142,
+      "hash_sha256": "f98891e3535effa013b62affc7a4025661b1eaf8089f6f517113221c8dccf33b",
+      "metadata": {
+        "game": "",
+        "id": "melee",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2025-08-19T14:26:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap1.0.1.1/melee.apworld",
+      "size": 237810,
+      "hash_sha256": "1e23532227101d569dee0d113d5ecc1c73302e66ece0d4d97cfc3d6c8bda1377",
+      "metadata": {
+        "game": "",
+        "id": "melee",
+        "world_version": "1.0.1.1",
+        "tag_version": "1.0.1.1",
+        "created_at": "2025-08-19T14:26:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap1.0.1/melee.apworld",
+      "size": 237465,
+      "hash_sha256": "0674fa5afa5d9fe3e1a6b58e92e690a91738ce515408e5cfc2a2c9855b4b40f4",
+      "metadata": {
+        "game": "",
+        "id": "melee",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2025-08-19T14:26:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap1.0/melee.apworld",
+      "size": 237142,
+      "hash_sha256": "6243785e8c8996eff934d65853862f81fb7c820fc086a2363f8f3440debd218a",
+      "metadata": {
+        "game": "",
+        "id": "melee",
+        "world_version": "1.0",
+        "tag_version": "1.0",
+        "created_at": "2025-08-19T14:26:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Jouramie/Archipelago/releases/download/0.6.7-messenger-ut-beta/messenger.apworld",
       "size": 78005,
       "hash_sha256": "2cd109be33356ee37008b033ec25828693ab2c0d118b2a967874914fa47de2f1",
@@ -50182,6 +50987,19 @@
         "tag_version": "0.1.0",
         "created_at": "2024-07-03T12:55:54Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.3/nine_sols.apworld",
+      "size": 2585016,
+      "hash_sha256": "40cb5c894ac6330e563c76413d63a2647c941b4830447cf90799ee91bb1b685b",
+      "metadata": {
+        "game": "",
+        "id": "nine_sols",
+        "world_version": "0.5.3",
+        "tag_version": "0.5.3",
+        "created_at": "2026-04-16T01:48:34Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -63218,6 +64036,19 @@
       }
     },
     {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.5.0/rac3.apworld",
+      "size": 2846863,
+      "hash_sha256": "6c8126623ce51ef83dc4c20a6f41a6d95c0655e8fb0961f9aa6154f588d4c61b",
+      "metadata": {
+        "game": "",
+        "id": "rac3",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-04-15T16:48:40Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
       "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.4.1/rac3.apworld",
       "size": 2825934,
       "hash_sha256": "292b2cf5961e50635dc636b64c2b74a71336ed05864276f0847a567a64410735",
@@ -66517,6 +67348,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-11-14T09:17:22Z",
         "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.1/sadx.apworld",
+      "size": 3156325,
+      "hash_sha256": "5fc605dceae038b9967008d2ae32e7ca5e3b54b3b1e7dc75bb586031ed46b808",
+      "metadata": {
+        "game": "",
+        "id": "sadx",
+        "world_version": "1.2.1.post2",
+        "tag_version": "1.2.1.post2",
+        "created_at": "2026-04-11T18:32:06Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -89887,6 +90731,45 @@
       }
     },
     {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/Zelda2ap1.1/zelda2.apworld",
+      "size": 123831,
+      "hash_sha256": "3a26e035059e42e3d1e4c7a1935d642abfc0be99c71a2f17a5ab5b4d761a18b8",
+      "metadata": {
+        "game": "",
+        "id": "zelda2",
+        "world_version": "1.1",
+        "tag_version": "1.1",
+        "created_at": "2025-04-05T14:16:14Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/Zelda2ap1.0.1/zelda2.apworld",
+      "size": 31428,
+      "hash_sha256": "82c844472ac56377b4e7ed6c8fe3f39497a7e47a213409890bbf6bc7dfb274fa",
+      "metadata": {
+        "game": "",
+        "id": "zelda2",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2025-04-05T14:16:14Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/Zelda2ap1.0/zelda2.apworld",
+      "size": 120927,
+      "hash_sha256": "1a9f5c72ef3ed01c8b8a58954f7bdcf643e483d67e76e6132a6a241e067b744a",
+      "metadata": {
+        "game": "",
+        "id": "zelda2",
+        "world_version": "1.0",
+        "tag_version": "1.0",
+        "created_at": "2025-01-20T23:56:20Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.1.1/zork_grand_inquisitor.apworld",
       "size": 1142764,
       "hash_sha256": "8d085fb3e9adc7a047cd7f44966855ae6456eda884d64bef971c79d5f755e517",
@@ -90496,6 +91379,10 @@
       "game": "Castlevania 64",
       "description": "Castlevania for the Nintendo 64 is the first 3D game in the Castlevania franchise. As either whip-wielding Belmont\ndescendant Reinhardt Schneider or powerful sorceress Carrie Fernandez, brave many terrifying traps and foes as you\nmake your way to Dracula's chamber and stop his rule of terror!"
     },
+    "cv_dos": {
+      "game": "Castlevania: Dawn of Sorrow",
+      "description": "Bottom text"
+    },
     "cvcotm": {
       "game": "Castlevania - Circle of the Moon",
       "description": "Castlevania: Circle of the Moon is a launch title for the Game Boy Advance and the first of three Castlevania games\nreleased for the handheld in the \"Metroidvania\" format. As Nathan Graves, wielding the Hunter Whip and utilizing the\nDual Set-Up System for new possibilities, you must battle your way through Camilla's castle and rescue your master\nfrom a demonic ritual to restore the Count's power..."
@@ -90635,6 +91522,10 @@
       "game": "Digimon World",
       "description": "Digimon World is a game about raising digital monsters and recruiting allies to save the digital world."
     },
+    "earthbound": {
+      "game": "EarthBound",
+      "description": "EarthBound is a contemporary-themed JRPG. Take four psychically-endowed children\nacross the world in search of 8 Melodies to defeat Giygas, the cosmic evil."
+    },
     "easy_delivery_co": {
       "game": "Easy Delivery Co.",
       "description": "Easy Delivery Co. is a game about delivering packages."
@@ -90670,6 +91561,10 @@
     "factorio_saws": {
       "game": "Factorio - Space Age Without Space",
       "description": "Factorio is a game about automation. You play as an engineer who has crash landed on the planet\nNauvis, an inhospitable world filled with dangerous creatures called biters. Build a factory,\nresearch new technologies, and become more efficient in your quest to build a rocket and return home."
+    },
+    "faxanadu": {
+      "game": "Faxanadu",
+      "description": "Faxanadu is an action role-playing platform video game developed by Hudson Soft for the Nintendo Entertainment System"
     },
     "fe8": {
       "game": "Fire Emblem Sacred Stones",
@@ -91491,6 +92386,10 @@
     "megamix": {
       "game": "Hatsune Miku Project Diva Mega Mix+",
       "description": "Hatsune Miku: Project Diva Mega Mix+ is a rhythm game where you hit notes to the beat of one of 250+ songs.\nPlay through a selection of randomly chosen songs, collecting leeks\nuntil you have enough to play and complete the goal song!"
+    },
+    "melee": {
+      "game": "Super Smash Bros. Melee",
+      "description": "Bottom text"
     },
     "messenger": {
       "game": "The Messenger",
@@ -92449,6 +93348,10 @@
     "yugiohddm": {
       "game": "Yu-Gi-Oh! Dungeon Dice Monsters",
       "description": "Yu-Gi-Oh! Dungeon Dice Monsters is a Game Boy Advance dice-based tactics game based on an original board game\nfeatured in the Yu-Gi-Oh! storyline."
+    },
+    "zelda2": {
+      "game": "Zelda II: The Adventure of Link",
+      "description": "In the exciting sequel to Legend of Zelda, Link must find the Triforce of Courage in the Great Palace\nto awaken Zelda, cursed with a sleeping spell. Along the wy, he is being hunted by Ganon's followers,\nwho seek to use his blood to revive their master."
     },
     "zork_grand_inquisitor": {
       "game": "Zork Grand Inquisitor",
