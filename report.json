@@ -1,7 +1,7 @@
 {
   "total_repositories": 518,
-  "total_packages": 619,
-  "total_versions": 6583,
+  "total_packages": 620,
+  "total_versions": 6615,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -78,6 +78,7 @@
     "crash2": true,
     "crosscode": true,
     "crossword_ap": false,
+    "crystal_project": true,
     "crystalis": true,
     "ctjot": true,
     "cuphead": false,
@@ -581,13 +582,13 @@
     "0.6.1": 12,
     "0.6.2": 9,
     "0.6.3": 53,
-    "0.6.4": 59,
+    "0.6.4": 60,
     "0.6.5": 16,
     "0.6.6": 13,
     "0.6.7": 13
   },
   "max_maximum_ap_version": {
-    "": 265,
+    "": 266,
     "0.0.1": 1,
     "0.4.6": 5,
     "0.6.6": 1,

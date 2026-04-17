@@ -34,6 +34,19 @@
       "title": "Dracomino APWorld Version 0.2.1",
       "version_simple": "0.2.1",
       "world_version": "0.2.1"
+    },
+    "v0.3.0": {
+      "created_at": "2026-04-16T22:05:14Z",
+      "download_url": "https://github.com/DragonWolfLeo/DracominoAPWorld/releases/download/v0.3.0/dracomino.apworld",
+      "has_manifest": true,
+      "hash_sha256": "3f89f1b3e5ddcd9856191b218dc823f5cce1f90d1521c7be0df64f4ed38e8a9b",
+      "minimum_ap_version": "0.5.1",
+      "size": 16917,
+      "source_url": "https://api.github.com/repos/DragonWolfLeo/DracominoAPWorld",
+      "tag": "v0.3.0",
+      "title": "Dracomino Apworld Version 0.3.0",
+      "version_simple": "0.3.0",
+      "world_version": "0.3.0"
     }
   }
 }
