@@ -12425,6 +12425,19 @@
       }
     },
     {
+      "world": "https://github.com/Sim10XXX/C2AP/releases/download/v0.3.0/crash2.apworld",
+      "size": 42296,
+      "hash_sha256": "51d6740d07d20b9bb438dce9d3fa46eec769f88e0e8b0e7c050ab33bddcb2ce2",
+      "metadata": {
+        "game": "",
+        "id": "crash2",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-04-18T02:32:19Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/Sim10XXX/C2AP/releases/download/v0.3.0-pre2-1/crash2.apworld",
       "size": 42127,
       "hash_sha256": "88784395b16a2efa91503b1ff3637d337c43c061d32cd2204d77e3132628c720",
@@ -24491,6 +24504,21 @@
     },
     {
       "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.1.0/flipwitch.apworld",
+      "size": 70834,
+      "hash_sha256": "c1449b149a6b48ae87d5a79e2792bd3e68d68cc095733c82322fc16cea3da859",
+      "metadata": {
+        "game": "",
+        "id": "flipwitch",
+        "world_version": "1.1.0.post2",
+        "tag_version": "1.1.0.post2",
+        "created_at": "2026-04-18T00:55:04Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.1.0/flipwitch.apworld",
       "size": 70824,
       "hash_sha256": "8beec5ebde9fd838e43a2e1fc67edaf5af537ff770420fc4cb0e7445624f378c",
       "metadata": {
@@ -27342,6 +27370,19 @@
         "tag_version": "1.0.0",
         "created_at": "2025-08-31T20:29:22Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/cjmang/Archipelago/releases/download/0.2.3-beta/gstla.apworld",
+      "size": 228615,
+      "hash_sha256": "ba7e553b545f95a8fc2e52ced4ac65911ec8d677ddd740db41cc83261f1a0430",
+      "metadata": {
+        "game": "",
+        "id": "gstla",
+        "world_version": "0.2.3b0",
+        "tag_version": "0.2.3b0",
+        "created_at": "2026-04-18T11:59:59Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
