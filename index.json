@@ -64174,6 +64174,19 @@
       }
     },
     {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.5.2/rac3.apworld",
+      "size": 2847528,
+      "hash_sha256": "5caaf268e2c8b90bff3ba8b834d4f6fedcaaf18950f77a83ee79bcd7c2b1067c",
+      "metadata": {
+        "game": "",
+        "id": "rac3",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-04-18T21:03:14Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
       "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.5.1/rac3.apworld",
       "size": 2847506,
       "hash_sha256": "3105d521a741d6a47b4aca3d6fb5733d542563ac9e5a173c5742b169b29d17ef",
