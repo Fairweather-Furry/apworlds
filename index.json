@@ -15112,6 +15112,19 @@
       }
     },
     {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.4.4.1/dc1.apworld",
+      "size": 81791,
+      "hash_sha256": "2b460300b36a90c94557a17d30efad6f15731b6d0cd9ec28b83e5a490e7bb554",
+      "metadata": {
+        "game": "",
+        "id": "dc1",
+        "world_version": "0.4.4",
+        "tag_version": "0.4.4",
+        "created_at": "2026-04-15T18:40:31Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.4.3/dc1.apworld",
       "size": 81671,
       "hash_sha256": "7c1b2cc029c375fc3f4c20d5734d85636f73a724a1a9790ccd8d425c2277483d",
@@ -16129,6 +16142,23 @@
       }
     },
     {
+      "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.3.0-beta/diceydungeons.apworld",
+      "size": 900064,
+      "hash_sha256": "d45a04747cd3eaf311d986bf732af70c604e8a9d2c8c1c85ea8a2d5fee6a07ab",
+      "metadata": {
+        "game": "",
+        "id": "diceydungeons",
+        "world_version": "0.3.0b0",
+        "tag_version": "0.3.0b0",
+        "created_at": "2026-04-18T16:00:53Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "unready",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.2.5-beta/diceydungeons.apworld",
       "size": 889342,
       "hash_sha256": "f84cf764b9b66cedd2a27f0e0b75ded1a875147101d13a4fcaa0b82df27421f9",
@@ -16706,6 +16736,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-02-06T00:10:12Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Release/releases/download/v1.5.3/dk64.apworld",
+      "size": 35964672,
+      "hash_sha256": "4aa988cb2b1f980cb6b242b87d72faa65d939adc72cf68d3e1cb9ebc42665356",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.5.3.post2",
+        "tag_version": "1.5.3.post2",
+        "created_at": "2026-04-18T16:03:45Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -68443,6 +68486,22 @@
       }
     },
     {
+      "world": "https://github.com/MacH8s/Narcopelago/releases/download/v3.6.0/Schedule_I.apworld",
+      "size": 34349,
+      "hash_sha256": "8aaf99fe9db51bea6c4835bf54b5fdb777fec803e432b2b7d396124c92e2ad37",
+      "metadata": {
+        "game": "",
+        "id": "Schedule_I",
+        "world_version": "3.6.0",
+        "tag_version": "3.6.0",
+        "created_at": "2026-04-18T18:52:37Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/MacH8s/Narcopelago/releases/download/v3.5.4/Schedule_I.apworld",
       "size": 33450,
       "hash_sha256": "9b68d8a022dca483986466f3ab81477de33c8ebfe754eda22e012445145fe806",
@@ -82065,6 +82124,22 @@
       }
     },
     {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.8/tloz_oos.apworld",
+      "size": 252437,
+      "hash_sha256": "338d3ee90c96cd282b1e80106a115718945b75f47f1f6b73c2f4b74efbe2edac",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "20.1.8",
+        "tag_version": "20.1.8",
+        "created_at": "2026-04-18T23:38:51Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.6/tloz_oos.apworld",
       "size": 243468,
       "hash_sha256": "9c92e956df93dfd419996011ac7dbcd3789bebdfcf99a3ec9f0454bde73ab76a",
@@ -83374,6 +83449,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.4/tloz_st.apworld",
+      "size": 353379,
+      "hash_sha256": "d3a53409a6deacb028af1ff461b3487db3b714705cd4c547ee8857f6710bc3c9",
+      "metadata": {
+        "game": "",
+        "id": "tloz_st",
+        "world_version": "0.7.4",
+        "tag_version": "0.7.4",
+        "created_at": "2026-04-18T17:38:03Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {
