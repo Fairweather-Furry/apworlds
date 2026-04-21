@@ -9666,6 +9666,19 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.9.0/casualtiesunknown.apworld",
+      "size": 94559,
+      "hash_sha256": "431534b9e65b04184fc03cceaf37df8e4990cc2fc7f5fc434aa76316ec70ea21",
+      "metadata": {
+        "game": "",
+        "id": "casualtiesunknown",
+        "world_version": "0.9.0",
+        "tag_version": "0.9.0",
+        "created_at": "2026-04-20T21:13:41Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.8.0/casualtiesunknown.apworld",
       "size": 93920,
       "hash_sha256": "ec768aa943ebb6ea0944e5686c9b486d6fa9e4c96c859defad9c3cddedc676bf",
@@ -11792,6 +11805,21 @@
         "tag_version": "1.0.0",
         "created_at": "2025-02-25T23:39:28Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Isaac-SOL/CobaltCoreArchipelagoMod/releases/download/release/1.2.0-rc1/cobalt_core.apworld",
+      "size": 21898,
+      "hash_sha256": "db83f5bbefd7051dc257451b90a5dca9bd192ce02d98c2653e46ef06048c08a2",
+      "metadata": {
+        "game": "",
+        "id": "cobalt_core",
+        "world_version": "1.2.0rc1",
+        "tag_version": "1.2.0rc1",
+        "created_at": "2026-04-20T21:34:29Z",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -77925,6 +77953,19 @@
       }
     },
     {
+      "world": "https://github.com/JammyGeeza/Stacklands-Randomizer/releases/download/v0.2.5/stacklands.apworld",
+      "size": 32974,
+      "hash_sha256": "aaf202c172d080121577d7761e18b1ca7ab88efb65712184a78ba374d9a9c22d",
+      "metadata": {
+        "game": "",
+        "id": "stacklands",
+        "world_version": "0.2.5",
+        "tag_version": "0.2.5",
+        "created_at": "2026-04-15T17:51:49Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/JammyGeeza/Stacklands-Randomizer/releases/download/v0.2.4-alpha/stacklands.apworld",
       "size": 25821,
       "hash_sha256": "2025bb99a9a7e4bfd008617a535a5f7ead16cb6d2ddc3731d122a8dc73b0bf6d",
@@ -82281,6 +82322,38 @@
         "tag_version": "ooa",
         "created_at": null,
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.12/tloz_oos.apworld",
+      "size": 253254,
+      "hash_sha256": "fab3f89cb8c70026204a27de0f175e9ed73c5f6cb88a176262e833a45a8d1a29",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "20.1.12",
+        "tag_version": "20.1.12",
+        "created_at": "2026-04-20T22:07:06Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.11/tloz_oos.apworld",
+      "size": 252916,
+      "hash_sha256": "95ca942a570af8295c566e0ee973497be35e0c154ccd2630b8d64b42dadc3b01",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "20.1.11",
+        "tag_version": "20.1.11",
+        "created_at": "2026-04-20T16:37:45Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -88249,6 +88322,19 @@
         "flags": [
           "unready"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/waffles-v1.3.2/waffles.apworld",
+      "size": 265571,
+      "hash_sha256": "3b2fd9e7c52674dc6e0e531643dc8d3176a2d2ba1ac898119ebe3c581f70f95b",
+      "metadata": {
+        "game": "",
+        "id": "waffles",
+        "world_version": "1.3.2",
+        "tag_version": "1.3.2",
+        "created_at": "2026-04-21T00:32:44Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
