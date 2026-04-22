@@ -9666,6 +9666,19 @@
       }
     },
     {
+      "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.9.1/casualtiesunknown.apworld",
+      "size": 94519,
+      "hash_sha256": "6fb9bd0fc3aabd92ba061b1dd3e1f927ca4092a532de1415072d9f80a6281ada",
+      "metadata": {
+        "game": "",
+        "id": "casualtiesunknown",
+        "world_version": "0.9.1",
+        "tag_version": "0.9.1",
+        "created_at": "2026-04-21T19:46:53Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Nichologeam/CUAP/releases/download/v0.9.0/casualtiesunknown.apworld",
       "size": 94519,
       "hash_sha256": "d87b50bc11ff6b66a3945621fff1af392f5991540daad187f8f5537bbd6a6e33",
@@ -13581,19 +13594,6 @@
       }
     },
     {
-      "world": "https://github.com/densebamboo/CrosswordAP/releases/download/v1.0.0-release/crossword_ap.apworld",
-      "size": 33338,
-      "hash_sha256": "aa76a3c3e9f505d06bd2d7cd4d76bd1e540a67f2fccd9d6cffc6cf7d80951812",
-      "metadata": {
-        "game": "",
-        "id": "crossword_ap",
-        "world_version": "1.0.0.post0",
-        "tag_version": "1.0.0.post0",
-        "created_at": "2025-10-26T21:14:09Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.15.0/crystal_project.apworld",
       "size": 213268,
       "hash_sha256": "73bf39b85dd5b5b03360d045cf21dbdf8116bd8fd228aa48f99c0453cd5d685a",
@@ -16883,6 +16883,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-02-06T00:10:12Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.5.4/dk64.apworld",
+      "size": 35964315,
+      "hash_sha256": "2b44bea50603c18c6f43320d37cd6995eac4a0023187d766a735527410c84ed8",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.5.4",
+        "tag_version": "1.5.4",
+        "created_at": "2026-04-22T02:30:42Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -42010,6 +42023,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.0/manual_onemorenight_wolfboi008.apworld",
+      "size": 74159,
+      "hash_sha256": "69480ea6ae63c6c1752b42bd03d7315b1ec302f338c55e0a65164aa5b811fa8a",
+      "metadata": {
+        "game": "",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.3.0",
+        "tag_version": "2.3.0",
+        "created_at": "2026-01-20T20:05:47Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.2.1/manual_onemorenight_wolfboi008.apworld",
       "size": 65644,
       "hash_sha256": "1e40c3dde241e67d0666ab19cdee069a32a2f1587556fbec6e101c6be12aaffa",
@@ -57297,6 +57323,22 @@
         "tag_version": "0.1.0",
         "created_at": "2025-12-09T10:17:07Z",
         "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/stubobis1/Archipelago/releases/download/1.3.4/poe.apworld",
+      "size": 7811844,
+      "hash_sha256": "1b91ebd288efdf24fa945c3a10c393900e3a03823da707bc2d7f6d14c6a1d627",
+      "metadata": {
+        "game": "",
+        "id": "poe",
+        "world_version": "1.3.4",
+        "tag_version": "1.3.4",
+        "created_at": "2026-04-22T02:15:31Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "after_dark"
+        ]
       }
     },
     {
@@ -76348,6 +76390,23 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/linux-rc/spyro2.apworld",
+      "size": 62105,
+      "hash_sha256": "005a3c5f7d97676502067acb9201290abd94c04acc3af6627730371ec6926791",
+      "metadata": {
+        "game": "",
+        "id": "spyro2",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-04-21T15:40:42Z",
+        "minimum_ap_version": "0.6.1",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S2AP/releases/download/1.2.0-rc/spyro2.apworld",
       "size": 40622,
       "hash_sha256": "cd189771e8751ecc6b4f51b96d0d6bb9d6d8c5dbc4af03204095e6f2e92976ad",
@@ -91937,10 +91996,6 @@
     "crosscode": {
       "game": "CrossCode",
       "description": "CrossCode is a retro-inspired 2D Action RPG set in the distant future,\ncombining 16-bit SNES-style graphics with butter-smooth physics, a\nfast-paced combat system, and engaging puzzle mechanics, served with a\ngripping sci-fi story."
-    },
-    "crossword_ap": {
-      "game": "CrosswordAP",
-      "description": ""
     },
     "crystal_project": {
       "game": "Crystal Project",
