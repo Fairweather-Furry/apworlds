@@ -83406,6 +83406,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.0-alpha/tloz_ph.apworld",
+      "size": 2582265,
+      "hash_sha256": "755174188513f67dd549187b3f23c10ca0a98032a9fa44ce6ec1a85bfc9ef850",
+      "metadata": {
+        "game": "",
+        "id": "tloz_ph",
+        "world_version": "0.9.0a0",
+        "tag_version": "0.9.0a0",
+        "created_at": "2026-04-23T10:24:07Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.8.6-alpha/tloz_ph.apworld",
       "size": 2573411,
       "hash_sha256": "6abe524f89598c56625c148b69fffdea94eb226982d59afe554fd5c6b0587e9c",
@@ -84567,6 +84580,19 @@
         "tag_version": "1.0.0",
         "created_at": "2025-11-22T16:27:48Z",
         "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.30/tracker.apworld",
+      "size": 89101,
+      "hash_sha256": "caaacd974090d9e284819cb85d4bb4ad60658efe99e7e01cc119b5f74700a57f",
+      "metadata": {
+        "game": "",
+        "id": "tracker",
+        "world_version": "0.2.30",
+        "tag_version": "0.2.30",
+        "created_at": "2026-04-23T05:32:34Z",
+        "minimum_ap_version": "0.6.2"
       }
     },
     {
