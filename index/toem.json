@@ -165,6 +165,19 @@
       "title": "2.0.5",
       "version_simple": "2.0.5",
       "world_version": "2.0.5"
+    },
+    "2.0.6": {
+      "created_at": "2026-04-27T11:20:48Z",
+      "download_url": "https://github.com/bbernardoni/Archipelago.TOEM/releases/download/2.0.6/toem.apworld",
+      "has_manifest": true,
+      "hash_sha256": "6441983c19ac79065c2ce2743f5688870364d46f1a2ce83eb7fd99e2243db611",
+      "minimum_ap_version": "0.6.3",
+      "size": 35986,
+      "source_url": "https://api.github.com/repos/bbernardoni/Archipelago.TOEM",
+      "tag": "2.0.6",
+      "title": "2.0.6",
+      "version_simple": "2.0.6",
+      "world_version": "2.0.6"
     }
   }
 }
