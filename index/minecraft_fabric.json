@@ -38,6 +38,19 @@
       "version_simple": "1.0.7",
       "world_version": "1.0.7"
     },
+    "v.1.1.0": {
+      "created_at": "2026-04-26T00:56:33Z",
+      "download_url": "https://github.com/Deadlydiamond98/MinecraftFabricAPWorld/releases/download/v.1.1.0/minecraft_fabric.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c68b12f4ba1b0fe53a87d578b0184a8a21d6eb23539aca8b4782fc3483ace5a0",
+      "minimum_ap_version": "0.6.5",
+      "size": 55065,
+      "source_url": "https://api.github.com/repos/Deadlydiamond98/MinecraftFabricAPWorld",
+      "tag": "v.1.1.0",
+      "title": "Minecraft Fabric AP (1.1.0)",
+      "version_simple": "1.1.0",
+      "world_version": "1.1.0"
+    },
     "v1.0.0-alpha": {
       "created_at": "2026-01-17T01:09:49Z",
       "download_url": "https://github.com/Deadlydiamond98/MinecraftFabricAPWorld/releases/download/v1.0.0-alpha/minecraft_fabric.apworld",
