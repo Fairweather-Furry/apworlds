@@ -8330,6 +8330,18 @@
       }
     },
     {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.14.1/brotato.apworld",
+      "size": 43689,
+      "hash_sha256": "8133a93a3f9b698fbbf9dfb150537edff9631730574156b4d7ef280795f513dc",
+      "metadata": {
+        "game": "",
+        "id": "brotato",
+        "world_version": "0.14.1",
+        "tag_version": "0.14.1",
+        "created_at": "2026-04-29T01:08:23Z"
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.14.0/brotato.apworld",
       "size": 43632,
       "hash_sha256": "ae22c9a312b7dfaa3a7f111ff8a02d78f1ec2eb1ac821d9e076c0228f51cfecb",
@@ -8777,6 +8789,19 @@
       }
     },
     {
+      "world": "https://github.com/asdfwyay/APBuckshot/releases/download/v0.4.0/buckshot.apworld",
+      "size": 23328,
+      "hash_sha256": "76d3233bda2cd451f66e3ec62713ebbc5a26c004796368bb1b1d254830933d86",
+      "metadata": {
+        "game": "",
+        "id": "buckshot",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2025-12-05T06:14:19Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/asdfwyay/APBuckshot/releases/download/v0.3.1/buckshot.apworld",
       "size": 22033,
       "hash_sha256": "42493fad79a2508a8ba5f83f3feb6e829d4ca1c294b7096dedcea81108700ce3",
@@ -8935,6 +8960,19 @@
         "world_version": "0.0.5",
         "tag_version": "0.0.5",
         "created_at": "2026-02-20T17:00:23Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
+      "world": "https://github.com/Metasura/Burnout3Archipelago/releases/download/0.0.4/burnout3.apworld",
+      "size": 19918,
+      "hash_sha256": "f604d8740cdaa76cce7bd2c701c1584530b9428511f382209dd263c72c7f3332",
+      "metadata": {
+        "game": "",
+        "id": "burnout3",
+        "world_version": "0.0.4",
+        "tag_version": "0.0.4",
+        "created_at": "2026-02-15T11:29:27Z",
         "minimum_ap_version": "0.6.6"
       }
     },
@@ -11984,6 +12022,18 @@
         "world_version": "1.1.4",
         "tag_version": "1.1.4",
         "created_at": "2026-02-16T23:39:07Z"
+      }
+    },
+    {
+      "world": "https://github.com/Isaac-SOL/CobaltCoreArchipelagoMod/releases/download/release/1.1.3/cobalt_core.apworld",
+      "size": 18770,
+      "hash_sha256": "1429a84645263d85ec1132ce29a0f9b77f345cd385c2b48a053d690943d10248",
+      "metadata": {
+        "game": "",
+        "id": "cobalt_core",
+        "world_version": "1.1.3",
+        "tag_version": "1.1.3",
+        "created_at": "2026-02-16T01:17:51Z"
       }
     },
     {
@@ -16001,6 +16051,19 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.18.3/deep_rock_galactic.apworld",
+      "size": 41210,
+      "hash_sha256": "d5cfa7c68878eb02c2d3635839ddd826b20c18a8722d6b76affb912de36f4f59",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.18.3",
+        "tag_version": "0.18.3",
+        "created_at": "2026-04-28T15:56:46Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.18.2/deep_rock_galactic.apworld",
       "size": 41101,
       "hash_sha256": "80010ea65fa21415577a1929313ce25725871f195978e230ef6200e329db3450",
@@ -19610,6 +19673,22 @@
       "world": "https://github.com/Str8UpWHITE64/DRAP/releases/download/0.2.2/drdr.apworld",
       "size": 441776,
       "hash_sha256": "61189743febdc23dfe5a718840efc85fe8cd9cc34d5fb7230951412661248fbd",
+      "metadata": {
+        "game": "",
+        "id": "drdr",
+        "world_version": "0.0.1",
+        "tag_version": "0.0.1",
+        "created_at": "2026-03-08T07:06:39Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Str8UpWHITE64/DRAP/releases/download/0.2.1/drdr.apworld",
+      "size": 441739,
+      "hash_sha256": "43ac9014e1f9d06d580f02143330adf217536606d357f552eddbfff3a7b6a2c7",
       "metadata": {
         "game": "",
         "id": "drdr",
@@ -55998,6 +56077,19 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Pharcryption-APWorld/releases/download/release2/pharcryption.apworld",
+      "size": 5197,
+      "hash_sha256": "23bb828ad8be261ba1ffc38bacd1ebadbd5bff68b0ea8d327d0e1d39e9abb655",
+      "metadata": {
+        "game": "",
+        "id": "pharcryption",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-04-28T23:32:51Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Pharcryption-APWorld/releases/download/release1/pharcryption.apworld",
       "size": 4746,
       "hash_sha256": "3d07b6fe46817e830335d9e1b181c66d9e24e25034287c5867de2be53c271a31",
@@ -58781,6 +58873,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-08-10T14:26:54Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.4.4/pokemon_crystal.apworld",
+      "size": 649766,
+      "hash_sha256": "000c7d3db599542138523f1eac1b05abaa64d4402ec46597e78ad892e8341192",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_crystal",
+        "world_version": "5.4.4",
+        "tag_version": "5.4.4",
+        "created_at": "2026-04-28T18:31:56Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -66559,6 +66664,21 @@
       }
     },
     {
+      "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.3.4/residentevil7biohazard.apworld",
+      "size": 30400,
+      "hash_sha256": "6c502f68b7c9ae5c82055769c8315c7c124edba4a0112ceae6af3db92e70227d",
+      "metadata": {
+        "game": "",
+        "id": "residentevil7biohazard",
+        "world_version": "0.3.4",
+        "tag_version": "0.3.4",
+        "created_at": "2026-04-28T19:45:50Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.2.1/residentevil7biohazard.apworld",
       "size": 25090,
       "hash_sha256": "d7868722e858f062183530c3c7a121f5ecec3691a58c23202488d656a47d8af3",
@@ -71186,6 +71306,45 @@
         "tag_version": "0.5.0",
         "created_at": "2025-12-07T08:35:41Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.2-b/simpsonshitnrun.apworld",
+      "size": 588918,
+      "hash_sha256": "245a46c64c643e4a21ed7ec3d281bb405f65df8b210bd0fe9123f8548d138c3e",
+      "metadata": {
+        "game": "",
+        "id": "simpsonshitnrun",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-04-28T15:40:18Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.1-b/simpsonshitnrun.apworld",
+      "size": 588938,
+      "hash_sha256": "c27895e97be262fd63ad53d57b533c231dbdeb7ca629f3e6fd2b0530f895e096",
+      "metadata": {
+        "game": "",
+        "id": "simpsonshitnrun",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-04-28T15:40:18Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.0-b/simpsonshitnrun.apworld",
+      "size": 588930,
+      "hash_sha256": "962c3fc1185cde6c92aa1738f238d59afada52d6937d1e43abdcb7233c5bc584",
+      "metadata": {
+        "game": "",
+        "id": "simpsonshitnrun",
+        "world_version": "0.5.0b0",
+        "tag_version": "0.5.0b0",
+        "created_at": "2026-04-28T04:57:41Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {
@@ -87613,6 +87772,18 @@
         "tag_version": "0.1.0",
         "created_at": "2025-02-02T11:21:17Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.5.1/ultrakill.apworld",
+      "size": 47853,
+      "hash_sha256": "342288250f4e3eceb71f12135ec96342d889be15c784389146013d9ad36dc49c",
+      "metadata": {
+        "game": "",
+        "id": "ultrakill",
+        "world_version": "3.5.1",
+        "tag_version": "3.5.1",
+        "created_at": "2026-04-28T03:18:26Z"
       }
     },
     {
