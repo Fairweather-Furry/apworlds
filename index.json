@@ -19670,9 +19670,9 @@
       }
     },
     {
-      "world": "https://github.com/Str8UpWHITE64/DRAP/releases/download/0.2.2/drdr.apworld",
-      "size": 441776,
-      "hash_sha256": "61189743febdc23dfe5a718840efc85fe8cd9cc34d5fb7230951412661248fbd",
+      "world": "https://github.com/Str8UpWHITE64/DRAP/releases/download/0.2.1/drdr.apworld",
+      "size": 441739,
+      "hash_sha256": "43ac9014e1f9d06d580f02143330adf217536606d357f552eddbfff3a7b6a2c7",
       "metadata": {
         "game": "",
         "id": "drdr",
@@ -19686,9 +19686,9 @@
       }
     },
     {
-      "world": "https://github.com/Str8UpWHITE64/DRAP/releases/download/0.2.1/drdr.apworld",
-      "size": 441739,
-      "hash_sha256": "43ac9014e1f9d06d580f02143330adf217536606d357f552eddbfff3a7b6a2c7",
+      "world": "https://github.com/Str8UpWHITE64/DRAP/releases/download/0.2.2/drdr.apworld",
+      "size": 441776,
+      "hash_sha256": "61189743febdc23dfe5a718840efc85fe8cd9cc34d5fb7230951412661248fbd",
       "metadata": {
         "game": "",
         "id": "drdr",
@@ -71309,9 +71309,9 @@
       }
     },
     {
-      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.2-b/simpsonshitnrun.apworld",
-      "size": 588918,
-      "hash_sha256": "245a46c64c643e4a21ed7ec3d281bb405f65df8b210bd0fe9123f8548d138c3e",
+      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.1-b/simpsonshitnrun.apworld",
+      "size": 588938,
+      "hash_sha256": "c27895e97be262fd63ad53d57b533c231dbdeb7ca629f3e6fd2b0530f895e096",
       "metadata": {
         "game": "",
         "id": "simpsonshitnrun",
@@ -71322,9 +71322,9 @@
       }
     },
     {
-      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.1-b/simpsonshitnrun.apworld",
-      "size": 588938,
-      "hash_sha256": "c27895e97be262fd63ad53d57b533c231dbdeb7ca629f3e6fd2b0530f895e096",
+      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.2-b/simpsonshitnrun.apworld",
+      "size": 588918,
+      "hash_sha256": "245a46c64c643e4a21ed7ec3d281bb405f65df8b210bd0fe9123f8548d138c3e",
       "metadata": {
         "game": "",
         "id": "simpsonshitnrun",
