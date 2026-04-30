@@ -14734,6 +14734,19 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03b/cuphead.apworld",
+      "size": 111992,
+      "hash_sha256": "e75e8e35e1e89b080d696da0545a4886b017ab21c1a0426ede3fb3cbae6b367e",
+      "metadata": {
+        "game": "",
+        "id": "cuphead",
+        "world_version": "0.2.16908799",
+        "tag_version": "0.2.16908799",
+        "created_at": "2026-04-29T19:14:52Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03a/cuphead.apworld",
       "size": 111833,
       "hash_sha256": "340f3804c07d58e20f7c06d676d4e224b17af636b381a35bc5b1b7e4144321b4",
@@ -22129,6 +22142,18 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Osiris32-and-a-half/BobFactorioAP/releases/download/V2.2.1/factorio_bobs.apworld",
+      "size": 1615084,
+      "hash_sha256": "7e60a40548cd7efef93d25eb8d52989e693ba969694f3f30d06bc156c7158b15",
+      "metadata": {
+        "game": "",
+        "id": "factorio_bobs",
+        "world_version": "2.2.1",
+        "tag_version": "2.2.1",
+        "created_at": "2026-04-29T16:40:49Z"
       }
     },
     {
@@ -36479,6 +36504,18 @@
         "tag_version": "1.0.0",
         "created_at": "2024-07-24T12:43:06Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v9.3.0/lingo2.apworld",
+      "size": 0,
+      "hash_sha256": "328b9d137f21ad2e35ed13177e3ac0ad79513013218dc60dc92fe38a5eb89f7e",
+      "metadata": {
+        "game": "",
+        "id": "lingo2",
+        "world_version": "9.3.0",
+        "tag_version": "9.3.0",
+        "created_at": null
       }
     },
     {
@@ -52692,6 +52729,21 @@
         "maximum_ap_version": "0.6.99",
         "flags": [
           "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.3.4/okamihd.apworld",
+      "size": 43406,
+      "hash_sha256": "911c9479d5d406be914493da688fff8480790247202f51b7b9f8bb9ade1819a7",
+      "metadata": {
+        "game": "",
+        "id": "okamihd",
+        "world_version": "0.3.4",
+        "tag_version": "0.3.4",
+        "created_at": "2026-04-29T21:48:40Z",
+        "flags": [
           "prerelease"
         ]
       }
@@ -83066,6 +83118,19 @@
         "tag_version": "ooa",
         "created_at": null,
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-20.1.13/tloz_oos.apworld",
+      "size": 253221,
+      "hash_sha256": "0e0e28eca112a6821e9d9c93337d0d5d8fa5b9bc7f30b8c3fada0885b99456cd",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "20.1.13",
+        "tag_version": "20.1.13",
+        "created_at": "2026-04-29T13:53:22Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
