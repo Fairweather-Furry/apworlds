@@ -212,211 +212,6 @@
       }
     },
     {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v1.2.0/against_the_storm.apworld",
-      "size": 20320,
-      "hash_sha256": "3068b85d24be8c49b96acaec52a70e5e4c173c05c4c524610e086e0732ffa6d7",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "1.2.0",
-        "tag_version": "1.2.0",
-        "created_at": "2026-02-24T23:18:09Z"
-      }
-    },
-    {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v1.0.0/against_the_storm.apworld",
-      "size": 19264,
-      "hash_sha256": "0a45d48578cf1c0acd9a025b053b72f35ad9f2377c8e79fd2ab8f24e6bc8c45f",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2025-11-18T23:35:56Z"
-      }
-    },
-    {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v1.1.0/against_the_storm.apworld",
-      "size": 19895,
-      "hash_sha256": "6ac6c1f5548068e466aae8fbf0bc343b82eec52899a5342e8cdefeac00e10a37",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2025-11-18T23:35:56Z"
-      }
-    },
-    {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v0.9.2-alpha/against_the_storm.apworld",
-      "size": 46198,
-      "hash_sha256": "37d327c568f720d20104d8e534855b0fc8d1037b7c49e56e84578b5732dcd741",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "0.9.2a0",
-        "tag_version": "0.9.2a0",
-        "created_at": "2024-12-05T22:25:14Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v0.9.1-alpha/against_the_storm.apworld",
-      "size": 46198,
-      "hash_sha256": "287bff4493535bf4819f9a97d1309d77af01acf27ce7dd6ff7d4f406538a1584",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "0.9.1a0",
-        "tag_version": "0.9.1a0",
-        "created_at": "2024-12-05T22:12:21Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v0.9.0-alpha/against_the_storm.apworld",
-      "size": 46195,
-      "hash_sha256": "e68e687f015235e0929d88ea7745128f72b544350b292250153dc6ffc1af3109",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "0.9.0a0",
-        "tag_version": "0.9.0a0",
-        "created_at": "2024-12-05T04:42:14Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v0.8.2-alpha/against_the_storm.apworld",
-      "size": 45558,
-      "hash_sha256": "5c9f2fac2db4b3a4642f6bacd47aa1db1ad2616fe09a11a546de1375fcce308e",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "0.8.2a0",
-        "tag_version": "0.8.2a0",
-        "created_at": "2024-11-10T03:16:08Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v0.7.2-alpha/against_the_storm.apworld",
-      "size": 45532,
-      "hash_sha256": "6529ac6ea331416589988a189877b9c68adbb61d38ef0d22a9ce99c8d3cc6c27",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "0.7.2a0",
-        "tag_version": "0.7.2a0",
-        "created_at": "2024-10-30T22:53:42Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v0.7.0-alpha/against_the_storm.apworld",
-      "size": 45487,
-      "hash_sha256": "9a33358f3c6d9cddc856aba704375d48da3216894f4808537b1b76ea445e27bd",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "0.7.0a0",
-        "tag_version": "0.7.0a0",
-        "created_at": "2024-10-27T02:48:13Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v0.6.0-alpha/against_the_storm.apworld",
-      "size": 42158,
-      "hash_sha256": "9033cadbd65d36cfd1e20b2b489cfd3198f287db5adcfe03d7f38bd2c517506e",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "0.6.0a0",
-        "tag_version": "0.6.0a0",
-        "created_at": "2024-10-06T21:30:50Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v0.5.0-alpha/against_the_storm.apworld",
-      "size": 39513,
-      "hash_sha256": "f170b100554de1f4e56b2e78b364e402679c05198827ac9e1244f69f52daa0ab",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "0.5.0a0",
-        "tag_version": "0.5.0a0",
-        "created_at": "2024-09-10T04:41:03Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v0.4.0-alpha/against_the_storm.apworld",
-      "size": 13338,
-      "hash_sha256": "f6c2e3d79d367285c4a9ed0bf2b8a01a3d24dceec8435a131a3822d13c89f3ce",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "0.4.0a0",
-        "tag_version": "0.4.0a0",
-        "created_at": "2024-07-01T22:32:27Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v0.3.3-alpha/against_the_storm.apworld",
-      "size": 8432,
-      "hash_sha256": "b97a88d15c268fea9afd799ef982fa86cc2ad978656faac8d9897c779b34f003",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "0.3.3a0",
-        "tag_version": "0.3.3a0",
-        "created_at": "2024-06-30T15:24:39Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v0.2.0-alpha/against_the_storm.apworld",
-      "size": 8430,
-      "hash_sha256": "a5b32f7e421f2bc137c9bbef532e96e09ace6c6cc5ff69b2b9202404037d8bb7",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "0.2.0a0",
-        "tag_version": "0.2.0a0",
-        "created_at": "2024-06-27T03:58:38Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v0.1.1-alpha/against_the_storm.apworld",
-      "size": 18438,
-      "hash_sha256": "77029d7aadd5df8f098dc762be90589e12e7e2597ee61da5ef44ce0b4cf1e701",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "0.1.1a0",
-        "tag_version": "0.1.1a0",
-        "created_at": "2024-06-26T21:33:40Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v0.1.0-alpha/against_the_storm.apworld",
-      "size": 7739,
-      "hash_sha256": "b0f24ebe471afa8b891010410f346ecbb3b3188e11f5ddbbe41b1cf05bea6855",
-      "metadata": {
-        "game": "",
-        "id": "against_the_storm",
-        "world_version": "0.1.0a0",
-        "tag_version": "0.1.0a0",
-        "created_at": "2024-06-23T18:01:22Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/dmwever/Ageipelago/releases/download/0.0.1/age2de.apworld",
       "size": 2127491,
       "hash_sha256": "69bbe09c503a9ded775b6aa495b87f9957d7db949e43e1066b6b08e287291f15",
@@ -40935,113 +40730,6 @@
       }
     },
     {
-      "world": "https://github.com/MercenaryGreil/Archipelago-FireEmblem-PathofRadiance/releases/download/v1.2.1/manual_fireemblempathofradiance_mercenarygreil.apworld",
-      "size": 61557,
-      "hash_sha256": "9fab7856bec4be7253adca14f1067921d1d9dd82f91d446fe2aa596376796efb",
-      "metadata": {
-        "game": "",
-        "id": "manual_fireemblempathofradiance_mercenarygreil",
-        "world_version": "1.2.1",
-        "tag_version": "1.2.1",
-        "created_at": "2025-11-10T22:44:43Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MercenaryGreil/Archipelago-FireEmblem-PathofRadiance/releases/download/v1.2.0/manual_fireemblempathofradiance_mercenarygreil.apworld",
-      "size": 61566,
-      "hash_sha256": "0d6c6334ac28d14b50fe05ae584435a41fbf2083d617a0d5176767e465d571e1",
-      "metadata": {
-        "game": "",
-        "id": "manual_fireemblempathofradiance_mercenarygreil",
-        "world_version": "1.2.0",
-        "tag_version": "1.2.0",
-        "created_at": "2025-11-06T23:19:11Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MercenaryGreil/Archipelago-FireEmblem-PathofRadiance/releases/download/v1.1.0/manual_fireemblempathofradiance_mercenarygreil.apworld",
-      "size": 61362,
-      "hash_sha256": "635c7d2395b1645c2ded1b2d9e2bf04bfd4a52451b5c0ac2c7a7c62b9e65a2d1",
-      "metadata": {
-        "game": "",
-        "id": "manual_fireemblempathofradiance_mercenarygreil",
-        "world_version": "1.1.0",
-        "tag_version": "1.1.0",
-        "created_at": "2025-09-28T01:47:53Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MercenaryGreil/Archipelago-FireEmblem-PathofRadiance/releases/download/v0.2.25-beta/manual_fireemblempathofradiance_mercenarygreil.apworld",
-      "size": 60111,
-      "hash_sha256": "e034f5a80c1c4e9ea0509464ad1d05358fa83aaf21751f71467f1770ece14936",
-      "metadata": {
-        "game": "",
-        "id": "manual_fireemblempathofradiance_mercenarygreil",
-        "world_version": "0.2.25b0",
-        "tag_version": "0.2.25b0",
-        "created_at": "2025-09-28T01:47:53Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MercenaryGreil/Archipelago-FireEmblem-PathofRadiance/releases/download/v0.2.3-beta/manual_fireemblempathofradiance_mercenarygreil.apworld",
-      "size": 59760,
-      "hash_sha256": "671a8845acdb1fe6e66a7f2641e8a829e6846bdc1b30c5b6fa776f249de3cf5e",
-      "metadata": {
-        "game": "",
-        "id": "manual_fireemblempathofradiance_mercenarygreil",
-        "world_version": "0.2.3b0",
-        "tag_version": "0.2.3b0",
-        "created_at": "2025-09-28T01:47:53Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MercenaryGreil/Archipelago-FireEmblem-PathofRadiance/releases/download/v0.2.2-beta/manual_fireemblempathofradiance_mercenarygreil.apworld",
-      "size": 60101,
-      "hash_sha256": "ae069389b24c8d88c4837e3caba66fd917680ee73cdaf617453bc5ee5c5e1522",
-      "metadata": {
-        "game": "",
-        "id": "manual_fireemblempathofradiance_mercenarygreil",
-        "world_version": "0.2.2b0",
-        "tag_version": "0.2.2b0",
-        "created_at": "2025-09-28T01:17:48Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MercenaryGreil/Archipelago-FireEmblem-PathofRadiance/releases/download/v0.2/manual_fireemblempathofradiance_mercenarygreil.apworld",
-      "size": 60097,
-      "hash_sha256": "adef42cd3c0fef5c731de7e004ab39f74f935bc788921b0d6292a1be318f448c",
-      "metadata": {
-        "game": "",
-        "id": "manual_fireemblempathofradiance_mercenarygreil",
-        "world_version": "0.2",
-        "tag_version": "0.2",
-        "created_at": "2025-09-23T21:28:40Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/MercenaryGreil/Archipelago-FireEmblem-PathofRadiance/releases/download/alpha/manual_fireemblempathofradiance_mercenarygreil.apworld",
-      "size": 59437,
-      "hash_sha256": "11774dd0e815cb69234a1d5e6a1860f843680bcca45776e65f88d7d8cd7bfa24",
-      "metadata": {
-        "game": "",
-        "id": "manual_fireemblempathofradiance_mercenarygreil",
-        "world_version": "0.1.0a0",
-        "tag_version": "0.1.0a0",
-        "created_at": "2025-09-23T21:28:40Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/GirlWithoutAFairy/Fossil-Fighters-Champions-Manual-for-Archipelago/releases/download/0.1.1/manual_fossilfighterschampions_girlwithoutafairy.apworld",
       "size": 61469,
       "hash_sha256": "4e36f7d451f8d1df5479d63b2de93e5bd6b8d6a6e5de1abb4bfbd874c4ad9f13",
@@ -41168,123 +40856,6 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-10-01T23:57:01Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/VincentsSin/Goldeneye007-Maunual_AP/releases/download/v1.4.1/manual_goldeneye007_vincentssin.apworld",
-      "size": 61670,
-      "hash_sha256": "ba06e6dfb80af6e1975d9dd41f2e227c6ab2b2328a721b8cfbc7a6a608daaffb",
-      "metadata": {
-        "game": "",
-        "id": "manual_goldeneye007_vincentssin",
-        "world_version": "1.4.1",
-        "tag_version": "1.4.1",
-        "created_at": "2026-02-03T02:10:25Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/VincentsSin/Goldeneye007-Maunual_AP/releases/download/v1.4.0/manual_goldeneye007_vincentssin.apworld",
-      "size": 62065,
-      "hash_sha256": "b82021dc0186cf518510e35806eb4832bbb0ff34b735c4b9051dcf8ba380d19b",
-      "metadata": {
-        "game": "",
-        "id": "manual_goldeneye007_vincentssin",
-        "world_version": "1.4.0",
-        "tag_version": "1.4.0",
-        "created_at": "2025-12-24T20:09:33Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/VincentsSin/Goldeneye007-Maunual_AP/releases/download/v1.3.2/manual_goldeneye007_vincentssin.apworld",
-      "size": 62571,
-      "hash_sha256": "b821fe4110b133e5142b437ad1a946d0e2a3bebc61a307b3c88d696434177328",
-      "metadata": {
-        "game": "",
-        "id": "manual_goldeneye007_vincentssin",
-        "world_version": "1.3.2",
-        "tag_version": "1.3.2",
-        "created_at": "2025-09-19T01:52:59Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/VincentsSin/Goldeneye007-Maunual_AP/releases/download/v1.3.1/manual_goldeneye007_vincentssin.apworld",
-      "size": 62605,
-      "hash_sha256": "da12c588cca991e51c8c3c34fa01a5fa73ee062df293ab1f3e719d3d2a264943",
-      "metadata": {
-        "game": "",
-        "id": "manual_goldeneye007_vincentssin",
-        "world_version": "1.3.1",
-        "tag_version": "1.3.1",
-        "created_at": "2025-09-19T01:52:59Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/VincentsSin/Goldeneye007-Maunual_AP/releases/download/v1.3.0/manual_goldeneye007_vincentssin.apworld",
-      "size": 62594,
-      "hash_sha256": "b10f1f4235d0addb9445ef382dfe27f85d5e5c0903a406db44ac57255f0d67dd",
-      "metadata": {
-        "game": "",
-        "id": "manual_goldeneye007_vincentssin",
-        "world_version": "1.3.0",
-        "tag_version": "1.3.0",
-        "created_at": "2025-09-17T04:07:52Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/VincentsSin/Goldeneye007-Maunual_AP/releases/download/v1.2.0/manual_goldeneye007_vincentssin.apworld",
-      "size": 63795,
-      "hash_sha256": "6c0dea85fc9be7a4a061598e9b7c35c08c040c38dca15bd0c0027ff1aa95017c",
-      "metadata": {
-        "game": "",
-        "id": "manual_goldeneye007_vincentssin",
-        "world_version": "1.2.0",
-        "tag_version": "1.2.0",
-        "created_at": "2024-12-14T09:06:36Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/VincentsSin/Goldeneye007-Maunual_AP/releases/download/v1.1.1/manual_goldeneye007_vincentssin.apworld",
-      "size": 52310,
-      "hash_sha256": "00e1d0a4cc4c23b05a720fb7b9d2f0e51f2645cba3fb18d62fb581a6a127462e",
-      "metadata": {
-        "game": "",
-        "id": "manual_goldeneye007_vincentssin",
-        "world_version": "1.1.1",
-        "tag_version": "1.1.1",
-        "created_at": "2024-12-14T03:06:48Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/VincentsSin/Goldeneye007-Maunual_AP/releases/download/v1.1.0/manual_goldeneye007_vincentssin.apworld",
-      "size": 52290,
-      "hash_sha256": "d48f9a97d184b3d6748ce855aae76487e41fa85094106b4e452074bfbc6b9820",
-      "metadata": {
-        "game": "",
-        "id": "manual_goldeneye007_vincentssin",
-        "world_version": "1.1.0",
-        "tag_version": "1.1.0",
-        "created_at": "2024-12-10T21:39:23Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/VincentsSin/Goldeneye007-Maunual_AP/releases/download/v1.0/manual_goldeneye007_vincentssin.apworld",
-      "size": 50016,
-      "hash_sha256": "b9fd6b09100a4e0cc8e2649712857bd98fbe749aadecc22e754e2bf14785ea5d",
-      "metadata": {
-        "game": "",
-        "id": "manual_goldeneye007_vincentssin",
-        "world_version": "1.0",
-        "tag_version": "1.0",
-        "created_at": "2024-12-10T21:39:23Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -42281,97 +41852,6 @@
       }
     },
     {
-      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Northgard/releases/download/2025.09.01/manual_northgard_chakraa.apworld",
-      "size": 51941,
-      "hash_sha256": "4887dd6742f889d899b3129600efdb089a412ede83c7f5e575493efad84a0dea",
-      "metadata": {
-        "game": "",
-        "id": "manual_northgard_chakraa",
-        "world_version": "2025.9.1",
-        "tag_version": "2025.9.1",
-        "created_at": "2025-09-02T02:51:50Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Northgard/releases/download/2025.08.13/manual_northgard_chakraa.apworld",
-      "size": 51944,
-      "hash_sha256": "02f4cdffcd1e43f576de7b6c5951e6d5bd0cb0e83296b0dfd2806b4f9f2f525c",
-      "metadata": {
-        "game": "",
-        "id": "manual_northgard_chakraa",
-        "world_version": "2025.8.13",
-        "tag_version": "2025.8.13",
-        "created_at": "2025-08-13T16:54:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Northgard/releases/download/5.0/manual_northgard_chakraa.apworld",
-      "size": 42134,
-      "hash_sha256": "0f4b82ec2ed00aed5b3efb37d2518624ab56ddfe063274a59f9862296b1612bb",
-      "metadata": {
-        "game": "",
-        "id": "manual_northgard_chakraa",
-        "world_version": "5.0",
-        "tag_version": "5.0",
-        "created_at": "2025-02-10T18:43:09Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Northgard/releases/download/4.0/manual_northgard_chakraa.apworld",
-      "size": 43106,
-      "hash_sha256": "48fe0bf268c7187e3a85f1a866dcc6a11b139a19b46af302dfd5836e2b6d7ab9",
-      "metadata": {
-        "game": "",
-        "id": "manual_northgard_chakraa",
-        "world_version": "4.0",
-        "tag_version": "4.0",
-        "created_at": "2024-12-31T13:58:33Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Northgard/releases/download/3.0/manual_northgard_chakraa.apworld",
-      "size": 43003,
-      "hash_sha256": "cf0ae442144cadd90fddad43322df60a847b9b6351ff16e2d4cb3020dedbbf03",
-      "metadata": {
-        "game": "",
-        "id": "manual_northgard_chakraa",
-        "world_version": "3.0",
-        "tag_version": "3.0",
-        "created_at": "2024-12-31T13:55:14Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Northgard/releases/download/2.0/manual_northgard_chakraa.apworld",
-      "size": 42751,
-      "hash_sha256": "542f054641ae373007f1fd1d8994713d1c0c78b6de7c2226beddc91dc25ba74d",
-      "metadata": {
-        "game": "",
-        "id": "manual_northgard_chakraa",
-        "world_version": "2.0",
-        "tag_version": "2.0",
-        "created_at": "2024-12-31T13:51:46Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Northgard/releases/download/1.0/manual_northgard_chakraa.apworld",
-      "size": 41894,
-      "hash_sha256": "0ec06e78b469c3c86b3260c363586aa7963fb30e739de9a38d73347049a32b6a",
-      "metadata": {
-        "game": "",
-        "id": "manual_northgard_chakraa",
-        "world_version": "1.0",
-        "tag_version": "1.0",
-        "created_at": "2024-11-30T14:52:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.0/manual_onemorenight_wolfboi008.apworld",
       "size": 74159,
       "hash_sha256": "69480ea6ae63c6c1752b42bd03d7315b1ec302f338c55e0a65164aa5b811fa8a",
@@ -42892,245 +42372,6 @@
       }
     },
     {
-      "world": "https://github.com/nicopop/ManualApworlds/releases/download/OW7.0.0/manual_outerwilds_nicopopxd.apworld",
-      "size": 85887,
-      "hash_sha256": "ed49000be13a6ae2f0357b4c865d84bc0e337f7ac99d31d4552dd9b38bc279ca",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "7.0.0",
-        "tag_version": "7.0.0",
-        "created_at": "2026-04-15T01:30:37Z"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/ManualApworlds/releases/download/6.5.1/manual_outerwilds_nicopopxd.apworld",
-      "size": 74673,
-      "hash_sha256": "325adcfe1cb2fe6746680022f155f0f819be119a091536fed086e3309dd28f7f",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "6.5.1",
-        "tag_version": "6.5.1",
-        "created_at": "2025-11-28T00:21:30Z"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/ManualApworlds/releases/download/6.5.0/manual_outerwilds_nicopopxd.apworld",
-      "size": 74650,
-      "hash_sha256": "66d39389c0954a2dd90655b0d482c94dc04c16017b2767dbee9e8d2a3212ffd0",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "6.5.0",
-        "tag_version": "6.5.0",
-        "created_at": "2025-11-27T23:39:23Z"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/ManualApworlds/releases/download/6.4.0/manual_outerwilds_nicopopxd.apworld",
-      "size": 73676,
-      "hash_sha256": "d6f034c2e7a17a3d1f4a53f83d24c1a35f17f82c01a48539257ad408220bdffe",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "6.4.0",
-        "tag_version": "6.4.0",
-        "created_at": "2025-11-26T00:30:42Z"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/v6.1.0/manual_outerwilds_nicopopxd.apworld",
-      "size": 146660,
-      "hash_sha256": "3e6e50961648fe1dc3bb37afbc9c14d948a2f9db7ba9166fbbf81bc59853700d",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "6.1",
-        "tag_version": "6.1",
-        "created_at": "2024-01-19T06:09:36Z",
-        "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/v6.0.0/manual_outerwilds_nicopopxd.apworld",
-      "size": 145461,
-      "hash_sha256": "df36276c18934391d62d34c5d74a759c515ebdc6db6a3d37db4c65fb8c64c81a",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "6",
-        "tag_version": "6",
-        "created_at": "2024-01-17T05:16:17Z",
-        "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/v5.5/manual_outerwilds_nicopopxd.apworld",
-      "size": 38737,
-      "hash_sha256": "c042d85d125551328098be43db9228a5d84bc15164bb5af85d2de2ca055af4a6",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "5.5",
-        "tag_version": "5.5",
-        "created_at": "2023-12-06T18:13:45Z",
-        "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/v5.4.0/manual_outerwilds_nicopopxd.apworld",
-      "size": 109836,
-      "hash_sha256": "a9ae65e99d51aa3abecac0c82bb97cd3c56a57f110845843336146f18ad6160b",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "5.4",
-        "tag_version": "5.4",
-        "created_at": "2023-12-01T21:33:28Z",
-        "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/v5.3.0/manual_outerwilds_nicopopxd.apworld",
-      "size": 109072,
-      "hash_sha256": "1b71a881fa704683db990272e9a12d98f8f508a5d96cde4c65d67568f8958789",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "5.3",
-        "tag_version": "5.3",
-        "created_at": "2023-11-30T06:53:34Z",
-        "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/v5.2.0/manual_outerwilds_nicopopxd.apworld",
-      "size": 108274,
-      "hash_sha256": "ffc85ae4430a08b9a05a9112b1e6f02dbd7b1f509a749dae21a0a774a74f7607",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "5.2",
-        "tag_version": "5.2",
-        "created_at": "2023-11-29T06:16:56Z",
-        "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/v5.0.0/manual_outerwilds_nicopopxd.apworld",
-      "size": 108095,
-      "hash_sha256": "0fb9e42b6f9830d4d5dc114af757c0a0a312498767b42f29ea64b4a735d4bea1",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "5",
-        "tag_version": "5",
-        "created_at": "2023-11-28T04:12:08Z",
-        "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/v4.0.0/manual_outerwilds_nicopopxd.apworld",
-      "size": 98638,
-      "hash_sha256": "aedca04a32fc553ce4140e435bd5bc208234f41c68f2a12ce2f6eefdc0db9677",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "4",
-        "tag_version": "4",
-        "created_at": "2023-11-24T02:00:58Z",
-        "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/v3.2.1/manual_outerwilds_nicopopxd.apworld",
-      "size": 87506,
-      "hash_sha256": "f4d1f5f4f541ee27575175e81a29e045a326bb3206706bdd2911b25c0505ac94",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "3.2.1",
-        "tag_version": "3.2.1",
-        "created_at": "2023-11-17T05:31:12Z",
-        "maximum_ap_version": "0.4.6"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/v3.2.1Pre1/manual_outerwilds_nicopopxd.apworld",
-      "size": 86671,
-      "hash_sha256": "7e882f853d793cafd1a84de80c80be6b15bce194a095c76a5020c1df273e9a33",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "3.2.1",
-        "tag_version": "3.2.1",
-        "created_at": "2023-11-17T04:32:53Z",
-        "maximum_ap_version": "0.4.6",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/v3.1.0/manual_outerwilds_nicopopxd.apworld",
-      "size": 32541,
-      "hash_sha256": "5720acfac1e63118d09fcc16883e906947df23adad79dd92c2028be8c139c286",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "3.1.0",
-        "tag_version": "3.1.0",
-        "created_at": "2023-05-28T22:05:22Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/v3.0.0/manual_outerwilds_nicopopxd.apworld",
-      "size": 32338,
-      "hash_sha256": "d699eea7a5800e0b93d6ece48992f9359fced8564737999a00d65656319d00e5",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwilds_nicopopxd",
-        "world_version": "3",
-        "tag_version": "3",
-        "created_at": "2023-05-25T21:47:53Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/vE1.0.0-pre1/manual_outerwildseye_nicopopxd.apworld",
-      "size": 31377,
-      "hash_sha256": "02b5149f63e1372a50c5c638c2e280854582293ab24e6948c184e69b254e48e5",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwildseye_nicopopxd",
-        "world_version": "1",
-        "tag_version": "1",
-        "created_at": "2023-05-28T22:05:22Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/vE1.0.0-pre2/manual_outerwildseye_nicopopxd.apworld",
-      "size": 31896,
-      "hash_sha256": "0917e732e231147c8da6d7ae8b6789a2bf4bf4d733c73b6020e9f853ebc9d04e",
-      "metadata": {
-        "game": "",
-        "id": "manual_outerwildseye_nicopopxd",
-        "world_version": "1.0.0rc2",
-        "tag_version": "1.0.0rc2",
-        "created_at": "2023-05-28T22:05:22Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/axxroytovu/archipelago_manuals/releases/download/Penko_0.0.1/manual_penkopark_axxroy.apworld",
       "size": 95173,
       "hash_sha256": "aec98c1afd6848ab29810417d278e336c06163bcbd97e570f6870f3071cee266",
@@ -43283,45 +42524,6 @@
         "world_version": "1.1.0",
         "tag_version": "1.1.0",
         "created_at": "2024-06-20T22:28:26Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/PlateUpv1.3.1-fix/manual_plateup_nicopopxd.apworld",
-      "size": 281556,
-      "hash_sha256": "8774f60106b1986b57a405f91cf602982d6d850ceda4dcd12fa8343a526fcea5",
-      "metadata": {
-        "game": "",
-        "id": "manual_plateup_nicopopxd",
-        "world_version": "1.3.1",
-        "tag_version": "1.3.1",
-        "created_at": "2024-11-04T00:30:53Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/PlateUpv1.3/manual_plateup_nicopopxd.apworld",
-      "size": 56319,
-      "hash_sha256": "d7bac8cfb25e305e63afc6bb3a92cc21c51535a7669bf4b9cc18b8ac5fa0648c",
-      "metadata": {
-        "game": "",
-        "id": "manual_plateup_nicopopxd",
-        "world_version": "1.3",
-        "tag_version": "1.3",
-        "created_at": "2024-10-17T02:36:05Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/nicopop/NicosManualApworlds/releases/download/PlateUpv1.0/manual_plateup_nicopopxd.apworld",
-      "size": 139899,
-      "hash_sha256": "a8ebffb411e8fc32472e59dbc7f023bf52cd53decd446a101d4418ba10463bdb",
-      "metadata": {
-        "game": "",
-        "id": "manual_plateup_nicopopxd",
-        "world_version": "1.0",
-        "tag_version": "1.0",
-        "created_at": "2024-03-17T20:35:43Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -44525,84 +43727,6 @@
         "world_version": "1.0.1",
         "tag_version": "1.0.1",
         "created_at": "2025-05-23T02:42:36Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Awesome7285/manual_thmusic_awesome7285/releases/download/v0.1.5/manual_thmusic_awesome7285.apworld",
-      "size": 397461,
-      "hash_sha256": "dbff819ad5297f94f7adacaa66cdedfad3588e8a698387d7d5904a9e86a8bae9",
-      "metadata": {
-        "game": "",
-        "id": "manual_thmusic_awesome7285",
-        "world_version": "0.1.5",
-        "tag_version": "0.1.5",
-        "created_at": "2025-11-22T06:13:26Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/Awesome7285/manual_thmusic_awesome7285/releases/download/v0.1.4/manual_thmusic_awesome7285.apworld",
-      "size": 79370,
-      "hash_sha256": "440d82dd0cb1b334562f75fc466c72967d16a43b2fcb067098c15e82f965f38d",
-      "metadata": {
-        "game": "",
-        "id": "manual_thmusic_awesome7285",
-        "world_version": "0.1.4",
-        "tag_version": "0.1.4",
-        "created_at": "2025-11-10T08:47:27Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/Awesome7285/manual_thmusic_awesome7285/releases/download/v0.1.5/manual_thmusic_awesome7285.apworld",
-      "size": 397181,
-      "hash_sha256": "cbf4affb7da4ad93b32d9a8aac57e536a368e434b521572a67eebbd4cc369419",
-      "metadata": {
-        "game": "",
-        "id": "manual_thmusic_awesome7285",
-        "world_version": "0.1.4",
-        "tag_version": "0.1.4",
-        "created_at": "2025-11-22T06:13:26Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/Awesome7285/manual_thmusic_awesome7285/releases/download/v0.1.3/manual_thmusic_awesome7285.apworld",
-      "size": 502289,
-      "hash_sha256": "0b7072c39773fb021acd4b41987f28bedfc56988dec687342069d403d4b43764",
-      "metadata": {
-        "game": "",
-        "id": "manual_thmusic_awesome7285",
-        "world_version": "0.1.3",
-        "tag_version": "0.1.3",
-        "created_at": "2025-09-17T14:30:11Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Awesome7285/manual_thmusic_awesome7285/releases/download/v0.1.2/manual_thmusic_awesome7285.apworld",
-      "size": 502169,
-      "hash_sha256": "f86f3633b8336b67096ddc2ae63708d887ff0d95969e1a567f57c6ce06cd8138",
-      "metadata": {
-        "game": "",
-        "id": "manual_thmusic_awesome7285",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2025-09-16T11:26:53Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Awesome7285/manual_thmusic_awesome7285/releases/download/v0.1.1/manual_thmusic_awesome7285.apworld",
-      "size": 443162,
-      "hash_sha256": "de610dd6876c9a6672e532734a066273aacc064ab0bc34d7a63c8d59a939490c",
-      "metadata": {
-        "game": "",
-        "id": "manual_thmusic_awesome7285",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2025-09-15T04:52:43Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -56741,6 +55865,18 @@
         "tag_version": "0.1.0",
         "created_at": "2025-05-12T06:57:29Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.6.3/plateup.apworld",
+      "size": 34510,
+      "hash_sha256": "4cdabb7a1afbb3adb3da2da4a86d48a7696ac7d880110527e7173b30960eff92",
+      "metadata": {
+        "game": "",
+        "id": "plateup",
+        "world_version": "0.2.6.3",
+        "tag_version": "0.2.6.3",
+        "created_at": "2026-04-30T10:04:34Z"
       }
     },
     {
@@ -89691,360 +88827,6 @@
       }
     },
     {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.2.2-alpha/webfishing.apworld",
-      "size": 40247,
-      "hash_sha256": "2e918b7d8bf1975c5090f3337d14989ad9d39ae80cf89da7dce4a939a3999ef6",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.2.2a0",
-        "tag_version": "1.2.2a0",
-        "created_at": "2025-10-12T18:17:20Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.2.1-alpha/webfishing.apworld",
-      "size": 40249,
-      "hash_sha256": "edea2b20d3cea69d1cbd629549bb905352423bef86afa06213d611bcd0598bbc",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.2.1a0",
-        "tag_version": "1.2.1a0",
-        "created_at": "2025-09-10T00:41:07Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.2.0-alpha/webfishing.apworld",
-      "size": 40249,
-      "hash_sha256": "edea2b20d3cea69d1cbd629549bb905352423bef86afa06213d611bcd0598bbc",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.2.0.post3",
-        "tag_version": "1.2.0.post3",
-        "created_at": "2025-06-04T14:32:52Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.2.0-alpha/webfishing.apworld",
-      "size": 39778,
-      "hash_sha256": "86ad98bc2ac8b6410612236c84bca4f4046413e49250646620ed1f94508d1f46",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.2.0.post2",
-        "tag_version": "1.2.0.post2",
-        "created_at": "2025-06-04T14:32:52Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.2.0-alpha/webfishing.apworld",
-      "size": 39773,
-      "hash_sha256": "ef397027a6eaf5877ebcfeb32a098c51aba57eef393d42bd95daf71322293e4a",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.2.0a0",
-        "tag_version": "1.2.0a0",
-        "created_at": "2025-06-04T14:32:52Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.1.8-alpha/webfishing.apworld",
-      "size": 34130,
-      "hash_sha256": "6ad1915748ed7b731f50a494048ce569aab734e01eadaac1bdf78bc1f9e216ab",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.1.8a0",
-        "tag_version": "1.1.8a0",
-        "created_at": "2025-02-21T02:55:28Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.1.7-alpha/webfishing.apworld",
-      "size": 34130,
-      "hash_sha256": "6ad1915748ed7b731f50a494048ce569aab734e01eadaac1bdf78bc1f9e216ab",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.1.7a0",
-        "tag_version": "1.1.7a0",
-        "created_at": "2025-01-29T23:56:20Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.1.6-alpha/webfishing.apworld",
-      "size": 34127,
-      "hash_sha256": "8bd621e5f686b61f32470fff7cde92796d0918181678f090fc8a394ca7db7534",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.1.6a0",
-        "tag_version": "1.1.6a0",
-        "created_at": "2025-01-29T19:05:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.1.5-alpha/webfishing.apworld",
-      "size": 34127,
-      "hash_sha256": "8bd621e5f686b61f32470fff7cde92796d0918181678f090fc8a394ca7db7534",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.1.5a0",
-        "tag_version": "1.1.5a0",
-        "created_at": "2025-01-29T14:31:53Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.1.3-alpha/webfishing.apworld",
-      "size": 34127,
-      "hash_sha256": "8bd621e5f686b61f32470fff7cde92796d0918181678f090fc8a394ca7db7534",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.1.3a0",
-        "tag_version": "1.1.3a0",
-        "created_at": "2025-01-29T08:59:30Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.1.2-alpha/webfishing.apworld",
-      "size": 34127,
-      "hash_sha256": "8bd621e5f686b61f32470fff7cde92796d0918181678f090fc8a394ca7db7534",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.1.2a0",
-        "tag_version": "1.1.2a0",
-        "created_at": "2025-01-28T16:40:52Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.1.1-alpha/webfishing.apworld",
-      "size": 34127,
-      "hash_sha256": "8bd621e5f686b61f32470fff7cde92796d0918181678f090fc8a394ca7db7534",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.1.1a0",
-        "tag_version": "1.1.1a0",
-        "created_at": "2025-01-28T03:02:34Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.1.0-alpha/webfishing.apworld",
-      "size": 34127,
-      "hash_sha256": "8bd621e5f686b61f32470fff7cde92796d0918181678f090fc8a394ca7db7534",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.1.0a0",
-        "tag_version": "1.1.0a0",
-        "created_at": "2025-01-27T21:57:27Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.0.2-alpha/webfishing.apworld",
-      "size": 31119,
-      "hash_sha256": "52b13debae9ef193b848af2ff9503a94265d3b2d697c7d5ce1dd530e57344ba7",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.0.2a0",
-        "tag_version": "1.0.2a0",
-        "created_at": "2025-01-28T16:40:52Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.0.1-alpha/webfishing.apworld",
-      "size": 31119,
-      "hash_sha256": "52b13debae9ef193b848af2ff9503a94265d3b2d697c7d5ce1dd530e57344ba7",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.0.1a0",
-        "tag_version": "1.0.1a0",
-        "created_at": "2025-01-28T00:33:11Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.0.0-alpha/webfishing.apworld",
-      "size": 31119,
-      "hash_sha256": "52b13debae9ef193b848af2ff9503a94265d3b2d697c7d5ce1dd530e57344ba7",
-      "metadata": {
-        "game": "",
-        "id": "webfishing",
-        "world_version": "1.0.0a0",
-        "tag_version": "1.0.0a0",
-        "created_at": "2025-01-19T22:05:29Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Lucasvdm/WOLAP/releases/download/v0.2.3-alpha/westofloathing.apworld",
-      "size": 31000,
-      "hash_sha256": "067a4eedb88859872bfbfd2fd0b9d8520fa69cfcf697afadfb6b4d288fc61a27",
-      "metadata": {
-        "game": "",
-        "id": "westofloathing",
-        "world_version": "0.2.3",
-        "tag_version": "0.2.3",
-        "created_at": "2025-09-19T22:51:28Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Lucasvdm/WOLAP/releases/download/v0.2.2-alpha/westofloathing.apworld",
-      "size": 30924,
-      "hash_sha256": "b84235ea8e9f3b0c01a95b5c3bfff6db623a800ce345a7d29a044835dc3591ea",
-      "metadata": {
-        "game": "",
-        "id": "westofloathing",
-        "world_version": "0.2.2",
-        "tag_version": "0.2.2",
-        "created_at": "2025-08-14T17:40:26Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Lucasvdm/WOLAP/releases/download/v0.2.1-alpha/westofloathing.apworld",
-      "size": 30707,
-      "hash_sha256": "ae3aaa15ead20ba4cf9504a8eecfe8616cbacbbd299cf5afbd51f910afb2dc75",
-      "metadata": {
-        "game": "",
-        "id": "westofloathing",
-        "world_version": "0.2.1",
-        "tag_version": "0.2.1",
-        "created_at": "2025-07-16T05:03:53Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Lucasvdm/WOLAP/releases/download/v0.2.0-alpha/westofloathing.apworld",
-      "size": 30707,
-      "hash_sha256": "ae3aaa15ead20ba4cf9504a8eecfe8616cbacbbd299cf5afbd51f910afb2dc75",
-      "metadata": {
-        "game": "",
-        "id": "westofloathing",
-        "world_version": "0.2.0",
-        "tag_version": "0.2.0",
-        "created_at": "2025-06-16T23:11:34Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Lucasvdm/WOLAP/releases/download/v0.1.6-alpha/westofloathing.apworld",
-      "size": 30568,
-      "hash_sha256": "3baf6d853bba3d6ed69809c87f588b11d6c0d2db4336d51754e476cc49d2c8d4",
-      "metadata": {
-        "game": "",
-        "id": "westofloathing",
-        "world_version": "0.1.6",
-        "tag_version": "0.1.6",
-        "created_at": "2025-05-29T19:24:06Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Lucasvdm/WOLAP/releases/download/v0.1.5-alpha/westofloathing.apworld",
-      "size": 30858,
-      "hash_sha256": "41fd0a9eec1c48ff1922a24e9fc65f9721d3fdb88858aed78c2e8926deb49e70",
-      "metadata": {
-        "game": "",
-        "id": "westofloathing",
-        "world_version": "0.1.5",
-        "tag_version": "0.1.5",
-        "created_at": "2025-05-15T23:22:58Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Lucasvdm/WOLAP/releases/download/v0.1.4-alpha/westofloathing.apworld",
-      "size": 30473,
-      "hash_sha256": "bdafc189c45fbe82148ad08d73022da1b0306b933c1455c4b2f364f9d11e889a",
-      "metadata": {
-        "game": "",
-        "id": "westofloathing",
-        "world_version": "0.1.4",
-        "tag_version": "0.1.4",
-        "created_at": "2025-05-12T23:26:23Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Lucasvdm/WOLAP/releases/download/v0.1.3-alpha/westofloathing.apworld",
-      "size": 30256,
-      "hash_sha256": "c52dbd2e15bebae85c6a9eff03185e5286fa7411d92a4b0d46985c93888e9557",
-      "metadata": {
-        "game": "",
-        "id": "westofloathing",
-        "world_version": "0.1.3",
-        "tag_version": "0.1.3",
-        "created_at": "2025-05-08T22:31:41Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Lucasvdm/WOLAP/releases/download/v0.1.2-alpha/westofloathing.apworld",
-      "size": 29954,
-      "hash_sha256": "69bd770b27a4cc83ba29cd4d1fdc73bb8ab9be459d2ecd06e8ec761065f92dbb",
-      "metadata": {
-        "game": "",
-        "id": "westofloathing",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2025-05-06T05:09:02Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Lucasvdm/WOLAP/releases/download/v0.1.1-alpha/westofloathing.apworld",
-      "size": 29936,
-      "hash_sha256": "07e2d8a267c94f36fc282a1c1762feeb9104d42f92c5c5f858b456a9fea37e20",
-      "metadata": {
-        "game": "",
-        "id": "westofloathing",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2025-05-04T20:27:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Lucasvdm/WOLAP/releases/download/v0.1.0-alpha/westofloathing.apworld",
-      "size": 29848,
-      "hash_sha256": "5c0ef740016550d7246a7ca94be0f84bd199c351738c5720581fa0523d2dabf3",
-      "metadata": {
-        "game": "",
-        "id": "westofloathing",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2025-05-01T23:12:53Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/NewSoupVi/Archipelago/releases/download/Playtest10b/witness.apworld",
       "size": 271344,
       "hash_sha256": "d1c78eeb0a7e5eb6450538da1d201df6a9e1d58ebaf6bfa9e6eff843cc110113",
@@ -90948,22 +89730,6 @@
         "world_version": "1.0.1",
         "tag_version": "1.0.1",
         "created_at": "2026-01-20T17:57:00Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "unready"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/PaigeKH/Archipelago/releases/download/1.0.0/wow.apworld",
-      "size": 378737,
-      "hash_sha256": "4a0832358f15f117780af5e5c7163a9d1ac854866c6119e6ab9e5dcae2646c92",
-      "metadata": {
-        "game": "",
-        "id": "wow",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2025-11-16T04:55:05Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "unready"
@@ -92610,10 +91376,6 @@
       "game": "A Dance of Fire and Ice",
       "description": ""
     },
-    "against_the_storm": {
-      "game": "Against the Storm",
-      "description": "Against the Storm is a roguelite city builder"
-    },
     "age2de": {
       "game": "Age Of Empires II: Definitive Edition",
       "description": "Age of Empires II: Definitive Edition is a Real-Time Strategy game centered around the medieval\nages and the various battles, conquests, and wars of history."
@@ -93569,10 +92331,6 @@
       "game": "Manual_FFXIVBMB_Pizzie",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
-    "manual_fireemblempathofradiance_mercenarygreil": {
-      "game": "Manual_FireEmblemPathofRadiance_MercenaryGreil",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
     "manual_fossilfighterschampions_girlwithoutafairy": {
       "game": "Manual_FossilFightersChampions_GirlWithoutAFairy",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
@@ -93591,10 +92349,6 @@
     },
     "manual_glassanimals_bennydreamly": {
       "game": "Manual_GlassAnimals_bennydreamly",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_goldeneye007_vincentssin": {
-      "game": "Manual_Goldeneye007_VincentsSin",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_guitarheroontour_gwaf": {
@@ -93709,10 +92463,6 @@
       "game": "Manual_NationalPokedex_Flit",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
-    "manual_northgard_chakraa": {
-      "game": "Manual_Northgard_Chakraa",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
     "manual_onemorenight_wolfboi008": {
       "game": "Manual_OneMoreNight_WolfBoi008",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
@@ -93720,14 +92470,6 @@
     "manual_outcomememories_1sobbe": {
       "game": "Manual_OutcomeMemories_1sobbe",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_outerwilds_nicopopxd": {
-      "game": "Manual_OuterWilds_Nicopopxd",
-      "description": "Outer Wilds is a critically-acclaimed and award-winning open world mystery about a solar system trapped in an endless time loop."
-    },
-    "manual_outerwildseye_nicopopxd": {
-      "game": "Manual_OuterWildsEye_Nicopopxd",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nIn this case the game from 2019: OuterWilds \nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_penkopark_axxroy": {
       "game": "",
@@ -93748,10 +92490,6 @@
     "manual_PLA_miro": {
       "game": "Manual_PLA_Miro",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_plateup_nicopopxd": {
-      "game": "Manual_PlateUp_Nicopopxd",
-      "description": "The Manual version of the chaotic kitchen and restaurant management game from 2022: PlateUp! \n\nCan you get to Overtime on a configurable amount of main dishes\n[Apworld Version: 1.3.1]"
     },
     "manual_platinumbattlezone_linneus": {
       "game": "Manual_PlatinumBattleZone_Linneus",
@@ -93855,10 +92593,6 @@
     },
     "Manual_TheWrathofCortex_MuffinJets": {
       "game": "Manual_TheWrathofCortex_MuffinJets",
-      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
-    },
-    "manual_thmusic_awesome7285": {
-      "game": "Manual_THMusic_Awesome7285",
       "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_vampiresurvivors_jones": {
@@ -94827,14 +93561,6 @@
       "game": "Watery Words",
       "description": "Yacht Dice is a straightforward game, custom-made for Archipelago,\nwhere you cast your dice to chart a course for high scores,\nunlocking valuable treasures along the way.\nDiscover more dice, extra rolls, multipliers,\nand unlockable categories to navigate the depths of the game.\nRoll your way to victory by reaching the target score!"
     },
-    "webfishing": {
-      "game": "WEBFISHING",
-      "description": "WEBFISHING is a multiplayer chatroom-focused fishing game! Relax and fish (on the web!)"
-    },
-    "westofloathing": {
-      "game": "West of Loathing",
-      "description": "Say howdy to West of Loathing -- a single-player slapstick comedy adventure role-playing game set in the wild west \nof the Kingdom of Loathing universe. Traverse snake-infested gulches, punch skeletons wearing cowboy hats, grapple \nwith demon cows, and investigate a wide variety of disgusting spittoons. Explore a vast open world and encounter a \ncolorful cast of characters, some of whom are good, many of whom are bad, and a few of whom are ugly."
-    },
     "witness": {
       "game": "The Witness",
       "description": "The Witness is an open-world puzzle game with dozens of locations\nto explore and over 500 puzzles. Play the popular puzzle randomizer\nby sigma144, with an added layer of progression randomization!"
@@ -94855,10 +93581,6 @@
     "wordsearch": {
       "game": "WordSearch",
       "description": "A brand new take on the world famous word guessing game."
-    },
-    "wow": {
-      "game": "World of Warcraft",
-      "description": "World of Warcraft progressive-level world with zones, quests, and spells."
     },
     "x2wotc": {
       "game": "XCOM 2 War of the Chosen",
