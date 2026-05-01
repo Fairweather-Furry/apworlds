@@ -12879,6 +12879,21 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.0-pre.2/crosscode.apworld",
+      "size": 146469,
+      "hash_sha256": "92679d8d75e464d2d39502c549165926fd12672d79b340e93338ef7945c85333",
+      "metadata": {
+        "game": "",
+        "id": "crosscode",
+        "world_version": "0.9.0rc2",
+        "tag_version": "0.9.0rc2",
+        "created_at": "2026-05-01T08:51:45Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.0-pre.1/crosscode.apworld",
       "size": 146195,
       "hash_sha256": "f2cd5c61b4094d39dfd87807f908d08da32b75a6e90726662fb0c1e3b07c6079",
@@ -12891,6 +12906,18 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.8.4/crosscode.apworld",
+      "size": 129022,
+      "hash_sha256": "38ee11ad4330e53c69b30e29cb8a826cbbf52a0b8a3cf8b5efe699b6448847d8",
+      "metadata": {
+        "game": "",
+        "id": "crosscode",
+        "world_version": "0.8.4",
+        "tag_version": "0.8.4",
+        "created_at": "2026-05-01T08:03:07Z"
       }
     },
     {
@@ -27555,6 +27582,19 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.3/grinch.apworld",
+      "size": 50114,
+      "hash_sha256": "098706d482a73d2b5ca075ccfde5fa4aa3080ce6cc30418efa927cad798f1ac6",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.5.3",
+        "tag_version": "1.5.3",
+        "created_at": "2026-05-01T04:10:08Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.2/grinch.apworld",
       "size": 50064,
       "hash_sha256": "478ccfcf5f3046f39da4555c865aa555b37ad85528787293e3646c0dfc0170e8",
@@ -32669,67 +32709,6 @@
         "tag_version": "1.0.0",
         "created_at": "2025-10-29T00:51:15Z",
         "minimum_ap_version": "0.6.1"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-KeyWe/releases/download/1.1.0/keywe.apworld",
-      "size": 11126,
-      "hash_sha256": "a76aac30c315c58dddb0caea28df5e422b426994dd1a998a5528f1f77f821020",
-      "metadata": {
-        "game": "",
-        "id": "keywe",
-        "world_version": "1.1.0",
-        "tag_version": "1.1.0",
-        "created_at": "2026-03-28T23:58:27Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-KeyWe/releases/download/1.0.3/keywe.apworld",
-      "size": 11090,
-      "hash_sha256": "675eab02790c4eebeb9f6ecc1c8c7d510a85e03cd62b12ad33ccd48b9b1e81b6",
-      "metadata": {
-        "game": "",
-        "id": "keywe",
-        "world_version": "1.0.3",
-        "tag_version": "1.0.3",
-        "created_at": "2026-01-13T00:19:05Z"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-KeyWe/releases/download/1.0.2/keywe.apworld",
-      "size": 10939,
-      "hash_sha256": "8e503bc7b007d9649f4fd45946ebce7fd2a141ac19ff25132ec35cf0d63a542d",
-      "metadata": {
-        "game": "",
-        "id": "keywe",
-        "world_version": "1.0.2",
-        "tag_version": "1.0.2",
-        "created_at": "2026-01-08T23:39:32Z"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-KeyWe/releases/download/1.0.1/keywe.apworld",
-      "size": 10302,
-      "hash_sha256": "e37d8637dc4737e3e6152eaab48dd507628e20a3174cface0b897d3b44a5ddcc",
-      "metadata": {
-        "game": "",
-        "id": "keywe",
-        "world_version": "1.0.1",
-        "tag_version": "1.0.1",
-        "created_at": "2025-11-19T14:50:27Z"
-      }
-    },
-    {
-      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-KeyWe/releases/download/1.0.0/keywe.apworld",
-      "size": 10303,
-      "hash_sha256": "ef39fb962da06207cc9b508bd41140bfa99fff3af87bedd10354409a4ffebc1e",
-      "metadata": {
-        "game": "",
-        "id": "keywe",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2025-11-18T19:47:07Z"
       }
     },
     {
@@ -39341,6 +39320,22 @@
         "tag_version": "0.0.1",
         "created_at": "2024-06-14T05:00:31Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/pre-5.0.0-1/manual_blocktales_wolfboi008.apworld",
+      "size": 82867,
+      "hash_sha256": "8b6f0c3dfb8537ee3b841694981c9054bb6f5c47c1347b8dbb8fad8ec5e7c6bd",
+      "metadata": {
+        "game": "",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "5.0.0.post1",
+        "tag_version": "5.0.0.post1",
+        "created_at": "2026-04-05T13:30:06Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -84083,6 +84078,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.2-alpha/tloz_ph.apworld",
+      "size": 2584314,
+      "hash_sha256": "b59752b7784a1d88a113161c39a4ac12d360928d82e31435f0a557cae6c42dc6",
+      "metadata": {
+        "game": "",
+        "id": "tloz_ph",
+        "world_version": "0.9.2a0",
+        "tag_version": "0.9.2a0",
+        "created_at": "2026-05-01T11:50:25Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.1-alpha/tloz_ph.apworld",
       "size": 2582630,
       "hash_sha256": "8123bda7f613fea18b78f8a3d56b042d902c2dcfcf74c80ba78ad513dd1f05ee",
@@ -93418,10 +93426,6 @@
     "keymasters_keep_manager": {
       "game": "",
       "description": ""
-    },
-    "keywe": {
-      "game": "KeyWe",
-      "description": "KeyWe is a co-op puzzle game where the players control Jeff and Debra,\ntwo Kiwis tasked with manning the stations at a post office."
     },
     "kh1": {
       "game": "Kingdom Hearts",

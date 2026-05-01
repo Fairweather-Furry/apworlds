@@ -1,6 +1,6 @@
 {
-  "total_repositories": 518,
-  "total_packages": 620,
+  "total_repositories": 517,
+  "total_packages": 619,
   "total_versions": 6721,
   "manifest_ready": {
     "abugslife": true,
@@ -192,7 +192,6 @@
     "kdl3": true,
     "keymasters_keep": true,
     "keymasters_keep_manager": true,
-    "keywe": true,
     "kh1": false,
     "khbbs": false,
     "khcom": false,
@@ -578,17 +577,17 @@
     "": 354,
     "0.5.0": 8,
     "0.5.1": 1,
-    "0.6.0": 14,
+    "0.6.0": 13,
     "0.6.1": 13,
     "0.6.2": 9,
-    "0.6.3": 55,
+    "0.6.3": 56,
     "0.6.4": 59,
-    "0.6.5": 16,
+    "0.6.5": 15,
     "0.6.6": 12,
     "0.6.7": 18
   },
   "max_maximum_ap_version": {
-    "": 275,
+    "": 274,
     "0.0.1": 1,
     "0.4.6": 5,
     "0.6.6": 1,
