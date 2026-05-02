@@ -21842,6 +21842,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.4.5/everhood_2.apworld",
+      "size": 20198,
+      "hash_sha256": "ac4ab39b59a8477a8e2668db3eae011d49c94518583b5d435683ee9db6b0398f",
+      "metadata": {
+        "game": "",
+        "id": "everhood_2",
+        "world_version": "0.4.5",
+        "tag_version": "0.4.5",
+        "created_at": "2026-04-06T08:15:58Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.4.4/everhood_2.apworld",
       "size": 20292,
       "hash_sha256": "d6853b729b6fdc508c1368147731320eccdb22b092c6995bd6bddf41f7827b0a",
@@ -22413,6 +22426,19 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-10-11T00:38:03Z"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.8.6/factorio_saws.apworld",
+      "size": 888977,
+      "hash_sha256": "e0e91b23c4982a28404d1a8edd72e643cbae1a56540dd1ffcb166c1b4c11a9e9",
+      "metadata": {
+        "game": "",
+        "id": "factorio_saws",
+        "world_version": "0.8.6",
+        "tag_version": "0.8.6",
+        "created_at": "2026-05-02T11:34:36Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {
@@ -48337,6 +48363,22 @@
       }
     },
     {
+      "world": "https://github.com/Deadlydiamond98/MinecraftFabricAPWorld/releases/download/v.1.1.1.1/minecraft_fabric.apworld",
+      "size": 56967,
+      "hash_sha256": "2c34751288fa15ba15215e2885351a458877ff272f68187e6a2f0ef5a1c18caf",
+      "metadata": {
+        "game": "",
+        "id": "minecraft_fabric",
+        "world_version": "1.1.1",
+        "tag_version": "1.1.1",
+        "created_at": "2026-04-30T20:37:42Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Deadlydiamond98/MinecraftFabricAPWorld/releases/download/v.1.1.0/minecraft_fabric.apworld",
       "size": 55065,
       "hash_sha256": "c68b12f4ba1b0fe53a87d578b0184a8a21d6eb23539aca8b4782fc3483ace5a0",
@@ -52797,6 +52839,21 @@
         "maximum_ap_version": "0.6.99",
         "flags": [
           "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.4.0/okamihd.apworld",
+      "size": 45034,
+      "hash_sha256": "d1e274b141e7cfbbda15b3e3826cf17777ed77fa502f72324438b8bb3e988d1c",
+      "metadata": {
+        "game": "",
+        "id": "okamihd",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-05-02T10:09:55Z",
+        "flags": [
           "prerelease"
         ]
       }
@@ -62141,6 +62198,18 @@
         "tag_version": "0.1.0",
         "created_at": "2025-09-23T02:27:37Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.1/pokepark.apworld",
+      "size": 76588,
+      "hash_sha256": "3244278f8fb520f35950b034f6605e9bd05051e7a949da02e139dfb6123f0033",
+      "metadata": {
+        "game": "",
+        "id": "pokepark",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-05-02T11:03:00Z"
       }
     },
     {
