@@ -84,6 +84,19 @@
       "title": "v0.0.6",
       "version_simple": "0.0.6",
       "world_version": "0.0.6"
+    },
+    "0.1.0": {
+      "created_at": "2026-05-03T16:37:41Z",
+      "download_url": "https://github.com/Metasura/Burnout3Archipelago/releases/download/0.1.0/burnout3.apworld",
+      "has_manifest": true,
+      "hash_sha256": "b4f064d0f775138895d87383077a7d2cbf37393e2f2e8dbfd38bf2c9c814c834",
+      "minimum_ap_version": "0.6.6",
+      "size": 21617,
+      "source_url": "https://api.github.com/repos/Metasura/Burnout3Archipelago",
+      "tag": "0.1.0",
+      "title": "V0.1.0",
+      "version_simple": "0.1.0",
+      "world_version": "0.1.0"
     }
   }
 }
