@@ -21904,6 +21904,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.4.6/everhood_2.apworld",
+      "size": 20455,
+      "hash_sha256": "3ffb6049d5c1b2e965a6fd02afac04027963859a3bf08f78a6713b669d505642",
+      "metadata": {
+        "game": "",
+        "id": "everhood_2",
+        "world_version": "0.4.6",
+        "tag_version": "0.4.6",
+        "created_at": "2026-04-06T08:15:58Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.4.5/everhood_2.apworld",
       "size": 20198,
       "hash_sha256": "ac4ab39b59a8477a8e2668db3eae011d49c94518583b5d435683ee9db6b0398f",
@@ -30835,6 +30848,19 @@
         "world_version": "0.7.1",
         "tag_version": "v0.7.1",
         "created_at": "2024-04-29T00:19:26Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Kim-Delicious/Archipelago_IslesOfSeaAndSky/releases/download/v0_0_14/isles_of_sea_and_sky.apworld",
+      "size": 1499790,
+      "hash_sha256": "8cd4fef87ce94f31387eb3aecec2b5d917017fa27c57c5b2ef41c02739ccb544",
+      "metadata": {
+        "game": "",
+        "id": "isles_of_sea_and_sky",
+        "world_version": "14.post4",
+        "tag_version": "14.post4",
+        "created_at": "2025-12-03T12:53:39Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -50522,6 +50548,22 @@
         "tag_version": "0.1.0",
         "created_at": "2025-06-05T23:39:46Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Stuff691734/ModdedMCArchipelago/releases/download/v2.2.2/moddedminecraft.apworld",
+      "size": 8176,
+      "hash_sha256": "da27ca63d5c0c0d966aaabe10e37b3475e3df03bd8628cd1c04fe9d670bb56f2",
+      "metadata": {
+        "game": "",
+        "id": "moddedminecraft",
+        "world_version": "2.2.2",
+        "tag_version": "2.2.2",
+        "created_at": "2026-05-04T04:38:04Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "unready"
+        ]
       }
     },
     {
@@ -92138,6 +92180,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.15/yarg.apworld",
+      "size": 32638,
+      "hash_sha256": "8681a650fc0b609c12d0beed98cec5757c7ac4bed7ed49fd19204320b4a0501a",
+      "metadata": {
+        "game": "",
+        "id": "yarg",
+        "world_version": "0.0.15",
+        "tag_version": "0.0.15",
+        "created_at": "2026-05-04T04:39:14Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
