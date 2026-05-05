@@ -22919,6 +22919,22 @@
       }
     },
     {
+      "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.5.0/fez.apworld",
+      "size": 12475,
+      "hash_sha256": "bd601a9e709c3c8e964ddc04bf2aa6a5a59f5f3f388fbbbab1af08054388cc3c",
+      "metadata": {
+        "game": "",
+        "id": "fez",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-05-04T22:25:15Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.4.0/fez.apworld",
       "size": 11974,
       "hash_sha256": "c59e70e7a771c5597061882ee1e4de50393a837976a6792db4cc11f61ec09e63",
@@ -24884,6 +24900,19 @@
         "tag_version": "0.0.1",
         "created_at": "2023-11-27T18:36:53Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.28.0/ffxiv.apworld",
+      "size": 137291,
+      "hash_sha256": "5c0b92f7186e8429387af0fe069f5789c349ed77b92cb7c3ce764fba40d4fefc",
+      "metadata": {
+        "game": "",
+        "id": "ffxiv",
+        "world_version": "0.28.0",
+        "tag_version": "0.28.0",
+        "created_at": "2026-05-05T02:07:56Z",
+        "minimum_ap_version": "0.6.2"
       }
     },
     {
@@ -39459,6 +39488,22 @@
         "tag_version": "0.0.1",
         "created_at": "2024-06-14T05:00:31Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/pre-5.0.0-4/manual_blocktales_wolfboi008.apworld",
+      "size": 82543,
+      "hash_sha256": "41b487b359f46e15e03833f82a4724ae95b85c29b549ec0694a9b0c3909e2fd6",
+      "metadata": {
+        "game": "",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "5.0.0.post4",
+        "tag_version": "5.0.0.post4",
+        "created_at": "2026-05-04T02:49:13Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -69696,6 +69741,22 @@
       }
     },
     {
+      "world": "https://github.com/MacH8s/Narcopelago/releases/download/v3.6.1/Schedule_I.apworld",
+      "size": 34140,
+      "hash_sha256": "dfbbf0f297c7cfcafcf86867eb2ce803589c15a6963aa66561b04f9540d6f263",
+      "metadata": {
+        "game": "",
+        "id": "Schedule_I",
+        "world_version": "3.6.1",
+        "tag_version": "3.6.1",
+        "created_at": "2026-05-04T19:20:49Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/MacH8s/Narcopelago/releases/download/v3.6.0/Schedule_I.apworld",
       "size": 34349,
       "hash_sha256": "8aaf99fe9db51bea6c4835bf54b5fdb777fec803e432b2b7d396124c92e2ad37",
@@ -72970,6 +73031,18 @@
         "tag_version": "0.1.0",
         "created_at": "2025-01-23T23:35:09Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/hoppel16/ArchipelagoBranchSly1/releases/download/v0.3.4-alpha/sly1.apworld",
+      "size": 31750,
+      "hash_sha256": "8dfe28eb1b1f43677c9ce4e0e9082b013c42df030ebf21b325aca4cd572b15b5",
+      "metadata": {
+        "game": "",
+        "id": "sly1",
+        "world_version": "0.3.4a0",
+        "tag_version": "0.3.4a0",
+        "created_at": "2026-05-04T18:25:30Z"
       }
     },
     {
@@ -82862,6 +82935,19 @@
       }
     },
     {
+      "world": "https://github.com/Archipelago-Trails-in-the-Sky-the-3rd/Archipelago-Trails-in-the-Sky-the-3rd/releases/download/0.1.7/tits_the_3rd.apworld",
+      "size": 1572548,
+      "hash_sha256": "52735c550c6718cd016fea6263292a806f3940b67158c286ad0b3e23a649fb22",
+      "metadata": {
+        "game": "",
+        "id": "tits_the_3rd",
+        "world_version": "0.1.7",
+        "tag_version": "0.1.7",
+        "created_at": "2026-05-04T23:16:05Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Archipelago-Trails-in-the-Sky-the-3rd/Archipelago-Trails-in-the-Sky-the-3rd/releases/download/0.1.6/tits_the_3rd.apworld",
       "size": 1464281,
       "hash_sha256": "6ee0ae65a5ffd4dfb2ff7012032b9bc07f01a3d935c5b37037547a67edc774b9",
@@ -88979,6 +89065,19 @@
       }
     },
     {
+      "world": "https://github.com/AllPoland/unbeatAP/releases/download/v0.4.0-alpha/unbeatable_arcade.apworld",
+      "size": 23936,
+      "hash_sha256": "853c67ba2726f24589659ba52378abbee7824e6be82f0e8e2f6ec39d623665c9",
+      "metadata": {
+        "game": "",
+        "id": "unbeatable_arcade",
+        "world_version": "0.4.0a0",
+        "tag_version": "0.4.0a0",
+        "created_at": "2026-05-04T21:23:35Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/AllPoland/unbeatAP/releases/download/v0.3.0-alpha/unbeatable_arcade.apworld",
       "size": 23144,
       "hash_sha256": "19f9f46ca007ffdc35d3b50d57b782228418a223e151c34eb0b3a006a6fa8cad",
@@ -92335,6 +92434,19 @@
         "world_version": "0.0.4",
         "tag_version": "0.0.4",
         "created_at": "2025-12-30T07:03:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/GirlWithoutAFairy/YARGArchipelago-GH-and-RB-forks/releases/download/26.05.04/YARGGuitarHero1.apworld",
+      "size": 22768,
+      "hash_sha256": "e07a86d33032b6c6e4ea31d04ae096b4a83c9cf313dc3ebaefe98d13ad826435",
+      "metadata": {
+        "game": "",
+        "id": "YARGGuitarHero1",
+        "world_version": "26.5.4",
+        "tag_version": "26.5.4",
+        "created_at": "2026-05-04T18:18:30Z",
         "maximum_ap_version": "0.6.99"
       }
     },
