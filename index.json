@@ -589,6 +589,19 @@
       }
     },
     {
+      "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.2.0/albw.apworld",
+      "size": 16920772,
+      "hash_sha256": "c8b00434dcb5f4e279eea269e97f37fe9f6e512e67aed85f5aeec1b19e4412f0",
+      "metadata": {
+        "game": "",
+        "id": "albw",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2026-05-05T18:11:50Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.1.5/albw.apworld",
       "size": 16654339,
       "hash_sha256": "fad8ecacac8832406269c566264554c9cf5bbc660b2d4eec0446ea861ece648c",
@@ -5957,6 +5970,22 @@
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/AegeusEvander/Brave-Fencer-Musashi-AP-World/releases/download/v0.5.2/bfm.apworld",
+      "size": 2210998,
+      "hash_sha256": "3ef7fb6fe5492e1bb956225881ce3bc8d51d69eba863648bcaad61756f5e662b",
+      "metadata": {
+        "game": "",
+        "id": "bfm",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-05-06T01:00:11Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "tracker_included"
         ]
       }
     },
@@ -18431,6 +18460,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.1.1/dkc2.apworld",
+      "size": 142070,
+      "hash_sha256": "3fe62d167959aefa3ea35620e46aa904ea50de64f7d687316aa4e8e72986310e",
+      "metadata": {
+        "game": "",
+        "id": "dkc2",
+        "world_version": "3.1.1",
+        "tag_version": "3.1.1",
+        "created_at": "2026-05-05T06:12:08Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/dkc2-v3.1.0/dkc2.apworld",
       "size": 147306,
       "hash_sha256": "1d83578d1db1775ccb38d24e8fcb72731e597c5a572497d28616456aff334c72",
@@ -19530,6 +19572,22 @@
         "world_version": "0.2.3",
         "tag_version": "0.2.3",
         "created_at": "2026-03-26T13:32:10Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Str8UpWHITE64/DRAP/releases/download/1.0.0/drdr.apworld",
+      "size": 565307,
+      "hash_sha256": "d51fd1feddd78d0d2bbb6097e68135db6afc62766adba29d11aa664f7d76d937",
+      "metadata": {
+        "game": "",
+        "id": "drdr",
+        "world_version": "0.2.3",
+        "tag_version": "0.2.3",
+        "created_at": "2026-05-05T23:03:39Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "after_dark"
@@ -21917,6 +21975,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.4.7/everhood_2.apworld",
+      "size": 20455,
+      "hash_sha256": "3ffb6049d5c1b2e965a6fd02afac04027963859a3bf08f78a6713b669d505642",
+      "metadata": {
+        "game": "",
+        "id": "everhood_2",
+        "world_version": "0.4.6",
+        "tag_version": "0.4.6",
+        "created_at": "2026-05-05T11:10:29Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/DeamonHunter/ArchipelagoEverhood2/releases/download/v0.4.5/everhood_2.apworld",
       "size": 20198,
       "hash_sha256": "ac4ab39b59a8477a8e2668db3eae011d49c94518583b5d435683ee9db6b0398f",
@@ -22513,6 +22584,19 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-10-11T00:38:03Z"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.9.0/factorio_saws.apworld",
+      "size": 889061,
+      "hash_sha256": "8af9b457137f954e3915471969aa2c44b4e9a68e62a0ea2dd1222cacabe120c0",
+      "metadata": {
+        "game": "",
+        "id": "factorio_saws",
+        "world_version": "0.9.0",
+        "tag_version": "0.9.0",
+        "created_at": "2026-05-05T04:53:31Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {
@@ -39491,6 +39575,22 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/pre-5.0.0-5/manual_blocktales_wolfboi008.apworld",
+      "size": 81873,
+      "hash_sha256": "58fb4140048af40fb0568c75b020bc601c56f07b6dea629e7cd9ab1e9faf0f9b",
+      "metadata": {
+        "game": "",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "5.0.0.post5",
+        "tag_version": "5.0.0.post5",
+        "created_at": "2026-05-04T17:17:56Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/pre-5.0.0-4/manual_blocktales_wolfboi008.apworld",
       "size": 82543,
       "hash_sha256": "41b487b359f46e15e03833f82a4724ae95b85c29b549ec0694a9b0c3909e2fd6",
@@ -49961,6 +50061,19 @@
         "tag_version": "0.0.1",
         "created_at": "2025-10-18T03:15:35Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx-v1.6.1/mmx.apworld",
+      "size": 53595,
+      "hash_sha256": "788f4761438b60533257fa56bc1c6ae9b4e37bd4d7cb7a51ef7ea551f714535b",
+      "metadata": {
+        "game": "",
+        "id": "mmx",
+        "world_version": "1.6.1",
+        "tag_version": "1.6.1",
+        "created_at": "2026-05-05T06:11:40Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -69737,6 +69850,22 @@
         "flags": [
           "unready",
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/MacH8s/Narcopelago/releases/download/v3.6.2/Schedule_I.apworld",
+      "size": 34172,
+      "hash_sha256": "bcd84165bd2ca1ec92cd61a7745793ef9b356661e074835602e02e671d2fdf40",
+      "metadata": {
+        "game": "",
+        "id": "Schedule_I",
+        "world_version": "3.6.2",
+        "tag_version": "3.6.2",
+        "created_at": "2026-05-06T01:45:23Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "unready"
         ]
       }
     },
@@ -89799,6 +89928,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/waffles-v1.3.5/waffles.apworld",
+      "size": 266759,
+      "hash_sha256": "290e4229af601b1398b1ba10c3c5ef07857233256560c79c16ebf01aae22439b",
+      "metadata": {
+        "game": "",
+        "id": "waffles",
+        "world_version": "1.3.5",
+        "tag_version": "1.3.5",
+        "created_at": "2026-05-05T06:09:54Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/waffles-v1.3.4/waffles.apworld",
       "size": 265342,
       "hash_sha256": "65c0cf14777e3511b0b42842e312ad94ebd438769e959c92a4d85b4869f417f6",
@@ -91482,7 +91624,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.10.10-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.10.10-beta/x2wotc.apworld",
       "size": 58925,
       "hash_sha256": "c9ad8a8d71ede27f0d5a18fde585659ee36e2c1961a7786747678f589a9990cf",
       "metadata": {
@@ -91498,7 +91640,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.10.9-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.10.9-beta/x2wotc.apworld",
       "size": 58865,
       "hash_sha256": "d69a9caecc4ac1bb33dd2ce93f9686b9363c0ea0e4b6f9959ec7b64deee391c2",
       "metadata": {
@@ -91514,7 +91656,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.10.8-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.10.8-beta/x2wotc.apworld",
       "size": 57211,
       "hash_sha256": "7808aa49061e5efda57acdc866b88948c35d07f64ff34ced3fa707359816f740",
       "metadata": {
@@ -91530,7 +91672,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.10.7-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.10.7-beta/x2wotc.apworld",
       "size": 57310,
       "hash_sha256": "f21ee67a66d5d1ab4e400d86100b60f8ac8c88d3407b41446aa20713792af9fa",
       "metadata": {
@@ -91546,7 +91688,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.10.6-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.10.6-beta/x2wotc.apworld",
       "size": 57177,
       "hash_sha256": "272ff5a2afc57d129bb45f5f1012ce321b5167bbe2d7dd1fe3f45ab5995f1c79",
       "metadata": {
@@ -91562,7 +91704,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.10.5-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.10.5-beta/x2wotc.apworld",
       "size": 56955,
       "hash_sha256": "b54886508351234db720480dc2a92ac6ec9ff48e19b2da874f6be55f0f49ec27",
       "metadata": {
@@ -91578,7 +91720,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.10.4-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.10.4-beta/x2wotc.apworld",
       "size": 48108,
       "hash_sha256": "a4c2944e93f0243005bd1a67dd8622eac5de4b86333887d3c79c1d9755aaa30f",
       "metadata": {
@@ -91594,7 +91736,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.10.3-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.10.3-beta/x2wotc.apworld",
       "size": 47503,
       "hash_sha256": "e5bd091448404d1a3c49c1784a79a1d5e222689f561449bee99d1ed951666f64",
       "metadata": {
@@ -91610,7 +91752,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.10.2-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.10.2-beta/x2wotc.apworld",
       "size": 47436,
       "hash_sha256": "411e81fba434d04d5d46a5afbd1647be2ba358261f2c32b28c6e951b12c61846",
       "metadata": {
@@ -91626,7 +91768,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.10.1-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.10.1-beta/x2wotc.apworld",
       "size": 47462,
       "hash_sha256": "23cc2d1e285582d0691cab3dccaacf220f6c42c876d89fa961f9128180490cce",
       "metadata": {
@@ -91642,7 +91784,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.10.0-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.10.0-beta/x2wotc.apworld",
       "size": 45835,
       "hash_sha256": "64a5510949bb9cf4991431ae274970420bddc11602d44bf4aca4559d6b37780e",
       "metadata": {
@@ -91658,7 +91800,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.9.2-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.9.2-beta/x2wotc.apworld",
       "size": 38691,
       "hash_sha256": "836936e7f17cff417a134df2b5aa8312108e72424e55528be26b3df07ac66612",
       "metadata": {
@@ -91674,7 +91816,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.9.1-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.9.1-beta/x2wotc.apworld",
       "size": 38367,
       "hash_sha256": "d0f24f18ccb75c6df403ecf514b67c12fba6eb3cd61afa609dcafb9722b5d9c4",
       "metadata": {
@@ -91690,7 +91832,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.9.0-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.9.0-beta/x2wotc.apworld",
       "size": 38237,
       "hash_sha256": "a1f7ca97fe205eae37a60f6adbdd7ca4e42700275c611bc81f40ede6290916fb",
       "metadata": {
@@ -91706,7 +91848,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.8.1-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.8.1-beta/x2wotc.apworld",
       "size": 35634,
       "hash_sha256": "379553687052696830d522c7be28e0653211999fd1e2fd37986c7a2ee7c5e951",
       "metadata": {
@@ -91722,7 +91864,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.8.0-beta/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.8.0-beta/x2wotc.apworld",
       "size": 35364,
       "hash_sha256": "a6fc17a95b25550f2cb3b5a97bd92c547d6c3197063b670c673123d5fcebaa9a",
       "metadata": {
@@ -91738,7 +91880,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.7.5-alpha/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.7.5-alpha/x2wotc.apworld",
       "size": 27078,
       "hash_sha256": "44499d9a20e2b7acd46148f8f8a2e31530c66f0febb4c4fd4dbbcc84b9f2676f",
       "metadata": {
@@ -91754,7 +91896,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.7.4-alpha/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.7.4-alpha/x2wotc.apworld",
       "size": 26523,
       "hash_sha256": "bd1adbaf2e3d2240de71dd973cf0c38d552efeb7c3171c134f2da736a5f93ab8",
       "metadata": {
@@ -91770,7 +91912,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.7.3-alpha/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.7.3-alpha/x2wotc.apworld",
       "size": 25174,
       "hash_sha256": "27870da38724ec9da563ee852c9ab02e1ee11d5658139283f20327b7763b18a9",
       "metadata": {
@@ -91786,7 +91928,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.7.2-alpha/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.7.2-alpha/x2wotc.apworld",
       "size": 25191,
       "hash_sha256": "386fa0c4471e9151c6ce8f2892920dc1377d1d9d7808711e884e664bc9d3ee2c",
       "metadata": {
@@ -91802,7 +91944,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.7.1-alpha/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.7.1-alpha/x2wotc.apworld",
       "size": 24997,
       "hash_sha256": "a48a6acba3bf44f55e90c813c0e4bce241b8baef4261403be1ee11179ca4c722",
       "metadata": {
@@ -91818,7 +91960,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.7.0-alpha/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.7.0-alpha/x2wotc.apworld",
       "size": 24961,
       "hash_sha256": "573831e13135e462f20a3a3f9a2a6d59ac480c8829d832a3ac88d5b3a647e767",
       "metadata": {
@@ -91834,7 +91976,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.6.0-alpha/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.6.0-alpha/x2wotc.apworld",
       "size": 24076,
       "hash_sha256": "a2b84a71c26f07a15db16586e7ccf03d8261e33eeda9ecb486725cc19558cb4a",
       "metadata": {
@@ -91850,7 +91992,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.5.0-alpha/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.5.0-alpha/x2wotc.apworld",
       "size": 22696,
       "hash_sha256": "f5576285b957bdac1387997eeaeef0f5ac3f63a2aa56e700741ec95c4d94f654",
       "metadata": {
@@ -91866,7 +92008,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.4.0-alpha/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.4.0-alpha/x2wotc.apworld",
       "size": 19268,
       "hash_sha256": "d22c61795e7c6511556167925635554da7ecd0a00773c469d0d150502b2f2dc6",
       "metadata": {
@@ -91882,7 +92024,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.3.0-alpha/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.3.0-alpha/x2wotc.apworld",
       "size": 18745,
       "hash_sha256": "0d23e60386f12a2b03455d0e2283257103bdc0c79a356087ff113b90e5649c73",
       "metadata": {
@@ -91898,7 +92040,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.2.2-alpha/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.2.2-alpha/x2wotc.apworld",
       "size": 16805,
       "hash_sha256": "445bf0f0ba9ea48bca9f3b4630e73ab0810e1ac57fd592f17d743372ebb6c950",
       "metadata": {
@@ -91914,7 +92056,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.2.1-alpha/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.2.1-alpha/x2wotc.apworld",
       "size": 16278,
       "hash_sha256": "07cb8f483361a04d664ac5e4610fd0a0593d0a83d69e090e0b0b96b5eaa3f86e",
       "metadata": {
@@ -91930,7 +92072,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.2.0-alpha/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.2.0-alpha/x2wotc.apworld",
       "size": 16127,
       "hash_sha256": "bfa89bf2522ad81ed499415eb523a86200e3fb2149b2d0170f1ba27182aa7ffe",
       "metadata": {
@@ -91946,7 +92088,7 @@
       }
     },
     {
-      "world": "https://github.com/MaxReinstadler/X2WOTCArchipelago/releases/download/0.1.0-alpha/x2wotc.apworld",
+      "world": "https://github.com/Snyax/X2WOTCArchipelago/releases/download/0.1.0-alpha/x2wotc.apworld",
       "size": 14000,
       "hash_sha256": "1fe4910f58a3de88c222973f3393170f02b53b8b89a64c441ad8e044cd47108a",
       "metadata": {
