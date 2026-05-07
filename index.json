@@ -589,6 +589,19 @@
       }
     },
     {
+      "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.2.1/albw.apworld",
+      "size": 17017906,
+      "hash_sha256": "e293663af559e2d6bd39dd75237fe9794b61ecb7d6da4b31853809327dcef3da",
+      "metadata": {
+        "game": "",
+        "id": "albw",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-05-05T18:11:50Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.2.0/albw.apworld",
       "size": 16920772,
       "hash_sha256": "c8b00434dcb5f4e279eea269e97f37fe9f6e512e67aed85f5aeec1b19e4412f0",
@@ -933,6 +946,22 @@
     },
     {
       "world": "https://github.com/ScipioWright/Archipelago-SW/releases/download/0.5.4/animal_well.apworld",
+      "size": 81922,
+      "hash_sha256": "838960fdb529d4a9bce36443018f897be50f8a4165b3e38108abd3ed9506b954",
+      "metadata": {
+        "game": "",
+        "id": "animal_well",
+        "world_version": "0.5.4.post2",
+        "tag_version": "0.5.4.post2",
+        "created_at": "2026-05-02T15:01:11Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/ScipioWright/Archipelago-SW/releases/download/0.5.4/animal_well.apworld",
       "size": 81932,
       "hash_sha256": "519b3fe4e56bb3c530efd36e28c015c6f546397d3494dcfc50cd783d35a2bb04",
       "metadata": {
@@ -945,6 +974,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/ScipioWright/Archipelago-SW/releases/download/0.5.3/animal_well.apworld",
+      "size": 81922,
+      "hash_sha256": "838960fdb529d4a9bce36443018f897be50f8a4165b3e38108abd3ed9506b954",
+      "metadata": {
+        "game": "",
+        "id": "animal_well",
+        "world_version": "0.5.4",
+        "tag_version": "0.5.4",
+        "created_at": "2025-06-14T20:56:51Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -16650,6 +16692,23 @@
       }
     },
     {
+      "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.3.2-beta/diceydungeons.apworld",
+      "size": 905969,
+      "hash_sha256": "272864ac08452bfe7e600a527c41aef81b16a4f8b12fb95784e7de8bb7b2dcec",
+      "metadata": {
+        "game": "",
+        "id": "diceydungeons",
+        "world_version": "0.3.2b0",
+        "tag_version": "0.3.2b0",
+        "created_at": "2026-05-07T01:35:37Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "unready",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.3.1-beta/diceydungeons.apworld",
       "size": 901604,
       "hash_sha256": "638b23cbf862d44a63cc956cf1f016cc80a6b58f0ba1295443aca308ad97f8a4",
@@ -19560,6 +19619,22 @@
         "tag_version": "0.1.0",
         "created_at": "2025-06-22T23:22:24Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Str8UpWHITE64/DRAP/releases/download/1.0.1/drdr.apworld",
+      "size": 565311,
+      "hash_sha256": "be3df0dea472657b54b0d1e7f8a65975eba95337db82c6bd3a04d414de21b1e6",
+      "metadata": {
+        "game": "",
+        "id": "drdr",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2026-05-06T15:22:29Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "after_dark"
+        ]
       }
     },
     {
@@ -27805,6 +27880,19 @@
         "tag_version": "0.1.2",
         "created_at": "2024-03-08T02:30:50Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.4/grinch.apworld",
+      "size": 50115,
+      "hash_sha256": "6b1570970dbda101d0045763629baf55b6e38ddc769e3c8e6cc3942da2728649",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.5.4",
+        "tag_version": "1.5.4",
+        "created_at": "2026-05-06T23:53:08Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -39671,6 +39759,22 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/5.0.0-RC1/manual_blocktales_wolfboi008.apworld",
+      "size": 84823,
+      "hash_sha256": "439af78b8dfc96ad061b58b5889ba68b18be8e4746b34ba860b54720268058c5",
+      "metadata": {
+        "game": "",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "5.0.0rc1",
+        "tag_version": "5.0.0rc1",
+        "created_at": "2026-05-06T07:50:32Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/4.2.3/manual_blocktales_wolfboi008.apworld",
       "size": 82698,
       "hash_sha256": "a1f8a6639b89a25215142b7327ee7eb8a4b4a9f1d86d084461f2fe9fec5ca4b9",
@@ -47214,6 +47318,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.5.0B/megamix.apworld",
+      "size": 37680,
+      "hash_sha256": "21da8182df909d1d2a0e9893852a38ffa73b499c74d98a24711008ae37f62803",
+      "metadata": {
+        "game": "",
+        "id": "megamix",
+        "world_version": "1.5.0b0",
+        "tag_version": "1.5.0b0",
+        "created_at": "2026-05-07T01:36:49Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -73626,6 +73743,22 @@
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.7/sm64hacks.apworld",
+      "size": 296116,
+      "hash_sha256": "a68bca05319c1364f2f356bc32ce286ffd188faff2f51a0d4f2d25e59c0d7e36",
+      "metadata": {
+        "game": "",
+        "id": "sm64hacks",
+        "world_version": "1.1.7",
+        "tag_version": "1.1.7",
+        "created_at": "2026-05-07T02:18:01Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
         ]
       }
     },
