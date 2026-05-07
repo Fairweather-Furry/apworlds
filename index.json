@@ -961,6 +961,19 @@
       }
     },
     {
+      "world": "https://github.com/ScipioWright/Archipelago-SW/releases/download/0.5.3/animal_well.apworld",
+      "size": 81922,
+      "hash_sha256": "838960fdb529d4a9bce36443018f897be50f8a4165b3e38108abd3ed9506b954",
+      "metadata": {
+        "game": "",
+        "id": "animal_well",
+        "world_version": "0.5.4",
+        "tag_version": "0.5.4",
+        "created_at": "2025-06-14T20:56:51Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/ScipioWright/Archipelago-SW/releases/download/0.5.4/animal_well.apworld",
       "size": 81932,
       "hash_sha256": "519b3fe4e56bb3c530efd36e28c015c6f546397d3494dcfc50cd783d35a2bb04",
@@ -974,19 +987,6 @@
         "flags": [
           "prerelease"
         ]
-      }
-    },
-    {
-      "world": "https://github.com/ScipioWright/Archipelago-SW/releases/download/0.5.3/animal_well.apworld",
-      "size": 81922,
-      "hash_sha256": "838960fdb529d4a9bce36443018f897be50f8a4165b3e38108abd3ed9506b954",
-      "metadata": {
-        "game": "",
-        "id": "animal_well",
-        "world_version": "0.5.4",
-        "tag_version": "0.5.4",
-        "created_at": "2025-06-14T20:56:51Z",
-        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -7708,6 +7708,22 @@
         "tag_version": "0.1.0",
         "created_at": "2025-03-14T20:26:20Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-77/borderlands2.apworld",
+      "size": 130008,
+      "hash_sha256": "7ae8cde182c2e665a0bbe1e54ba007de6980f366faa71c56c068e668aa98a53d",
+      "metadata": {
+        "game": "",
+        "id": "borderlands2",
+        "world_version": "77",
+        "tag_version": "77",
+        "created_at": "2026-05-07T02:25:51Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -37663,6 +37679,23 @@
       }
     },
     {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0/lor.apworld",
+      "size": 29183,
+      "hash_sha256": "cdc16171a55620e1a94e795d5f009f557dc41e1b8ca05c648d2b00cae16b0c16",
+      "metadata": {
+        "game": "",
+        "id": "lor",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-05-07T12:14:10Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v0.3.1/lor.apworld",
       "size": 111900,
       "hash_sha256": "b6c913965dd7c639c460393d84228d6e0cefdc75c7f893aacbf2257b7a731eac",
@@ -53289,6 +53322,18 @@
           "after_dark",
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.4.1/okamihd.apworld",
+      "size": 46190,
+      "hash_sha256": "128d32ba06f0ff9a82234cdf1a1437e51e1697704d3566572fc05feef316f9af",
+      "metadata": {
+        "game": "",
+        "id": "okamihd",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2026-05-07T11:00:53Z"
       }
     },
     {
@@ -85325,6 +85370,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.6/tloz_st.apworld",
+      "size": 356859,
+      "hash_sha256": "458e103dd874f59aaa414f3925252f6754e4b52634b6c28d9c5fb039b2edb678",
+      "metadata": {
+        "game": "",
+        "id": "tloz_st",
+        "world_version": "0.7.6",
+        "tag_version": "0.7.6",
+        "created_at": "2026-05-07T13:29:27Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {
