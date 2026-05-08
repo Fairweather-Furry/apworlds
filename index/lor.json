@@ -13,6 +13,7 @@
       "download_url": "https://github.com/Az-LastPenguin/LORAP/releases/download/v0.1/lor.apworld",
       "has_manifest": false,
       "hash_sha256": "d81fc6ceca6daf8233e25b5dc070ce64794101f2f66c878b3070bfb2a23071df",
+      "maximum_ap_version": "0.6.99",
       "prerelease": true,
       "size": 10075,
       "source_url": "https://api.github.com/repos/Az-LastPenguin/LORAP",
@@ -26,6 +27,7 @@
       "download_url": "https://github.com/Az-LastPenguin/LORAP/releases/download/v0.1.1/lor.apworld",
       "has_manifest": false,
       "hash_sha256": "2af62cd0bcab4e523d919e71c5fb3e5f2c9ff6516e7b946fcbf3277a2701cfb5",
+      "maximum_ap_version": "0.6.99",
       "prerelease": true,
       "size": 10085,
       "source_url": "https://api.github.com/repos/Az-LastPenguin/LORAP",
@@ -39,6 +41,7 @@
       "download_url": "https://github.com/Az-LastPenguin/LORAP/releases/download/v0.2/lor.apworld",
       "has_manifest": false,
       "hash_sha256": "a0e039e7a4394a71739fc1c300b73ddd10c3dcff75d6b48a22b53336228a0943",
+      "maximum_ap_version": "0.6.99",
       "prerelease": true,
       "size": 10776,
       "source_url": "https://api.github.com/repos/Az-LastPenguin/LORAP",
@@ -52,6 +55,7 @@
       "download_url": "https://github.com/Az-LastPenguin/LORAP/releases/download/v0.3/lor.apworld",
       "has_manifest": false,
       "hash_sha256": "be68ba125a5234f86d127baf95360c620e693d551d27baafe884cf204df164fb",
+      "maximum_ap_version": "0.6.99",
       "size": 14499,
       "source_url": "https://api.github.com/repos/Az-LastPenguin/LORAP",
       "tag": "v0.3",
@@ -63,6 +67,7 @@
       "created_at": "2025-03-16T10:17:16Z",
       "download_url": "https://github.com/Az-LastPenguin/LORAP/releases/download/v0.3.1/lor.apworld",
       "hash_sha256": "568e9e426e97b289d2e2322950c67a64e632b92e3470fbdedb801aa5e7560e98",
+      "maximum_ap_version": "0.6.99",
       "size": 83631,
       "source_url": "https://api.github.com/repos/Az-LastPenguin/LORAP",
       "tag": "v0.3.1",
@@ -75,6 +80,7 @@
       "download_url": "https://github.com/Az-LastPenguin/LORAP/releases/download/v0.3.1/lor.apworld",
       "has_manifest": false,
       "hash_sha256": "b6c913965dd7c639c460393d84228d6e0cefdc75c7f893aacbf2257b7a731eac",
+      "maximum_ap_version": "0.6.99",
       "size": 111900,
       "source_url": "https://api.github.com/repos/Az-LastPenguin/LORAP",
       "tag": "v0.3.1r2",
@@ -82,18 +88,33 @@
       "version_simple": "0.3.1",
       "world_version": "0.3.1.post2"
     },
-    "v1.0.0": {
+    "v1.0.0-alpha": {
       "created_at": "2026-05-07T12:14:10Z",
-      "download_url": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0/lor.apworld",
+      "download_url": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-alpha/lor.apworld",
       "has_manifest": false,
       "hash_sha256": "cdc16171a55620e1a94e795d5f009f557dc41e1b8ca05c648d2b00cae16b0c16",
+      "maximum_ap_version": "0.6.99",
       "prerelease": true,
       "size": 29183,
       "source_url": "https://api.github.com/repos/Az-LastPenguin/LORAP",
-      "tag": "v1.0.0",
+      "tag": "v1.0.0-alpha",
       "title": "v1.0.0-alpha",
       "version_simple": "1.0.0",
-      "world_version": "1.0.0"
+      "world_version": "1.0.0a0"
+    },
+    "v1.0.0-beta": {
+      "created_at": "2025-08-31T19:35:32Z",
+      "download_url": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-beta/lor.apworld",
+      "has_manifest": false,
+      "hash_sha256": "cdc16171a55620e1a94e795d5f009f557dc41e1b8ca05c648d2b00cae16b0c16",
+      "maximum_ap_version": "0.6.99",
+      "prerelease": true,
+      "size": 29183,
+      "source_url": "https://api.github.com/repos/Az-LastPenguin/LORAP",
+      "tag": "v1.0.0-beta",
+      "title": "v1.0.0-beta",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0b0"
     }
   }
 }

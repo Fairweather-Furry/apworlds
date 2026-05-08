@@ -129,6 +129,18 @@
       "title": "Hollywood!",
       "version_simple": "2.2.0",
       "world_version": "2.2.0"
+    },
+    "2.3.0": {
+      "created_at": "2026-05-08T09:44:39Z",
+      "download_url": "https://github.com/energymaster22/walkabout-mini-golf-ap-manual/releases/download/2.3.0/manual_walkabout_musicblox.apworld",
+      "has_manifest": false,
+      "hash_sha256": "d8af8609e2c76ff618dfa66f0de704ef6bde59015d3d7cb7a0e8457fe5f28982",
+      "size": 63527,
+      "source_url": "https://api.github.com/repos/energymaster22/walkabout-mini-golf-ap-manual",
+      "tag": "2.3.0",
+      "title": "Blokhaven!",
+      "version_simple": "2.3.0",
+      "world_version": "2.3.0"
     }
   }
 }

@@ -3112,6 +3112,18 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.25/apworld_manager.apworld",
+      "size": 542215,
+      "hash_sha256": "c6608c3b5d48302bf05124072b23029c930b6a8c6d08e79479c1917925fd7762",
+      "metadata": {
+        "game": "",
+        "id": "apworld_manager",
+        "world_version": "0.0.25",
+        "tag_version": "0.0.25",
+        "created_at": "2026-05-08T09:15:00Z"
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.24/apworld_manager.apworld",
       "size": 542271,
       "hash_sha256": "385ee3b1336d8acc972425c4c62e368b544d7b63393927553f9178ab07399c99",
@@ -20308,6 +20320,22 @@
       }
     },
     {
+      "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.1.1.0/dsr.apworld",
+      "size": 52687,
+      "hash_sha256": "939a6eb58b9a7b817efed5fb77c7adae72fee694a5423df921984aa046dcdf1d",
+      "metadata": {
+        "game": "",
+        "id": "dsr",
+        "world_version": "0.1.1",
+        "tag_version": "0.1.1",
+        "created_at": "2026-05-08T07:48:46Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.1.0.0/dsr.apworld",
       "size": 52393,
       "hash_sha256": "17107b2e02df7d5cb6fa1ed0addebd301d124246c2b0d7a294d08ed6b815a5ee",
@@ -20324,22 +20352,6 @@
       }
     },
     {
-      "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.1.0.2/dsr.apworld",
-      "size": 52729,
-      "hash_sha256": "534a58330279f4c05ec5f81727d8684a515c84b2e761b276c4494ac1d3c0f751",
-      "metadata": {
-        "game": "",
-        "id": "dsr",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2026-05-07T16:15:00Z",
-        "minimum_ap_version": "0.6.4",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.1.0.1/dsr.apworld",
       "size": 52729,
       "hash_sha256": "e7fc13aa1f5d8797df21d4a6fa987b3a0e95e961223d1c2025123187ae20101a",
@@ -20349,6 +20361,22 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2026-05-07T15:25:41Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/ArsonAssassin/DSAP/releases/download/0.1.0.2/dsr.apworld",
+      "size": 52729,
+      "hash_sha256": "534a58330279f4c05ec5f81727d8684a515c84b2e761b276c4494ac1d3c0f751",
+      "metadata": {
+        "game": "",
+        "id": "dsr",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2026-05-07T16:15:00Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
@@ -25136,6 +25164,19 @@
         "tag_version": "0.0.1",
         "created_at": "2023-11-27T18:36:53Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.28.1/ffxiv.apworld",
+      "size": 137420,
+      "hash_sha256": "f2cfb228bb56e83f8d7b0f20d8f1f50a6ff6ecea5f4924da9954e4ce84558e08",
+      "metadata": {
+        "game": "",
+        "id": "ffxiv",
+        "world_version": "0.28.1",
+        "tag_version": "0.28.1",
+        "created_at": "2026-05-08T04:12:16Z",
+        "minimum_ap_version": "0.6.2"
       }
     },
     {
@@ -37769,6 +37810,40 @@
       }
     },
     {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-beta/lor.apworld",
+      "size": 29183,
+      "hash_sha256": "cdc16171a55620e1a94e795d5f009f557dc41e1b8ca05c648d2b00cae16b0c16",
+      "metadata": {
+        "game": "",
+        "id": "lor",
+        "world_version": "1.0.0b0",
+        "tag_version": "1.0.0b0",
+        "created_at": "2025-08-31T19:35:32Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-alpha/lor.apworld",
+      "size": 29183,
+      "hash_sha256": "cdc16171a55620e1a94e795d5f009f557dc41e1b8ca05c648d2b00cae16b0c16",
+      "metadata": {
+        "game": "",
+        "id": "lor",
+        "world_version": "1.0.0a0",
+        "tag_version": "1.0.0a0",
+        "created_at": "2026-05-07T12:14:10Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v0.3.1/lor.apworld",
       "size": 111900,
       "hash_sha256": "b6c913965dd7c639c460393d84228d6e0cefdc75c7f893aacbf2257b7a731eac",
@@ -45419,6 +45494,19 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2024-11-27T06:44:41Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/energymaster22/walkabout-mini-golf-ap-manual/releases/download/2.3.0/manual_walkabout_musicblox.apworld",
+      "size": 63527,
+      "hash_sha256": "d8af8609e2c76ff618dfa66f0de704ef6bde59015d3d7cb7a0e8457fe5f28982",
+      "metadata": {
+        "game": "",
+        "id": "manual_walkabout_musicblox",
+        "world_version": "2.3.0",
+        "tag_version": "2.3.0",
+        "created_at": "2026-05-08T09:44:39Z",
         "maximum_ap_version": "0.6.99"
       }
     },
