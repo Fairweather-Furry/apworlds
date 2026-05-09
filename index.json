@@ -2265,6 +2265,19 @@
       }
     },
     {
+      "world": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.9.7/apeescape.apworld",
+      "size": 708774,
+      "hash_sha256": "a38de3a3bf15de6f009b17fa6ca74c08ab079e20a000849e0e4d6b69c6affa2e",
+      "metadata": {
+        "game": "",
+        "id": "apeescape",
+        "world_version": "0.9.7",
+        "tag_version": "0.9.7",
+        "created_at": "2026-05-09T02:21:24Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.9.6/apeescape.apworld",
       "size": 659991,
       "hash_sha256": "344f14455bf011f6ac478a92327bcbc7fdb98c723a869bc76a51e7baf0b73723",
@@ -12561,6 +12574,19 @@
       }
     },
     {
+      "world": "https://github.com/Cyb3RGER/cornkidz64_apworld/releases/download/v0.0.7/cornkidz64.apworld",
+      "size": 29031,
+      "hash_sha256": "f163217ba1789c3b1fca5f67246800ab4209ce7262b95c5fa5929c06688488ba",
+      "metadata": {
+        "game": "",
+        "id": "cornkidz64",
+        "world_version": "0.0.7",
+        "tag_version": "0.0.7",
+        "created_at": "2026-05-08T18:18:54Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Cyb3RGER/cornkidz64_apworld/releases/download/v0.0.6/cornkidz64.apworld",
       "size": 29032,
       "hash_sha256": "e047b1ad9286570a273adf9bf4a64c87c414225a5fbc2eecdf73fc0d29972d14",
@@ -14619,6 +14645,22 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/adpreview03f/cuphead.apworld",
+      "size": 48506,
+      "hash_sha256": "f805ab41525baa40667718863d3f14e89b33ef044469165f6b033df1f6de93c4",
+      "metadata": {
+        "game": "",
+        "id": "cuphead",
+        "world_version": "3",
+        "tag_version": "3",
+        "created_at": "2025-04-21T06:17:17Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02d/cuphead.apworld",
       "size": 71925,
       "hash_sha256": "cf5e10ab5661a0f0f8f114ca0646aed244a14b28b100f7389f906da5be0b2e2d",
@@ -14720,6 +14762,22 @@
         "tag_version": "2",
         "created_at": "2026-01-03T23:35:41Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/adpreview02j/cuphead.apworld",
+      "size": 38778,
+      "hash_sha256": "df83b4dc8145df90b97bc46e92abf536d3989d678de1629f8b3df45c1163c412",
+      "metadata": {
+        "game": "",
+        "id": "cuphead",
+        "world_version": "2",
+        "tag_version": "2",
+        "created_at": "2025-03-08T22:22:39Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -14849,6 +14907,22 @@
         "world_version": "1a0",
         "tag_version": "1a0",
         "created_at": "2024-08-27T16:53:29Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/adpreview01a/cuphead.apworld",
+      "size": 32691,
+      "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
+      "metadata": {
+        "game": "",
+        "id": "cuphead",
+        "world_version": "1a0",
+        "tag_version": "1a0",
+        "created_at": "2024-08-10T02:07:17Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -28001,6 +28075,19 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.5/grinch.apworld",
+      "size": 50130,
+      "hash_sha256": "1b2d9512fe91a3e2d89f15f61549162c135f9b8bf9a121cd996a233eb7a4624d",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.5.5",
+        "tag_version": "1.5.5",
+        "created_at": "2026-05-08T20:33:24Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.4/grinch.apworld",
       "size": 50115,
       "hash_sha256": "6b1570970dbda101d0045763629baf55b6e38ddc769e3c8e6cc3942da2728649",
@@ -37793,23 +37880,6 @@
       }
     },
     {
-      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0/lor.apworld",
-      "size": 29183,
-      "hash_sha256": "cdc16171a55620e1a94e795d5f009f557dc41e1b8ca05c648d2b00cae16b0c16",
-      "metadata": {
-        "game": "",
-        "id": "lor",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2026-05-07T12:14:10Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "after_dark",
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-beta/lor.apworld",
       "size": 29183,
       "hash_sha256": "cdc16171a55620e1a94e795d5f009f557dc41e1b8ca05c648d2b00cae16b0c16",
@@ -44373,6 +44443,19 @@
       }
     },
     {
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.1.1/manual_residentevil4_vincentssin.apworld",
+      "size": 92816,
+      "hash_sha256": "106a989e9c88ebb7711fd35df54a61139957f362cef15429c7fd063e49ddd34d",
+      "metadata": {
+        "game": "",
+        "id": "manual_residentevil4_vincentssin",
+        "world_version": "2.1.1",
+        "tag_version": "2.1.1",
+        "created_at": "2026-05-03T18:27:57Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.1.0/manual_residentevil4_vincentssin.apworld",
       "size": 92806,
       "hash_sha256": "29ce9fe7aa4f5290bf46b7c3c54592b5b6ba9bed7dbd50cfbceefa490b2062e4",
@@ -50905,6 +50988,19 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-08-19T18:28:44Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.2.3/mmzero3.apworld",
+      "size": 45524,
+      "hash_sha256": "8e868d5d6038cc97742fbf76f2eef7ef5841eba133912cf710f5cf686872a8a7",
+      "metadata": {
+        "game": "",
+        "id": "mmzero3",
+        "world_version": "0.2.3",
+        "tag_version": "0.2.3",
+        "created_at": "2026-05-09T00:31:48Z",
         "maximum_ap_version": "0.6.99"
       }
     },
