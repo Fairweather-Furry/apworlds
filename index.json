@@ -14661,6 +14661,22 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/adpreview02j/cuphead.apworld",
+      "size": 38778,
+      "hash_sha256": "df83b4dc8145df90b97bc46e92abf536d3989d678de1629f8b3df45c1163c412",
+      "metadata": {
+        "game": "",
+        "id": "cuphead",
+        "world_version": "2",
+        "tag_version": "2",
+        "created_at": "2025-03-08T22:22:39Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha02d/cuphead.apworld",
       "size": 71925,
       "hash_sha256": "cf5e10ab5661a0f0f8f114ca0646aed244a14b28b100f7389f906da5be0b2e2d",
@@ -14762,22 +14778,6 @@
         "tag_version": "2",
         "created_at": "2026-01-03T23:35:41Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/adpreview02j/cuphead.apworld",
-      "size": 38778,
-      "hash_sha256": "df83b4dc8145df90b97bc46e92abf536d3989d678de1629f8b3df45c1163c412",
-      "metadata": {
-        "game": "",
-        "id": "cuphead",
-        "world_version": "2",
-        "tag_version": "2",
-        "created_at": "2025-03-08T22:22:39Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -14898,22 +14898,6 @@
       }
     },
     {
-      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview01a/cuphead.apworld",
-      "size": 32691,
-      "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
-      "metadata": {
-        "game": "",
-        "id": "cuphead",
-        "world_version": "1a0",
-        "tag_version": "1a0",
-        "created_at": "2024-08-27T16:53:29Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/adpreview01a/cuphead.apworld",
       "size": 32691,
       "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
@@ -14923,6 +14907,22 @@
         "world_version": "1a0",
         "tag_version": "1a0",
         "created_at": "2024-08-10T02:07:17Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/preview01a/cuphead.apworld",
+      "size": 32691,
+      "hash_sha256": "ec601d76a3ee3bcb16a06d64205914a45895be74ba9dc690d4cd5ba27e5199de",
+      "metadata": {
+        "game": "",
+        "id": "cuphead",
+        "world_version": "1a0",
+        "tag_version": "1a0",
+        "created_at": "2024-08-27T16:53:29Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -30318,6 +30318,22 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2025-11-22T02:34:22Z"
+      }
+    },
+    {
+      "world": "https://github.com/BenDipp/Archipelago/releases/download/0.8.0/hitman_woa.apworld",
+      "size": 7712351,
+      "hash_sha256": "b435b425159a102407174a331b471b4a681701aa378b858bc5992b13a111bf97",
+      "metadata": {
+        "game": "",
+        "id": "hitman_woa",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-05-08T22:23:57Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "after_dark"
+        ]
       }
     },
     {
@@ -53595,6 +53611,18 @@
           "after_dark",
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.4.2/okamihd.apworld",
+      "size": 46767,
+      "hash_sha256": "4661c22d8c4459dcefc7194b8b52861e76e902270baafe7b5c031934acf27d27",
+      "metadata": {
+        "game": "",
+        "id": "okamihd",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-05-09T12:29:58Z"
       }
     },
     {
