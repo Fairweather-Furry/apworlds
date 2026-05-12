@@ -28225,6 +28225,19 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.6/grinch.apworld",
+      "size": 50303,
+      "hash_sha256": "d102913275ce8f6b1bee0e5006f587a9a96da25c7fbef5400fc4c0d2cedd33fe",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.5.6",
+        "tag_version": "1.5.6",
+        "created_at": "2026-05-12T03:36:15Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.5/grinch.apworld",
       "size": 50130,
       "hash_sha256": "1b2d9512fe91a3e2d89f15f61549162c135f9b8bf9a121cd996a233eb7a4624d",
@@ -89307,6 +89320,18 @@
         "tag_version": "0.1.0",
         "created_at": "2025-02-02T11:21:17Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.5.2/ultrakill.apworld",
+      "size": 47852,
+      "hash_sha256": "72e3c2a161d6dd1597e770efe8be61cc86cde54c6c1e6a4d4194410a90bc198c",
+      "metadata": {
+        "game": "",
+        "id": "ultrakill",
+        "world_version": "3.5.2",
+        "tag_version": "3.5.2",
+        "created_at": "2026-05-12T03:24:12Z"
       }
     },
     {
