@@ -7804,6 +7804,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-80/borderlands2.apworld",
+      "size": 109435,
+      "hash_sha256": "842d59d81dafd6de2d138105a14e4270b3e3a45d72cd55595b2b98ff55e1c7cb",
+      "metadata": {
+        "game": "",
+        "id": "borderlands2",
+        "world_version": "80",
+        "tag_version": "80",
+        "created_at": "2026-05-13T03:45:57Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-79/borderlands2.apworld",
       "size": 69750,
       "hash_sha256": "73a24ee8d0a3da22924dbde4c6871c5a2a3d09fda84d33f16a01b2e7643128c1",
