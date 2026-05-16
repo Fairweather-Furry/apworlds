@@ -15337,6 +15337,19 @@
       }
     },
     {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0.3/cv_dos.apworld",
+      "size": 92369,
+      "hash_sha256": "fb05c3dea69f3ae31c31979b3c4c16ca392e578642e470874691664c927bc15d",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "2.0.2",
+        "tag_version": "2.0.2",
+        "created_at": "2026-04-29T20:29:41Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos2.0.1/cv_dos.apworld",
       "size": 91800,
       "hash_sha256": "3a2c377cfb895566e61698059b076b8a6fd127de3967322db1e11f4c5b44849d",
@@ -65697,6 +65710,18 @@
       }
     },
     {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.3.0/rabbit_and_steel.apworld",
+      "size": 24718,
+      "hash_sha256": "50dd70a1ed099f514cadbe78b363f16fe1ce80c91d5998f7cdb1410b7d54ac03",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-05-16T03:21:11Z"
+      }
+    },
+    {
       "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.2.9-fix/rabbit_and_steel.apworld",
       "size": 15593,
       "hash_sha256": "68a8aa13d2d65382594feaaeea7915551381514b4ac6eeceb3185805d9e39353",
@@ -82472,6 +82497,22 @@
         "tag_version": "0.0.7",
         "created_at": "2023-10-22T16:31:44Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/FyreDay/Archipelago-TCGCardShopSimulator/releases/download/v1.0.0-Pre2/tcg_card_shop_simulator.apworld",
+      "size": 88089,
+      "hash_sha256": "34c4fe0fd98e94112078278fab75e7b59bfe2b022640e77fdfb1fc535164fa52",
+      "metadata": {
+        "game": "",
+        "id": "tcg_card_shop_simulator",
+        "world_version": "1.0.0.post2",
+        "tag_version": "1.0.0.post2",
+        "created_at": "2026-05-15T20:29:31Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
