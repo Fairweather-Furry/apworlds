@@ -51437,6 +51437,19 @@
       }
     },
     {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.2.5/mmzero3.apworld",
+      "size": 48462,
+      "hash_sha256": "21053b4bc6a55b6534af63029c8a498522a0e8e9f3c4df5d93ae36d9f0af20e2",
+      "metadata": {
+        "game": "",
+        "id": "mmzero3",
+        "world_version": "0.2.5",
+        "tag_version": "0.2.5",
+        "created_at": "2026-05-16T00:48:15Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.2.4/mmzero3.apworld",
       "size": 46385,
       "hash_sha256": "3db9468b2c051fa1e5bccbdf34768350cae7d8ac8a79fed961223c42321b47e3",
@@ -82462,6 +82475,22 @@
       }
     },
     {
+      "world": "https://github.com/FyreDay/Archipelago-TCGCardShopSimulator/releases/download/v1.0.0-Pre2/tcg_card_shop_simulator.apworld",
+      "size": 88101,
+      "hash_sha256": "cef6c78554addd8744f28ecf3690d42e7159b8a6326d4a77f61fc1677782c6e5",
+      "metadata": {
+        "game": "",
+        "id": "tcg_card_shop_simulator",
+        "world_version": "1.0.0rc2",
+        "tag_version": "1.0.0rc2",
+        "created_at": "2026-05-15T20:29:31Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/FyreDay/Archipelago-TCGCardShopSimulator/releases/download/v1.0.0-Pre1/tcg_card_shop_simulator.apworld",
       "size": 87953,
       "hash_sha256": "04d267c7a195a02a4b50bc8bcb5cf5da0fd3aaea1080c0e23db37f802919a950",
@@ -85736,6 +85765,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.3-alpha/tloz_ph.apworld",
+      "size": 2585990,
+      "hash_sha256": "fd8d8b3d1ec904a64dcc5735a811dc1ef6d5009560832a76e60db562d409a4d9",
+      "metadata": {
+        "game": "",
+        "id": "tloz_ph",
+        "world_version": "0.9.3a0",
+        "tag_version": "0.9.3a0",
+        "created_at": "2026-05-15T21:36:02Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.2-alpha/tloz_ph.apworld",
       "size": 2584314,
       "hash_sha256": "b59752b7784a1d88a113161c39a4ac12d360928d82e31435f0a557cae6c42dc6",
@@ -86283,6 +86325,19 @@
         "world_version": "0.7.6",
         "tag_version": "0.7.6",
         "created_at": "2026-05-07T13:29:27Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.7/tloz_st.apworld",
+      "size": 357203,
+      "hash_sha256": "ecb09eb8e705e0661263f6483e839a80e2e0c1f94f69f7cd58c1b0b64c8f903e",
+      "metadata": {
+        "game": "",
+        "id": "tloz_st",
+        "world_version": "0.7.6",
+        "tag_version": "0.7.6",
+        "created_at": "2026-05-15T14:42:21Z",
         "minimum_ap_version": "0.6.0"
       }
     },
