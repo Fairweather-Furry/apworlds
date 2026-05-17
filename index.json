@@ -2278,6 +2278,19 @@
       }
     },
     {
+      "world": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.9.9/apeescape.apworld",
+      "size": 426723,
+      "hash_sha256": "0c9bef72fa1e1ced41d14f4a77ed7393d99c71debf6471233b18ecdfab88d72f",
+      "metadata": {
+        "game": "",
+        "id": "apeescape",
+        "world_version": "0.9.9",
+        "tag_version": "0.9.9",
+        "created_at": "2026-05-16T22:17:41Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Thedragon005/Archipelago-Ape-Escape/releases/download/v0.9.8/apeescape.apworld",
       "size": 715795,
       "hash_sha256": "aabbc3c05989d655db38e034a23304f394ec7e6203c4ec0f4b9e4ee66c7426c5",
@@ -15947,6 +15960,19 @@
       }
     },
     {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.5.0/dc1.apworld",
+      "size": 90477,
+      "hash_sha256": "a99dcc31992c5b1d90ae3aa31232c77e3bbcd9ca38daee06efd03ed6fb5640d1",
+      "metadata": {
+        "game": "",
+        "id": "dc1",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-05-16T13:25:07Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.4.4/dc1.apworld",
       "size": 81791,
       "hash_sha256": "2b460300b36a90c94557a17d30efad6f15731b6d0cd9ec28b83e5a490e7bb554",
@@ -25769,6 +25795,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.1.5/flipwitch.apworld",
+      "size": 71038,
+      "hash_sha256": "3279fe0c92a633eb43440f9725049ed2412096ec4e9fedb0674f28aab77aae6c",
+      "metadata": {
+        "game": "",
+        "id": "flipwitch",
+        "world_version": "1.1.5",
+        "tag_version": "1.1.5",
+        "created_at": "2026-05-16T17:42:26Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.1.4/flipwitch.apworld",
       "size": 70966,
       "hash_sha256": "0b925e2b9de1440feee907c9f4e55621f5df4f72b4ae662ce9bd80643337355c",
@@ -30876,6 +30917,21 @@
         "flags": [
           "after_dark",
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/qwint/Archipelago/releases/download/1.1.1/hk.apworld",
+      "size": 251757,
+      "hash_sha256": "7acb7f4208b6da81b9cc8a9a57e6611a534ea938d15210a9bbbb9031ce11bf62",
+      "metadata": {
+        "game": "",
+        "id": "hk",
+        "world_version": "1.1.1",
+        "tag_version": "1.1.1",
+        "created_at": "2026-05-15T16:52:52Z",
+        "flags": [
+          "unready"
         ]
       }
     },
@@ -38288,6 +38344,23 @@
         "world_version": "1.0.0.post2",
         "tag_version": "1.0.0.post2",
         "created_at": "2025-08-31T19:35:32Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-gamma/lor.apworld",
+      "size": 25659,
+      "hash_sha256": "8a1776c307056b186ab29c6f123796361219aafe408d123f71cdf3fb2104abd8",
+      "metadata": {
+        "game": "",
+        "id": "lor",
+        "world_version": "1.0.0.post2",
+        "tag_version": "1.0.0.post2",
+        "created_at": "2026-05-13T18:32:31Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "after_dark",
@@ -65707,6 +65780,18 @@
         "flags": [
           "after_dark"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.3.0/rabbit_and_steel.apworld",
+      "size": 24754,
+      "hash_sha256": "e23181340915f16110ba2d3de1404f0efec4fd8bfea70e34f3205c4acb93061f",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.3.0.post2",
+        "tag_version": "0.3.0.post2",
+        "created_at": "2026-05-16T03:21:11Z"
       }
     },
     {
