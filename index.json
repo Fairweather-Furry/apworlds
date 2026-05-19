@@ -7830,6 +7830,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-84/borderlands2.apworld",
+      "size": 58867,
+      "hash_sha256": "7faf66944f38966438f7ab17fedf37dbafd5409b2a0f56e8ef6269ff32ab3186",
+      "metadata": {
+        "game": "",
+        "id": "borderlands2",
+        "world_version": "84",
+        "tag_version": "84",
+        "created_at": "2026-05-19T02:34:09Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-83/borderlands2.apworld",
       "size": 58656,
       "hash_sha256": "5ae1b1ff614b99eb609ac5b987cc6139917ada3ce68b546c426858627320ceb5",
@@ -30797,6 +30813,22 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2025-11-22T02:34:22Z"
+      }
+    },
+    {
+      "world": "https://github.com/BenDipp/Archipelago/releases/download/0.8.2/hitman_woa.apworld",
+      "size": 7712798,
+      "hash_sha256": "465ff087daa19abe46eb6e56c7a2f0c6ab1ee0ed566e7e80aaa7e9cfdb4175bc",
+      "metadata": {
+        "game": "",
+        "id": "hitman_woa",
+        "world_version": "0.8.2",
+        "tag_version": "0.8.2",
+        "created_at": "2026-05-19T12:24:10Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "after_dark"
+        ]
       }
     },
     {
@@ -58462,6 +58494,18 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.6.4/plateup.apworld",
+      "size": 34694,
+      "hash_sha256": "b6aa818019f92f7793a943579bc67878ef5e16231fc54724d773c5b15d4d92b1",
+      "metadata": {
+        "game": "",
+        "id": "plateup",
+        "world_version": "0.2.6.4",
+        "tag_version": "0.2.6.4",
+        "created_at": "2026-05-19T09:09:02Z"
+      }
+    },
+    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.6.3/plateup.apworld",
       "size": 34510,
       "hash_sha256": "4cdabb7a1afbb3adb3da2da4a86d48a7696ac7d880110527e7173b30960eff92",
@@ -68623,6 +68667,21 @@
         "world_version": "0.3.4",
         "tag_version": "0.3.4",
         "created_at": "2026-04-28T19:45:50Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.3.5/residentevil7biohazard.apworld",
+      "size": 30395,
+      "hash_sha256": "9e702f04cfff607af8091fb849c0bb5c88c9f55f678777d1480f059bf4f6a0b5",
+      "metadata": {
+        "game": "",
+        "id": "residentevil7biohazard",
+        "world_version": "0.3.4",
+        "tag_version": "0.3.4",
+        "created_at": "2026-05-19T13:14:36Z",
         "flags": [
           "after_dark"
         ]
