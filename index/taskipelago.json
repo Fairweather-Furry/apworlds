@@ -160,6 +160,30 @@
       "title": "v0.8",
       "version_simple": "0.8",
       "world_version": "0.8"
+    },
+    "v0.8.1": {
+      "created_at": "2026-05-19T22:31:23Z",
+      "download_url": "https://github.com/barretg/Taskipelago/releases/download/v0.8.1/taskipelago.apworld",
+      "has_manifest": false,
+      "hash_sha256": "0a23ba2b2d22b6c2b5fc907994ee9da03d651557756d1f2d926726fc9dc0e82d",
+      "size": 39396,
+      "source_url": "https://api.github.com/repos/barretg/Taskipelago",
+      "tag": "v0.8.1",
+      "title": "Taskipelago/Taskipelabingo v0.8.1",
+      "version_simple": "0.8.1",
+      "world_version": "0.8.1"
+    },
+    "v0.8.2": {
+      "created_at": "2026-05-20T02:54:10Z",
+      "download_url": "https://github.com/barretg/Taskipelago/releases/download/v0.8.2/taskipelago.apworld",
+      "has_manifest": false,
+      "hash_sha256": "d7a6dc1b2172b77d6a95a5b1a37274d52843f9c0f629407650ec1eb4b1e5416d",
+      "size": 39605,
+      "source_url": "https://api.github.com/repos/barretg/Taskipelago",
+      "tag": "v0.8.2",
+      "title": "Taskipelago/Taskipelabingo v0.8.2",
+      "version_simple": "0.8.2",
+      "world_version": "0.8.2"
     }
   }
 }
