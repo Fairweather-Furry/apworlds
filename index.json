@@ -38568,23 +38568,6 @@
       }
     },
     {
-      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-gamma/lor.apworld",
-      "size": 25615,
-      "hash_sha256": "49c786c6f6f7a853a069fedb0750b607e2115dae2f369f6239dcc7475b49935c",
-      "metadata": {
-        "game": "",
-        "id": "lor",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2026-05-13T18:32:31Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "after_dark",
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-delta/lor.apworld",
       "size": 25659,
       "hash_sha256": "8a1776c307056b186ab29c6f123796361219aafe408d123f71cdf3fb2104abd8",
@@ -38594,6 +38577,23 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2026-05-20T10:07:38Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-gamma/lor.apworld",
+      "size": 25615,
+      "hash_sha256": "49c786c6f6f7a853a069fedb0750b607e2115dae2f369f6239dcc7475b49935c",
+      "metadata": {
+        "game": "",
+        "id": "lor",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-05-13T18:32:31Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "after_dark",
@@ -82627,6 +82627,19 @@
       }
     },
     {
+      "world": "https://github.com/barretg/Taskipelago/releases/download/v0.8.3/taskipelago.apworld",
+      "size": 40323,
+      "hash_sha256": "bdcb989f08561397c0e13c200d96141a7ac2daa5dc311a4f2e86aac4d0629c03",
+      "metadata": {
+        "game": "",
+        "id": "taskipelago",
+        "world_version": "0.8.3",
+        "tag_version": "0.8.3",
+        "created_at": "2026-05-20T16:01:49Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/barretg/Taskipelago/releases/download/v0.8.2/taskipelago.apworld",
       "size": 39605,
       "hash_sha256": "d7a6dc1b2172b77d6a95a5b1a37274d52843f9c0f629407650ec1eb4b1e5416d",
@@ -91712,6 +91725,19 @@
         "flags": [
           "unready"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/waffles-v1.3.8/waffles.apworld",
+      "size": 265671,
+      "hash_sha256": "c3c380f4eb27e4ddbe0ad356d33250d2a1c8dde09bec131dc1222552072fc03a",
+      "metadata": {
+        "game": "",
+        "id": "waffles",
+        "world_version": "1.3.8",
+        "tag_version": "1.3.8",
+        "created_at": "2026-05-21T02:59:31Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
