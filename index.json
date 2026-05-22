@@ -6133,6 +6133,22 @@
     },
     {
       "world": "https://github.com/AegeusEvander/Brave-Fencer-Musashi-AP-World/releases/download/v0.6.0/bfm.apworld",
+      "size": 2216694,
+      "hash_sha256": "76ca4bb8e560c1ed75af4ec03907b62659914a8669b714010aae9c65be9efe81",
+      "metadata": {
+        "game": "",
+        "id": "bfm",
+        "world_version": "0.6.0.post3",
+        "tag_version": "0.6.0.post3",
+        "created_at": "2026-05-20T01:06:42Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/AegeusEvander/Brave-Fencer-Musashi-AP-World/releases/download/v0.6.0/bfm.apworld",
       "size": 2216455,
       "hash_sha256": "b10954134415408666aea53d31d762b3091e87765bfe6691a32630a2f222d048",
       "metadata": {
@@ -47087,6 +47103,22 @@
       }
     },
     {
+      "world": "https://github.com/aXu-AP/archipelago-double-dash/releases/download/v1.0.0rc3/mario_kart_double_dash.apworld",
+      "size": 174563,
+      "hash_sha256": "7792e2ff8cd322dc9cf0a0dce1d7534ede7f255408e4f9e5d68812daf2fc24f8",
+      "metadata": {
+        "game": "",
+        "id": "mario_kart_double_dash",
+        "world_version": "1.0.0rc3",
+        "tag_version": "1.0.0rc3",
+        "created_at": "2026-05-21T21:19:54Z",
+        "minimum_ap_version": "0.6.0",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/aXu-AP/archipelago-double-dash/releases/download/v1.0.0rc2/mario_kart_double_dash.apworld",
       "size": 173839,
       "hash_sha256": "7c0b9c1f70608866fcaa0875f444c19376eb59a60561ffe87487762d5c02c171",
@@ -63983,6 +64015,18 @@
       }
     },
     {
+      "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.2/pokepark.apworld",
+      "size": 79641,
+      "hash_sha256": "22c21ddd8d0fcb89ff7df5bb0c62624f73d8137a326fad9d4c5ab0eab96234af",
+      "metadata": {
+        "game": "",
+        "id": "pokepark",
+        "world_version": "1.2.2",
+        "tag_version": "1.2.2",
+        "created_at": "2026-05-21T20:12:27Z"
+      }
+    },
+    {
       "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.1/pokepark.apworld",
       "size": 76588,
       "hash_sha256": "3244278f8fb520f35950b034f6605e9bd05051e7a949da02e139dfb6123f0033",
@@ -68847,6 +68891,22 @@
       }
     },
     {
+      "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.3.8/residentevil7biohazard.apworld",
+      "size": 30613,
+      "hash_sha256": "75b08563ab2729c4c5042930f1b918742b5a9a0784256d7c2debaabeaadac674",
+      "metadata": {
+        "game": "",
+        "id": "residentevil7biohazard",
+        "world_version": "0.3.4",
+        "tag_version": "0.3.4",
+        "created_at": "2026-05-21T15:40:34Z",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ElGrenier/RE7_AP_World/releases/download/0.2.1/residentevil7biohazard.apworld",
       "size": 25090,
       "hash_sha256": "d7868722e858f062183530c3c7a121f5ecec3691a58c23202488d656a47d8af3",
@@ -70491,6 +70551,22 @@
         "tag_version": "1.2.1",
         "created_at": "2026-04-11T18:32:06Z",
         "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.2-pre-release-1/sadx.apworld",
+      "size": 3156362,
+      "hash_sha256": "482f655dedf2ef1d366a6973b3b8d989a74f151cab3556989bc63f1f668f2e13",
+      "metadata": {
+        "game": "",
+        "id": "sadx",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-04-11T18:32:06Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
