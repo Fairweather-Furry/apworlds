@@ -16095,6 +16095,19 @@
       }
     },
     {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.5.2/dc1.apworld",
+      "size": 91707,
+      "hash_sha256": "4187b79017feaf9c15a4d373de41c62c8cbceb99dfb13f454ef87569fac7ec43",
+      "metadata": {
+        "game": "",
+        "id": "dc1",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-05-23T02:37:38Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.4.4/dc1.apworld",
       "size": 81791,
       "hash_sha256": "2b460300b36a90c94557a17d30efad6f15731b6d0cd9ec28b83e5a490e7bb554",
@@ -19300,6 +19313,19 @@
         "tag_version": "0.1.0",
         "created_at": "2024-11-09T06:19:48Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/AshIndigo/Archipelago/releases/download/v0.5.1/dmc3.apworld",
+      "size": 28302,
+      "hash_sha256": "cd99f0b911b7c9a0bf1096f35bf999ebeec44cd8507fbe5c6d800edd8525a74b",
+      "metadata": {
+        "game": "",
+        "id": "dmc3",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-05-19T08:40:46Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -40801,6 +40827,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/Block-Tales/releases/download/5.0.0/manual_blocktales_wolfboi008.apworld",
+      "size": 85166,
+      "hash_sha256": "87f0785bf7b865166b8d77ded1ef69443482a2fa3f5755f9f83ebd0f2e86ba9d",
+      "metadata": {
+        "game": "",
+        "id": "manual_blocktales_wolfboi008",
+        "world_version": "5.0.0",
+        "tag_version": "5.0.0",
+        "created_at": "2026-05-22T18:05:43Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -70595,6 +70634,22 @@
         "world_version": "1.2.1",
         "tag_version": "1.2.1",
         "created_at": "2026-04-11T18:32:06Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.2-pre-release-2/sadx.apworld",
+      "size": 3156362,
+      "hash_sha256": "482f655dedf2ef1d366a6973b3b8d989a74f151cab3556989bc63f1f668f2e13",
+      "metadata": {
+        "game": "",
+        "id": "sadx",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-05-22T17:43:29Z",
         "minimum_ap_version": "0.6.3",
         "flags": [
           "prerelease"
