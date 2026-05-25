@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
   "total_packages": 623,
-  "total_versions": 6932,
+  "total_versions": 6935,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -511,7 +511,7 @@
     "tboir": true,
     "tcg_card_shop_simulator": false,
     "tetrisattack": true,
-    "tevi": false,
+    "tevi": true,
     "th06": true,
     "th07": true,
     "th08": true,
@@ -573,14 +573,14 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 349,
+    "": 348,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 13,
     "0.6.1": 11,
     "0.6.2": 10,
     "0.6.3": 56,
-    "0.6.4": 59,
+    "0.6.4": 60,
     "0.6.5": 17,
     "0.6.6": 11,
     "0.6.7": 24
