@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
-  "total_packages": 623,
-  "total_versions": 6935,
+  "total_packages": 622,
+  "total_versions": 6943,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -381,7 +381,7 @@
     "options_select": false,
     "ori_wotw": true,
     "oribf": true,
-    "osrs": false,
+    "osrs": true,
     "osu": true,
     "ourascent": true,
     "outer_wilds": true,
@@ -573,7 +573,7 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 348,
+    "": 347,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 13,
@@ -581,9 +581,9 @@
     "0.6.2": 10,
     "0.6.3": 56,
     "0.6.4": 60,
-    "0.6.5": 17,
+    "0.6.5": 16,
     "0.6.6": 11,
-    "0.6.7": 24
+    "0.6.7": 26
   },
   "max_maximum_ap_version": {
     "": 276,
