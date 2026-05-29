@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
   "total_packages": 622,
-  "total_versions": 6956,
+  "total_versions": 6959,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -501,7 +501,7 @@
     "stacklands": true,
     "star_fox_64": false,
     "stardew_valley": true,
-    "status_lock": false,
+    "status_lock": true,
     "stick_ranger": false,
     "superjunkoid": false,
     "supraland": true,
@@ -573,7 +573,7 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 347,
+    "": 346,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 13,
@@ -582,14 +582,14 @@
     "0.6.3": 56,
     "0.6.4": 60,
     "0.6.5": 16,
-    "0.6.6": 11,
+    "0.6.6": 12,
     "0.6.7": 26
   },
   "max_maximum_ap_version": {
-    "": 276,
+    "": 277,
     "0.0.1": 1,
     "0.4.6": 5,
     "0.6.6": 1,
-    "0.6.99": 274
+    "0.6.99": 273
   }
 }

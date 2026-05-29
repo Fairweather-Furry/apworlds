@@ -17950,6 +17950,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.5.7/dk64.apworld",
+      "size": 37179882,
+      "hash_sha256": "9235518e77f5955e835635a750d6981cb40c4f6e8c4e171cec8245d6b411ba85",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.5.7",
+        "tag_version": "1.5.7",
+        "created_at": "2026-05-29T13:45:32Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.5.6/dk64.apworld",
       "size": 37031564,
       "hash_sha256": "18badc36b5a78376be6fe558c51ce624909a196c92c8aad14da40f1a653e0672",
@@ -53181,6 +53194,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.33/musedash.apworld",
+      "size": 36653,
+      "hash_sha256": "99c11698020966a5d72876bc8e71cf487338ab0421c933428e17e389bdef4a75",
+      "metadata": {
+        "game": "",
+        "id": "musedash",
+        "world_version": "1.5.33",
+        "tag_version": "1.5.33",
+        "created_at": "2026-05-29T12:15:21Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.32/musedash.apworld",
       "size": 33610,
       "hash_sha256": "865c9912e78640775bfd71f8d9d3f1982805e099e8fc139325552a5b6055851f",
@@ -82926,6 +82952,22 @@
       }
     },
     {
+      "world": "https://github.com/guigui0246/StatusLock/releases/download/v0.2.0/status_lock.apworld",
+      "size": 14970314,
+      "hash_sha256": "c3acd7e912c0adb9f8b5bb9c4b6a03288db6a6d09ca98ab584421da3e6252644",
+      "metadata": {
+        "game": "",
+        "id": "status_lock",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2026-05-29T14:27:35Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/guigui0246/StatusLock/releases/download/v0.0.1/status_lock.apworld",
       "size": 13882,
       "hash_sha256": "c3ec124913583031c6607eabdc0593cec7d421f587e469c5b30634edbc96a796",
@@ -83747,7 +83789,10 @@
         "world_version": "1.0.0rc5",
         "tag_version": "1.0.0rc5",
         "created_at": "2026-05-29T02:46:47Z",
-        "maximum_ap_version": "0.6.99"
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
