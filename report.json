@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
   "total_packages": 622,
-  "total_versions": 6969,
+  "total_versions": 6970,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -399,7 +399,7 @@
     "pikmin2": true,
     "pinball_fx3": true,
     "pizza_tower": true,
-    "placidplasticducksim": false,
+    "placidplasticducksim": true,
     "plateup": true,
     "plok": true,
     "pmd_eos": true,
@@ -573,7 +573,7 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 345,
+    "": 344,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 13,
@@ -581,15 +581,15 @@
     "0.6.2": 10,
     "0.6.3": 56,
     "0.6.4": 60,
-    "0.6.5": 17,
+    "0.6.5": 18,
     "0.6.6": 12,
     "0.6.7": 26
   },
   "max_maximum_ap_version": {
-    "": 277,
+    "": 278,
     "0.0.1": 1,
     "0.4.6": 5,
     "0.6.6": 1,
-    "0.6.99": 273
+    "0.6.99": 272
   }
 }

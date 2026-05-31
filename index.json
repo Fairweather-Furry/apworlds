@@ -59099,6 +59099,19 @@
       }
     },
     {
+      "world": "https://github.com/SWCreeperKing/PPDSArchipelago/releases/download/v0.3.0/placidplasticducksim.apworld",
+      "size": 7125,
+      "hash_sha256": "963cd99360094669a41216a64f3f8903519b72d35b0d820d1c45c3a1d33fb0bc",
+      "metadata": {
+        "game": "",
+        "id": "placidplasticducksim",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-05-31T06:14:26Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/SWCreeperKing/PPDSArchipelago/releases/download/v0.1.2/placidplasticducksim.apworld",
       "size": 8321,
       "hash_sha256": "1c5e8b564afb5524e553d1aeb52c8ad3ec1304ed2e2dd809b6044b36a6c66242",
