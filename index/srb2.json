@@ -295,6 +295,18 @@
       "title": "V1.6.1",
       "version_simple": "1.6.1",
       "world_version": "1.6.1"
+    },
+    "v1.7.0": {
+      "created_at": "2026-05-31T20:36:19Z",
+      "download_url": "https://github.com/GraymonDgt/SRB2Archipelago/releases/download/v1.7.0/srb2.apworld",
+      "has_manifest": false,
+      "hash_sha256": "bd299427ed8bc33b7a535ff5b3403dc3cb52736e0380cec40e2e338e9c03ad68",
+      "size": 91400,
+      "source_url": "https://api.github.com/repos/GraymonDgt/SRB2Archipelago",
+      "tag": "v1.7.0",
+      "title": "V1.7.0 - Custom Character Support",
+      "version_simple": "1.7.0",
+      "world_version": "1.7.0"
     }
   }
 }

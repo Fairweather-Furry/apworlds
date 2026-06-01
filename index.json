@@ -13417,6 +13417,18 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.0/crosscode.apworld",
+      "size": 146978,
+      "hash_sha256": "26fac9bf968aac4e963636e59ed7f8605f2988cf349773b51f0d70dfe4fd1d9e",
+      "metadata": {
+        "game": "",
+        "id": "crosscode",
+        "world_version": "0.9.0",
+        "tag_version": "0.9.0",
+        "created_at": "2026-05-31T20:13:30Z"
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.0-pre.2/crosscode.apworld",
       "size": 146469,
       "hash_sha256": "92679d8d75e464d2d39502c549165926fd12672d79b340e93338ef7945c85333",
@@ -80910,6 +80922,22 @@
         "world_version": "2",
         "tag_version": "2",
         "created_at": "2025-04-26T12:47:25Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/GraymonDgt/SRB2Archipelago/releases/download/v1.7.0/srb2.apworld",
+      "size": 91400,
+      "hash_sha256": "bd299427ed8bc33b7a535ff5b3403dc3cb52736e0380cec40e2e338e9c03ad68",
+      "metadata": {
+        "game": "",
+        "id": "srb2",
+        "world_version": "1.7.0",
+        "tag_version": "1.7.0",
+        "created_at": "2026-05-31T20:36:19Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "unready"
