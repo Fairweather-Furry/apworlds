@@ -11548,6 +11548,19 @@
       }
     },
     {
+      "world": "https://github.com/Samupo/ChainedEchoesAPWorld/releases/download/v1.1.0/chainedechoes.apworld",
+      "size": 21853,
+      "hash_sha256": "5321f0ee687fb32f7e0d0893d09f46ed3ae213dd71b00d8a024af965cd3bd9a8",
+      "metadata": {
+        "game": "",
+        "id": "chainedechoes",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-06-01T22:06:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Samupo/ChainedEchoesAPWorld/releases/download/v1.0.0/chainedechoes.apworld",
       "size": 19300,
       "hash_sha256": "8cdad99acd9d3c7d5a09281a9454144286faeee7a0e328f30a58c6be9b49183a",
@@ -16274,6 +16287,19 @@
         "world_version": "0.5.0",
         "tag_version": "0.5.0",
         "created_at": "2026-05-27T23:10:58Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.5.5/dc1.apworld",
+      "size": 93026,
+      "hash_sha256": "e89139d7ccda86867c2eb64ab36420993d0c67f929e32e326e20a0694b3fac7f",
+      "metadata": {
+        "game": "",
+        "id": "dc1",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-06-01T20:14:50Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -50800,6 +50826,19 @@
       }
     },
     {
+      "world": "https://github.com/qwint/APMinit/releases/download/v0.6.12/minit.apworld",
+      "size": 130239,
+      "hash_sha256": "e040cf870641db2adc90f21bfec754804a93dc15b4c70f1053477cef15350a97",
+      "metadata": {
+        "game": "",
+        "id": "minit",
+        "world_version": "0.6.11",
+        "tag_version": "0.6.11",
+        "created_at": "2026-06-01T17:28:17Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/qwint/APMinit/releases/download/v0.6.10/minit.apworld",
       "size": 131853,
       "hash_sha256": "450c1ed20e0e2ef668eaa7abf7c2572f9cc0a6ad4e246d01c7714f255e6b372b",
@@ -83928,6 +83967,19 @@
         "tag_version": "0.0.7",
         "created_at": "2023-10-22T16:31:44Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/FyreDay/Archipelago-TCGCardShopSimulator/releases/download/v1.1.0/tcg_card_shop_simulator.apworld",
+      "size": 30553,
+      "hash_sha256": "5610eb80035ab380d41bd91e5e0bcbd92e8717882791f50cf870336a4be3195b",
+      "metadata": {
+        "game": "",
+        "id": "tcg_card_shop_simulator",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-06-01T05:48:21Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
