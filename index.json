@@ -59255,6 +59255,19 @@
       }
     },
     {
+      "world": "https://github.com/SWCreeperKing/PPDSArchipelago/releases/download/v0.3.2/placidplasticducksim.apworld",
+      "size": 7125,
+      "hash_sha256": "6ba8cee59061b2b012e1fdcce6c659d0d34112b735e3acb53a3ec3bf3e9ca14a",
+      "metadata": {
+        "game": "",
+        "id": "placidplasticducksim",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-06-03T19:24:47Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/SWCreeperKing/PPDSArchipelago/releases/download/v0.3.0/placidplasticducksim.apworld",
       "size": 7125,
       "hash_sha256": "963cd99360094669a41216a64f3f8903519b72d35b0d820d1c45c3a1d33fb0bc",
@@ -80184,6 +80197,20 @@
       }
     },
     {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/2.1.0/spyro2.apworld",
+      "size": 73281,
+      "hash_sha256": "4f5379c99c47bffff94734a4674dbfa12e92ed07f393da65fd502d2a3d2bda2b",
+      "metadata": {
+        "game": "",
+        "id": "spyro2",
+        "world_version": "2.1.0",
+        "tag_version": "2.1.0",
+        "created_at": "2026-06-04T03:17:47Z",
+        "minimum_ap_version": "0.6.1",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Uroogla/S2AP/releases/download/2.0.1-rc1/spyro2.apworld",
       "size": 72714,
       "hash_sha256": "687e18aef52b5fd7d823914ca04f3d764fa9c1e1d137bec8cd0cd8abb3e92e56",
@@ -93381,45 +93408,6 @@
       }
     },
     {
-      "world": "https://github.com/spineraks-org/ArchipelagoWateryWords/releases/download/v0.1.0/waterywords.apworld",
-      "size": 8416,
-      "hash_sha256": "744f67091e09a7027eb9c682ed1ed97dc29982d603a7da815d9f91fe9144670d",
-      "metadata": {
-        "game": "",
-        "id": "waterywords",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2025-03-25T19:41:41Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/spineraks-org/ArchipelagoWateryWords/releases/download/v0.0.2/waterywords.apworld",
-      "size": 257500,
-      "hash_sha256": "bb171fdfb75c90d47f76f1e75a4194d3d3230a587cc8c9b1f0e1d3469ebfd3a9",
-      "metadata": {
-        "game": "",
-        "id": "waterywords",
-        "world_version": "0.0.2",
-        "tag_version": "0.0.2",
-        "created_at": "2024-11-02T21:54:49Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/spineraks-org/ArchipelagoWateryWords/releases/download/v0.0.1/waterywords.apworld",
-      "size": 256220,
-      "hash_sha256": "34335f5cace4ae7aca7a03b252f2db9653bb2234167ca1f2d8b1564365dde6e5",
-      "metadata": {
-        "game": "",
-        "id": "waterywords",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2024-11-02T21:54:49Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/mwoiii/webfishing-ap/releases/download/v1.2.2-alpha/webfishing.apworld",
       "size": 40247,
       "hash_sha256": "2e918b7d8bf1975c5090f3337d14989ad9d39ae80cf89da7dce4a939a3999ef6",
@@ -98608,10 +98596,6 @@
     "wargroove2": {
       "game": "Wargroove 2",
       "description": "Command an army, in the sequel to the hit turn based strategy game Wargroove!"
-    },
-    "waterywords": {
-      "game": "Watery Words",
-      "description": "Yacht Dice is a straightforward game, custom-made for Archipelago,\nwhere you cast your dice to chart a course for high scores,\nunlocking valuable treasures along the way.\nDiscover more dice, extra rolls, multipliers,\nand unlockable categories to navigate the depths of the game.\nRoll your way to victory by reaching the target score!"
     },
     "webfishing": {
       "game": "WEBFISHING",
