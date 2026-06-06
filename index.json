@@ -95713,6 +95713,19 @@
       }
     },
     {
+      "world": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.18/yarg.apworld",
+      "size": 33194,
+      "hash_sha256": "f143eb25ed3be3dbddc8a8f0e5edde39904e90c201eca86cc997a59e86c16c14",
+      "metadata": {
+        "game": "",
+        "id": "yarg",
+        "world_version": "0.0.18",
+        "tag_version": "0.0.18",
+        "created_at": "2026-06-06T08:15:37Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.17/yarg.apworld",
       "size": 33084,
       "hash_sha256": "be3306fea40cf72f491c068e6721447b5fb43f7ebe90c3538898602ce683ddee",
