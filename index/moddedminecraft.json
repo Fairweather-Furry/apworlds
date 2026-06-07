@@ -113,6 +113,19 @@
       "title": "Modded Minecraft (Modpacks) v2.2.2",
       "version_simple": "2.2.2",
       "world_version": "2.2.2"
+    },
+    "v3.0.0": {
+      "created_at": "2026-06-06T22:07:56Z",
+      "download_url": "https://github.com/Stuff691734/ModdedMCArchipelago/releases/download/v3.0.0/moddedminecraft.apworld",
+      "has_manifest": true,
+      "hash_sha256": "c9de75e814fdf693eb253325fd5fd75f7c8789c6e3909294296dec43e864cb51",
+      "minimum_ap_version": "0.6.4",
+      "size": 7975,
+      "source_url": "https://api.github.com/repos/Stuff691734/ModdedMCArchipelago",
+      "tag": "v3.0.0",
+      "title": "Modded Minecraft (Modpacks) v3.0.0",
+      "version_simple": "3.0.0",
+      "world_version": "3.0.0"
     }
   }
 }
