@@ -306,6 +306,18 @@
       "title": "Plants vs. Zombies Replanted Archipelago v1.7.2",
       "version_simple": "1.7.2",
       "world_version": "1.7.2"
+    },
+    "v1.8.0": {
+      "created_at": "2026-06-07T10:17:20Z",
+      "download_url": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.8.0/pvzr.apworld",
+      "has_manifest": true,
+      "hash_sha256": "86ab3df66f7c322c59ba9263a0306b16a9a93604cf6db9f4f49eed11c8417bf7",
+      "size": 40861,
+      "source_url": "https://api.github.com/repos/dannybonz/replanted_archipelago",
+      "tag": "v1.8.0",
+      "title": "Plants vs. Zombies Replanted Archipelago v1.8.0",
+      "version_simple": "1.8.0",
+      "world_version": "1.8.0"
     }
   }
 }

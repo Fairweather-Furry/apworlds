@@ -18161,6 +18161,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Release/releases/download/v1.5.7/dk64.apworld",
+      "size": 37180604,
+      "hash_sha256": "63e51f25027b9f7438d60fa5f0f6d2c91636801f2c4ea9c8df570073de989c1f",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "1.5.7.post2",
+        "tag_version": "1.5.7.post2",
+        "created_at": "2026-06-07T20:02:13Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v1.5.7/dk64.apworld",
       "size": 37179882,
       "hash_sha256": "9235518e77f5955e835635a750d6981cb40c4f6e8c4e171cec8245d6b411ba85",
@@ -66512,6 +66525,319 @@
       }
     },
     {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.8.0/pvzr.apworld",
+      "size": 40861,
+      "hash_sha256": "86ab3df66f7c322c59ba9263a0306b16a9a93604cf6db9f4f49eed11c8417bf7",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.8.0",
+        "tag_version": "1.8.0",
+        "created_at": "2026-06-07T10:17:20Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.7.2/pvzr.apworld",
+      "size": 38899,
+      "hash_sha256": "963ea672646ffac29e826112516d5dd1813760dcade6df72dd187d53ccc9f833",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.7.2",
+        "tag_version": "1.7.2",
+        "created_at": "2026-05-03T08:31:08Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.7.1/pvzr.apworld",
+      "size": 38867,
+      "hash_sha256": "044604fe0d9cccf20a648e6bcfd3532dd375fdbb27ec4fb3e0a158a6d864537d",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.7.1",
+        "tag_version": "1.7.1",
+        "created_at": "2026-04-26T09:03:00Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.7.0/pvzr.apworld",
+      "size": 38856,
+      "hash_sha256": "5c1bfd020ce5dc3fc1cf0bb45a6ced9260f3ffcc1e57936ff5583095d5ae516a",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.7.0",
+        "tag_version": "1.7.0",
+        "created_at": "2026-04-24T11:18:03Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.6.3/pvzr.apworld",
+      "size": 36146,
+      "hash_sha256": "d787e981f2944a283cb675465b4c29dfe8ea3e3841eb868b7a54371cd50e9562",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.6.3",
+        "tag_version": "1.6.3",
+        "created_at": "2026-03-19T21:14:03Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.6.2/pvzr.apworld",
+      "size": 36125,
+      "hash_sha256": "b0afd1c766b0132c27ec6b5757d4df2cd441ae4491248bd9e3828f97d6d9bb57",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.6.2",
+        "tag_version": "1.6.2",
+        "created_at": "2026-03-18T21:20:52Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.6.1/pvzr.apworld",
+      "size": 30437,
+      "hash_sha256": "11da55a051b48bc4dc07b15c6f0cb9dc3b946bb919652412485e64897e578922",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.6.1",
+        "tag_version": "1.6.1",
+        "created_at": "2026-03-10T19:37:56Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.6.0/pvzr.apworld",
+      "size": 30452,
+      "hash_sha256": "9cdea39d1f3d1f6a3bb0532d68458de7fe4fb2a7f6659589416bec90eb842569",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.6.0.post2",
+        "tag_version": "1.6.0.post2",
+        "created_at": "2026-03-07T12:20:45Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.6.0/pvzr.apworld",
+      "size": 30443,
+      "hash_sha256": "57369342f35cf2435936e9207ac3e14b4ba851fa5d3b80913932bd982517f7a8",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-03-07T12:20:45Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.5.2/pvzr.apworld",
+      "size": 28233,
+      "hash_sha256": "a08dc34605f1c3a98e17bcb41087ca02e11009eec8e4f9352e79befbbf1f1880",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.5.2",
+        "tag_version": "1.5.2",
+        "created_at": "2026-02-23T19:27:30Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.5.1/pvzr.apworld",
+      "size": 27702,
+      "hash_sha256": "bba8cd8d409bb25789f9c9ddfabcc04d58d99b492e6b8a6b5e2f0b58993301db",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.5.1",
+        "tag_version": "1.5.1",
+        "created_at": "2026-02-21T12:38:12Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.5.0/pvzr.apworld",
+      "size": 27664,
+      "hash_sha256": "8e426c801bf0705bba5d33275741bdfccdbef77feae1661b818d335f650dd067",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.5.0",
+        "tag_version": "1.5.0",
+        "created_at": "2026-02-19T21:10:18Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.4.2/pvzr.apworld",
+      "size": 23342,
+      "hash_sha256": "a95119afa9caaf5280b2a5b89e78922a26c819ce6def262d950e1235615d22d6",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.4.2",
+        "tag_version": "1.4.2",
+        "created_at": "2026-02-15T11:06:26Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.4.1/pvzr.apworld",
+      "size": 23342,
+      "hash_sha256": "a95119afa9caaf5280b2a5b89e78922a26c819ce6def262d950e1235615d22d6",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.4.1",
+        "tag_version": "1.4.1",
+        "created_at": "2026-02-13T19:36:53Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.4.0/pvzr.apworld",
+      "size": 23321,
+      "hash_sha256": "70808caab53f4dad4ab9c80cc92dff596775fa153c415ba9612214300874edb2",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.4.0",
+        "tag_version": "1.4.0",
+        "created_at": "2026-02-12T21:05:26Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.3.3/pvzr.apworld",
+      "size": 18889,
+      "hash_sha256": "bc7fc34ba04116b5de7031a181826f88f1355e5bab12aacac0112d44a39f5bf1",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.3.3",
+        "tag_version": "1.3.3",
+        "created_at": "2026-01-29T19:35:26Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.3.2/pvzr.apworld",
+      "size": 18892,
+      "hash_sha256": "2dc0fbe067db573e7f24d92ab5536a10986bed5fc482136ea72dc3f5607da48f",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.3.2",
+        "tag_version": "1.3.2",
+        "created_at": "2026-01-28T20:05:47Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.3.1/pvzr.apworld",
+      "size": 18714,
+      "hash_sha256": "0bc696de1df80859b9191b229de20a013f64f22c054a1d9c6e32d4671f935dcc",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.3.1.post2",
+        "tag_version": "1.3.1.post2",
+        "created_at": "2026-01-25T10:19:19Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.3.1/pvzr.apworld",
+      "size": 1638805,
+      "hash_sha256": "c3ad5bc4b886f477404aa253be19e11d76d49cd4c7d712b9a1de55a30f7b7951",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.3.1",
+        "tag_version": "1.3.1",
+        "created_at": "2026-01-25T10:19:19Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.3.0/pvzr.apworld",
+      "size": 18742,
+      "hash_sha256": "433ecba0b824eec632a04cc6583c8919952d94a32e7f544466571fa76b00b425",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.3.0",
+        "tag_version": "1.3.0",
+        "created_at": "2026-01-24T15:14:42Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.2.1/pvzr.apworld",
+      "size": 17408,
+      "hash_sha256": "6c652d5c061bc137fd0ff47f6ce78ce4dc35e0bef9d9413932634a292d27ff4c",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-01-12T20:34:49Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.2.0/pvzr.apworld",
+      "size": 17295,
+      "hash_sha256": "12de368498468957b592f2b353544deb5609dee67fb03a122869cce4ed38b815",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-01-11T16:33:37Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.1.0/pvzr.apworld",
+      "size": 889195,
+      "hash_sha256": "bcb96e1d9992e06297a83535d5c35978b3d6cb3aef38b6322dffbd357d43460d",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-01-03T11:58:34Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.0.2/pvzr.apworld",
+      "size": 764706,
+      "hash_sha256": "62d921e45a021ce4729d0ec2becdbfeb9b50e9781ce186069310ffd30d87a025",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2026-01-01T11:45:51Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.0.1/pvzr.apworld",
+      "size": 750433,
+      "hash_sha256": "ba6b51bbfe5cce81ecf538ca081a745561730df7279aba27ea8e00017e9e2a22",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2025-12-29T21:34:00Z"
+      }
+    },
+    {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.0.0/pvzr.apworld",
+      "size": 646826,
+      "hash_sha256": "657884e1447f2ce2b924ae34ff6f747bb0a1a352e1f28d88a9346987988a66ec",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2025-12-28T15:02:34Z"
+      }
+    },
+    {
       "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.1.6/quake.apworld",
       "size": 500292,
       "hash_sha256": "9a1404c30f934abb903391be20381218e71f2cd1f87ea2226d247460199ba34e",
@@ -73305,6 +73631,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/choatix/Archipelago/releases/download/shadow-0.4.7/shadow_the_hedgehog.apworld",
+      "size": 238324,
+      "hash_sha256": "ebac2a6444a9e7b02d7eb6f7eea01cb74fb26dadb3a9fe855b62ed2ce35c204d",
+      "metadata": {
+        "game": "",
+        "id": "shadow_the_hedgehog",
+        "world_version": "0.4.7",
+        "tag_version": "0.4.7",
+        "created_at": "2026-06-07T16:01:38Z",
+        "minimum_ap_version": "0.6.2"
       }
     },
     {
@@ -98113,6 +98452,10 @@
     "psychonauts": {
       "game": "Psychonauts",
       "description": "Psychonauts is a third-person action platformer game developed by Double Fine Productions, published by Majesco Entertainment, and released in 2005.\nThe player follows Razputin, a young boy gifted with psychic abilities. After sneaking into Whispering Rock Psychic Summer Camp, it's up to Raz to explore \nthe minds of other characters in order to save his fellow psychic campers, and the world, from an evil threat."
+    },
+    "pvzr": {
+      "game": "Plants vs. Zombies: Replanted",
+      "description": "Plants vs. Zombies: Replanted"
     },
     "quake": {
       "game": "Quake 1",
