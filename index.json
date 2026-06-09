@@ -29042,6 +29042,19 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.7/grinch.apworld",
+      "size": 51195,
+      "hash_sha256": "cd2bac1e97dee6a47ba47ee6d13ba56b77ce2bc37faff86afb6c54d81eca8603",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.5.7",
+        "tag_version": "1.5.7",
+        "created_at": "2026-06-09T11:19:32Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.6/grinch.apworld",
       "size": 50303,
       "hash_sha256": "d102913275ce8f6b1bee0e5006f587a9a96da25c7fbef5400fc4c0d2cedd33fe",
