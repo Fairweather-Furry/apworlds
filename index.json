@@ -524,6 +524,19 @@
       }
     },
     {
+      "world": "https://github.com/dmwever/Ageipelago/releases/download/0.2.1/age2de.apworld",
+      "size": 2165225,
+      "hash_sha256": "a311ba53f0f5af32ceaa521a1e1b31d1c6b7c1ec8a80f634f4f5e8d5f725ce88",
+      "metadata": {
+        "game": "",
+        "id": "age2de",
+        "world_version": "0.0.1",
+        "tag_version": "0.0.1",
+        "created_at": "2026-06-06T19:19:01Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/qwint/ap-air-delivery/releases/download/0.1.6/air_delivery.apworld",
       "size": 4790,
       "hash_sha256": "4b636da4fe0fdeba1ec2c3c5597471c01e1fc462bc192a4d61c0dd9746163129",
@@ -31605,6 +31618,22 @@
         "flags": [
           "after_dark",
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/qwint/Archipelago/releases/download/1.1.4/hk.apworld",
+      "size": 251558,
+      "hash_sha256": "cf6093f27c605d53d41143af053d4e5db0c2d24d697dda01ff26cc1b3d5ee6f1",
+      "metadata": {
+        "game": "",
+        "id": "hk",
+        "world_version": "1.1.4",
+        "tag_version": "1.1.4",
+        "created_at": "2026-06-08T01:11:17Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "unready"
         ]
       }
     },
@@ -84008,6 +84037,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/barretg/Taskipelago/releases/download/v0.9.2/taskipelago.apworld",
+      "size": 65195,
+      "hash_sha256": "6e1af8d98a348bd9c543573925cbbfc270e293ae49947839920737da89374c15",
+      "metadata": {
+        "game": "",
+        "id": "taskipelago",
+        "world_version": "0.9.2",
+        "tag_version": "0.9.2",
+        "created_at": "2026-06-08T23:31:19Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
