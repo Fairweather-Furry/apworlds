@@ -430,113 +430,6 @@
       }
     },
     {
-      "world": "https://github.com/dmwever/Ageipelago/releases/download/0.0.1/age2de.apworld",
-      "size": 2127491,
-      "hash_sha256": "69bbe09c503a9ded775b6aa495b87f9957d7db949e43e1066b6b08e287291f15",
-      "metadata": {
-        "game": "",
-        "id": "age2de",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2025-12-20T02:07:58Z",
-        "minimum_ap_version": "0.6.5",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/dmwever/Ageipelago/releases/download/0.1.0/age2de.apworld",
-      "size": 2131787,
-      "hash_sha256": "88976940b5130af441b88be212752f3a8023818a8a7050c4df8a9c319795948b",
-      "metadata": {
-        "game": "",
-        "id": "age2de",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2026-02-14T18:18:18Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/dmwever/Ageipelago/releases/download/0.1.1/age2de.apworld",
-      "size": 2132062,
-      "hash_sha256": "c8c89cfa152b43b28ff4d8cc3c4892f2ad9063ec92b35c8d324808a3ebc52411",
-      "metadata": {
-        "game": "",
-        "id": "age2de",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2026-02-22T00:50:16Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/dmwever/Ageipelago/releases/download/0.1.2/age2de.apworld",
-      "size": 2132096,
-      "hash_sha256": "676712458880a6a061ddfe8d7e6fc42a5e1e1c6aaf39fa6190d4c304be6810d4",
-      "metadata": {
-        "game": "",
-        "id": "age2de",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2026-03-18T18:16:59Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/dmwever/Ageipelago/releases/download/0.1.3/age2de.apworld",
-      "size": 2132774,
-      "hash_sha256": "05daddb8ed2884af4462eb6e0cfc965261fe4f7586de7a876ceb0910daf01c8f",
-      "metadata": {
-        "game": "",
-        "id": "age2de",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2026-04-02T18:13:49Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/dmwever/Ageipelago/releases/download/0.1.4/age2de.apworld",
-      "size": 2132774,
-      "hash_sha256": "05daddb8ed2884af4462eb6e0cfc965261fe4f7586de7a876ceb0910daf01c8f",
-      "metadata": {
-        "game": "",
-        "id": "age2de",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2026-04-02T18:13:49Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/dmwever/Ageipelago/releases/download/0.2.0/age2de.apworld",
-      "size": 2165230,
-      "hash_sha256": "b8b0a120529313fcd736d2afd3b788d0f2fc8c4e7c8b1b6070f62d167d233a65",
-      "metadata": {
-        "game": "",
-        "id": "age2de",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2026-06-06T17:45:16Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/dmwever/Ageipelago/releases/download/0.2.1/age2de.apworld",
-      "size": 2165225,
-      "hash_sha256": "a311ba53f0f5af32ceaa521a1e1b31d1c6b7c1ec8a80f634f4f5e8d5f725ce88",
-      "metadata": {
-        "game": "",
-        "id": "age2de",
-        "world_version": "0.0.1",
-        "tag_version": "0.0.1",
-        "created_at": "2026-06-06T19:19:01Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
       "world": "https://github.com/qwint/ap-air-delivery/releases/download/0.1.6/air_delivery.apworld",
       "size": 4790,
       "hash_sha256": "4b636da4fe0fdeba1ec2c3c5597471c01e1fc462bc192a4d61c0dd9746163129",
@@ -30613,190 +30506,6 @@
       }
     },
     {
-      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v4.1/hammerwatch.apworld",
-      "size": 4316772,
-      "hash_sha256": "229ab4c0ad99326e116bd39de7b5123f48559ade6104f17ccab0d08a2469963f",
-      "metadata": {
-        "game": "",
-        "id": "hammerwatch",
-        "world_version": "4.1",
-        "tag_version": "4.1",
-        "created_at": "2026-03-12T02:53:08Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v4.0pre0/hammerwatch.apworld",
-      "size": 70777009,
-      "hash_sha256": "ec8b9fc338a19a328ae75afdef957376e96a2a70fc1400225d4940836e88d7ca",
-      "metadata": {
-        "game": "",
-        "id": "hammerwatch",
-        "world_version": "4.0rc0",
-        "tag_version": "4.0rc0",
-        "created_at": "2025-08-15T12:55:11Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v1.2.3/hammerwatch.apworld",
-      "size": 70916568,
-      "hash_sha256": "b40bf46a3385569126d40aadef02ff95a25f0e9f73efdc7e06a25276a95eff84",
-      "metadata": {
-        "game": "",
-        "id": "hammerwatch",
-        "world_version": "1.2.3",
-        "tag_version": "1.2.3",
-        "created_at": "2024-11-25T23:35:24Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v1.2.2/hammerwatch.apworld",
-      "size": 236444,
-      "hash_sha256": "67b137c8b5eadbfb344fe5d87c52366e4dbe76b38840bc4b065cddf65f77ae6c",
-      "metadata": {
-        "game": "",
-        "id": "hammerwatch",
-        "world_version": "1.2.2",
-        "tag_version": "1.2.2",
-        "created_at": "2024-11-25T23:35:24Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v1.2/hammerwatch.apworld",
-      "size": 137688,
-      "hash_sha256": "6edd82d458376d6ec7900694fa4588e9ad12790bad1559e66a342e28bc6b0d89",
-      "metadata": {
-        "game": "",
-        "id": "hammerwatch",
-        "world_version": "1.2",
-        "tag_version": "1.2",
-        "created_at": "2023-03-19T20:05:08Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v1.1.13/hammerwatch.apworld",
-      "size": 120196,
-      "hash_sha256": "3e899c24673f6b0acbdcf770d84b55af5b654d9cf1179463ffc679e2690dce18",
-      "metadata": {
-        "game": "",
-        "id": "hammerwatch",
-        "world_version": "1.1.13",
-        "tag_version": "1.1.13",
-        "created_at": "2023-10-29T12:20:28Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago-Mod-Installer/releases/download/v1.1.4/hammerwatch.apworld",
-      "size": 648816,
-      "hash_sha256": "9e5f6e99614c8dd4a355642eabdd0679e9d9a6c5fcdbf5961126fea3d0344710",
-      "metadata": {
-        "game": "",
-        "id": "hammerwatch",
-        "world_version": "1.1.4",
-        "tag_version": "1.1.4",
-        "created_at": "2023-03-19T20:05:08Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago-Mod-Installer/releases/download/v1.1/hammerwatch.apworld",
-      "size": 648374,
-      "hash_sha256": "e96b595a4e3c7a0ae42239f32ebed4b904276fdaabb2a5b60b8f6d624869c384",
-      "metadata": {
-        "game": "",
-        "id": "hammerwatch",
-        "world_version": "1.1",
-        "tag_version": "1.1",
-        "created_at": "2023-03-19T20:05:08Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago-Mod-Installer/releases/download/v1.0.4/hammerwatch.apworld",
-      "size": 538222,
-      "hash_sha256": "f7a8ef045a966ee1e943629bf171dc3e8268c9347b61ff11b380bd207db95443",
-      "metadata": {
-        "game": "",
-        "id": "hammerwatch",
-        "world_version": "1.0.4",
-        "tag_version": "1.0.4",
-        "created_at": "2023-03-19T20:05:08Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago-Mod-Installer/releases/download/v1.0/hammerwatch.apworld",
-      "size": 320822,
-      "hash_sha256": "d39e7dc6ff7a28307175d9d200440c97ee942113f6b818979c7e9dac37d691d7",
-      "metadata": {
-        "game": "",
-        "id": "hammerwatch",
-        "world_version": "1.0",
-        "tag_version": "1.0",
-        "created_at": "2023-03-19T20:05:08Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago-Mod-Installer/releases/download/v0.8/hammerwatch.apworld",
-      "size": 228727,
-      "hash_sha256": "1b4a2288747099312ccf44324b516069b1adab49443fe734ee09391acb6324cc",
-      "metadata": {
-        "game": "",
-        "id": "hammerwatch",
-        "world_version": "0.8",
-        "tag_version": "0.8",
-        "created_at": "2023-03-19T20:05:08Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago-Mod-Installer/releases/download/v0.7.1/hammerwatch.apworld",
-      "size": 195650,
-      "hash_sha256": "7581aaf8180511f250de7f00fe1eb4c51f7c15224c224b6ebf9b00444f187481",
-      "metadata": {
-        "game": "",
-        "id": "hammerwatch",
-        "world_version": "0.7.1",
-        "tag_version": "0.7.1",
-        "created_at": "2023-03-19T20:05:08Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago-Mod-Installer/releases/download/v0.7/hammerwatch.apworld",
-      "size": 195650,
-      "hash_sha256": "7581aaf8180511f250de7f00fe1eb4c51f7c15224c224b6ebf9b00444f187481",
-      "metadata": {
-        "game": "",
-        "id": "hammerwatch",
-        "world_version": "0.7",
-        "tag_version": "0.7",
-        "created_at": "2023-03-19T20:05:08Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/pointfivetee/Archipelago-Hangman/releases/download/v1.0.1/hangman.apworld",
       "size": 114676,
       "hash_sha256": "9ac3d104ff451a4f072fd76ebe9721385b029276f853261c0cc94fccf3f1255c",
@@ -31304,6 +31013,18 @@
         "tag_version": "0.4",
         "created_at": "2025-08-04T15:46:05Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/HbkArchipelago/releases/download/0.3.1/hi_fi_rush.apworld",
+      "size": 18736,
+      "hash_sha256": "ce563eb7100bdfcd891aace0b3afe5ab96c84fac014aed51da2bf363d916db8b",
+      "metadata": {
+        "game": "",
+        "id": "hi_fi_rush",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-06-10T05:27:23Z"
       }
     },
     {
@@ -33867,54 +33588,6 @@
         "tag_version": "0.0.1",
         "created_at": "2025-02-07T20:06:06Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Ninjakakes/Archipelago/releases/download/j_v0.1.2/junko.apworld",
-      "size": 13012,
-      "hash_sha256": "315574d0754f766d8f7f36a62db12cc985ca1094096d626f8078eb1bdf20bfe4",
-      "metadata": {
-        "game": "",
-        "id": "junko",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2025-09-30T03:10:29Z",
-        "flags": [
-          "unready",
-          "after_dark"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Ninjakakes/Archipelago/releases/download/j_0.1.0/junko.apworld",
-      "size": 12748,
-      "hash_sha256": "9355e80c81f044b9b4deb898a413e13b3bcf6efe5b6a08ef70b6bb2e149bc95c",
-      "metadata": {
-        "game": "",
-        "id": "junko",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2025-10-31T18:27:55Z",
-        "flags": [
-          "unready",
-          "after_dark"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Ninjakakes/Archipelago/releases/download/j_v0.1.0/junko.apworld",
-      "size": 12748,
-      "hash_sha256": "9355e80c81f044b9b4deb898a413e13b3bcf6efe5b6a08ef70b6bb2e149bc95c",
-      "metadata": {
-        "game": "",
-        "id": "junko",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2026-01-05T00:04:19Z",
-        "flags": [
-          "unready",
-          "after_dark"
-        ]
       }
     },
     {
@@ -61918,6 +61591,19 @@
       }
     },
     {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.4.6/pokemon_crystal.apworld",
+      "size": 651850,
+      "hash_sha256": "61383ab4dac4113ddb0837f3912dc3fef2749a346a3a9bc315a3ca425048e450",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_crystal",
+        "world_version": "5.4.6",
+        "tag_version": "5.4.6",
+        "created_at": "2026-06-10T14:25:16Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/5.4.5/pokemon_crystal.apworld",
       "size": 651665,
       "hash_sha256": "d0067dda45950bd9e64dbf14f8a7a7e7877a28cc8aef38e741d6851a89265298",
@@ -74681,123 +74367,6 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2025-04-18T03:44:36Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/udime123/Silver-Daze-APWorld/releases/download/0.7.3/silverdaze.apworld",
-      "size": 205930,
-      "hash_sha256": "6ff45d099c6f60281c6c078b336d3798546b6f6dcb79a8938ffe8fd9498b9b41",
-      "metadata": {
-        "game": "",
-        "id": "silverdaze",
-        "world_version": "0.7.3",
-        "tag_version": "0.7.3",
-        "created_at": "2026-04-05T20:39:05Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/udime123/Silver-Daze-APWorld/releases/download/0.7.2/silverdaze.apworld",
-      "size": 202246,
-      "hash_sha256": "3d627af80470995315cffafca104c7576404cfb1a3bcd57c8ce812aa9e55b069",
-      "metadata": {
-        "game": "",
-        "id": "silverdaze",
-        "world_version": "0.7.2",
-        "tag_version": "0.7.2",
-        "created_at": "2026-01-13T08:44:54Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/udime123/Silver-Daze-APWorld/releases/download/0.6.4/silverdaze.apworld",
-      "size": 149518,
-      "hash_sha256": "7110c795ea887da25787f7188e864984cf2ad0774c0fb71e4c3cfb60eb782485",
-      "metadata": {
-        "game": "",
-        "id": "silverdaze",
-        "world_version": "0.6.4",
-        "tag_version": "0.6.4",
-        "created_at": "2026-01-06T04:25:21Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/udime123/Silver-Daze-APWorld/releases/download/0.6.3/silverdaze.apworld",
-      "size": 144489,
-      "hash_sha256": "0557dd14bc75f38472df71b4976d2d038378236fde609a7e6530fadf1dca5918",
-      "metadata": {
-        "game": "",
-        "id": "silverdaze",
-        "world_version": "0.6.3.post2",
-        "tag_version": "0.6.3.post2",
-        "created_at": "2026-01-04T23:02:59Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/udime123/Silver-Daze-APWorld/releases/download/0.6.3/silverdaze.apworld",
-      "size": 143619,
-      "hash_sha256": "eacceea80add0c5d1302275ca066b94444754a3840efe41cd84f48e79bfdabe7",
-      "metadata": {
-        "game": "",
-        "id": "silverdaze",
-        "world_version": "0.6.3",
-        "tag_version": "0.6.3",
-        "created_at": "2026-01-04T23:02:59Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/udime123/Silver-Daze-APWorld/releases/download/0.6.2/silverdaze.apworld",
-      "size": 137497,
-      "hash_sha256": "2f36ba0989957e85586c2b7cc6a60adce6a5bc896942ce87e6e8b7ffddca0560",
-      "metadata": {
-        "game": "",
-        "id": "silverdaze",
-        "world_version": "0.6.2",
-        "tag_version": "0.6.2",
-        "created_at": "2025-12-31T04:26:44Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/udime123/Silver-Daze-APWorld/releases/download/0.6.1/silverdaze.apworld",
-      "size": 136997,
-      "hash_sha256": "e2b4121aa975992be50948294ae35430b5970427d2da104926bb251ba16897fe",
-      "metadata": {
-        "game": "",
-        "id": "silverdaze",
-        "world_version": "0.6.1",
-        "tag_version": "0.6.1",
-        "created_at": "2025-12-30T10:37:18Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/udime123/Silver-Daze-APWorld/releases/download/0.5.3/silverdaze.apworld",
-      "size": 112939,
-      "hash_sha256": "5fb96cd6e1e081592326ad6f3935c6ab878351badaf3dca8fd6010b0ae3e20b4",
-      "metadata": {
-        "game": "",
-        "id": "silverdaze",
-        "world_version": "0.5.3",
-        "tag_version": "0.5.3",
-        "created_at": "2025-12-24T09:13:29Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/udime123/Silver-Daze-APWorld/releases/download/alpha/silverdaze.apworld",
-      "size": 112784,
-      "hash_sha256": "98f33405515be8f57ef4f79b925acaa0aa4c62d26fbcdde887261cfd06821d66",
-      "metadata": {
-        "game": "",
-        "id": "silverdaze",
-        "world_version": "0.5.0",
-        "tag_version": "0.5.0",
-        "created_at": "2025-12-07T08:35:41Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -96879,10 +96448,6 @@
       "game": "Against the Storm",
       "description": "Against the Storm is a roguelite city builder"
     },
-    "age2de": {
-      "game": "Age Of Empires II: Definitive Edition",
-      "description": "Age of Empires II: Definitive Edition is a Real-Time Strategy game centered around the medieval\nages and the various battles, conquests, and wars of history."
-    },
     "air_delivery": {
       "game": "Air Delivery",
       "description": "You\u2019re a sky-island delivery worker delivering mail to all the nearby islands. Everything runs smoothly until the\nletters suddenly aren\u2019t being delivered. Find all of the letters and deliver them to their recipients.\nMaybe they\u2019ll give you something as a thank you."
@@ -97508,10 +97073,6 @@
       "game": "Hades",
       "description": "Hades is a rogue-like dungeon crawler in which you defy the god of the dead as you hack and slash \nyour way out of the Underworld of Greek myth."
     },
-    "hammerwatch": {
-      "game": "Hammerwatch",
-      "description": "Hammerwatch is a hack and slash action adventure.\nPlay as a hero that is one of seven classes as you fight your way through Castle Hammerwatch to defeat the dragon\nor the Temple of the Sun to stop the evil Sun Guardian Sha'Rand."
-    },
     "hangman": {
       "game": "Hangman",
       "description": "AP Hangman"
@@ -97603,10 +97164,6 @@
     "jigsaw": {
       "game": "Jigsaw",
       "description": "Make a Jigsaw puzzle! But first you'll have to find your pieces.\nConnect the pieces to unlock more. Goal: solve the puzzle of course!"
-    },
-    "junko": {
-      "game": "Junko",
-      "description": "Junko was once the master of her own world, but the subjects that once served her no longer fear her.\n\nA Yume Nikki-inspired game developed by P. Yoshi for Leeble Game Jam 3."
     },
     "k64": {
       "game": "Kirby 64 - The Crystal Shards",
@@ -98717,10 +98274,6 @@
     "signalis": {
       "game": "Signalis",
       "description": ""
-    },
-    "silverdaze": {
-      "game": "Silver Daze",
-      "description": "This will describe Silver Daze eventually"
     },
     "simpsonshitnrun": {
       "game": "The Simpsons Hit And Run",
