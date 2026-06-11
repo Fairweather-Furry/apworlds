@@ -1,12 +1,13 @@
 {
   "total_repositories": 517,
-  "total_packages": 621,
-  "total_versions": 6991,
+  "total_packages": 624,
+  "total_versions": 7032,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
     "adofai": false,
     "against_the_storm": true,
+    "age2de": true,
     "air_delivery": false,
     "albw": true,
     "am2r": true,
@@ -161,6 +162,7 @@
     "gzdoom": true,
     "hacknet": false,
     "hades": false,
+    "hammerwatch": false,
     "hangman": false,
     "haste": true,
     "hcniko": true,
@@ -184,6 +186,7 @@
     "jakii": true,
     "jet_island": false,
     "jigsaw": true,
+    "junko": true,
     "k64": true,
     "kdl3": true,
     "keymasters_keep": true,
@@ -459,6 +462,7 @@
     "shippedinspace": true,
     "shivers": false,
     "signalis": false,
+    "silverdaze": false,
     "simpsonshitnrun": true,
     "sims4": true,
     "slime_rancher": true,
@@ -569,23 +573,23 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 341,
+    "": 344,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 13,
     "0.6.1": 11,
     "0.6.2": 10,
-    "0.6.3": 55,
+    "0.6.3": 54,
     "0.6.4": 60,
-    "0.6.5": 17,
+    "0.6.5": 18,
     "0.6.6": 13,
-    "0.6.7": 26
+    "0.6.7": 27
   },
   "max_maximum_ap_version": {
-    "": 276,
+    "": 277,
     "0.0.1": 1,
     "0.4.6": 5,
     "0.6.6": 1,
-    "0.6.99": 270
+    "0.6.99": 273
   }
 }
