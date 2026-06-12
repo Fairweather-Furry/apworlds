@@ -734,6 +734,22 @@
       "lib_file": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.1.2/albwrandomizer.zip"
     },
     {
+      "world": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.4.6-M2/am2r.apworld",
+      "size": 35176,
+      "hash_sha256": "fa8ca46b55289ae1f91e4fc3992ba90fb581321a05766ef8565c46c3676c0587",
+      "metadata": {
+        "game": "",
+        "id": "am2r",
+        "world_version": "1.4.6",
+        "tag_version": "1.4.6",
+        "created_at": "2026-06-12T06:50:52Z",
+        "minimum_ap_version": "0.5.0",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Ehseezed/Archipelago-Integration/releases/download/1.4.5-M2/am2r.apworld",
       "size": 35280,
       "hash_sha256": "b7c8afc47998a7a1e782a00b07eaea3325be87a268aed889b4f3015ac66f0818",
@@ -6241,6 +6257,22 @@
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/AegeusEvander/Brave-Fencer-Musashi-AP-World/releases/download/v0.7.0/bfm.apworld",
+      "size": 2301526,
+      "hash_sha256": "a429f88403872d9cf3f838134486d532ce898ae86ec5b4d6b9ac9d68a55db156",
+      "metadata": {
+        "game": "",
+        "id": "bfm",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-06-12T04:23:13Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "tracker_included"
         ]
       }
     },
@@ -26144,6 +26176,19 @@
       }
     },
     {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.29.0/ffxiv.apworld",
+      "size": 140958,
+      "hash_sha256": "b87c1da588d7632e18aedd1640e52d79da5b17cc61a5f4080b63dc58e12f098a",
+      "metadata": {
+        "game": "",
+        "id": "ffxiv",
+        "world_version": "0.29.0",
+        "tag_version": "0.29.0",
+        "created_at": "2026-06-04T03:55:40Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/silasary/APxiv/releases/download/0.28.1/ffxiv.apworld",
       "size": 137420,
       "hash_sha256": "f2cfb228bb56e83f8d7b0f20d8f1f50a6ff6ecea5f4924da9954e4ce84558e08",
@@ -28104,6 +28149,19 @@
         "world_version": "0.5.3b0",
         "tag_version": "0.5.3b0",
         "created_at": "2025-12-17T23:06:49Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/FeluciaPS/Archipelago/releases/download/0.5.3-beta/garfkart.apworld",
+      "size": 19116,
+      "hash_sha256": "59558f916eecc361b9aff7101680181ddc698fe221f455b969027db5c3bf2b98",
+      "metadata": {
+        "game": "",
+        "id": "garfkart",
+        "world_version": "0.5.3b0",
+        "tag_version": "0.5.3b0",
+        "created_at": "2026-06-10T18:35:48Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -52490,6 +52548,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v1.2.1/mmx2.apworld",
+      "size": 58013,
+      "hash_sha256": "ccde2d29bef739ce68eefcfe71b6207d431945d03ac05c5c1168027084eef157",
+      "metadata": {
+        "game": "",
+        "id": "mmx2",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-06-12T05:20:27Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v1.2.0/mmx2.apworld",
       "size": 58076,
       "hash_sha256": "5a898794c6c943151cf25b6804437dbc016392d647bccacfd35fa2531a259cde",
@@ -52578,6 +52649,19 @@
         "tag_version": "1.0.0",
         "created_at": "2024-08-07T07:23:43Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx3-v1.5.2/mmx3.apworld",
+      "size": 69572,
+      "hash_sha256": "3a4f1905cd17772f7f8f0788624435416a1be85e991d6a0327b591221701f2fb",
+      "metadata": {
+        "game": "",
+        "id": "mmx3",
+        "world_version": "1.5.2",
+        "tag_version": "1.5.2",
+        "created_at": "2026-06-12T05:21:56Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -67633,6 +67717,19 @@
         "tag_version": "0.1.1",
         "created_at": "2025-12-18T00:06:59Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.5.2/rabi_ribi.apworld",
+      "size": 231725,
+      "hash_sha256": "3c69fba7bdd0fd36e90a05ee5b7156a83781ac53207cf740014875fb37189a9c",
+      "metadata": {
+        "game": "",
+        "id": "rabi_ribi",
+        "world_version": "1.5.2",
+        "tag_version": "1.5.2",
+        "created_at": "2026-06-12T12:04:28Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {

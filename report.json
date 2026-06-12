@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
-  "total_packages": 625,
-  "total_versions": 7038,
+  "total_packages": 627,
+  "total_versions": 7045,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -351,7 +351,7 @@
     "mm_recomp": false,
     "mmbn6": true,
     "mmx": true,
-    "mmx2": false,
+    "mmx2": true,
     "mmx3": true,
     "mmx4": false,
     "mmzero3": false,
@@ -573,23 +573,23 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 344,
+    "": 342,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 13,
     "0.6.1": 11,
-    "0.6.2": 10,
+    "0.6.2": 9,
     "0.6.3": 54,
-    "0.6.4": 60,
+    "0.6.4": 59,
     "0.6.5": 18,
     "0.6.6": 13,
-    "0.6.7": 27
+    "0.6.7": 31
   },
   "max_maximum_ap_version": {
-    "": 277,
+    "": 279,
     "0.0.1": 1,
     "0.4.6": 5,
     "0.6.6": 1,
-    "0.6.99": 273
+    "0.6.99": 271
   }
 }
