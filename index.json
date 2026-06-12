@@ -71391,6 +71391,19 @@
       }
     },
     {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.13.0/rotn.apworld",
+      "size": 16988,
+      "hash_sha256": "be47135d835d93660599059a2add0d5e5e9a3006066de931d13120e98ebfafb2",
+      "metadata": {
+        "game": "",
+        "id": "rotn",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2026-06-12T01:41:46Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.12.0/rotn.apworld",
       "size": 16796,
       "hash_sha256": "7b65ceb32751c776040100d37846fee95157ff4fd91bb49f06fa44f5f18acb62",
@@ -81622,6 +81635,22 @@
         "world_version": "2",
         "tag_version": "2",
         "created_at": "2025-04-26T12:47:25Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/GraymonDgt/SRB2Archipelago/releases/download/v1.7.2/srb2.apworld",
+      "size": 92311,
+      "hash_sha256": "96d520117bdf4d05384624809c2dc8fb37d08b5a4ed1672109b0cc0ee4f92af6",
+      "metadata": {
+        "game": "",
+        "id": "srb2",
+        "world_version": "1.7.2",
+        "tag_version": "1.7.2",
+        "created_at": "2026-06-11T19:28:22Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "unready"
