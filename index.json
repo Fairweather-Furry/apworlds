@@ -12369,6 +12369,22 @@
       }
     },
     {
+      "world": "https://github.com/Demorck/ClairObscur_APWorld/releases/download/v0.2.1/clair_obscur.apworld",
+      "size": 60425,
+      "hash_sha256": "da27d45f1a97cfd6b323ffb9a18dd92ca42a842924ade9a47ffdf606f09a504b",
+      "metadata": {
+        "game": "",
+        "id": "clair_obscur",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-06-10T12:59:44Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Demorck/ClairObscur_APWorld/releases/download/v0.2.0/clair_obscur.apworld",
       "size": 88585,
       "hash_sha256": "4543e1dd473a7899deb6683c7cf9687c3ddbd3527856a34f62675324075f53ad",
@@ -27797,6 +27813,23 @@
       }
     },
     {
+      "world": "https://github.com/zuils/FNaFBAP/releases/download/v0.4.0/fnafb2.apworld",
+      "size": 17549,
+      "hash_sha256": "decb839ffd7ac4f8bd2dacd099f83b6b41f105834674a9317c4f7cf4c7786ee4",
+      "metadata": {
+        "game": "",
+        "id": "fnafb2",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-06-12T15:46:58Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark",
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/zuils/FNaFBAP/releases/download/v0.3.5/fnafb2.apworld",
       "size": 14857,
       "hash_sha256": "4b5f2b46d2c0ac79c22407cb21f8df8b1b5fd8e04abdb92c08611d02ecaf3558",
@@ -28137,19 +28170,6 @@
         "tag_version": "0.1.0",
         "created_at": "2025-03-17T16:18:47Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/FeluciaPS/Archipelago/releases/download/v0.5.3-beta/garfkart.apworld",
-      "size": 19116,
-      "hash_sha256": "59558f916eecc361b9aff7101680181ddc698fe221f455b969027db5c3bf2b98",
-      "metadata": {
-        "game": "",
-        "id": "garfkart",
-        "world_version": "0.5.3b0",
-        "tag_version": "0.5.3b0",
-        "created_at": "2025-12-17T23:06:49Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -29190,6 +29210,19 @@
         "tag_version": "0.1.2",
         "created_at": "2024-03-08T02:30:50Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.8/grinch.apworld",
+      "size": 51369,
+      "hash_sha256": "1967d4e41068f86986b9cd42888033000c3a1bcad8dd947fdd3299851e8edc57",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.5.8",
+        "tag_version": "1.5.8",
+        "created_at": "2026-06-12T21:56:41Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -36111,6 +36144,18 @@
           "after_dark",
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/DeDeDeK/KARchipelago/releases/download/v1.0.0-TEST/kirby_air_ride.apworld",
+      "size": 168257,
+      "hash_sha256": "a38e1ccec2440f00dcb6347fd68b98d6979f09c9e8d273aeea000ce97b3cf1e2",
+      "metadata": {
+        "game": "",
+        "id": "kirby_air_ride",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-06-12T16:16:31Z"
       }
     },
     {
@@ -52649,6 +52694,19 @@
         "tag_version": "1.0.0",
         "created_at": "2024-08-07T07:23:43Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx3-v1.5.2/mmx3.apworld",
+      "size": 69558,
+      "hash_sha256": "76f16c88deca16e26f498541bf345aab7961b9e1a4d95e1dc178026546486bce",
+      "metadata": {
+        "game": "",
+        "id": "mmx3",
+        "world_version": "1.5.2.post2",
+        "tag_version": "1.5.2.post2",
+        "created_at": "2026-06-12T05:21:56Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -84393,6 +84451,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/barretg/Taskipelago/releases/download/v0.9.3/taskipelago.apworld",
+      "size": 67727,
+      "hash_sha256": "f8a7ac1553700dffaf032153d0ebf25295e807012e25c96c27771b9c5372ca09",
+      "metadata": {
+        "game": "",
+        "id": "taskipelago",
+        "world_version": "0.9.3",
+        "tag_version": "0.9.3",
+        "created_at": "2026-06-12T21:41:15Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
