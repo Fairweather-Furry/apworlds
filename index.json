@@ -23779,6 +23779,19 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.9.2/factorio_saws.apworld",
+      "size": 891985,
+      "hash_sha256": "d55ce70f17895b68e921909b8ecb19b537f9f90bf21ebeb4495142fbf37b687b",
+      "metadata": {
+        "game": "",
+        "id": "factorio_saws",
+        "world_version": "0.9.2",
+        "tag_version": "0.9.2",
+        "created_at": "2026-06-13T06:41:14Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.9.1/factorio_saws.apworld",
       "size": 889953,
       "hash_sha256": "b13dd0a21bb4bb2e98e87c9d4650a58f8c59b3811574e124ee10f4c310280c6d",
@@ -83994,6 +84007,22 @@
       }
     },
     {
+      "world": "https://github.com/guigui0246/StatusLock/releases/download/v0.4.1/status_lock.apworld",
+      "size": 17047999,
+      "hash_sha256": "5c51fc028d0e11a1573699d327f6439ac3076c9450f19d3d955eb2450f857667",
+      "metadata": {
+        "game": "",
+        "id": "status_lock",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2026-06-13T10:10:56Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/guigui0246/StatusLock/releases/download/v0.4.0/status_lock.apworld",
       "size": 17044106,
       "hash_sha256": "fb8153357085d12835a1e1314b085254833c342a08a0e9c6dc345e43d1da6fd6",
@@ -88338,6 +88367,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.4-alpha/tloz_ph.apworld",
+      "size": 2588204,
+      "hash_sha256": "078b814e3d01213496bf16c0f8ba4539c2edcf08d2e5210a837e44701419cc31",
+      "metadata": {
+        "game": "",
+        "id": "tloz_ph",
+        "world_version": "0.9.4a0",
+        "tag_version": "0.9.4a0",
+        "created_at": "2026-06-13T11:20:18Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
