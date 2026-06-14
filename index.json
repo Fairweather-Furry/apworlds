@@ -36172,6 +36172,18 @@
       }
     },
     {
+      "world": "https://github.com/DeDeDeK/KARchipelago/releases/download/v1.0.1-TEST/kirby_air_ride.apworld",
+      "size": 170948,
+      "hash_sha256": "9b4ce3d3c0b8813e77fce117bcbcacd93f39b369c1ef7f9d1568b21abc8c61fd",
+      "metadata": {
+        "game": "",
+        "id": "kirby_air_ride",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-06-13T17:35:37Z"
+      }
+    },
+    {
       "world": "https://github.com/DeDeDeK/KARchipelago/releases/download/v0.6.0/kirby_air_ride.apworld",
       "size": 79230,
       "hash_sha256": "44d3ea5e51cf13fb287dd84a8dfa54c041a58c7b22117400823379b982cf602b",
@@ -48270,6 +48282,22 @@
       }
     },
     {
+      "world": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v0.3.0/mario_super_sluggers.apworld",
+      "size": 23772,
+      "hash_sha256": "9c6f03af2ff5f8663b124f613b0175a6e21f3dd38aba279ff4d4e14a0410fd2d",
+      "metadata": {
+        "game": "",
+        "id": "mario_super_sluggers",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-06-07T16:21:30Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v0.2.3/mario_super_sluggers.apworld",
       "size": 23568,
       "hash_sha256": "2f32f48bd6bb42913b2e9d1f23cf7fd7daff3813c0ac39ee7fa9cc7cac7780bc",
@@ -55485,6 +55513,22 @@
         "tag_version": "0.5",
         "created_at": "2026-01-03T05:33:12Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/POD-io/Oblivion-ArchipelagoWorld/releases/download/v0.5.0/oblivion.apworld",
+      "size": 216528,
+      "hash_sha256": "6f9ffc0b88bea14e136e0db10adebc42194516d59c288d54446b479b864cbb2f",
+      "metadata": {
+        "game": "",
+        "id": "oblivion",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-06-13T18:50:57Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "after_dark"
+        ]
       }
     },
     {
@@ -67788,6 +67832,19 @@
         "tag_version": "0.1.1",
         "created_at": "2025-12-18T00:06:59Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/tdkollins/Archipelago-Rabi-Ribi/releases/download/1.5.3/rabi_ribi.apworld",
+      "size": 231751,
+      "hash_sha256": "51e3266c651e85dda7f40177c3bd67b8cc8f86ce27cd11b649f334600dc76b8c",
+      "metadata": {
+        "game": "",
+        "id": "rabi_ribi",
+        "world_version": "1.5.3",
+        "tag_version": "1.5.3",
+        "created_at": "2026-06-13T17:42:04Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -84483,6 +84540,19 @@
       }
     },
     {
+      "world": "https://github.com/barretg/Taskipelago/releases/download/v0.9.4/taskipelago.apworld",
+      "size": 68429,
+      "hash_sha256": "20b21a9fc27106fe119c56999d4cf068c43966ab69891c4d25449d2ba6bdf73e",
+      "metadata": {
+        "game": "",
+        "id": "taskipelago",
+        "world_version": "0.9.4",
+        "tag_version": "0.9.4",
+        "created_at": "2026-06-13T20:39:24Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/barretg/Taskipelago/releases/download/v0.9.3/taskipelago.apworld",
       "size": 67727,
       "hash_sha256": "f8a7ac1553700dffaf032153d0ebf25295e807012e25c96c27771b9c5372ca09",
@@ -92326,6 +92396,18 @@
       }
     },
     {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.5.3/ultrakill.apworld",
+      "size": 48478,
+      "hash_sha256": "e33cd3bb3aa8f1b6df3c96c44d17357f7b2b08b41b21c2cc96b68e992ff706d7",
+      "metadata": {
+        "game": "",
+        "id": "ultrakill",
+        "world_version": "3.5.3",
+        "tag_version": "3.5.3",
+        "created_at": "2026-06-13T17:51:15Z"
+      }
+    },
+    {
       "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.5.2/ultrakill.apworld",
       "size": 47852,
       "hash_sha256": "72e3c2a161d6dd1597e770efe8be61cc86cde54c6c1e6a4d4194410a90bc198c",
@@ -95093,6 +95175,19 @@
         "tag_version": "1.2.5",
         "created_at": "2025-01-11T11:05:44Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/lilDavid/Archipelago-Wario-Land-4/releases/download/3.4.0/wl4.apworld",
+      "size": 64600,
+      "hash_sha256": "d1df19c4dbdd6b30f52fd028063753e4ad3033640057eab7fd12274b36c17d97",
+      "metadata": {
+        "game": "",
+        "id": "wl4",
+        "world_version": "3.4.0",
+        "tag_version": "3.4.0",
+        "created_at": "2026-06-13T17:13:01Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
