@@ -95,6 +95,19 @@
       "title": "v0.3.0",
       "version_simple": "0.3.0",
       "world_version": "0.3.0"
+    },
+    "v0.3.1": {
+      "created_at": "2026-06-14T23:18:18Z",
+      "download_url": "https://github.com/SWCreeperKing/Slimipelago/releases/download/v0.3.1/slime_rancher.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a1cf68571253bd1c589732b9f8d0839cc50e9d3f4148190cf335ac3e652b7a2e",
+      "minimum_ap_version": "0.6.5",
+      "size": 21561,
+      "source_url": "https://api.github.com/repos/SWCreeperKing/Slimipelago",
+      "tag": "v0.3.1",
+      "title": "v0.3.1",
+      "version_simple": "0.3.1",
+      "world_version": "0.3.1"
     }
   }
 }
