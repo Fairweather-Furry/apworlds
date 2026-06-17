@@ -11732,6 +11732,19 @@
       }
     },
     {
+      "world": "https://github.com/chesslogic/chessv/releases/download/v0.3.2/checksmate.apworld",
+      "size": 243280,
+      "hash_sha256": "6c0f81ad139c71d3bf98ba4c521741b238b6b751920c38579dd6f37beaf2867d",
+      "metadata": {
+        "game": "",
+        "id": "checksmate",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-06-17T07:20:57Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/chesslogic/chessv/releases/download/v0.3.1/checksmate.apworld",
       "size": 208473,
       "hash_sha256": "04dfae6f87e3eaa24692a5dbf488cf5d8387e76f4419720a2248b21ef2b5f18b",
@@ -39340,19 +39353,6 @@
         "world_version": "0.0.1",
         "tag_version": "0.0.1",
         "created_at": "2023-12-14T20:58:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/AutomaticFrenzy/Archipelago/releases/download/0.2.5/loonyland0.2.5.apworld",
-      "size": 70831,
-      "hash_sha256": "51ea1d6959ffa81336a08d2c0644d4e96ee8b3a3fbb1425db77df05097b93664",
-      "metadata": {
-        "game": "",
-        "id": "loonyland",
-        "world_version": "0.2.5",
-        "tag_version": "0.2.5",
-        "created_at": "2022-02-18T18:32:36Z",
         "maximum_ap_version": "0.6.99"
       }
     },
