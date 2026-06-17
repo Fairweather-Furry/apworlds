@@ -38869,6 +38869,22 @@
       }
     },
     {
+      "world": "https://github.com/danielgruethling/Archipelago/releases/download/0.3.1/little_witch_nobeta.apworld",
+      "size": 29613,
+      "hash_sha256": "abb5a48da7c79baef9fb1c762ca5d5fa1e49e50518575be49e6be340eae705fa",
+      "metadata": {
+        "game": "",
+        "id": "little_witch_nobeta",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-02-22T20:22:22Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/danielgruethling/Archipelago/releases/download/0.2.1/little_witch_nobeta.apworld",
       "size": 22776,
       "hash_sha256": "703bd7fb1d22ba3982d92ca812684e4eb12fe587e9eef829c68386b6876d4f13",
@@ -39337,6 +39353,19 @@
         "world_version": "0.2.5",
         "tag_version": "0.2.5",
         "created_at": "2022-02-18T18:32:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/AutomaticFrenzy/Archipelago/releases/download/v0.2.5/loonyland.apworld",
+      "size": 70831,
+      "hash_sha256": "51ea1d6959ffa81336a08d2c0644d4e96ee8b3a3fbb1425db77df05097b93664",
+      "metadata": {
+        "game": "",
+        "id": "loonyland",
+        "world_version": "0.2.5",
+        "tag_version": "0.2.5",
+        "created_at": "2026-06-14T15:53:29Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -44319,6 +44348,19 @@
         "world_version": "1.0",
         "tag_version": "1.0",
         "created_at": "2025-11-05T19:25:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Greengamefire/Mario-Kart-World-Manual-AP/releases/download/v0.3.3/manual_mariokartworld_greengamefire.apworld",
+      "size": 62085,
+      "hash_sha256": "a94b8426df757d188c5929deaa0cc0c2368af0e607c1862737545295fd07a5e0",
+      "metadata": {
+        "game": "",
+        "id": "manual_mariokartworld_greengamefire",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2025-06-25T13:47:12Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -77067,6 +77109,22 @@
       }
     },
     {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.9/sm64hacks.apworld",
+      "size": 296438,
+      "hash_sha256": "b2007b3dfbe4cff2f2477eb1384a47a20fa897f84607b7770f4042308a1d5163",
+      "metadata": {
+        "game": "",
+        "id": "sm64hacks",
+        "world_version": "1.1.7",
+        "tag_version": "1.1.7",
+        "created_at": "2026-06-16T23:40:57Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.6/sm64hacks.apworld",
       "size": 294970,
       "hash_sha256": "c5ff60c35dd463f0d3fe25d5c4addd0d052be2d8253a2d73445b022b7f76b566",
@@ -90949,6 +91007,19 @@
         "tag_version": "1.0.0",
         "created_at": "2025-05-04T19:36:25Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.10.2/ttyd.apworld",
+      "size": 1576848,
+      "hash_sha256": "8ecaa3c96b5be7a779880a9ed8c0336ec86174134e47541657b563f9e4ace2ae",
+      "metadata": {
+        "game": "",
+        "id": "ttyd",
+        "world_version": "0.10.2.post2",
+        "tag_version": "0.10.2.post2",
+        "created_at": "2026-06-14T20:49:34Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
