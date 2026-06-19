@@ -628,6 +628,19 @@
       }
     },
     {
+      "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.3.0/albw.apworld",
+      "size": 17433788,
+      "hash_sha256": "7973e13a6cc1c3a9176c8272df93bb8ade5a142f095f1a5015701e829bc50194",
+      "metadata": {
+        "game": "",
+        "id": "albw",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-06-18T19:35:40Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.2.3/albw.apworld",
       "size": 17034439,
       "hash_sha256": "a756c9fbd7b7d2c2428a272a213d9736b6a8d2ffd73526570775fcb1da6b43db",
@@ -7596,6 +7609,19 @@
       }
     },
     {
+      "world": "https://github.com/StefanDucharme/blockupelago/releases/download/v2.2/blockupelago.apworld",
+      "size": 7707,
+      "hash_sha256": "b60e8c60c7ff30ad7064548adb511e842fae58c7bc6f4d83292ebb1749081026",
+      "metadata": {
+        "game": "",
+        "id": "blockupelago",
+        "world_version": "2.2",
+        "tag_version": "2.2",
+        "created_at": "2026-06-18T22:41:57Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/StefanDucharme/blockupelago/releases/download/v0.2.0/blockupelago.apworld",
       "size": 7707,
       "hash_sha256": "c61bb5d6e4abf3f27bad4722fdee9335c1734fc34e8a7e3950c9d03fddce7268",
@@ -12669,6 +12695,18 @@
       }
     },
     {
+      "world": "https://github.com/Isaac-SOL/CobaltCoreArchipelagoMod/releases/download/release/1.2.0/cobalt_core.apworld",
+      "size": 22265,
+      "hash_sha256": "81c72a199d386869e4b49a44d99c62a74a263f8818503c1f0677743a651e9e50",
+      "metadata": {
+        "game": "",
+        "id": "cobalt_core",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-06-18T21:54:02Z"
+      }
+    },
+    {
       "world": "https://github.com/Isaac-SOL/CobaltCoreArchipelagoMod/releases/download/release/1.2.0-rc2/cobalt_core.apworld",
       "size": 22265,
       "hash_sha256": "81c72a199d386869e4b49a44d99c62a74a263f8818503c1f0677743a651e9e50",
@@ -16555,6 +16593,19 @@
         "world_version": "0.5.0",
         "tag_version": "0.5.0",
         "created_at": "2026-06-01T20:14:50Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.5.6/dc1.apworld",
+      "size": 93026,
+      "hash_sha256": "e89139d7ccda86867c2eb64ab36420993d0c67f929e32e326e20a0694b3fac7f",
+      "metadata": {
+        "game": "",
+        "id": "dc1",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-06-18T16:48:43Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -55624,6 +55675,19 @@
       }
     },
     {
+      "world": "https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.7/nonopelagram.apworld",
+      "size": 6279,
+      "hash_sha256": "4ca31b843d75106aa4dd2c8b56a3533e085a051f129a2bbbc2d2d0c6d488c8ae",
+      "metadata": {
+        "game": "",
+        "id": "nonopelagram",
+        "world_version": "0.6.7",
+        "tag_version": "0.6.7",
+        "created_at": "2026-06-18T21:43:37Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.3/nonopelagram.apworld",
       "size": 6004,
       "hash_sha256": "3f1559a6c49325cda95644ee272669925a52120ec2c5675bc9ccd680cafafdc7",
@@ -67785,6 +67849,18 @@
         "flags": [
           "after_dark"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.3.3/rabbit_and_steel.apworld",
+      "size": 24754,
+      "hash_sha256": "66b38439e1e054a3d34b7c1d4fed18b69ee15f0a8c917e3fbbfe9f1ec74dadbc",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2026-06-18T23:04:16Z"
       }
     },
     {
@@ -96815,6 +96891,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.20/yarg.apworld",
+      "size": 33375,
+      "hash_sha256": "589bd50c1412b5c13fdb6ec532e995ea3f4fb3252fd1e16075b803047918cb1c",
+      "metadata": {
+        "game": "",
+        "id": "yarg",
+        "world_version": "0.0.20",
+        "tag_version": "0.0.20",
+        "created_at": "2026-06-19T02:41:04Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {

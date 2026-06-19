@@ -151,6 +151,18 @@
       "version_simple": "1.1.6",
       "world_version": "1.1.6"
     },
+    "release/1.2.0": {
+      "created_at": "2026-06-18T21:54:02Z",
+      "download_url": "https://github.com/Isaac-SOL/CobaltCoreArchipelagoMod/releases/download/release/1.2.0/cobalt_core.apworld",
+      "has_manifest": true,
+      "hash_sha256": "81c72a199d386869e4b49a44d99c62a74a263f8818503c1f0677743a651e9e50",
+      "size": 22265,
+      "source_url": "https://api.github.com/repos/Isaac-SOL/CobaltCoreArchipelagoMod",
+      "tag": "release/1.2.0",
+      "title": "1.2.0",
+      "version_simple": "1.2.0",
+      "world_version": "1.2.0"
+    },
     "release/1.2.0-rc1": {
       "created_at": "2026-04-20T21:34:29Z",
       "download_url": "https://github.com/Isaac-SOL/CobaltCoreArchipelagoMod/releases/download/release/1.2.0-rc1/cobalt_core.apworld",
