@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
-  "total_packages": 628,
-  "total_versions": 7094,
+  "total_packages": 627,
+  "total_versions": 7068,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -62,7 +62,6 @@
     "chainedechoes": false,
     "checksmate": false,
     "christmasdeliveryapworld-main": false,
-    "civv": true,
     "ckd": true,
     "clair_obscur": true,
     "cluster_truck": true,
@@ -573,7 +572,7 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 338,
+    "": 337,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 12,
@@ -586,7 +585,7 @@
     "0.6.7": 36
   },
   "max_maximum_ap_version": {
-    "": 282,
+    "": 281,
     "0.0.1": 1,
     "0.4.6": 5,
     "0.6.6": 1,
