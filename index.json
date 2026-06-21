@@ -628,6 +628,19 @@
       }
     },
     {
+      "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.3.1/albw.apworld",
+      "size": 17433807,
+      "hash_sha256": "51f82a6afaaaeebd152cc71937f3d0ddb167185b984c00c5cc3bd421f859c86d",
+      "metadata": {
+        "game": "",
+        "id": "albw",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-06-21T01:24:19Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.3.0/albw.apworld",
       "size": 17433788,
       "hash_sha256": "7973e13a6cc1c3a9176c8272df93bb8ade5a142f095f1a5015701e829bc50194",
@@ -12704,6 +12717,18 @@
         "tag_version": "1.0.0",
         "created_at": "2025-02-25T23:39:28Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Isaac-SOL/CobaltCoreArchipelagoMod/releases/download/release/1.2.1/cobalt_core.apworld",
+      "size": 22265,
+      "hash_sha256": "81c72a199d386869e4b49a44d99c62a74a263f8818503c1f0677743a651e9e50",
+      "metadata": {
+        "game": "",
+        "id": "cobalt_core",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-06-18T21:54:02Z"
       }
     },
     {
@@ -61981,6 +62006,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.33/pokemon_bw.apworld",
+      "size": 1127273,
+      "hash_sha256": "e8d10368bfee372385228fe811789da4577c27b6825341e9c05dfb6f7dc4eb7d",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_bw",
+        "world_version": "0.3.33",
+        "tag_version": "0.3.33",
+        "created_at": "2026-06-20T18:02:27Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
