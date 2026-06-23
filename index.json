@@ -55858,6 +55858,19 @@
       }
     },
     {
+      "world": "https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.8/nonopelagram.apworld",
+      "size": 14728,
+      "hash_sha256": "c20520639e2d07c17d439b086203ecb24a05c22d995eb15857779f745138ed71",
+      "metadata": {
+        "game": "",
+        "id": "nonopelagram",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2026-06-23T14:39:10Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.7/nonopelagram.apworld",
       "size": 6279,
       "hash_sha256": "4ca31b843d75106aa4dd2c8b56a3533e085a051f129a2bbbc2d2d0c6d488c8ae",
@@ -59751,6 +59764,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.3.0/phoa.apworld",
+      "size": 23435,
+      "hash_sha256": "73f4aaa9f260e396dac6dc8ab2e8bf3f817dc2f63bb1c7b0cb6eff5b01344a58",
+      "metadata": {
+        "game": "",
+        "id": "phoa",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-06-20T21:30:58Z",
+        "minimum_ap_version": "0.6.6"
       }
     },
     {
