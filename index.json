@@ -6908,6 +6908,23 @@
       }
     },
     {
+      "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.6.0/bg3.apworld",
+      "size": 98103,
+      "hash_sha256": "67b2b790f7b528be5a7e5e90feafff3b69fb00bfc717dc81986ff40d6546b9ab",
+      "metadata": {
+        "game": "",
+        "id": "bg3",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-06-22T20:13:22Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.4.5/bg3.apworld",
       "size": 105862,
       "hash_sha256": "c5b56a5ea766e20c601e62c616fc06a0ec6703140b130c0a3a25a77a8886bc45",
@@ -39699,23 +39716,6 @@
       }
     },
     {
-      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-gamma/lor.apworld",
-      "size": 25615,
-      "hash_sha256": "49c786c6f6f7a853a069fedb0750b607e2115dae2f369f6239dcc7475b49935c",
-      "metadata": {
-        "game": "",
-        "id": "lor",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2026-05-13T18:32:31Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "after_dark",
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-epsilon/lor.apworld",
       "size": 26675,
       "hash_sha256": "1aeeebd40b8696aae3a9baa85cb7843a2308c2b569ebfaaf7880d9acbc7293dc",
@@ -39725,6 +39725,23 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2026-06-22T14:52:37Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-gamma/lor.apworld",
+      "size": 25615,
+      "hash_sha256": "49c786c6f6f7a853a069fedb0750b607e2115dae2f369f6239dcc7475b49935c",
+      "metadata": {
+        "game": "",
+        "id": "lor",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-05-13T18:32:31Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "after_dark",
@@ -62122,6 +62139,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.34/pokemon_bw.apworld",
+      "size": 1128329,
+      "hash_sha256": "c3de5f2a6d98be8443488aa3463a294aeb0250811d0084c65d36d0909a3393f6",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_bw",
+        "world_version": "0.3.34",
+        "tag_version": "0.3.34",
+        "created_at": "2026-06-21T16:04:16Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.33/pokemon_bw.apworld",
       "size": 1127273,
       "hash_sha256": "e8d10368bfee372385228fe811789da4577c27b6825341e9c05dfb6f7dc4eb7d",
@@ -68106,6 +68136,30 @@
         "flags": [
           "after_dark"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.3.4/rabbit_and_steel.apworld",
+      "size": 24759,
+      "hash_sha256": "869b3f0b5c2e5964ba31fc9b7c45a121d5a5faf77b81ec3cd8a4582e3ddcd735",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.3.4",
+        "tag_version": "0.3.4",
+        "created_at": "2026-06-23T01:49:33Z"
+      }
+    },
+    {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.3.3/rabbit_and_steel.apworld",
+      "size": 24765,
+      "hash_sha256": "ae3d96b0d3e6c2931c696ccbad92baecef616448b054b7166ffaac5937e1fa61",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.3.3.post2",
+        "tag_version": "0.3.3.post2",
+        "created_at": "2026-06-18T23:04:16Z"
       }
     },
     {
