@@ -12061,6 +12061,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.2/civv.apworld",
+      "size": 455336,
+      "hash_sha256": "2a26b36e30a44be5877f3e265a7dc15b9e0704686b3ea4f967de383ea9f17338",
+      "metadata": {
+        "game": "",
+        "id": "civv",
+        "world_version": "0.10.2",
+        "tag_version": "0.10.2",
+        "created_at": "2026-06-23T16:57:34Z"
+      }
+    },
+    {
       "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.0/civv.apworld",
       "size": 455097,
       "hash_sha256": "444445cb7345c5790f6170198f11d1e2047d88ef647d8ccb00010e26254fedea",
@@ -13588,6 +13600,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-08-19T00:49:14Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Sim10XXX/C2AP/releases/download/v0.4.0/crash2.apworld",
+      "size": 47003,
+      "hash_sha256": "c305635fa8cd92973f81e89dcf6ed9064d2efb46d259730065a36e9bcd65abd2",
+      "metadata": {
+        "game": "",
+        "id": "crash2",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-06-24T02:13:16Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -16699,6 +16724,19 @@
         "world_version": "0.5.0",
         "tag_version": "0.5.0",
         "created_at": "2026-06-19T19:44:28Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.5.8/dc1.apworld",
+      "size": 93026,
+      "hash_sha256": "e89139d7ccda86867c2eb64ab36420993d0c67f929e32e326e20a0694b3fac7f",
+      "metadata": {
+        "game": "",
+        "id": "dc1",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-06-23T19:19:23Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -31045,6 +31083,19 @@
         "world_version": "4.1.1",
         "tag_version": "4.1.1",
         "created_at": "2026-06-17T19:10:30Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v4.1.2/hammerwatch.apworld",
+      "size": 3528788,
+      "hash_sha256": "309f50f3ca0817127d1a8c43f370fe57c10fd5e79678f2817e90c8b2526c172b",
+      "metadata": {
+        "game": "",
+        "id": "hammerwatch",
+        "world_version": "4.1.1",
+        "tag_version": "4.1.1",
+        "created_at": "2026-06-23T21:02:54Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -54946,6 +54997,19 @@
       }
     },
     {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.6/nine_sols.apworld",
+      "size": 2586237,
+      "hash_sha256": "2be3b14006b2744a91f729bb03c9fd4805394a681fdb6ab861d3f80b38672708",
+      "metadata": {
+        "game": "",
+        "id": "nine_sols",
+        "world_version": "0.5.6",
+        "tag_version": "0.5.6",
+        "created_at": "2026-06-23T16:21:29Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.5.5/nine_sols.apworld",
       "size": 2585159,
       "hash_sha256": "0ba8ad13d02228068b18f1065663d228801c58ce0797e79bcb2e8f808e93465d",
@@ -56376,6 +56440,19 @@
         "tag_version": "0.9",
         "created_at": "2025-04-06T06:03:57Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/HarbourMasters/Archipelago-SoH/releases/download/SoH_1.4.0/oot_soh.apworld",
+      "size": 217406,
+      "hash_sha256": "437c9138b1e765a52cc0d1e8dba8b494bd3bcb57b0f3b1efe0f5296b61123cb3",
+      "metadata": {
+        "game": "",
+        "id": "oot_soh",
+        "world_version": "1.4.0",
+        "tag_version": "1.4.0",
+        "created_at": "2026-06-23T18:22:42Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
