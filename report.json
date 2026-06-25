@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
   "total_packages": 629,
-  "total_versions": 7131,
+  "total_versions": 7135,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -144,7 +144,7 @@
     "flipwitch": true,
     "fm": true,
     "fnafb1": false,
-    "fnafb2": false,
+    "fnafb2": true,
     "forgedcurse": true,
     "fp2": false,
     "frogmonster": true,
@@ -573,7 +573,7 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 336,
+    "": 335,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 12,
@@ -581,14 +581,14 @@
     "0.6.2": 9,
     "0.6.3": 54,
     "0.6.4": 60,
-    "0.6.5": 18,
+    "0.6.5": 19,
     "0.6.6": 12,
     "0.6.7": 38
   },
   "max_maximum_ap_version": {
-    "": 285,
+    "": 286,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 266
+    "0.6.99": 265
   }
 }

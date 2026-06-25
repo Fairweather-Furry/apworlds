@@ -28090,6 +28090,23 @@
       }
     },
     {
+      "world": "https://github.com/zuils/FNaFBAP/releases/download/v0.4.1/fnafb2.apworld",
+      "size": 17607,
+      "hash_sha256": "2fde40eca37daa3d93b9f8ff61f7efc439a7d895a41118ea18d3e47bb3cbbf1b",
+      "metadata": {
+        "game": "",
+        "id": "fnafb2",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2026-06-25T03:07:23Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "after_dark",
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/zuils/FNaFBAP/releases/download/v0.4.0/fnafb2.apworld",
       "size": 17549,
       "hash_sha256": "decb839ffd7ac4f8bd2dacd099f83b6b41f105834674a9317c4f7cf4c7786ee4",
@@ -38049,6 +38066,18 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/T0r1nn/APLC/releases/download/v0.7.12-beta/lethal_company.apworld",
+      "size": 455054,
+      "hash_sha256": "32a42513965bf6b483c172a51b238205c83fe7cee45b9f0004869dc68d04dfc9",
+      "metadata": {
+        "game": "",
+        "id": "lethal_company",
+        "world_version": "0.7.12b0",
+        "tag_version": "0.7.12b0",
+        "created_at": "2026-06-25T00:34:09Z"
       }
     },
     {
@@ -56453,6 +56482,19 @@
         "tag_version": "0.9",
         "created_at": "2025-04-06T06:03:57Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/HarbourMasters/Archipelago-SoH/releases/download/SoH_1.4.1/oot_soh.apworld",
+      "size": 217419,
+      "hash_sha256": "f19d224909597386c090917105412453a978ff328b773600c19d0c5b62dd4df6",
+      "metadata": {
+        "game": "",
+        "id": "oot_soh",
+        "world_version": "1.4.1",
+        "tag_version": "1.4.1",
+        "created_at": "2026-06-24T12:53:05Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -76257,6 +76299,18 @@
         "tag_version": "0.1.0",
         "created_at": "2025-06-23T01:58:27Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Simsipelago/Archipelago/releases/download/2.0.0/sims4.apworld",
+      "size": 250108,
+      "hash_sha256": "9d89efe42882527c2a5d164be89da23157f71f6568fa713d6679ed2dda2d6872",
+      "metadata": {
+        "game": "",
+        "id": "sims4",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-06-25T02:16:08Z"
       }
     },
     {
