@@ -1996,6 +1996,19 @@
       }
     },
     {
+      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.6/ape_escape_3.apworld",
+      "size": 144758,
+      "hash_sha256": "77ddc16a21525bdfcd059e13414fc3baa6c7fa4b4a2367d5ac89e37d2ba8d4b3",
+      "metadata": {
+        "game": "",
+        "id": "ape_escape_3",
+        "world_version": "2.0.6",
+        "tag_version": "2.0.6",
+        "created_at": "2026-06-27T10:29:01Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.0.5/ape_escape_3.apworld",
       "size": 143145,
       "hash_sha256": "ac83ecb9758c7dfc4c7b5739498c406cd8ce4cbae4a6a96a3f9a86d2d79df815",
@@ -12100,6 +12113,18 @@
         "tag_version": "1.0.0",
         "created_at": "2024-12-15T17:38:30Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.3/civv.apworld",
+      "size": 455510,
+      "hash_sha256": "5c771887aca9768d6613ce9af93543d4330671ded4228dd31491f4f032d05ca3",
+      "metadata": {
+        "game": "",
+        "id": "civv",
+        "world_version": "0.10.3",
+        "tag_version": "0.10.3",
+        "created_at": "2026-06-27T12:41:02Z"
       }
     },
     {
@@ -41677,6 +41702,18 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/Archipelago/releases/download/MadouMonogatari106/madou.apworld",
+      "size": 44812,
+      "hash_sha256": "697300f04e60dbf94a40ada02a8cabf8ca8043baa14425ba54d4edb8130a94c8",
+      "metadata": {
+        "game": "",
+        "id": "madou",
+        "world_version": "106",
+        "tag_version": "106",
+        "created_at": "2026-06-27T10:39:48Z"
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/Archipelago/releases/download/MadouMonogatari105/madou.apworld",
       "size": 44508,
       "hash_sha256": "06ddd84d9588aea5c0b2fd960e098f2cc8661aa2ec443260f1ac037ef237a5a9",
@@ -59976,6 +60013,19 @@
         "world_version": "0.3.0",
         "tag_version": "0.3.0",
         "created_at": "2026-06-20T21:30:58Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
+      "world": "https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.3.1/phoa.apworld",
+      "size": 23435,
+      "hash_sha256": "a103e0be54f94bc23670254b581bfd16554e508cb730feb500f78a3bae4dc6e8",
+      "metadata": {
+        "game": "",
+        "id": "phoa",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-06-27T09:21:03Z",
         "minimum_ap_version": "0.6.6"
       }
     },
