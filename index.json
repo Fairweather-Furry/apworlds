@@ -72884,6 +72884,19 @@
       }
     },
     {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.2/sadx.apworld",
+      "size": 3156790,
+      "hash_sha256": "4436a03f8fc309d5d9cb10212b22654700cf0a351eac7cc0c956e25539ce0383",
+      "metadata": {
+        "game": "",
+        "id": "sadx",
+        "world_version": "1.2.2",
+        "tag_version": "1.2.2",
+        "created_at": "2026-06-24T03:58:14Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.1/sadx.apworld",
       "size": 3156325,
       "hash_sha256": "5fc605dceae038b9967008d2ae32e7ca5e3b54b3b1e7dc75bb586031ed46b808",
@@ -85475,6 +85488,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/barretg/Taskipelago/releases/download/v0.9.5/taskipelago.apworld",
+      "size": 72711,
+      "hash_sha256": "acd86624393b584bdbe48f11d6e8262a8afb973694d4ea8c8cc0bb6ba2146c73",
+      "metadata": {
+        "game": "",
+        "id": "taskipelago",
+        "world_version": "0.9.5",
+        "tag_version": "0.9.5",
+        "created_at": "2026-06-26T19:36:49Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
