@@ -13683,6 +13683,19 @@
       }
     },
     {
+      "world": "https://github.com/Sim10XXX/C2AP/releases/download/v0.4.1/crash2.apworld",
+      "size": 47818,
+      "hash_sha256": "03bfb50b80c5c63cbee650863e19752f5afe4cbde0f18706d4fa52887f6dc910",
+      "metadata": {
+        "game": "",
+        "id": "crash2",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-06-28T04:31:50Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/Sim10XXX/C2AP/releases/download/v0.4.0-pre3/crash2.apworld",
       "size": 45454,
       "hash_sha256": "44c9e1ed3ece25ae95f3466d6f64dd8a472347a7d6c291b0cc7c5866f0353f37",
@@ -29610,6 +29623,22 @@
         "tag_version": "0.1.2",
         "created_at": "2024-03-08T02:30:50Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR1/grinch.apworld",
+      "size": 52743,
+      "hash_sha256": "e21135e681d5ce3a5af50bac0ebc2ded50ff2c8fc09999959e8f350f56f48883",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-06-28T04:11:19Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -66227,6 +66256,18 @@
       }
     },
     {
+      "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.3/pokepark.apworld",
+      "size": 79644,
+      "hash_sha256": "c8308dbae6c265a158244345ad44a07e204ad8b21f6c1e23aa14c4910caa0837",
+      "metadata": {
+        "game": "",
+        "id": "pokepark",
+        "world_version": "1.2.3",
+        "tag_version": "1.2.3",
+        "created_at": "2026-06-28T11:52:58Z"
+      }
+    },
+    {
       "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.2/pokepark.apworld",
       "size": 79641,
       "hash_sha256": "22c21ddd8d0fcb89ff7df5bb0c62624f73d8137a326fad9d4c5ab0eab96234af",
@@ -83611,6 +83652,123 @@
       }
     },
     {
+      "world": "https://codeberg.org/Partatio/SS2-Apworld/releases/download/0.5.0/ss2.apworld",
+      "size": 36680,
+      "hash_sha256": "fcad7ff553135c9aa8da43eb1904d26dd5132fab91d3e8f02055dd4ebe1c21ea",
+      "metadata": {
+        "game": "",
+        "id": "ss2",
+        "world_version": "0.5.0.post2",
+        "tag_version": "0.5.0.post2",
+        "created_at": "2026-04-12T00:12:15+02:00",
+        "minimum_ap_version": "0.5.1"
+      }
+    },
+    {
+      "world": "https://codeberg.org/Partatio/SS2-Apworld/releases/download/0.5.0/ss2.apworld",
+      "size": 39222,
+      "hash_sha256": "50d0cc3fd81109ce6fbff96b907698ff3beca6db7813532141cceebfd1a699c7",
+      "metadata": {
+        "game": "",
+        "id": "ss2",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-04-12T00:12:15+02:00",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://codeberg.org/Partatio/SS2-Apworld/releases/download/0.4.1/ss2.apworld",
+      "size": 39067,
+      "hash_sha256": "43d848e1ed10b81a86509d04869b02230ef6857f8741bf17aead703f2dda352b",
+      "metadata": {
+        "game": "",
+        "id": "ss2",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2025-08-30T02:27:19+02:00",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://codeberg.org/Partatio/SS2-Apworld/releases/download/0.4.0/ss2.apworld",
+      "size": 39110,
+      "hash_sha256": "ebe353fbc77d7da2aa4499b8cdf1c8855a00559e6dd4126a71268da0b06c1c9e",
+      "metadata": {
+        "game": "",
+        "id": "ss2",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2025-08-25T15:43:20+02:00",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Partatio/SS2-Apworld/releases/download/v0.3.1/ss2.apworld",
+      "size": 36147,
+      "hash_sha256": "b68ca076ce81c0ba4a7186a97216b516cdfc13fc93cbe6f4e54b3c73a9c478e9",
+      "metadata": {
+        "game": "",
+        "id": "ss2",
+        "world_version": "0.3.1b0",
+        "tag_version": "0.3.1b0",
+        "created_at": "2025-05-12T09:58:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Partatio/SS2-Apworld/releases/download/v0.3.0/ss2.apworld",
+      "size": 34332,
+      "hash_sha256": "742b014eab0597647cc5ec4a5ccec6ebbeef615df88588a47c2cd0d01c8de27d",
+      "metadata": {
+        "game": "",
+        "id": "ss2",
+        "world_version": "0.3.0b0",
+        "tag_version": "0.3.0b0",
+        "created_at": "2025-04-03T20:40:21Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Partatio/SS2-Apworld/releases/download/v0.2.0/ss2.apworld",
+      "size": 33819,
+      "hash_sha256": "3f5faf9555e3c6634a221e3486f6d4d4ee963fbd5a8d80e83ab297c3ac974cef",
+      "metadata": {
+        "game": "",
+        "id": "ss2",
+        "world_version": "0.2.0a0",
+        "tag_version": "0.2.0a0",
+        "created_at": "2025-03-26T17:26:38Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Partatio/SS2-Apworld/releases/download/0.1.1/ss2.apworld",
+      "size": 33766,
+      "hash_sha256": "1b663cf7c0c1c15d3984a378066985951186f8194bf9f1d0fcad59b89b942cb0",
+      "metadata": {
+        "game": "",
+        "id": "ss2",
+        "world_version": "0.1.1a0",
+        "tag_version": "0.1.1a0",
+        "created_at": "2025-03-24T14:08:29Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Partatio/SS2-Apworld/releases/download/alpha/ss2.apworld",
+      "size": 33744,
+      "hash_sha256": "ef3ad7c9e55f5c8fa5d0af9dccd2db8fac820925135bfed40b3022dd170a526d",
+      "metadata": {
+        "game": "",
+        "id": "ss2",
+        "world_version": "0.1.0a0",
+        "tag_version": "0.1.0a0",
+        "created_at": "2025-03-23T19:24:02Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/JammyGeeza/Stacklands-Randomizer/releases/download/v0.2.5/stacklands.apworld",
       "size": 32972,
       "hash_sha256": "223e86b79d082503eb5cf7a9ab62c6ec3ca06d76536d4444665984e57514d563",
@@ -89914,6 +90072,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.7.8-alpha/tloz_st.apworld",
+      "size": 363909,
+      "hash_sha256": "dd909e0c00323e4d712e11bc819ecc729ff35dc179a06a8b0e8a8206750d9eaa",
+      "metadata": {
+        "game": "",
+        "id": "tloz_st",
+        "world_version": "0.7.8a0",
+        "tag_version": "0.7.8a0",
+        "created_at": "2026-06-28T09:38:06Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {
@@ -100472,6 +100643,10 @@
       "game": "Skyward Sword",
       "description": "What if that's Zelda down there, and she's sending me a signal? It's a sign!\nIt says, `Save me, Groose. You're my only hope!`\nThe more I think about it, the more sure I get! It's Zelda down there, and I gotta go rescue her!\n\nAnyhow, don't think about trying to go down there before me. I'm her hero, remember?\n\nUgh. I don't even know why I'm talking to you. Looking at you just makes me feel sad again.",
       "tracker": "https://youraveragelink.github.io/SS-Randomizer-Tracker/"
+    },
+    "ss2": {
+      "game": "System Shock 2",
+      "description": "System Shock 2 item, enemy, skill, stat, and psi randomizer."
     },
     "stacklands": {
       "game": "Stacklands",
