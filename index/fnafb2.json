@@ -86,6 +86,19 @@
       "title": "FNaFB2AP v0.4.2",
       "version_simple": "0.4.1",
       "world_version": "0.4.1"
+    },
+    "v0.4.3": {
+      "created_at": "2026-06-29T02:12:03Z",
+      "download_url": "https://github.com/zuils/FNaFBAP/releases/download/v0.4.3/fnafb2.apworld",
+      "has_manifest": true,
+      "hash_sha256": "8c73cfcc4043176a8af19a4de43c40df5ec01cad005f05bb78c344c9127cd37e",
+      "minimum_ap_version": "0.6.5",
+      "size": 18065,
+      "source_url": "https://api.github.com/repos/zuils/FNaFBAP",
+      "tag": "v0.4.3",
+      "title": "FNaFB2AP v0.4.3",
+      "version_simple": "0.4.3",
+      "world_version": "0.4.3"
     }
   }
 }
