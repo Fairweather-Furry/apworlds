@@ -29730,6 +29730,22 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR3/grinch.apworld",
+      "size": 56341,
+      "hash_sha256": "c1eb06effc0cd5ef5e94121a685ee4f16b7ab1edf5419907efcfde5c77982bdf",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-07-01T00:32:07Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.8/grinch.apworld",
       "size": 51369,
       "hash_sha256": "1967d4e41068f86986b9cd42888033000c3a1bcad8dd947fdd3299851e8edc57",
@@ -60910,6 +60926,18 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.6.6/plateup.apworld",
+      "size": 127262,
+      "hash_sha256": "88ec0ef86fe5f6f552382c20e9c3a3ab303447cd6e08da2b8fc37e2ef29a701b",
+      "metadata": {
+        "game": "",
+        "id": "plateup",
+        "world_version": "0.2.6.6",
+        "tag_version": "0.2.6.6",
+        "created_at": "2026-05-19T09:09:02Z"
+      }
+    },
+    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.6.5/plateup.apworld",
       "size": 126534,
       "hash_sha256": "6da636a63e9de11f944518a3618194ff672c402b1d392d9ee8527330f142bc8a",
@@ -62603,6 +62631,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.35/pokemon_bw.apworld",
+      "size": 1128979,
+      "hash_sha256": "c5226979ee09f6e734a79cc2eb36f3fbc216dda7e3bcd0b1fc10c076efa20629",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_bw",
+        "world_version": "0.3.35",
+        "tag_version": "0.3.35",
+        "created_at": "2026-06-30T22:42:18Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
