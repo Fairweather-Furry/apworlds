@@ -6951,6 +6951,22 @@
       }
     },
     {
+      "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.6.1/bg3.apworld",
+      "size": 98080,
+      "hash_sha256": "a64b0997aa58996d93dfc54e46810927306fdb3a133318bb248c49b2e67cc5f5",
+      "metadata": {
+        "game": "",
+        "id": "bg3",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-07-02T02:47:27Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.4.5/bg3.apworld",
       "size": 105862,
       "hash_sha256": "c5b56a5ea766e20c601e62c616fc06a0ec6703140b130c0a3a25a77a8886bc45",
@@ -56260,6 +56276,19 @@
       }
     },
     {
+      "world": "https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.9/nonopelagram.apworld",
+      "size": 14778,
+      "hash_sha256": "ad1c9c5741f91a73ded1fbbda95eaf93696bc4d2e585cd72b591d03219848d15",
+      "metadata": {
+        "game": "",
+        "id": "nonopelagram",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2026-07-01T16:48:38Z",
+        "minimum_ap_version": "0.6.9"
+      }
+    },
+    {
       "world": "https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.7/nonopelagram.apworld",
       "size": 6279,
       "hash_sha256": "4ca31b843d75106aa4dd2c8b56a3533e085a051f129a2bbbc2d2d0c6d488c8ae",
@@ -68660,6 +68689,18 @@
     },
     {
       "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.3.4/rabbit_and_steel.apworld",
+      "size": 24743,
+      "hash_sha256": "b434f3c13fc1de93e81e67ccfd76057c6dffbbe2f8132e461d07583776b37f4b",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.3.4.post2",
+        "tag_version": "0.3.4.post2",
+        "created_at": "2026-06-23T01:49:33Z"
+      }
+    },
+    {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.3.4/rabbit_and_steel.apworld",
       "size": 24759,
       "hash_sha256": "869b3f0b5c2e5964ba31fc9b7c45a121d5a5faf77b81ec3cd8a4582e3ddcd735",
       "metadata": {
@@ -73070,6 +73111,19 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2025-02-24T09:49:58Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/dgrossmann144/Archipelago/releases/download/v0.1.7-alpha/rusted_moss.apworld",
+      "size": 96544,
+      "hash_sha256": "ff34f08c86991934d9568bddc18e05ffe2a2e5f49ceb60719db9e65ff40ddddb",
+      "metadata": {
+        "game": "",
+        "id": "rusted_moss",
+        "world_version": "0.1.7a0",
+        "tag_version": "0.1.7a0",
+        "created_at": "2026-07-02T03:12:34Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -87216,6 +87270,19 @@
       }
     },
     {
+      "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/V1.6.1/tevi.apworld",
+      "size": 84131,
+      "hash_sha256": "39978577a93ca936c75d85c829f2fbde4f804303634da9dd077c8f646b1cac0e",
+      "metadata": {
+        "game": "",
+        "id": "tevi",
+        "world_version": "0.7.3",
+        "tag_version": "0.7.3",
+        "created_at": "2026-07-01T18:38:52Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/BlackSoulKnight/Tevi_Randomizer/releases/download/v1.5.3/tevi.apworld",
       "size": 84103,
       "hash_sha256": "8f69bf3c3ed8555fe5659467e2aee7a5c8f6418b529960b41f6588b8e1c3572b",
@@ -94521,6 +94588,19 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2023-04-21T20:20:59Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/AllPoland/unbeatAP/releases/download/v0.6.0-alpha/unbeatable_arcade.apworld",
+      "size": 64423,
+      "hash_sha256": "7d7b3ed83d5b8161d7a4c4fdfde37992d3fab2971955db101f55254d4771774b",
+      "metadata": {
+        "game": "",
+        "id": "unbeatable_arcade",
+        "world_version": "0.6.0a0",
+        "tag_version": "0.6.0a0",
+        "created_at": "2026-07-02T01:37:11Z",
         "maximum_ap_version": "0.6.99"
       }
     },
