@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
-  "total_packages": 632,
-  "total_versions": 7178,
+  "total_packages": 634,
+  "total_versions": 7183,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -301,6 +301,7 @@
     "manual_smo_empathymp3": false,
     "manual_smo_mp3": false,
     "manual_SMOFestival": false,
+    "manual_sonicspeedsimulator_wolfboi008": false,
     "manual_spelunkyclassic_steele": false,
     "Manual_Sprashfecta_MuffinJets": false,
     "manual_supermariobros_pirateryan": false,
@@ -572,7 +573,7 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 334,
+    "": 335,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 12,
@@ -589,6 +590,6 @@
     "": 286,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 264
+    "0.6.99": 265
   }
 }

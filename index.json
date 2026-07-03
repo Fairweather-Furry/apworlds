@@ -17944,6 +17944,23 @@
       }
     },
     {
+      "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.4.2-beta/diceydungeons.apworld",
+      "size": 916362,
+      "hash_sha256": "4a31340918b5ac840db9400221bd0e748d7114c3390195b80009acaad517c1eb",
+      "metadata": {
+        "game": "",
+        "id": "diceydungeons",
+        "world_version": "0.4.2b0",
+        "tag_version": "0.4.2b0",
+        "created_at": "2026-07-03T13:04:24Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "unready",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.4.1-beta/diceydungeons.apworld",
       "size": 914964,
       "hash_sha256": "e6707041066d69ed9f9225edd19039a72718ed012c6cf8ec33d08fb234cb9ce5",
@@ -47300,6 +47317,45 @@
         "tag_version": "1.0",
         "created_at": "2023-08-29T16:39:33Z",
         "maximum_ap_version": "0.4.6"
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/Sonic-Speed-Simulator/releases/download/1.1.1/manual_sonicspeedsimulator_wolfboi008.apworld",
+      "size": 59296,
+      "hash_sha256": "876f089d7ddf8b8539636e0673849f83e96a8a85200bd798edf48dd8c819aea2",
+      "metadata": {
+        "game": "",
+        "id": "manual_sonicspeedsimulator_wolfboi008",
+        "world_version": "1.1.1",
+        "tag_version": "1.1.1",
+        "created_at": "2025-06-01T21:06:03Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/Sonic-Speed-Simulator/releases/download/1.1.0/manual_sonicspeedsimulator_wolfboi008.apworld",
+      "size": 59198,
+      "hash_sha256": "4d6c23940f84d9cdf99809b2bde75c166b2a3b7bc0301eedbb43843f4834ff9e",
+      "metadata": {
+        "game": "",
+        "id": "manual_sonicspeedsimulator_wolfboi008",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2025-06-01T21:06:03Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/Sonic-Speed-Simulator/releases/download/1.0.0/manual_sonicspeedsimulator_wolfboi008.apworld",
+      "size": 46443,
+      "hash_sha256": "08f00c75a9b254439b09779446537520c3b28ddaeefeb4ab1c788d741e8aa9a7",
+      "metadata": {
+        "game": "",
+        "id": "manual_sonicspeedsimulator_wolfboi008",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2025-06-01T21:06:03Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -84495,7 +84551,7 @@
       }
     },
     {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.4/stardew_valley.apworld",
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.1/stardew_valley.apworld",
       "size": 562527,
       "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
       "metadata": {
@@ -84503,23 +84559,7 @@
         "id": "stardew_valley",
         "world_version": "8.0.0",
         "tag_version": "8.0.0",
-        "created_at": "2026-07-03T01:07:15Z",
-        "minimum_ap_version": "0.6.4",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.3/stardew_valley.apworld",
-      "size": 562527,
-      "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
-      "metadata": {
-        "game": "",
-        "id": "stardew_valley",
-        "world_version": "8.0.0",
-        "tag_version": "8.0.0",
-        "created_at": "2026-07-02T22:30:46Z",
+        "created_at": "2026-07-02T20:23:20Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
@@ -84543,7 +84583,7 @@
       }
     },
     {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.1/stardew_valley.apworld",
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.3/stardew_valley.apworld",
       "size": 562527,
       "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
       "metadata": {
@@ -84551,7 +84591,23 @@
         "id": "stardew_valley",
         "world_version": "8.0.0",
         "tag_version": "8.0.0",
-        "created_at": "2026-07-02T20:23:20Z",
+        "created_at": "2026-07-02T22:30:46Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.4/stardew_valley.apworld",
+      "size": 562527,
+      "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.0.0",
+        "tag_version": "8.0.0",
+        "created_at": "2026-07-03T01:07:15Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
@@ -97697,6 +97753,19 @@
       }
     },
     {
+      "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.1.14/xenobladex.apworld",
+      "size": 244956,
+      "hash_sha256": "9d1ba00354f6a870094574df3d950d485824c4fbbd3cba37f528af65dbb972e1",
+      "metadata": {
+        "game": "",
+        "id": "xenobladex",
+        "world_version": "0.1.14",
+        "tag_version": "0.1.14",
+        "created_at": "2026-07-03T13:16:39Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.1.13/xenobladex.apworld",
       "size": 244881,
       "hash_sha256": "ae0779ebeec28fc6375f74738d327f7d55fabc2562ec945b018f1e44746546cd",
@@ -100195,6 +100264,10 @@
     "manual_SMOFestival": {
       "game": "",
       "description": ""
+    },
+    "manual_sonicspeedsimulator_wolfboi008": {
+      "game": "Manual_SonicSpeedSimulator_WolfBoi008",
+      "description": "Manual games allow you to set custom check locations and custom item names that will be rolled into a multiworld.\nThis allows any variety of game -- PC, console, board games, Microsoft Word memes... really anything -- to be part of a multiworld randomizer.\nThe key component to including these games is some level of manual restriction. Since the items are not actually withheld from the player,\nthe player must manually refrain from using these gathered items until the tracker shows that they have been acquired or sent."
     },
     "manual_spelunkyclassic_steele": {
       "game": "Manual_SpelunkyClassic_Steele",
