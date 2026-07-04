@@ -17956,6 +17956,23 @@
       }
     },
     {
+      "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.4.3-beta/diceydungeons.apworld",
+      "size": 916380,
+      "hash_sha256": "740d34523d9ba9d26c3b3b24836069ac5885481912ec3af25701bfe391fff3f2",
+      "metadata": {
+        "game": "",
+        "id": "diceydungeons",
+        "world_version": "0.4.3b0",
+        "tag_version": "0.4.3b0",
+        "created_at": "2026-07-04T11:58:05Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "unready",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.4.2-beta/diceydungeons.apworld",
       "size": 916362,
       "hash_sha256": "4a31340918b5ac840db9400221bd0e748d7114c3390195b80009acaad517c1eb",
@@ -22698,6 +22715,19 @@
       "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.4/earthbound.apworld",
       "size": 367316,
       "hash_sha256": "af72e295644f1cf28cc1f476bc87e32ca93952216be36af82b7f6761cd78307e",
+      "metadata": {
+        "game": "",
+        "id": "earthbound",
+        "world_version": "4.4.0",
+        "tag_version": "4.4.0",
+        "created_at": "2026-04-29T20:29:41Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.4/earthbound.apworld",
+      "size": 367317,
+      "hash_sha256": "456048944e0c6f0a20aee7807f9a70ed6d4448aa22a1ad068507195e1a986d97",
       "metadata": {
         "game": "",
         "id": "earthbound",
@@ -50758,6 +50788,19 @@
       }
     },
     {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap2.0/melee.apworld",
+      "size": 69925,
+      "hash_sha256": "bc1fb3f52f1d74ba632e1de544bbda18f9449fada4cdfcbc9de69c3b41448d55",
+      "metadata": {
+        "game": "",
+        "id": "melee",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-06-07T16:21:30Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap1.1/melee.apworld",
       "size": 248328,
       "hash_sha256": "d1ad1374e238ee894005f7c0472da9988d6428b13be1621995f0bfcc1bd0493e",
@@ -56351,6 +56394,19 @@
       }
     },
     {
+      "world": "https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.10/nonopelagram.apworld",
+      "size": 14800,
+      "hash_sha256": "a3d54f48c3bebaf9fa8885aa0180ad8e99d55fc68fb0bc880197c4d559980e8e",
+      "metadata": {
+        "game": "",
+        "id": "nonopelagram",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2026-07-03T15:44:32Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.8/nonopelagram.apworld",
       "size": 14728,
       "hash_sha256": "c20520639e2d07c17d439b086203ecb24a05c22d995eb15857779f745138ed71",
@@ -56374,19 +56430,6 @@
         "tag_version": "1.0.2",
         "created_at": "2026-07-01T16:48:38Z",
         "minimum_ap_version": "0.6.9"
-      }
-    },
-    {
-      "world": "https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.10/nonopelagram.apworld",
-      "size": 14800,
-      "hash_sha256": "a3d54f48c3bebaf9fa8885aa0180ad8e99d55fc68fb0bc880197c4d559980e8e",
-      "metadata": {
-        "game": "",
-        "id": "nonopelagram",
-        "world_version": "1.0.2",
-        "tag_version": "1.0.2",
-        "created_at": "2026-07-03T15:44:32Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -91314,6 +91357,19 @@
         "tag_version": "1.0.0",
         "created_at": "2025-11-22T16:27:48Z",
         "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.33/tracker.apworld",
+      "size": 166930,
+      "hash_sha256": "55f01bdb69005dfd3d87b920f4bd9686066b7f8a284c0b8fee66e41b50b362b2",
+      "metadata": {
+        "game": "",
+        "id": "tracker",
+        "world_version": "0.2.33",
+        "tag_version": "0.2.33",
+        "created_at": "2026-07-04T03:42:21Z",
+        "minimum_ap_version": "0.6.2"
       }
     },
     {
