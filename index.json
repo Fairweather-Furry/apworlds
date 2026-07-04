@@ -12145,6 +12145,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.5/civv.apworld",
+      "size": 455914,
+      "hash_sha256": "222ada376e9c4b171ddad7932cd13d8952a5af1879c3e20d1e136d1dd9171145",
+      "metadata": {
+        "game": "",
+        "id": "civv",
+        "world_version": "0.10.5",
+        "tag_version": "0.10.5",
+        "created_at": "2026-07-03T16:05:41Z"
+      }
+    },
+    {
       "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.4/civv.apworld",
       "size": 455860,
       "hash_sha256": "e0898a30345a19799567ae9a92e1ea88e65cf6c6c10bea929c9280a7e5130e6d",
@@ -28263,6 +28275,23 @@
         "world_version": "0.4.3",
         "tag_version": "0.4.3",
         "created_at": "2026-06-29T02:12:03Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "after_dark",
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/zuils/FNaFBAP/releases/download/v0.4.4/fnafb2.apworld",
+      "size": 18113,
+      "hash_sha256": "84e8d2e25af75a8ee4fa9dd6939ae74da918f836b93ae8df2556cb08ab6b92b8",
+      "metadata": {
+        "game": "",
+        "id": "fnafb2",
+        "world_version": "0.4.3",
+        "tag_version": "0.4.3",
+        "created_at": "2026-07-03T15:26:51Z",
         "minimum_ap_version": "0.6.5",
         "flags": [
           "after_dark",
@@ -45533,6 +45562,19 @@
       }
     },
     {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.2/manual_onemorenight_wolfboi008.apworld",
+      "size": 74164,
+      "hash_sha256": "15385f5d78a866e5869eeab976fc9caca8786f98e0332d7cd925200aa312c2a4",
+      "metadata": {
+        "game": "",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.3.2",
+        "tag_version": "2.3.2",
+        "created_at": "2026-04-21T22:40:19Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.1/manual_onemorenight_wolfboi008.apworld",
       "size": 74191,
       "hash_sha256": "1366d30141651cce1d13a80bf35e4ddc7f918caea02bc5fc7a9b34f1fb4deb88",
@@ -56335,6 +56377,19 @@
       }
     },
     {
+      "world": "https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.10/nonopelagram.apworld",
+      "size": 14800,
+      "hash_sha256": "a3d54f48c3bebaf9fa8885aa0180ad8e99d55fc68fb0bc880197c4d559980e8e",
+      "metadata": {
+        "game": "",
+        "id": "nonopelagram",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2026-07-03T15:44:32Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.7/nonopelagram.apworld",
       "size": 6279,
       "hash_sha256": "4ca31b843d75106aa4dd2c8b56a3533e085a051f129a2bbbc2d2d0c6d488c8ae",
@@ -56868,6 +56923,19 @@
         "world_version": "1.4.1",
         "tag_version": "1.4.1",
         "created_at": "2026-06-24T12:53:05Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/HarbourMasters/Archipelago-SoH/releases/download/Soh_1.4.2/oot_soh.apworld",
+      "size": 217476,
+      "hash_sha256": "b2600ef61c5ddee869e51e472d2eb374842fb5532fd38d218335f166952b70bb",
+      "metadata": {
+        "game": "",
+        "id": "oot_soh",
+        "world_version": "1.4.1",
+        "tag_version": "1.4.1",
+        "created_at": "2026-07-02T20:06:44Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -62718,6 +62786,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.36/pokemon_bw.apworld",
+      "size": 1129357,
+      "hash_sha256": "fa07c21e576b97f4c7923eb67c07230c55fdd36776f57d8b88d0f7d84bfb0542",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_bw",
+        "world_version": "0.3.36",
+        "tag_version": "0.3.36",
+        "created_at": "2026-07-03T23:58:31Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -84608,6 +84689,22 @@
         "world_version": "8.0.0",
         "tag_version": "8.0.0",
         "created_at": "2026-07-03T01:07:15Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.5/stardew_valley.apworld",
+      "size": 562527,
+      "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.0.0",
+        "tag_version": "8.0.0",
+        "created_at": "2026-07-03T21:29:16Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
