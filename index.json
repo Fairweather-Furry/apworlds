@@ -11742,6 +11742,19 @@
       }
     },
     {
+      "world": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World/releases/download/v1.1.2/celeste_open_world.apworld",
+      "size": 231431,
+      "hash_sha256": "ebd71d419db0037c7b07f710f1d51ea4ade646b655c4e6ad228fe71a7a9fbc49",
+      "metadata": {
+        "game": "",
+        "id": "celeste_open_world",
+        "world_version": "1.1.2",
+        "tag_version": "1.1.2",
+        "created_at": "2026-07-05T02:03:27Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/PoryGoneDev/Celeste-Archipelago-Open-World/releases/download/v1.1.1/celeste_open_world.apworld",
       "size": 231269,
       "hash_sha256": "ce40e6e050baa8ac0dde624410cceeefa16f4ff8efd2cd5895a5488fa4073c14",
@@ -50801,6 +50814,19 @@
       }
     },
     {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap2.0/melee.apworld",
+      "size": 69919,
+      "hash_sha256": "f44e765f05e5bd7924d150c0d145e91e1f8e054063bdc321880409a0ab58e8db",
+      "metadata": {
+        "game": "",
+        "id": "melee",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-06-07T16:21:30Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap1.1/melee.apworld",
       "size": 248328,
       "hash_sha256": "d1ad1374e238ee894005f7c0472da9988d6428b13be1621995f0bfcc1bd0493e",
@@ -55453,6 +55479,19 @@
         "tag_version": "0.1.0",
         "created_at": "2024-07-03T12:55:54Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.0/nine_sols.apworld",
+      "size": 3644379,
+      "hash_sha256": "1ece9bbd2378d106aa159b2a1bbdcd5fc262e92d4ef1d1cbe492c6da20427af1",
+      "metadata": {
+        "game": "",
+        "id": "nine_sols",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-07-04T16:03:25Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -70290,6 +70329,19 @@
       }
     },
     {
+      "world": "https://github.com/alphappy/ArchipelagoRW/releases/download/v1.6.0/rain_world.apworld",
+      "size": 179493,
+      "hash_sha256": "34fa901a473a5e6e2a5e9930b78c60b5e29af0822d326cfbdb37c9fae097f6e9",
+      "metadata": {
+        "game": "",
+        "id": "rain_world",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-07-04T21:14:28Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/alphappy/ArchipelagoRW/releases/download/v1.5.2/rain_world.apworld",
       "size": 178743,
       "hash_sha256": "0e7b9fde7ffa39d18e6cfaa761de794d5cf32b25b2ca0885b07ca14b5036d018",
@@ -70470,6 +70522,19 @@
         "world_version": "1.2.2",
         "tag_version": "1.2.2",
         "created_at": "2026-06-06T21:34:11Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.2.2a/refunct.apworld",
+      "size": 20524,
+      "hash_sha256": "507d47b055af41c309d9cb6d19f8ced3d9f168e643b07a1fd914cfb594ce584a",
+      "metadata": {
+        "game": "",
+        "id": "refunct",
+        "world_version": "1.2.2a0",
+        "tag_version": "1.2.2a0",
+        "created_at": "2026-07-04T20:16:13Z",
         "minimum_ap_version": "0.6.4"
       }
     },
@@ -91357,6 +91422,19 @@
         "tag_version": "1.0.0",
         "created_at": "2025-11-22T16:27:48Z",
         "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.34/tracker.apworld",
+      "size": 168490,
+      "hash_sha256": "1c5acca6c23c2d034236a737feb3ffe39a915d36db587e650c4a9a8b8b41ff53",
+      "metadata": {
+        "game": "",
+        "id": "tracker",
+        "world_version": "0.2.34",
+        "tag_version": "0.2.34",
+        "created_at": "2026-07-04T20:11:15Z",
+        "minimum_ap_version": "0.6.2"
       }
     },
     {
