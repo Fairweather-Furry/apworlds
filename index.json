@@ -23354,6 +23354,22 @@
       }
     },
     {
+      "world": "https://github.com/Aeromaze/Archipelago/releases/download/v0.1.2/easy_delivery_co.apworld",
+      "size": 8512,
+      "hash_sha256": "1d46f2cd111c783ab8ac16b1e785acf0cb8017c2b697c1c7f61c4aa2791d08b8",
+      "metadata": {
+        "game": "",
+        "id": "easy_delivery_co",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2026-02-13T20:25:28Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Aeromaze/Archipelago/releases/download/v0.0.4/easy_delivery_co.apworld",
       "size": 7106,
       "hash_sha256": "1a1c181655d33cef2f378197824ba29c41f0a1441a904206031788bf802e0ff8",
@@ -84919,7 +84935,7 @@
       }
     },
     {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.9/stardew_valley.apworld",
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.7/stardew_valley.apworld",
       "size": 562595,
       "hash_sha256": "94baca0585fc0a864c2596a6f3dfd9025b515947ff1c49e986f2a3145c5cd894",
       "metadata": {
@@ -84927,7 +84943,7 @@
         "id": "stardew_valley",
         "world_version": "8.0.0",
         "tag_version": "8.0.0",
-        "created_at": "2026-07-05T22:21:09Z",
+        "created_at": "2026-07-05T17:05:18Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
@@ -84951,7 +84967,7 @@
       }
     },
     {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.7/stardew_valley.apworld",
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.9/stardew_valley.apworld",
       "size": 562595,
       "hash_sha256": "94baca0585fc0a864c2596a6f3dfd9025b515947ff1c49e986f2a3145c5cd894",
       "metadata": {
@@ -84959,7 +84975,23 @@
         "id": "stardew_valley",
         "world_version": "8.0.0",
         "tag_version": "8.0.0",
-        "created_at": "2026-07-05T17:05:18Z",
+        "created_at": "2026-07-05T22:21:09Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.10/stardew_valley.apworld",
+      "size": 562595,
+      "hash_sha256": "94baca0585fc0a864c2596a6f3dfd9025b515947ff1c49e986f2a3145c5cd894",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.0.0",
+        "tag_version": "8.0.0",
+        "created_at": "2026-07-06T03:47:10Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
