@@ -186,6 +186,19 @@
       "title": "Minecraft Fabric AP (1.0.6 Alpha)",
       "version_simple": "1.0.6",
       "world_version": "1.0.6a0"
+    },
+    "v1.1.2": {
+      "created_at": "2026-07-07T04:03:28Z",
+      "download_url": "https://github.com/Deadlydiamond98/MinecraftFabricAPWorld/releases/download/v1.1.2/minecraft_fabric.apworld",
+      "has_manifest": true,
+      "hash_sha256": "6dd109e72c113ccff87d81fdcfec375fe41a376529ea60ac7be82a933bad99af",
+      "minimum_ap_version": "0.6.5",
+      "size": 57139,
+      "source_url": "https://api.github.com/repos/Deadlydiamond98/MinecraftFabricAPWorld",
+      "tag": "v1.1.2",
+      "title": "Minecraft Fabric AP (1.1.2)",
+      "version_simple": "1.1.2",
+      "world_version": "1.1.2"
     }
   }
 }
