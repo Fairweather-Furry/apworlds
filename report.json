@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
   "total_packages": 634,
-  "total_versions": 7218,
+  "total_versions": 7223,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -161,7 +161,7 @@
     "guardianlegend": true,
     "gzdoom": true,
     "hacknet": false,
-    "hades": false,
+    "hades": true,
     "hammerwatch": true,
     "hangman": false,
     "haste": true,
@@ -573,14 +573,14 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 333,
+    "": 332,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 12,
     "0.6.1": 11,
     "0.6.2": 9,
     "0.6.3": 53,
-    "0.6.4": 60,
+    "0.6.4": 61,
     "0.6.5": 19,
     "0.6.6": 12,
     "0.6.7": 40,
