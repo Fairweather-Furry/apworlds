@@ -31043,6 +31043,19 @@
       }
     },
     {
+      "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.16.1/hades.apworld",
+      "size": 181712,
+      "hash_sha256": "ea4aee2b68ac35010a7a6ed8bca02aa4ff5c47acfbb6b0664088e772099f2fbd",
+      "metadata": {
+        "game": "",
+        "id": "hades",
+        "world_version": "0.16.1",
+        "tag_version": "0.16.1",
+        "created_at": "2026-07-07T19:10:07Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/NaixGames/Polycosmos/releases/download/0.15.1/hades.apworld",
       "size": 90482,
       "hash_sha256": "a2137dd62b0eba3b52090e256d5034535c21b699471b973128a1abfd272037ac",
@@ -45116,6 +45129,19 @@
       }
     },
     {
+      "world": "https://github.com/Greengamefire/Mario-Kart-World-Manual-AP/releases/download/v0.4.0/manual_mariokartworld_greengamefire.apworld",
+      "size": 62285,
+      "hash_sha256": "0b22f3b1684d352de4ddf3ffea516f13408b509355026c8129319035f86dc8af",
+      "metadata": {
+        "game": "",
+        "id": "manual_mariokartworld_greengamefire",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2025-06-25T13:47:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Greengamefire/Mario-Kart-World-Manual-AP/releases/download/v0.3.3/manual_mariokartworld_greengamefire.apworld",
       "size": 62085,
       "hash_sha256": "a94b8426df757d188c5929deaa0cc0c2368af0e607c1862737545295fd07a5e0",
@@ -50397,6 +50423,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.5.1B/megamix.apworld",
+      "size": 40055,
+      "hash_sha256": "90e2dd62cb8ed686c1841d59c5c352dc871d6da357b238148bd8b54701f09d21",
+      "metadata": {
+        "game": "",
+        "id": "megamix",
+        "world_version": "1.5.1b0",
+        "tag_version": "1.5.1b0",
+        "created_at": "2026-07-07T17:03:06Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -56631,6 +56670,22 @@
         "tag_version": "0.5",
         "created_at": "2026-01-03T05:33:12Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/POD-io/Oblivion-ArchipelagoWorld/releases/download/v0.5.1/oblivion.apworld",
+      "size": 218030,
+      "hash_sha256": "9baf1ce988683c6eb355d9db1c70b30435030d8cc70c029f6035a16f0bcace75",
+      "metadata": {
+        "game": "",
+        "id": "oblivion",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-07-08T01:03:44Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "after_dark"
+        ]
       }
     },
     {
@@ -84972,6 +85027,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.12/stardew_valley.apworld",
+      "size": 562595,
+      "hash_sha256": "94baca0585fc0a864c2596a6f3dfd9025b515947ff1c49e986f2a3145c5cd894",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.0.0",
+        "tag_version": "8.0.0",
+        "created_at": "2026-07-07T04:30:32Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.2/stardew_valley.apworld",
       "size": 562527,
       "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
@@ -85077,22 +85148,6 @@
         "world_version": "8.0.0",
         "tag_version": "8.0.0",
         "created_at": "2026-07-05T22:21:09Z",
-        "minimum_ap_version": "0.6.4",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.12/stardew_valley.apworld",
-      "size": 562595,
-      "hash_sha256": "94baca0585fc0a864c2596a6f3dfd9025b515947ff1c49e986f2a3145c5cd894",
-      "metadata": {
-        "game": "",
-        "id": "stardew_valley",
-        "world_version": "8.0.0",
-        "tag_version": "8.0.0",
-        "created_at": "2026-07-07T04:30:32Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
@@ -86751,6 +86806,19 @@
       "world": "https://github.com/NaveTK/Archipelago/releases/download/v0.4.0/tboir.apworld",
       "size": 421101,
       "hash_sha256": "998d158e698657eeccf06e7bbe78c23031c0cbfe4a3faf11c7f2be9016dfd567",
+      "metadata": {
+        "game": "",
+        "id": "tboir",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-07-05T19:33:24Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/NaveTK/Archipelago/releases/download/v0.4.0/tboir.apworld",
+      "size": 421214,
+      "hash_sha256": "a4d487ac2cef9356fc9326555767495c0b07f83b4f01aba354c43e586f47a5df",
       "metadata": {
         "game": "",
         "id": "tboir",
@@ -98665,6 +98733,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.22/yarg.apworld",
+      "size": 33514,
+      "hash_sha256": "85d89a47b3ed00e63e627e98c67f7bed1d3d880a73fa5052b11eb2c68177aec0",
+      "metadata": {
+        "game": "",
+        "id": "yarg",
+        "world_version": "0.0.22",
+        "tag_version": "0.0.22",
+        "created_at": "2026-07-08T02:26:50Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
