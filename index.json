@@ -85005,6 +85005,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.13/stardew_valley.apworld",
+      "size": 564068,
+      "hash_sha256": "8285c112a2453b90d52389a7548d522dde59ffbd1f50f7664999b625d33a0c24",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.0.13",
+        "tag_version": "8.0.13",
+        "created_at": "2026-07-08T14:30:32Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.1/stardew_valley.apworld",
       "size": 562527,
       "hash_sha256": "b21fe67218319fd39a761dd54e0ee670d731512ffa17e6f6a6727109819e982a",
@@ -86813,6 +86829,19 @@
         "tag_version": "0.1",
         "created_at": "2026-01-10T12:05:57Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/NaveTK/Archipelago/releases/download/v0.4.1/tboir.apworld",
+      "size": 421259,
+      "hash_sha256": "310f25eb182dd596ae58c55f6736692d901740af930ad7b95bd074bdd81f04f5",
+      "metadata": {
+        "game": "",
+        "id": "tboir",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2026-07-08T21:06:18Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
