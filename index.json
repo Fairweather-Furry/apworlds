@@ -29988,6 +29988,22 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR6/grinch.apworld",
+      "size": 56022,
+      "hash_sha256": "d0b8b7a92138d359d89b7c60a96b13725f01b7311044629d5d6cfc72fb906f9d",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-07-10T20:26:03Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.8/grinch.apworld",
       "size": 51369,
       "hash_sha256": "1967d4e41068f86986b9cd42888033000c3a1bcad8dd947fdd3299851e8edc57",
@@ -56690,6 +56706,19 @@
       }
     },
     {
+      "world": "https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.11/nonopelagram.apworld",
+      "size": 14975,
+      "hash_sha256": "c0f8dd77780428d9993cef4b3298b21cb7778109e281ed5840ea407929c45719",
+      "metadata": {
+        "game": "",
+        "id": "nonopelagram",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2026-07-11T01:43:33Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.8/nonopelagram.apworld",
       "size": 14728,
       "hash_sha256": "c20520639e2d07c17d439b086203ecb24a05c22d995eb15857779f745138ed71",
@@ -56713,19 +56742,6 @@
         "tag_version": "1.0.2",
         "created_at": "2026-07-01T16:48:38Z",
         "minimum_ap_version": "0.6.9"
-      }
-    },
-    {
-      "world": "https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.11/nonopelagram.apworld",
-      "size": 14975,
-      "hash_sha256": "c0f8dd77780428d9993cef4b3298b21cb7778109e281ed5840ea407929c45719",
-      "metadata": {
-        "game": "",
-        "id": "nonopelagram",
-        "world_version": "1.0.2",
-        "tag_version": "1.0.2",
-        "created_at": "2026-07-11T01:43:33Z",
-        "minimum_ap_version": "0.6.7"
       }
     },
     {
