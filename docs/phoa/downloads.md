@@ -17,6 +17,9 @@
 #### v0.3.0
 - <a href="https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.3.2/phoa.apworld">https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.3.2/phoa.apworld</a>
 
+#### v0.3.0
+- <a href="https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.3.3/phoa.apworld">https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.3.3/phoa.apworld</a>
+
 #### v0.2.0
 - <a href="https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.2.0/phoa.apworld">https://github.com/Amphyros/Phoenotopia-Awakening-AP-client/releases/download/v0.2.0/phoa.apworld</a>
 
