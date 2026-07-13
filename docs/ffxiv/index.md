@@ -7,7 +7,7 @@ the player must manually refrain from using these gathered items until the track
 
 
 ## Downloads
-- <a href="https://github.com/silasary/APxiv/releases/download/0.29.0/ffxiv.apworld">Latest Version (0.29.0)</a>
+- <a href="https://github.com/silasary/APxiv/releases/download/0.30.0/ffxiv.apworld">Latest Version (0.30.0)</a>
 - <a href="downloads.html">View all versions</a>
 
 ## Game Information

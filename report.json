@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
-  "total_packages": 635,
-  "total_versions": 7255,
+  "total_packages": 634,
+  "total_versions": 7252,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -129,7 +129,6 @@
     "factorio_saws": true,
     "faxanadu": false,
     "fe8": true,
-    "fez": true,
     "ff12_open_world": true,
     "ff1pr": true,
     "ff4fe": false,
@@ -573,7 +572,7 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 332,
+    "": 331,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 12,
@@ -590,6 +589,6 @@
     "": 288,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 263
+    "0.6.99": 262
   }
 }

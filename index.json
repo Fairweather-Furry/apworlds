@@ -24782,98 +24782,6 @@
       }
     },
     {
-      "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.5.0/fez.apworld",
-      "size": 12475,
-      "hash_sha256": "bd601a9e709c3c8e964ddc04bf2aa6a5a59f5f3f388fbbbab1af08054388cc3c",
-      "metadata": {
-        "game": "",
-        "id": "fez",
-        "world_version": "0.5.0",
-        "tag_version": "0.5.0",
-        "created_at": "2026-05-04T22:25:15Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.4.0/fez.apworld",
-      "size": 11974,
-      "hash_sha256": "c59e70e7a771c5597061882ee1e4de50393a837976a6792db4cc11f61ec09e63",
-      "metadata": {
-        "game": "",
-        "id": "fez",
-        "world_version": "0.4.0",
-        "tag_version": "0.4.0",
-        "created_at": "2025-10-19T15:46:57Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.3.0/fez.apworld",
-      "size": 10780,
-      "hash_sha256": "332624208fb2c4159cb40690e6668932946e6d504fd0b78ebe4fa4afff0a9485",
-      "metadata": {
-        "game": "",
-        "id": "fez",
-        "world_version": "0.3.0",
-        "tag_version": "0.3.0",
-        "created_at": "2025-10-05T20:30:46Z",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.2.0/fez.apworld",
-      "size": 21346,
-      "hash_sha256": "c74bb8acd51a9477aa5eec593308f23f825d7a71c981909f33318f7735e3f158",
-      "metadata": {
-        "game": "",
-        "id": "fez",
-        "world_version": "0.2.0",
-        "tag_version": "0.2.0",
-        "created_at": "2025-10-01T20:54:52Z",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.1.1/fez.apworld",
-      "size": 10508,
-      "hash_sha256": "c8bd3664065a335fa38b9fbeb0bad0d5b32639e4456a42ee1bd3ff3ec6cabba4",
-      "metadata": {
-        "game": "",
-        "id": "fez",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2025-09-30T17:24:02Z",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.1.0/fez.apworld",
-      "size": 10494,
-      "hash_sha256": "4575fc4f58a301a56cc3958610dd82f99452b97c1d97b06d91095f1b878775f3",
-      "metadata": {
-        "game": "",
-        "id": "fez",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2025-09-30T12:23:45Z",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/Bartz24/Archipelago/releases/download/0.6.3/ff12_open_world.apworld",
       "size": 83622,
       "hash_sha256": "960801e0368d19d41557299804388cf31e46fac5251c4175b271b00cdd340090",
@@ -26789,6 +26697,19 @@
         "tag_version": "0.0.1",
         "created_at": "2023-11-27T18:36:53Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.30.0/ffxiv.apworld",
+      "size": 163641,
+      "hash_sha256": "3b5fe703630694c89339b611e57d8504a8f8f0abca09bbf76e74587a20f61f07",
+      "metadata": {
+        "game": "",
+        "id": "ffxiv",
+        "world_version": "0.30.0",
+        "tag_version": "0.30.0",
+        "created_at": "2026-07-13T06:57:38Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -28855,6 +28776,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-03-17T16:18:47Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/FeluciaPS/Archipelago/releases/download/1.0.0/garfkart.apworld",
+      "size": 23050,
+      "hash_sha256": "80dd7ccdf663cd07a411d4b79a91a40910f61015bc216df06ca3b6b21ed26ea1",
+      "metadata": {
+        "game": "",
+        "id": "garfkart",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-07-13T03:20:42Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -40364,6 +40298,23 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2026-05-13T18:32:31Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-zeta/lor.apworld",
+      "size": 26987,
+      "hash_sha256": "72423d9c258c7d569097613841825b913d9fc58b09213c9bffe8a0a8b7931e46",
+      "metadata": {
+        "game": "",
+        "id": "lor",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-07-13T11:30:59Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "after_dark",
@@ -100591,10 +100542,6 @@
     "fe8": {
       "game": "Fire Emblem Sacred Stones",
       "description": "Fire Emblem: The Sacred Stones is a tactical role-playing game developed by\nIntelligent Systems, and published by Nintendo for the Game Boy Advance\nhandheld video game console in 2004 for Japan and 2005 in the West. It is\nthe eighth entry in the Fire Emblem series, the second to be released\noutside Japan, and the third and final title to be developed for the Game\nBoy Advance after The Binding Blade and its prequel Fire Emblem.\n\nBuild an army. Trust no one."
-    },
-    "fez": {
-      "game": "Fez",
-      "description": "Gomez is a 2D creature living in a 2D world. Or is he?\nWhen the existence of a mysterious 3rd dimension is revealed to him,\nGomez is sent out on a journey that will take him to the very end of time and space.\nUse your ability to navigate 3D structures from 4 distinct classic 2D perspectives."
     },
     "ff12_open_world": {
       "game": "Final Fantasy 12 Open World",
