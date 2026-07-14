@@ -12158,6 +12158,18 @@
       }
     },
     {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.6/civv.apworld",
+      "size": 455806,
+      "hash_sha256": "8aa9686c9bcb5c850c272a7b85668124cbd1ed66516fba66a4f6694a90a65a91",
+      "metadata": {
+        "game": "",
+        "id": "civv",
+        "world_version": "0.10.6",
+        "tag_version": "0.10.6",
+        "created_at": "2026-07-13T15:34:42Z"
+      }
+    },
+    {
       "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.5/civv.apworld",
       "size": 455914,
       "hash_sha256": "222ada376e9c4b171ddad7932cd13d8952a5af1879c3e20d1e136d1dd9171145",
@@ -24776,6 +24788,98 @@
         "tag_version": "0.0.1",
         "created_at": "2023-09-15T20:57:04Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.5.0/fez.apworld",
+      "size": 12475,
+      "hash_sha256": "bd601a9e709c3c8e964ddc04bf2aa6a5a59f5f3f388fbbbab1af08054388cc3c",
+      "metadata": {
+        "game": "",
+        "id": "fez",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-05-04T22:25:15Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.4.0/fez.apworld",
+      "size": 11974,
+      "hash_sha256": "c59e70e7a771c5597061882ee1e4de50393a837976a6792db4cc11f61ec09e63",
+      "metadata": {
+        "game": "",
+        "id": "fez",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2025-10-19T15:46:57Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.3.0/fez.apworld",
+      "size": 10780,
+      "hash_sha256": "332624208fb2c4159cb40690e6668932946e6d504fd0b78ebe4fa4afff0a9485",
+      "metadata": {
+        "game": "",
+        "id": "fez",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2025-10-05T20:30:46Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.2.0/fez.apworld",
+      "size": 21346,
+      "hash_sha256": "c74bb8acd51a9477aa5eec593308f23f825d7a71c981909f33318f7735e3f158",
+      "metadata": {
+        "game": "",
+        "id": "fez",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2025-10-01T20:54:52Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.1.1/fez.apworld",
+      "size": 10508,
+      "hash_sha256": "c8bd3664065a335fa38b9fbeb0bad0d5b32639e4456a42ee1bd3ff3ec6cabba4",
+      "metadata": {
+        "game": "",
+        "id": "fez",
+        "world_version": "0.1.1",
+        "tag_version": "0.1.1",
+        "created_at": "2025-09-30T17:24:02Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.1.0/fez.apworld",
+      "size": 10494,
+      "hash_sha256": "4575fc4f58a301a56cc3958610dd82f99452b97c1d97b06d91095f1b878775f3",
+      "metadata": {
+        "game": "",
+        "id": "fez",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2025-09-30T12:23:45Z",
         "flags": [
           "prerelease"
         ]
@@ -45686,6 +45790,19 @@
       }
     },
     {
+      "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Northgard/releases/download/2026.07.13/manual_northgard_chakraa.apworld",
+      "size": 58948,
+      "hash_sha256": "3ff292bbc4468c1d4ee6f0815ef114a2758dd7c549e0267423a5542705d309c8",
+      "metadata": {
+        "game": "",
+        "id": "manual_northgard_chakraa",
+        "world_version": "2026.7.13",
+        "tag_version": "2026.7.13",
+        "created_at": "2026-07-13T21:01:20Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/ChakraaThePanda/Archipelago-Manual-Northgard/releases/download/2025.09.01/manual_northgard_chakraa.apworld",
       "size": 51941,
       "hash_sha256": "4887dd6742f889d899b3129600efdb089a412ede83c7f5e575493efad84a0dea",
@@ -55722,6 +55839,19 @@
         "tag_version": "0.1.0",
         "created_at": "2024-07-03T12:55:54Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.1/nine_sols.apworld",
+      "size": 3635657,
+      "hash_sha256": "551830d4c6622c2a04b715aa4df2469252e3a2249ca46a48edb15fb9feac66ac",
+      "metadata": {
+        "game": "",
+        "id": "nine_sols",
+        "world_version": "0.6.1",
+        "tag_version": "0.6.1",
+        "created_at": "2026-07-13T22:24:26Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -85138,6 +85268,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.18/stardew_valley.apworld",
+      "size": 564094,
+      "hash_sha256": "1264f2c428d844202eb07aa040d0e29a86276a3062735e488e3746f5b71c8f90",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.0.18",
+        "tag_version": "8.0.18",
+        "created_at": "2026-07-13T22:57:36Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.13/stardew_valley.apworld",
       "size": 564068,
       "hash_sha256": "8285c112a2453b90d52389a7548d522dde59ffbd1f50f7664999b625d33a0c24",
@@ -87026,6 +87172,19 @@
         "tag_version": "0.1",
         "created_at": "2026-01-10T12:05:57Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/NaveTK/Archipelago/releases/download/v0.4.3/tboir.apworld",
+      "size": 429427,
+      "hash_sha256": "cc3a539ad57aaf3dc669135fd9cfbfa7aceac9f1635cfab48b0e8883f3057011",
+      "metadata": {
+        "game": "",
+        "id": "tboir",
+        "world_version": "0.4.3.post2",
+        "tag_version": "0.4.3.post2",
+        "created_at": "2026-07-13T23:17:37Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -100542,6 +100701,10 @@
     "fe8": {
       "game": "Fire Emblem Sacred Stones",
       "description": "Fire Emblem: The Sacred Stones is a tactical role-playing game developed by\nIntelligent Systems, and published by Nintendo for the Game Boy Advance\nhandheld video game console in 2004 for Japan and 2005 in the West. It is\nthe eighth entry in the Fire Emblem series, the second to be released\noutside Japan, and the third and final title to be developed for the Game\nBoy Advance after The Binding Blade and its prequel Fire Emblem.\n\nBuild an army. Trust no one."
+    },
+    "fez": {
+      "game": "Fez",
+      "description": "Gomez is a 2D creature living in a 2D world. Or is he?\nWhen the existence of a mysterious 3rd dimension is revealed to him,\nGomez is sent out on a journey that will take him to the very end of time and space.\nUse your ability to navigate 3D structures from 4 distinct classic 2D perspectives."
     },
     "ff12_open_world": {
       "game": "Final Fantasy 12 Open World",
