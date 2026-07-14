@@ -31063,6 +31063,21 @@
       }
     },
     {
+      "world": "https://github.com/AutumnRivers/Archipelago-Hacknet/releases/download/hacknet-alpha-4/hacknet.apworld",
+      "size": 23920,
+      "hash_sha256": "93887d3f9b1bd8b2025e85c0e5ccb98f36b63c8196953ab0338539127729cd1c",
+      "metadata": {
+        "game": "",
+        "id": "hacknet",
+        "world_version": "4",
+        "tag_version": "4",
+        "created_at": "2026-07-14T03:22:09Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/AutumnRivers/Archipelago-Hacknet/releases/download/hacknet-alpha-3/hacknet.apworld",
       "size": 63993,
       "hash_sha256": "c12f764c76b3234d3d090280f8256f18b27e1b0844d0830b23ad3ce2b375fe01",
@@ -51142,6 +51157,19 @@
         "tag_version": "1.0.0",
         "created_at": "2024-07-03T21:21:03Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/meleeap2.0.1/melee.apworld",
+      "size": 69948,
+      "hash_sha256": "2bfd48e806854ce7e916589566ab5076afe9aba4c25ccb014ca579c20e579082",
+      "metadata": {
+        "game": "",
+        "id": "melee",
+        "world_version": "2.0.1",
+        "tag_version": "2.0.1",
+        "created_at": "2026-06-20T15:36:18Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {

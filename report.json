@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
   "total_packages": 635,
-  "total_versions": 7263,
+  "total_versions": 7265,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -160,7 +160,7 @@
     "gstla": true,
     "guardianlegend": true,
     "gzdoom": true,
-    "hacknet": false,
+    "hacknet": true,
     "hades": true,
     "hammerwatch": true,
     "hangman": false,
@@ -587,9 +587,9 @@
     "0.6.9": 1
   },
   "max_maximum_ap_version": {
-    "": 288,
+    "": 289,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 263
+    "0.6.99": 262
   }
 }
