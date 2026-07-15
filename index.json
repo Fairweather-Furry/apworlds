@@ -30074,6 +30074,22 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR8/grinch.apworld",
+      "size": 56231,
+      "hash_sha256": "d9d538848aa4ddb0fd8676a633857b6191deff870eb852aabcfe84d3ca76c4a9",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-07-14T23:23:42Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.8/grinch.apworld",
       "size": 51369,
       "hash_sha256": "1967d4e41068f86986b9cd42888033000c3a1bcad8dd947fdd3299851e8edc57",
@@ -57118,6 +57134,19 @@
       }
     },
     {
+      "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.5.0/okamihd.apworld",
+      "size": 102441,
+      "hash_sha256": "c2277a639f27ea8c8eb64698a515b048b297202f37c167e6584ffc0931fdaa68",
+      "metadata": {
+        "game": "",
+        "id": "okamihd",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-07-14T14:16:08Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.5.0-preview-1/okamihd.apworld",
       "size": 75624,
       "hash_sha256": "ccd000d3b0d9a791d2ae01a2162de5c67690b7b170283459548084742dff72c1",
@@ -63339,6 +63368,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.37/pokemon_bw.apworld",
+      "size": 1122965,
+      "hash_sha256": "150b63a8fe3d0953fea1f807dc49d9d870c5dd6e925ebb406437593e72df1327",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_bw",
+        "world_version": "0.3.37",
+        "tag_version": "0.3.37",
+        "created_at": "2026-07-14T22:27:43Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -85305,6 +85347,22 @@
         "world_version": "8.0.18",
         "tag_version": "8.0.18",
         "created_at": "2026-07-13T22:57:36Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.19/stardew_valley.apworld",
+      "size": 564094,
+      "hash_sha256": "1264f2c428d844202eb07aa040d0e29a86276a3062735e488e3746f5b71c8f90",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.0.18",
+        "tag_version": "8.0.18",
+        "created_at": "2026-07-14T23:55:55Z",
         "minimum_ap_version": "0.6.4",
         "flags": [
           "prerelease"
