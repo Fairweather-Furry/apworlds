@@ -99035,6 +99035,19 @@
       }
     },
     {
+      "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.2.0/xenobladex.apworld",
+      "size": 261304,
+      "hash_sha256": "27d0dd7cd596a140d24c5bc31867900071a330d19b18f6a22b3ffd3e24353a3d",
+      "metadata": {
+        "game": "",
+        "id": "xenobladex",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2026-07-17T02:20:14Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.1.14/xenobladex.apworld",
       "size": 244956,
       "hash_sha256": "9d1ba00354f6a870094574df3d950d485824c4fbbd3cba37f528af65dbb972e1",
