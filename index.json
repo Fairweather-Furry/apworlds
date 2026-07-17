@@ -25266,6 +25266,19 @@
       }
     },
     {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.6.3/ff1pr.apworld",
+      "size": 28126,
+      "hash_sha256": "d889ad544c0e52c5495225106b66ab8bf26bcbb4e626c0cf0cb86ee604bf76dc",
+      "metadata": {
+        "game": "",
+        "id": "ff1pr",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-07-16T14:32:33Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.5.17/ff1pr.apworld",
       "size": 28129,
       "hash_sha256": "5bec1178120e695ea7f6f35596c049aa9b949d89a95d83233c636be4b605fd52",
@@ -49727,6 +49740,19 @@
           "unready",
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/TheRealSolidusSnake/Mario-Is-Missing/releases/download/0.0.3/mariomissing.apworld",
+      "size": 47801,
+      "hash_sha256": "917a96fb740503d2bb9a6ed75141ec38cac35cb96d0b89ff0246002d7fae03fa",
+      "metadata": {
+        "game": "",
+        "id": "mariomissing",
+        "world_version": "0.0.3",
+        "tag_version": "0.0.3",
+        "created_at": "2026-07-16T16:48:42Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -79806,6 +79832,18 @@
       }
     },
     {
+      "world": "https://github.com/TheRealSolidusSnake/SMRPG_apworld/releases/download/0.0.9/smrpg.apworld",
+      "size": 1142057,
+      "hash_sha256": "5f5d5112714b8d10ce51afba9f3ed01986a366a0b0730260834c7f57bacc6478",
+      "metadata": {
+        "game": "",
+        "id": "smrpg",
+        "world_version": "0.0.9",
+        "tag_version": "0.0.9",
+        "created_at": "2025-11-04T17:49:01Z"
+      }
+    },
+    {
       "world": "https://github.com/TheRealSolidusSnake/SMRPG_apworld/releases/download/0.0.8/smrpg.apworld",
       "size": 1094526,
       "hash_sha256": "318505f3ddba51541fcb0b16f94599b640005b542a47a50d05bfc800da23a886",
@@ -85409,6 +85447,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.20/stardew_valley.apworld",
+      "size": 564094,
+      "hash_sha256": "1264f2c428d844202eb07aa040d0e29a86276a3062735e488e3746f5b71c8f90",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.0.18",
+        "tag_version": "8.0.18",
+        "created_at": "2026-07-17T00:18:08Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.13/stardew_valley.apworld",
       "size": 564068,
       "hash_sha256": "8285c112a2453b90d52389a7548d522dde59ffbd1f50f7664999b625d33a0c24",
@@ -87008,6 +87062,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/barretg/Taskipelago/releases/download/v0.9.6/taskipelago.apworld",
+      "size": 244242,
+      "hash_sha256": "ac7fa94dbbca058db58052f56b50a3adb0294f8ed33eba8fdc275bcb04bb22dd",
+      "metadata": {
+        "game": "",
+        "id": "taskipelago",
+        "world_version": "0.9.6",
+        "tag_version": "0.9.6",
+        "created_at": "2026-07-16T17:23:29Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -99832,6 +99899,18 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/JustinMarshall98/Archipelago---YuGiOh-Dungeon-Dice-Monsters-GBA-/releases/download/v0.3.4/yugiohddm.apworld",
+      "size": 30526,
+      "hash_sha256": "511bd4a9a215dc7ffb928ea920e1fbac6ffeb4e0f9f6da9c99cf639d8bbbed6b",
+      "metadata": {
+        "game": "",
+        "id": "yugiohddm",
+        "world_version": "0.3.4.post2",
+        "tag_version": "0.3.4.post2",
+        "created_at": "2026-06-10T04:01:04Z"
       }
     },
     {
