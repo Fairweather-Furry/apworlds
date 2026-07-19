@@ -1798,6 +1798,22 @@
       }
     },
     {
+      "world": "https://github.com/Automagic00/ACT-AP-Client-Plugin/releases/download/0.5.2/another_crab.apworld",
+      "size": 147399,
+      "hash_sha256": "3de415937fd656560dc63df40bf07725a0c21e6325ca294fbe24b3aa7b4300ca",
+      "metadata": {
+        "game": "",
+        "id": "another_crab",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-07-19T01:00:42Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Automagic00/ACT-AP-Client-Plugin/releases/download/0.5.1/another_crab.apworld",
       "size": 147399,
       "hash_sha256": "3de415937fd656560dc63df40bf07725a0c21e6325ca294fbe24b3aa7b4300ca",
@@ -16019,6 +16035,32 @@
       }
     },
     {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03h/cuphead.apworld",
+      "size": 113171,
+      "hash_sha256": "dcfcd57c771bb68902445dd7003a45f9a16633135026553d6516b1bd95ffb039",
+      "metadata": {
+        "game": "",
+        "id": "cuphead",
+        "world_version": "0.2.16910335",
+        "tag_version": "0.2.16910335",
+        "created_at": "2026-07-19T01:40:44Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03g/cuphead.apworld",
+      "size": 113147,
+      "hash_sha256": "194033cb99296d8b602b9bb1b245dd855b1911fa1bd3fb84140b49b8e562f456",
+      "metadata": {
+        "game": "",
+        "id": "cuphead",
+        "world_version": "0.2.16910079",
+        "tag_version": "0.2.16910079",
+        "created_at": "2026-07-18T20:02:30Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03f/cuphead.apworld",
       "size": 113131,
       "hash_sha256": "beec9a2e528bb0cf9aca5c0f3df4986e2dbdba6dc46428f6346a7bb2bd92b5cd",
@@ -24381,6 +24423,19 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.9.3/factorio_saws.apworld",
+      "size": 892273,
+      "hash_sha256": "dc19fe44836b4dadb1e76db25374a51e62a5ba6934604e4e8e8eb13bf64e0e32",
+      "metadata": {
+        "game": "",
+        "id": "factorio_saws",
+        "world_version": "0.9.3",
+        "tag_version": "0.9.3",
+        "created_at": "2026-07-18T23:59:01Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.9.2/factorio_saws.apworld",
       "size": 891985,
       "hash_sha256": "d55ce70f17895b68e921909b8ecb19b537f9f90bf21ebeb4495142fbf37b687b",
@@ -24573,6 +24628,21 @@
         "tag_version": "0.0.6",
         "created_at": "2025-10-19T08:25:24Z",
         "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/CT075/Archipelago/releases/download/fe8-alpha-0.5.0-rc1/fe8.apworld",
+      "size": 74743,
+      "hash_sha256": "c07f4433dde1995b050215706fc324f40dded8067ac03fe633e15e6dd152c50f",
+      "metadata": {
+        "game": "",
+        "id": "fe8",
+        "world_version": "0.5.0.post2",
+        "tag_version": "0.5.0.post2",
+        "created_at": "2026-07-14T15:03:12Z",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -93957,6 +94027,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-04-17T22:14:40Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/silent-destroyer/tunic-randomizer/releases/download/5.0.1/tunic.apworld",
+      "size": 154358,
+      "hash_sha256": "7f45a5c8ee2eeecd2f8d3f922f8d097e940836dacb8f472f59df351f03184943",
+      "metadata": {
+        "game": "",
+        "id": "tunic",
+        "world_version": "5.0.1",
+        "tag_version": "5.0.1",
+        "created_at": "2026-07-19T01:04:28Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
