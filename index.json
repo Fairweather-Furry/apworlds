@@ -2,54 +2,6 @@
   "index_version": 1,
   "worlds": [
     {
-      "world": "https://github.com/WalWalrus/ABLAP/releases/download/v0.1.2/abugslife.apworld",
-      "size": 14104,
-      "hash_sha256": "459d855f4553842c10866f6ed611012c890da9de0e53c219c38097aded01f89f",
-      "metadata": {
-        "game": "",
-        "id": "abugslife",
-        "world_version": "0.1.2",
-        "tag_version": "0.1.2",
-        "created_at": "2025-12-29T03:48:17Z",
-        "minimum_ap_version": "0.6.1",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/WalWalrus/ABLAP/releases/download/v0.1.1/abugslife.apworld",
-      "size": 6979,
-      "hash_sha256": "62fecbd3ee6483f9ed7ba28a8e966490d37aad589df69d9da37ad01c2e82809a",
-      "metadata": {
-        "game": "",
-        "id": "abugslife",
-        "world_version": "0.1.1",
-        "tag_version": "0.1.1",
-        "created_at": "2025-12-29T03:48:17Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/WalWalrus/ABLAP/releases/download/v0.1.0/abugslife.apworld",
-      "size": 6984,
-      "hash_sha256": "bb80ac1ddde7498c60b1f088666180f185a026b31318410c188627e001f07db7",
-      "metadata": {
-        "game": "",
-        "id": "abugslife",
-        "world_version": "0.1.0",
-        "tag_version": "0.1.0",
-        "created_at": "2025-12-29T01:27:51Z",
-        "maximum_ap_version": "0.6.99",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/Happyhappyism/Archipelago/releases/download/apraiser_v134/actraiser.apworld",
       "size": 85415,
       "hash_sha256": "dc2c390f42bafd04bb422d27430404c34b43b8ded6610598d499fed3095bcc40",
@@ -30238,6 +30190,22 @@
         "world_version": "1.6.0",
         "tag_version": "1.6.0",
         "created_at": "2026-07-14T23:23:42Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR9/grinch.apworld",
+      "size": 58634,
+      "hash_sha256": "09ad2253fd1a34fe9f9a3ea1c481681b59c970682cf40e8c0137b04d88ff01b1",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-07-20T03:50:30Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
@@ -99619,6 +99587,19 @@
       }
     },
     {
+      "world": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.24/yarg.apworld",
+      "size": 34135,
+      "hash_sha256": "5650b8e23ba3df41bc43bd512523582dd76fa43c45f9dcf1fb550bb87391f134",
+      "metadata": {
+        "game": "",
+        "id": "yarg",
+        "world_version": "0.0.24",
+        "tag_version": "0.0.24",
+        "created_at": "2026-07-20T04:54:24Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/energymaster22/YARGArchipelago/releases/download/0.0.23/yarg.apworld",
       "size": 33859,
       "hash_sha256": "693e1edfeca0372f2d105b116d8a3d68528e81f6411d2a592816a7a58568288b",
@@ -100645,10 +100626,6 @@
     }
   ],
   "meta": {
-    "abugslife": {
-      "game": "A Bug's Life",
-      "description": ""
-    },
     "actraiser": {
       "game": "Actraiser",
       "description": "Actraiser whose apworld code had a lot of it's base code mirrored from \nthe Majoras Mask and Donkey Kong Country 3 Apworlds.",
