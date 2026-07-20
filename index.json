@@ -15513,6 +15513,123 @@
       }
     },
     {
+      "world": "https://github.com/Ars-Ignis/Archipelago/releases/download/v2.0.4-Crystalis/crystalis.apworld",
+      "size": 73347,
+      "hash_sha256": "0794263809bbd4c8892cb148b2af0e96965150b48d9aace15233d446f559ff16",
+      "metadata": {
+        "game": "",
+        "id": "crystalis",
+        "world_version": "2.0.4rc0.post0",
+        "tag_version": "2.0.4rc0.post0",
+        "created_at": "2025-11-25T04:11:30Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
+      "world": "https://github.com/Ars-Ignis/Archipelago/releases/download/v2.0.3/crystalis.apworld",
+      "size": 227004,
+      "hash_sha256": "b8de626607b0552fc2d0afff341a68f8e27663db57ee2061e7a2099f765fc6f6",
+      "metadata": {
+        "game": "",
+        "id": "crystalis",
+        "world_version": "2.0.3",
+        "tag_version": "2.0.3",
+        "created_at": "2025-07-24T02:56:15Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Ars-Ignis/Archipelago/releases/download/v2.0.2/crystalis.apworld",
+      "size": 226975,
+      "hash_sha256": "b971a04b78a10d5ecfdb5a215ffb5f2c136211edbf7a361be30c05234ea3b308",
+      "metadata": {
+        "game": "",
+        "id": "crystalis",
+        "world_version": "2.0.2",
+        "tag_version": "2.0.2",
+        "created_at": "2025-04-13T20:04:00Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Ars-Ignis/Archipelago/releases/download/v2.0.1/crystalis.apworld",
+      "size": 226689,
+      "hash_sha256": "48304c32837a110901cf8508521bb9e7f75682102a091ceb67f6143888a58420",
+      "metadata": {
+        "game": "",
+        "id": "crystalis",
+        "world_version": "2.0.1",
+        "tag_version": "2.0.1",
+        "created_at": "2025-04-05T15:44:25Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Ars-Ignis/Archipelago/releases/download/v2.0.0/crystalis.apworld",
+      "size": 225878,
+      "hash_sha256": "c85cdb6f058867418b092723173cc872f3dcdaf86973cb482b832da0a9515e42",
+      "metadata": {
+        "game": "",
+        "id": "crystalis",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2025-04-01T18:37:09Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Ars-Ignis/Archipelago/releases/download/v1.0.3/crystalis.apworld",
+      "size": 181246,
+      "hash_sha256": "0efd6e4edb65be1439bf77e11d2e4ed8e30ec295251183a2de0fbe0c1b4d008b",
+      "metadata": {
+        "game": "",
+        "id": "crystalis",
+        "world_version": "1.0.3",
+        "tag_version": "1.0.3",
+        "created_at": "2024-11-26T07:03:14Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Ars-Ignis/Archipelago/releases/download/v1.0.2/crystalis.apworld",
+      "size": 181215,
+      "hash_sha256": "0dfec1d4ff67e3298cc29cdadd8bdac960e972ab25c373084a5836424f464512",
+      "metadata": {
+        "game": "",
+        "id": "crystalis",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2024-10-08T03:27:41Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Ars-Ignis/Archipelago/releases/download/v1.0.1/crystalis.apworld",
+      "size": 181192,
+      "hash_sha256": "4de367f284ec555acc8fd4f944e8fdcdfd9fca752555f535e3727a80a0f27072",
+      "metadata": {
+        "game": "",
+        "id": "crystalis",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2024-10-07T00:30:55Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Ars-Ignis/Archipelago/releases/download/v1.0.0/crystalis.apworld",
+      "size": 181192,
+      "hash_sha256": "be3272df8413ccea637b398847b34f0148777985716737803aa9605d4d6f1ee6",
+      "metadata": {
+        "game": "",
+        "id": "crystalis",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2024-09-30T03:31:53Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Anguirel86/Archipelago/releases/download/v0.0.4/ctjot.apworld",
       "size": 25702,
       "hash_sha256": "7c324e8e26f60a6f96714b730ba2076530c3b64c113bd14fd817d105f156a1e7",
@@ -26550,6 +26667,22 @@
         "world_version": "0.1.0",
         "tag_version": "0.1.0",
         "created_at": "2025-12-19T23:55:42Z"
+      }
+    },
+    {
+      "world": "https://github.com/junglechief87/arch_ffvcd/releases/download/v83.1/ffvcd.apworld",
+      "size": 1537786,
+      "hash_sha256": "cc1c9c8c8a6dcd44cc5906716252fd256c9e8e4c3e8c23688982e864d369aa93",
+      "metadata": {
+        "game": "",
+        "id": "ffvcd",
+        "world_version": "83.1",
+        "tag_version": "83.1",
+        "created_at": "2026-07-19T18:06:40Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "unready"
+        ]
       }
     },
     {
@@ -37595,6 +37728,19 @@
         "tag_version": "0.0.1",
         "created_at": "2025-02-05T02:38:43Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/GreenPower713/Archipelago/releases/download/v0.3.0/ktane.apworld",
+      "size": 20949,
+      "hash_sha256": "73bea926be43f9498d90de09922e914a0cce0628f25da89312937578486ae25a",
+      "metadata": {
+        "game": "",
+        "id": "ktane",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-07-18T09:37:42Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -92503,6 +92649,19 @@
       }
     },
     {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.3.1/tracker.apworld",
+      "size": 169102,
+      "hash_sha256": "5e8dce9dfde337b7ae0bd7ca41e30be8979a9bf1cdeb61d8f84fd5083f935121",
+      "metadata": {
+        "game": "",
+        "id": "tracker",
+        "world_version": "0.3.1",
+        "tag_version": "0.3.1",
+        "created_at": "2026-07-19T23:55:48Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
       "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.2.34/tracker.apworld",
       "size": 168490,
       "hash_sha256": "1c5acca6c23c2d034236a737feb3ffe39a915d36db587e650c4a9a8b8b41ff53",
@@ -93557,6 +93716,19 @@
         "tag_version": "1.0.0",
         "created_at": "2025-05-04T19:36:25Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.11.0/ttyd.apworld",
+      "size": 1542163,
+      "hash_sha256": "75bad7ad76dbcae5ed14fdb531c49b37d30fc2f97feafd5c3afdbdea5dd8f6fc",
+      "metadata": {
+        "game": "",
+        "id": "ttyd",
+        "world_version": "0.11.0",
+        "tag_version": "0.11.0",
+        "created_at": "2026-06-21T08:32:56Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -96339,6 +96511,19 @@
         "flags": [
           "unready"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.4/vampire_survivors.apworld",
+      "size": 28781,
+      "hash_sha256": "0cfef25105982ccef1b23a3c56387083fd7c99d6012ca8c7231802fa4bbb5dcb",
+      "metadata": {
+        "game": "",
+        "id": "vampire_survivors",
+        "world_version": "0.3.5",
+        "tag_version": "0.3.5",
+        "created_at": "2026-04-11T20:23:12Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -100760,6 +100945,10 @@
     "crystal_project": {
       "game": "Crystal Project",
       "description": "Crystal Project is a mix of old school job based jRPG mixed with a ton of 3D platforming and exploration."
+    },
+    "crystalis": {
+      "game": "Crystalis",
+      "description": "October 1st, 1997: The END Day. Long after a savage war engulfs and destroys the world, Simea wakes from cryostasis\nto find himself in a strange, post-apocalyptic world. Explore the land and fight against the Goa Empire in this\n1990 NES action role-playing game."
     },
     "ctjot": {
       "game": "Chrono Trigger Jets of Time",
