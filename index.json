@@ -2,6 +2,54 @@
   "index_version": 1,
   "worlds": [
     {
+      "world": "https://github.com/WalWalrus/ABLAP/releases/download/v0.1.2/abugslife.apworld",
+      "size": 14104,
+      "hash_sha256": "459d855f4553842c10866f6ed611012c890da9de0e53c219c38097aded01f89f",
+      "metadata": {
+        "game": "",
+        "id": "abugslife",
+        "world_version": "0.1.2",
+        "tag_version": "0.1.2",
+        "created_at": "2025-12-29T03:48:17Z",
+        "minimum_ap_version": "0.6.1",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/WalWalrus/ABLAP/releases/download/v0.1.1/abugslife.apworld",
+      "size": 6979,
+      "hash_sha256": "62fecbd3ee6483f9ed7ba28a8e966490d37aad589df69d9da37ad01c2e82809a",
+      "metadata": {
+        "game": "",
+        "id": "abugslife",
+        "world_version": "0.1.1",
+        "tag_version": "0.1.1",
+        "created_at": "2025-12-29T03:48:17Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/WalWalrus/ABLAP/releases/download/v0.1.0/abugslife.apworld",
+      "size": 6984,
+      "hash_sha256": "bb80ac1ddde7498c60b1f088666180f185a026b31318410c188627e001f07db7",
+      "metadata": {
+        "game": "",
+        "id": "abugslife",
+        "world_version": "0.1.0",
+        "tag_version": "0.1.0",
+        "created_at": "2025-12-29T01:27:51Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Happyhappyism/Archipelago/releases/download/apraiser_v134/actraiser.apworld",
       "size": 85415,
       "hash_sha256": "dc2c390f42bafd04bb422d27430404c34b43b8ded6610598d499fed3095bcc40",
@@ -39639,6 +39687,18 @@
       }
     },
     {
+      "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v9.4.0/lingo2.apworld",
+      "size": 0,
+      "hash_sha256": "8afa2ef5c53c15578b2bac5386e77b435c6aea98bb9ecf54bb156866a14973f0",
+      "metadata": {
+        "game": "",
+        "id": "lingo2",
+        "world_version": "9.4.0",
+        "tag_version": "9.4.0",
+        "created_at": null
+      }
+    },
+    {
       "world": "https://files.fourisland.com/releases/lingo2-archipelago/apworld/v9.3.0/lingo2.apworld",
       "size": 0,
       "hash_sha256": "328b9d137f21ad2e35ed13177e3ac0ad79513013218dc60dc92fe38a5eb89f7e",
@@ -40882,6 +40942,19 @@
         "world_version": "0.6.0",
         "tag_version": "0.6.0",
         "created_at": "2026-03-06T18:42:51Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
+      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.6.2/luigismansion.apworld",
+      "size": 232025,
+      "hash_sha256": "f17f9f8e4d7c0c88cb3093449fe32cf6d9f9afcc5e413df07d1dba934c3863d9",
+      "metadata": {
+        "game": "",
+        "id": "luigismansion",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-07-20T15:47:19Z",
         "minimum_ap_version": "0.6.6"
       }
     },
@@ -67381,6 +67454,18 @@
       }
     },
     {
+      "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.5/pokepark.apworld",
+      "size": 83083,
+      "hash_sha256": "185b9dceb2700d78516364916633401f18ad10e64f25328ba6f3d93549e1ee75",
+      "metadata": {
+        "game": "",
+        "id": "pokepark",
+        "world_version": "1.2.5",
+        "tag_version": "1.2.5",
+        "created_at": "2026-07-20T17:28:31Z"
+      }
+    },
+    {
       "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.4/pokepark.apworld",
       "size": 79754,
       "hash_sha256": "9610eee2c7e359b1a70227150b06f23d8e966ca346fb3361d19de1adf25c5bea",
@@ -74225,6 +74310,19 @@
         "world_version": "1.2.2",
         "tag_version": "1.2.2",
         "created_at": "2026-06-24T03:58:14Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/ClassicSpeed/sadx-classic-randomizer/releases/download/v1.2.2b/sadx.apworld",
+      "size": 3156790,
+      "hash_sha256": "4436a03f8fc309d5d9cb10212b22654700cf0a351eac7cc0c956e25539ce0383",
+      "metadata": {
+        "game": "",
+        "id": "sadx",
+        "world_version": "1.2.2b0",
+        "tag_version": "1.2.2b0",
+        "created_at": "2026-07-20T19:03:25Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -93687,6 +93785,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.11.1/ttyd.apworld",
+      "size": 1542046,
+      "hash_sha256": "81f8f9c85091378956ad832eb46ff5708ec0c0f46c9cf4fe56458ed56acab1bf",
+      "metadata": {
+        "game": "",
+        "id": "ttyd",
+        "world_version": "0.11.1",
+        "tag_version": "0.11.1",
+        "created_at": "2026-06-21T08:32:56Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.11.0/ttyd.apworld",
       "size": 1542163,
       "hash_sha256": "75bad7ad76dbcae5ed14fdb531c49b37d30fc2f97feafd5c3afdbdea5dd8f6fc",
@@ -100626,6 +100737,10 @@
     }
   ],
   "meta": {
+    "abugslife": {
+      "game": "A Bug's Life",
+      "description": ""
+    },
     "actraiser": {
       "game": "Actraiser",
       "description": "Actraiser whose apworld code had a lot of it's base code mirrored from \nthe Majoras Mask and Donkey Kong Country 3 Apworlds.",
