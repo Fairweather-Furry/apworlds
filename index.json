@@ -13527,6 +13527,19 @@
       }
     },
     {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.7.0/cotnd.apworld",
+      "size": 21947148,
+      "hash_sha256": "6b84f39149868112c9e54205b8a7b2217b8f2979daebe91e0b051c7f9d2cb90b",
+      "metadata": {
+        "game": "",
+        "id": "cotnd",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-07-22T00:40:37Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.6.0/cotnd.apworld",
       "size": 21935791,
       "hash_sha256": "0e7aeff7da6bff477adff61ebc5e5835dbf58e053664b02d076b72ef838ef4e2",
@@ -30261,6 +30274,35 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0/grinch.apworld",
+      "size": 58582,
+      "hash_sha256": "73b24836d72b015bb26b62850d05919c06d9153124501f9e362256be62d07835",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-07-22T01:54:25Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR10/grinch.apworld",
+      "size": 58584,
+      "hash_sha256": "ac4cf31a9cf4cda2e491a9ed2743c01f6008edd7e9060aa890a407570b678ea1",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-07-21T21:40:43Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.8/grinch.apworld",
       "size": 51369,
       "hash_sha256": "1967d4e41068f86986b9cd42888033000c3a1bcad8dd947fdd3299851e8edc57",
@@ -40917,6 +40959,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-10-12T07:53:26Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/BootsinSoots/Archipelago/releases/download/V0.6.4/luigismansion.apworld",
+      "size": 232447,
+      "hash_sha256": "92d3dddfb971ffa3e99391df8b182625332bfcf3d391c4bbdca321c2fa3573c8",
+      "metadata": {
+        "game": "",
+        "id": "luigismansion",
+        "world_version": "0.6.4",
+        "tag_version": "0.6.4",
+        "created_at": "2026-07-21T15:30:06Z",
+        "minimum_ap_version": "0.6.6"
       }
     },
     {
@@ -85686,6 +85741,22 @@
         "world_version": "8.0.21",
         "tag_version": "8.0.21",
         "created_at": "2026-07-18T04:47:20Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.22/stardew_valley.apworld",
+      "size": 564128,
+      "hash_sha256": "f50bb01681b8831fd2bdf84413a96077efe02f898484706ac8d4a387e927c020",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.0.21",
+        "tag_version": "8.0.21",
+        "created_at": "2026-07-21T17:07:42Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
