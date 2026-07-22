@@ -1,12 +1,18 @@
 # The Grinch
 
 ## Latest
-- <a href="https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR1/grinch.apworld">Latest Version (1.6.0)</a>
+- <a href="https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0/grinch.apworld">Latest Version (1.6.0)</a>
 
 ## All Versions
 
 #### v1.6.0
+- <a href="https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0/grinch.apworld">https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0/grinch.apworld</a>
+
+#### v1.6.0
 - <a href="https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR1/grinch.apworld">https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR1/grinch.apworld</a>
+
+#### v1.6.0
+- <a href="https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR10/grinch.apworld">https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR10/grinch.apworld</a>
 
 #### v1.6.0
 - <a href="https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR2/grinch.apworld">https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR2/grinch.apworld</a>
@@ -31,12 +37,6 @@
 
 #### v1.6.0
 - <a href="https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR9/grinch.apworld">https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR9/grinch.apworld</a>
-
-#### v1.6.0
-- <a href="https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0/grinch.apworld">https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0/grinch.apworld</a>
-
-#### v1.6.0
-- <a href="https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR10/grinch.apworld">https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.0-PR10/grinch.apworld</a>
 
 #### v1.5.8
 - <a href="https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.8/grinch.apworld">https://github.com/MarioSpore/Grinch-AP/releases/download/v1.5.8/grinch.apworld</a>
