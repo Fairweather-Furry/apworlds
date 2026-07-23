@@ -54213,6 +54213,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v2.0.0/mmx2.apworld",
+      "size": 56970,
+      "hash_sha256": "9d6ded1ea0b6b7f8136acd71cb3bc1bd2e1ff81612f0574f96fd31382928cfb5",
+      "metadata": {
+        "game": "",
+        "id": "mmx2",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-07-22T15:36:18Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v1.2.1/mmx2.apworld",
       "size": 58013,
       "hash_sha256": "ccde2d29bef739ce68eefcfe71b6207d431945d03ac05c5c1168027084eef157",
@@ -85777,6 +85790,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.23/stardew_valley.apworld",
+      "size": 564128,
+      "hash_sha256": "f50bb01681b8831fd2bdf84413a96077efe02f898484706ac8d4a387e927c020",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.0.21",
+        "tag_version": "8.0.21",
+        "created_at": "2026-07-22T19:34:02Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.0.18/stardew_valley.apworld",
       "size": 564094,
       "hash_sha256": "1264f2c428d844202eb07aa040d0e29a86276a3062735e488e3746f5b71c8f90",
@@ -97559,6 +97588,19 @@
       }
     },
     {
+      "world": "https://github.com/FlySniper/Archipelago/releases/download/wargroove2-1.1.9/wargroove2.apworld",
+      "size": 1889003,
+      "hash_sha256": "2083d3dec193b41c1908d1c3dcf9d4e53ef281b4752e3419137222a22b645cad",
+      "metadata": {
+        "game": "",
+        "id": "wargroove2",
+        "world_version": "1.1.9",
+        "tag_version": "1.1.9",
+        "created_at": "2026-07-22T17:50:01Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/FlySniper/Archipelago/releases/download/wargroove2-1.1.7/wargroove2.apworld",
       "size": 1886639,
       "hash_sha256": "704ee7e0a5286a3fd8b6715b5986000a211bb7e86e035e72b50bd418bde75ba9",
@@ -99472,6 +99514,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.2.1/xenobladex.apworld",
+      "size": 7273611,
+      "hash_sha256": "ead03654ac4ce57af7cab432fd81dda047aedaf8d5f4e714ebc9adc5a361929c",
+      "metadata": {
+        "game": "",
+        "id": "xenobladex",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-07-23T00:44:30Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
