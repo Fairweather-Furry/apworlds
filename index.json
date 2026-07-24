@@ -8211,6 +8211,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-91/borderlands2.apworld",
+      "size": 60598,
+      "hash_sha256": "1c76dbe2ab8b8b9f7fb4fb638568166bfd117d82fac08a1fbe70494b1903a377",
+      "metadata": {
+        "game": "",
+        "id": "borderlands2",
+        "world_version": "91",
+        "tag_version": "91",
+        "created_at": "2026-07-24T07:13:54Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-88/borderlands2.apworld",
       "size": 60234,
       "hash_sha256": "0133ca5a401361346597ccc92e70a960051b0f2282008e250b62e31aa0796a70",
@@ -37846,6 +37862,19 @@
         "world_version": "0.3.0",
         "tag_version": "0.3.0",
         "created_at": "2026-07-18T09:37:42Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/GreenPower713/Archipelago/releases/download/v0.3.0b/ktane.apworld",
+      "size": 21327,
+      "hash_sha256": "71e040cc90ec19708173ace6fc137278afb0272de31f8380534202c8323ff691",
+      "metadata": {
+        "game": "",
+        "id": "ktane",
+        "world_version": "0.3.0b0",
+        "tag_version": "0.3.0b0",
+        "created_at": "2026-07-23T07:03:32Z",
         "minimum_ap_version": "0.6.7"
       }
     },
