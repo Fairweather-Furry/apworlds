@@ -38064,6 +38064,19 @@
       }
     },
     {
+      "world": "https://github.com/GreenPower713/Archipelago/releases/download/v0.3.0c/ktane.apworld",
+      "size": 21333,
+      "hash_sha256": "db46cfd845ecbcf6d8a783a66dd8f8dafe65c585e655bcec123077ec2017e4ca",
+      "metadata": {
+        "game": "",
+        "id": "ktane",
+        "world_version": "0.3.0rc0",
+        "tag_version": "0.3.0rc0",
+        "created_at": "2026-07-28T08:12:32Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/GreenPower713/Archipelago/releases/download/v0.3.0b/ktane.apworld",
       "size": 21327,
       "hash_sha256": "71e040cc90ec19708173ace6fc137278afb0272de31f8380534202c8323ff691",
@@ -50365,6 +50378,19 @@
       }
     },
     {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.3.0/medievil.apworld",
+      "size": 33574,
+      "hash_sha256": "51f9b2249338f3e7d6582e3344215f60eb04856629d585a46ce9e48951aad9d0",
+      "metadata": {
+        "game": "",
+        "id": "medievil",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-07-28T12:22:30Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.9/medievil.apworld",
       "size": 26528,
       "hash_sha256": "c0f0bc9fd726cf03421fcd2859a734be63f11d8308e2c1376dc027a2db2f1d56",
@@ -50414,6 +50440,19 @@
         "tag_version": "0.2.8",
         "created_at": "2026-01-07T21:48:27Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.12/medievil.apworld",
+      "size": 25452,
+      "hash_sha256": "151450ddc8191c974be6040c2ec967d95558d33b5522cbaf7518e046fb1f9124",
+      "metadata": {
+        "game": "",
+        "id": "medievil",
+        "world_version": "0.2.8",
+        "tag_version": "0.2.8",
+        "created_at": "2026-07-28T10:12:50Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
@@ -50921,6 +50960,18 @@
         "tag_version": "0.0.1",
         "created_at": "2025-07-16T07:06:22Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.2.1/medievil2.apworld",
+      "size": 18453,
+      "hash_sha256": "88fda5fc0156332e001e2ffb8513eae3e7e51a4ff5be50f53eed50f2dcdeed67",
+      "metadata": {
+        "game": "",
+        "id": "medievil2",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-07-28T12:41:57Z"
       }
     },
     {
@@ -63980,6 +64031,23 @@
         "maximum_ap_version": "0.6.99",
         "flags": [
           "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Hallstead/AP-Pokeclicker/releases/download/Apworld-v0.1.2-Faster/pokeclicker.apworld",
+      "size": 54146,
+      "hash_sha256": "b5f149e906a56182ce520e032c01b031c2dbb3f76d9d3ce15d76202633771a74",
+      "metadata": {
+        "game": "",
+        "id": "pokeclicker",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-07-09T19:58:58Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "unready",
+          "prerelease"
         ]
       }
     },
@@ -93079,6 +93147,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/bbernardoni/Archipelago.TOEM/releases/download/2.1.0/toem.apworld",
+      "size": 41118,
+      "hash_sha256": "be3342f725d9ccf279b3d6132b381c419355e64102014ab907d55ad62b838420",
+      "metadata": {
+        "game": "",
+        "id": "toem",
+        "world_version": "2.1.0",
+        "tag_version": "2.1.0",
+        "created_at": "2026-07-28T04:50:09Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {

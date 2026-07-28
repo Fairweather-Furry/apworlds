@@ -6,7 +6,11 @@
   "game": "Pokeclicker",
   "github": "https://github.com/Hallstead/AP-Pokeclicker",
   "license": null,
-  "manifest_fields": [],
+  "manifest_fields": [
+    "authors",
+    "minimum_ap_version",
+    "world_version"
+  ],
   "versions": {
     "Apworld-v0.1.0": {
       "created_at": "2025-12-13T22:32:01Z",
@@ -44,6 +48,20 @@
       "title": "Apworld-v0.1.2",
       "version_simple": "0.1.2",
       "world_version": "0.1.2"
+    },
+    "Apworld-v0.1.2-Faster": {
+      "created_at": "2026-07-09T19:58:58Z",
+      "download_url": "https://github.com/Hallstead/AP-Pokeclicker/releases/download/Apworld-v0.1.2-Faster/pokeclicker.apworld",
+      "has_manifest": true,
+      "hash_sha256": "b5f149e906a56182ce520e032c01b031c2dbb3f76d9d3ce15d76202633771a74",
+      "minimum_ap_version": "0.6.6",
+      "prerelease": true,
+      "size": 54146,
+      "source_url": "https://api.github.com/repos/Hallstead/AP-Pokeclicker",
+      "tag": "Apworld-v0.1.2-Faster",
+      "title": "Apworld-v0.1.2 (Faster Gen)",
+      "version_simple": "2.0.0",
+      "world_version": "2.0.0"
     }
   }
 }
