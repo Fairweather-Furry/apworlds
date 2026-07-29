@@ -9211,6 +9211,18 @@
       }
     },
     {
+      "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.15.1/brotato.apworld",
+      "size": 43701,
+      "hash_sha256": "f5a7683e61eec4680a74ba4490d405ee2933464f135555d042c3d33e4afef073",
+      "metadata": {
+        "game": "",
+        "id": "brotato",
+        "world_version": "0.15.0",
+        "tag_version": "0.15.0",
+        "created_at": "2026-07-29T03:57:14Z"
+      }
+    },
+    {
       "world": "https://github.com/SpenserHaddad/Brotato-ArchipelagoClient/releases/download/v0.14.1/brotato.apworld",
       "size": 43689,
       "hash_sha256": "8133a93a3f9b698fbbf9dfb150537edff9631730574156b4d7ef280795f513dc",
@@ -16221,6 +16233,19 @@
         "tag_version": "0.3a0",
         "created_at": "2025-04-01T22:38:37Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03h.1/cuphead.apworld",
+      "size": 113200,
+      "hash_sha256": "fff3a5c93f8978daa4449c070681ae7f63a9ba03d46ae01fb70ea00badb8a3a3",
+      "metadata": {
+        "game": "",
+        "id": "cuphead",
+        "world_version": "0.2.20020710",
+        "tag_version": "0.2.20020710",
+        "created_at": "2026-07-29T06:00:59Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -45923,6 +45948,19 @@
       }
     },
     {
+      "world": "https://github.com/Greengamefire/Mario-Kart-World-Manual-AP/releases/download/v0.5.0/manual_mariokartworld_greengamefire.apworld",
+      "size": 81656,
+      "hash_sha256": "0a6d570f43de105f6bfde658b5b58e1a5b478c0d7e1cdbf42dcdf9fa85baf156",
+      "metadata": {
+        "game": "",
+        "id": "manual_mariokartworld_greengamefire",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-07-29T05:18:18Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Greengamefire/Mario-Kart-World-Manual-AP/releases/download/v0.4.0/manual_mariokartworld_greengamefire.apworld",
       "size": 62285,
       "hash_sha256": "0b22f3b1684d352de4ddf3ffea516f13408b509355026c8129319035f86dc8af",
@@ -50973,6 +51011,19 @@
         "tag_version": "0.0.1",
         "created_at": "2025-07-16T07:06:22Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.2.3/medievil2.apworld",
+      "size": 25094,
+      "hash_sha256": "5379622aec51beed04e32a9ba5ee4afe74b993537d992d41246772bf45ffa4db",
+      "metadata": {
+        "game": "",
+        "id": "medievil2",
+        "world_version": "0.2.3",
+        "tag_version": "0.2.3",
+        "created_at": "2026-07-29T10:42:54Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
