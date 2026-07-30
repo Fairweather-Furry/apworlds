@@ -24709,6 +24709,19 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.9.4/factorio_saws.apworld",
+      "size": 892669,
+      "hash_sha256": "63985effa766110260c52b004020783c92f7fa3227bb4da52bde1be7c629d24e",
+      "metadata": {
+        "game": "",
+        "id": "factorio_saws",
+        "world_version": "0.9.4",
+        "tag_version": "0.9.4",
+        "created_at": "2026-07-30T01:30:08Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/factorio_saws-0.9.3/factorio_saws.apworld",
       "size": 892273,
       "hash_sha256": "dc19fe44836b4dadb1e76db25374a51e62a5ba6934604e4e8e8eb13bf64e0e32",
@@ -47959,6 +47972,19 @@
         "world_version": "0.1.5",
         "tag_version": "0.1.5",
         "created_at": "2024-11-03T22:45:23Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.1.2/manual_residentevil4_vincentssin.apworld",
+      "size": 92680,
+      "hash_sha256": "f2774eef24b165e54d08a0df8952e2cbddb2b8a3034c97d246c7c35ba129fbb9",
+      "metadata": {
+        "game": "",
+        "id": "manual_residentevil4_vincentssin",
+        "world_version": "2.1.2",
+        "tag_version": "2.1.2",
+        "created_at": "2026-05-03T18:27:57Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -78793,6 +78819,19 @@
         "tag_version": "1.0",
         "created_at": "2025-01-07T08:50:16Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SWCreeperKing/Slimipelago/releases/download/v0.3.2/slime_rancher.apworld",
+      "size": 21886,
+      "hash_sha256": "306217c8031c3813da2cae58deb1d0d41918c21fa6277818e72d540705eb509c",
+      "metadata": {
+        "game": "",
+        "id": "slime_rancher",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-07-29T21:27:58Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
