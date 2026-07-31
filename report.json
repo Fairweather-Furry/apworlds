@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
   "total_packages": 639,
-  "total_versions": 7378,
+  "total_versions": 7370,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -497,7 +497,6 @@
     "spyro3": true,
     "srb2": false,
     "ss": true,
-    "ss2": true,
     "stacklands": true,
     "star_fox_64": false,
     "stardew_valley": true,
@@ -575,7 +574,6 @@
   "max_minimum_ap_version": {
     "": 329,
     "0.5.0": 6,
-    "0.5.1": 1,
     "0.6.0": 12,
     "0.6.1": 10,
     "0.6.2": 9,
@@ -590,6 +588,6 @@
     "": 289,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 262
+    "0.6.99": 261
   }
 }
