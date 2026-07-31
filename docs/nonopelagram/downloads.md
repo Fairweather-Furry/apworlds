@@ -17,6 +17,9 @@
 #### v1.0.2
 - <a href="https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.9/nonopelagram.apworld">https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.9/nonopelagram.apworld</a>
 
+#### v1.0.2
+- <a href="https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.12/nonopelagram.apworld">https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.12/nonopelagram.apworld</a>
+
 #### v0.6.7
 - <a href="https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.7/nonopelagram.apworld">https://github.com/StefanDucharme/nonogram-archipelago/releases/download/v0.6.7/nonopelagram.apworld</a>
 

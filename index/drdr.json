@@ -6,11 +6,7 @@
   "game": "Dead Rising Deluxe Remaster",
   "github": "https://github.com/Str8UpWHITE64/DRAP",
   "license": "MIT",
-  "manifest_fields": [
-    "authors",
-    "minimum_ap_version",
-    "world_version"
-  ],
+  "manifest_fields": [],
   "versions": {
     "0.0.10": {
       "created_at": "2026-01-02T11:53:50Z",
@@ -295,6 +291,18 @@
       "title": "1.0.2 Release",
       "version_simple": "1.0.2",
       "world_version": "1.0.2"
+    },
+    "1.1.0": {
+      "created_at": "2026-07-30T14:50:17Z",
+      "download_url": "https://github.com/Str8UpWHITE64/DRAP/releases/download/1.1.0/drdr.apworld",
+      "has_manifest": false,
+      "hash_sha256": "9119d99e840849ed8833a8c85c93e256ee853d9ed91b2f8caa898b307a1f0d27",
+      "size": 460650,
+      "source_url": "https://api.github.com/repos/Str8UpWHITE64/DRAP",
+      "tag": "1.1.0",
+      "title": "1.1.0 Release",
+      "version_simple": "1.1.0",
+      "world_version": "1.1.0"
     }
   }
 }
