@@ -331,6 +331,18 @@
       "title": "V1.7.2",
       "version_simple": "1.7.2",
       "world_version": "1.7.2"
+    },
+    "v1.7.3": {
+      "created_at": "2026-08-03T04:26:29Z",
+      "download_url": "https://github.com/GraymonDgt/SRB2Archipelago/releases/download/v1.7.3/srb2.apworld",
+      "has_manifest": false,
+      "hash_sha256": "fe61132d13358915c971e48866fceb33ad4169cdd94828205282b81c6afd472b",
+      "size": 2124859,
+      "source_url": "https://api.github.com/repos/GraymonDgt/SRB2Archipelago",
+      "tag": "v1.7.3",
+      "title": "V1.7.3",
+      "version_simple": "1.7.3",
+      "world_version": "1.7.3"
     }
   }
 }
