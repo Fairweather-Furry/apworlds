@@ -18051,6 +18051,22 @@
       }
     },
     {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19a/deep_rock_galactic.apworld",
+      "size": 43908,
+      "hash_sha256": "2da6083651b0338f61fb2bc3857edd003d8c7bff932510376528a49a3b0b0435",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.19.0",
+        "tag_version": "0.19.0",
+        "created_at": "2026-07-23T21:11:46Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.18.4/deep_rock_galactic.apworld",
       "size": 41594,
       "hash_sha256": "730302e37177eea9271ec2a5c183f9df793e4e217d82068fc1ccb9f574a31e02",
@@ -63909,6 +63925,19 @@
       }
     },
     {
+      "world": "https://github.com/Mitchell1711/Archipelago/releases/download/v0.3.2/pocket_dungeon.apworld",
+      "size": 26702,
+      "hash_sha256": "9dca37a8493963db65c989dd04f5631f0573f245ccf5ba11c7120a1eed21a26f",
+      "metadata": {
+        "game": "",
+        "id": "pocket_dungeon",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-08-02T20:24:41Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Mitchell1711/Archipelago/releases/download/v0.3.1/pocket_dungeon.apworld",
       "size": 26613,
       "hash_sha256": "c34e4cf255508384549b271401e17a17f8b48630b691896e9ebf2cfe948539d3",
@@ -85387,6 +85416,22 @@
     },
     {
       "world": "https://github.com/GraymonDgt/SRB2Archipelago/releases/download/v1.7.3/srb2.apworld",
+      "size": 2124871,
+      "hash_sha256": "ae2c66050eef8db583826793f2a82a1ac3e21a44093f4f6aba1c69556861c74d",
+      "metadata": {
+        "game": "",
+        "id": "srb2",
+        "world_version": "1.7.3.post2",
+        "tag_version": "1.7.3.post2",
+        "created_at": "2026-08-03T04:26:29Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/GraymonDgt/SRB2Archipelago/releases/download/v1.7.3/srb2.apworld",
       "size": 2124859,
       "hash_sha256": "fe61132d13358915c971e48866fceb33ad4169cdd94828205282b81c6afd472b",
       "metadata": {
@@ -85783,6 +85828,19 @@
         "flags": [
           "unready"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Battlecats59/SS_APWorld/releases/download/v0.5.6/ss.apworld",
+      "size": 580488,
+      "hash_sha256": "5947dd8d9601b018de2c38515cc63a46b4402d0987dff4966106f39e3626a700",
+      "metadata": {
+        "game": "",
+        "id": "ss",
+        "world_version": "0.5.6",
+        "tag_version": "0.5.6",
+        "created_at": "2026-08-03T19:44:09Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
