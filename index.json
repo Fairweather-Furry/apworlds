@@ -37906,6 +37906,18 @@
       }
     },
     {
+      "world": "https://github.com/DeDeDeK/KARchipelago/releases/download/v1.1.0-TEST/kirby_air_ride.apworld",
+      "size": 120458,
+      "hash_sha256": "e448749394126bf9b8c6e57c2a0ee65ac6a35c1b2b47c57cd4fbc22f56a8c478",
+      "metadata": {
+        "game": "",
+        "id": "kirby_air_ride",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-08-04T19:15:31Z"
+      }
+    },
+    {
       "world": "https://github.com/DeDeDeK/KARchipelago/releases/download/v1.0.2-TEST/kirby_air_ride.apworld",
       "size": 163548,
       "hash_sha256": "e9e3d9b66c6d8df44b4651d490fe50f393cfaebb5b7e89a0c271d9f0abee9c43",
@@ -45552,6 +45564,19 @@
       }
     },
     {
+      "world": "https://github.com/benny-dreamly/Manuals/releases/download/GA-5.0.0/manual_glassanimals_bennydreamly.apworld",
+      "size": 57404,
+      "hash_sha256": "fc5c54abc430b85a6ec069cd9f157f0b9982eb3875c1872f79295dd583411fd6",
+      "metadata": {
+        "game": "",
+        "id": "manual_glassanimals_bennydreamly",
+        "world_version": "5.0.0",
+        "tag_version": "5.0.0",
+        "created_at": "2025-11-14T23:54:26Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/benny-dreamly/Manuals/releases/download/GA-4.0.0/manual_glassanimals_bennydreamly.apworld",
       "size": 59556,
       "hash_sha256": "62f9ba33c9fb7401517725cea670588a9d69d30fa9cb75af147e7ea6cfa95191",
@@ -48892,6 +48917,19 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-11-14T05:44:25Z"
+      }
+    },
+    {
+      "world": "https://github.com/benny-dreamly/Manuals/releases/download/TS-6.1.0/manual_taylorswiftdiscography_bennydreamly.apworld",
+      "size": 61394,
+      "hash_sha256": "d310f07bc887c3147c87e7912da3b70f25f3dacebb03b78cf8ad1d2169859788",
+      "metadata": {
+        "game": "",
+        "id": "manual_taylorswiftdiscography_bennydreamly",
+        "world_version": "6.1.0",
+        "tag_version": "6.1.0",
+        "created_at": "2026-08-04T18:24:35Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -95101,6 +95139,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.12.0/ttyd.apworld",
+      "size": 1561274,
+      "hash_sha256": "05f5cf6ca3a216940ec25e1ac0fbe0f9b75a733d8325ebcd82aba7177ec85fe7",
+      "metadata": {
+        "game": "",
+        "id": "ttyd",
+        "world_version": "0.12.0",
+        "tag_version": "0.12.0",
+        "created_at": "2026-06-21T08:32:56Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.11.1/ttyd.apworld",
       "size": 1542046,
       "hash_sha256": "81f8f9c85091378956ad832eb46ff5708ec0c0f46c9cf4fe56458ed56acab1bf",
@@ -96849,6 +96900,18 @@
         "tag_version": "0.1.0",
         "created_at": "2025-02-02T11:21:17Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TRPG0/ArchipelagoULTRAKILL/releases/download/3.5.5/ultrakill.apworld",
+      "size": 50164,
+      "hash_sha256": "5cf97c5c00f1b7a958fb0cf286c6744c445edac9b0237c922e5773c7bc1577b2",
+      "metadata": {
+        "game": "",
+        "id": "ultrakill",
+        "world_version": "3.5.5",
+        "tag_version": "3.5.5",
+        "created_at": "2026-08-05T02:16:42Z"
       }
     },
     {
