@@ -8,6 +8,9 @@
 #### v0.7.2
 - <a href="https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.7.2/pikmin2.apworld">https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.7.2/pikmin2.apworld</a>
 
+#### v0.7.2
+- <a href="https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.7.3/pikmin2.apworld">https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.7.3/pikmin2.apworld</a>
+
 #### v0.7.1
 - <a href="https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.7.1/pikmin2.apworld">https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.7.1/pikmin2.apworld</a>
 

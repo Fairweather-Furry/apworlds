@@ -8256,6 +8256,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-96/borderlands2.apworld",
+      "size": 63225,
+      "hash_sha256": "3794769203359ef5dcc98a22399fdbc4b5e9a3be65d3454f44a811239c49a2f5",
+      "metadata": {
+        "game": "",
+        "id": "borderlands2",
+        "world_version": "96",
+        "tag_version": "96",
+        "created_at": "2026-08-06T07:06:56Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-95/borderlands2.apworld",
       "size": 63067,
       "hash_sha256": "7ace9966ef0da8aa701026f8ce5af90374c54bc64b3df6a90df7f8036501a18c",
@@ -56423,19 +56439,6 @@
       }
     },
     {
-      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.4.53/musedash.apworld",
-      "size": 36973,
-      "hash_sha256": "be753a4fe64562eed6d06abd4edfd4525b31f1a3e09f3a46b1dea4524608b5f0",
-      "metadata": {
-        "game": "",
-        "id": "musedash",
-        "world_version": "1.5.35",
-        "tag_version": "1.5.35",
-        "created_at": "2026-07-31T09:48:08Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
       "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.35/musedash.apworld",
       "size": 36973,
       "hash_sha256": "be753a4fe64562eed6d06abd4edfd4525b31f1a3e09f3a46b1dea4524608b5f0",
@@ -62375,6 +62378,18 @@
     },
     {
       "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.7.2/pikmin2.apworld",
+      "size": 664803,
+      "hash_sha256": "cdb86e631ab3a33ecf6e98fc909dec6c52f664a056a986f36daf173adb0643b3",
+      "metadata": {
+        "game": "",
+        "id": "pikmin2",
+        "world_version": "0.7.2",
+        "tag_version": "0.7.2",
+        "created_at": "2026-06-11T00:06:47Z"
+      }
+    },
+    {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.7.3/pikmin2.apworld",
       "size": 664803,
       "hash_sha256": "cdb86e631ab3a33ecf6e98fc909dec6c52f664a056a986f36daf173adb0643b3",
       "metadata": {
