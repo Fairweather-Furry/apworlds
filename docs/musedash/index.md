@@ -10,10 +10,6 @@ until you have enough to play and complete the goal song!
 - <a href="downloads.html">View all versions</a>
 
 ## Game Information
-- <a href="en_Muse Dash">English</a>
 
 ## Setup Guide
-- <a href="setup_it">Italian</a>
-- <a href="setup_en">English</a>
-- <a href="setup_es">Spanish</a>
 

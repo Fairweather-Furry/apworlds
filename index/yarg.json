@@ -3,7 +3,11 @@
   "game": "YARG",
   "github": "https://github.com/energymaster22/YARGArchipelago",
   "license": "MIT",
-  "manifest_fields": [],
+  "manifest_fields": [
+    "authors",
+    "minimum_ap_version",
+    "world_version"
+  ],
   "versions": {
     "0.0.10": {
       "created_at": "2026-02-18T22:42:39Z",
@@ -268,6 +272,19 @@
       "title": "0.0.9",
       "version_simple": "0.0.9",
       "world_version": "0.0.9"
+    },
+    "1.0.0": {
+      "created_at": "2026-08-05T17:56:58Z",
+      "download_url": "https://github.com/energymaster22/YARGArchipelago/releases/download/1.0.0/yarg.apworld",
+      "has_manifest": true,
+      "hash_sha256": "da52eb1a11d4bce0cdf0478f9bdc808ef955e24c90044220a0b52d53a32aab27",
+      "minimum_ap_version": "0.6.7",
+      "size": 33639,
+      "source_url": "https://api.github.com/repos/energymaster22/YARGArchipelago",
+      "tag": "1.0.0",
+      "title": "1.0.0",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0"
     }
   }
 }
