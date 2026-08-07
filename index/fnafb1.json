@@ -7,8 +7,25 @@
   "game": "Five Nights at Fuckboy's",
   "github": "https://github.com/Scrungip/FNaFBAP",
   "license": null,
-  "manifest_fields": [],
+  "manifest_fields": [
+    "authors",
+    "minimum_ap_version",
+    "world_version"
+  ],
   "versions": {
+    "fnafb1-1.1.0": {
+      "created_at": "2026-08-07T05:54:12Z",
+      "download_url": "https://github.com/Scrungip/FNaFBAP/releases/download/fnafb1-1.1.0/fnafb1.apworld",
+      "has_manifest": true,
+      "hash_sha256": "1fac7000c38c349c8e7c85196bfbb501c9a70303cd17dfa785062719f18b56e6",
+      "minimum_ap_version": "0.6.7",
+      "size": 18730,
+      "source_url": "https://api.github.com/repos/Scrungip/FNaFBAP",
+      "tag": "fnafb1-1.1.0",
+      "title": "Five Nights at Fuckboy's AP v1.1.0 - The Parity, QoL, and Extras Release",
+      "version_simple": "1.1.0",
+      "world_version": "1.1.0"
+    },
     "v0.1": {
       "created_at": "2024-07-31T11:07:48Z",
       "download_url": "https://github.com/Scrungip/FNaFBAP/releases/download/v0.1/fnafb1.apworld",
