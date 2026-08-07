@@ -8256,6 +8256,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-97/borderlands2.apworld",
+      "size": 63250,
+      "hash_sha256": "89fd2d7b2f2667aa8a660ffe5f5237459bb6f90a59058b9e3afefe4c0081ba6f",
+      "metadata": {
+        "game": "",
+        "id": "borderlands2",
+        "world_version": "97",
+        "tag_version": "97",
+        "created_at": "2026-08-06T20:40:36Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/be-96/borderlands2.apworld",
       "size": 63225,
       "hash_sha256": "3794769203359ef5dcc98a22399fdbc4b5e9a3be65d3454f44a811239c49a2f5",
@@ -29253,6 +29269,23 @@
       }
     },
     {
+      "world": "https://github.com/zuils/FNaFBAP/releases/download/v0.4.6/fnafb2.apworld",
+      "size": 18286,
+      "hash_sha256": "3af436d82978557d4f10035e9049424fc4488440983429b8339e1135881eedc2",
+      "metadata": {
+        "game": "",
+        "id": "fnafb2",
+        "world_version": "0.4.3",
+        "tag_version": "0.4.3",
+        "created_at": "2026-07-05T19:48:14Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "after_dark",
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/zuils/FNaFBAP/releases/download/v0.4.1/fnafb2.apworld",
       "size": 17607,
       "hash_sha256": "2fde40eca37daa3d93b9f8ff61f7efc439a7d895a41118ea18d3e47bb3cbbf1b",
@@ -37961,6 +37994,18 @@
           "after_dark",
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/DeDeDeK/KARchipelago/releases/download/v1.1.1-TEST/kirby_air_ride.apworld",
+      "size": 120903,
+      "hash_sha256": "4e9ee3f879e6ea10301d6a881c9faeaf92a9d5f461e47c846f14f4c34242d04e",
+      "metadata": {
+        "game": "",
+        "id": "kirby_air_ride",
+        "world_version": "1.1.1",
+        "tag_version": "1.1.1",
+        "created_at": "2026-08-07T01:03:38Z"
       }
     },
     {
@@ -57106,6 +57151,19 @@
       }
     },
     {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.2/nine_sols.apworld",
+      "size": 3635781,
+      "hash_sha256": "2104570b88aa25c94860d142f3e3dd6776b784cf99ddf59371fffd68186a3f91",
+      "metadata": {
+        "game": "",
+        "id": "nine_sols",
+        "world_version": "0.6.2",
+        "tag_version": "0.6.2",
+        "created_at": "2026-08-06T20:20:22Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.1/nine_sols.apworld",
       "size": 3635657,
       "hash_sha256": "551830d4c6622c2a04b715aa4df2469252e3a2249ca46a48edb15fb9feac66ac",
@@ -70917,6 +70975,18 @@
         "flags": [
           "after_dark"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.3.5/rabbit_and_steel.apworld",
+      "size": 24825,
+      "hash_sha256": "4911de737a6d2856e3407bc7a0e5a7821430b1ad5510699460be15694119780a",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.3.5",
+        "tag_version": "0.3.5",
+        "created_at": "2026-08-06T18:17:55Z"
       }
     },
     {
