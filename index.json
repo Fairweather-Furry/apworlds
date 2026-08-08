@@ -29530,6 +29530,22 @@
       }
     },
     {
+      "world": "https://github.com/Knuxfan24/Freedom-Planet-2-Archipelago/releases/download/1.0.0/fp2.apworld",
+      "size": 1560531,
+      "hash_sha256": "bc13054e7b35d2c82a6ee7daf79c5cf2978d06c92aac4d1227234ff5cec3dd8b",
+      "metadata": {
+        "game": "",
+        "id": "fp2",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-07-19T18:08:03Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Knuxfan24/Freedom-Planet-2-Archipelago/releases/download/0.1.2/fp2.apworld",
       "size": 49820,
       "hash_sha256": "28ff4160caecbd137b7087d0ca2b59d489a4f20b83bc66eb86e0af2b087d9058",
@@ -55710,6 +55726,22 @@
         "tag_version": "0.1.0",
         "created_at": "2025-06-05T23:39:46Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Stuff691734/ModdedMCArchipelago/releases/download/v3.0.4/moddedminecraft.apworld",
+      "size": 8476,
+      "hash_sha256": "8dbfadfbc35fa1f57f174ac462f883d5591b82bbf3c534b8ba266ab9a66f3b21",
+      "metadata": {
+        "game": "",
+        "id": "moddedminecraft",
+        "world_version": "3.0.4",
+        "tag_version": "3.0.4",
+        "created_at": "2026-08-08T09:55:28Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "unready"
+        ]
       }
     },
     {
