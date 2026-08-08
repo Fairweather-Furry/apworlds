@@ -8,6 +8,9 @@
 #### v0.15.0
 - <a href="https://github.com/studkid/RiftArchipelago/releases/download/v0.15.0/rotn.apworld">https://github.com/studkid/RiftArchipelago/releases/download/v0.15.0/rotn.apworld</a>
 
+#### v0.15.0
+- <a href="https://github.com/studkid/RiftArchipelago/releases/download/v0.16.0/rotn.apworld">https://github.com/studkid/RiftArchipelago/releases/download/v0.16.0/rotn.apworld</a>
+
 #### v0.14.0
 - <a href="https://github.com/studkid/RiftArchipelago/releases/download/v0.14.0/rotn.apworld">https://github.com/studkid/RiftArchipelago/releases/download/v0.14.0/rotn.apworld</a>
 
