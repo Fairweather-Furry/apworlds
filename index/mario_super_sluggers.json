@@ -193,6 +193,19 @@
       "title": "MSS AP v0.4.0",
       "version_simple": "0.4.0",
       "world_version": "0.4.0"
+    },
+    "sluggers-v1.0.0": {
+      "created_at": "2026-08-11T00:23:02Z",
+      "download_url": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v1.0.0/mario_super_sluggers.apworld",
+      "has_manifest": true,
+      "hash_sha256": "a3665499acef31d8f65d042f7422a7071abb8dbee2a4a5f7500a06ccdadca85e",
+      "minimum_ap_version": "0.6.7",
+      "size": 23938,
+      "source_url": "https://api.github.com/repos/MarioManTAW/Archipelago",
+      "tag": "sluggers-v1.0.0",
+      "title": "MSS AP v1.0.0",
+      "version_simple": "1.0.0",
+      "world_version": "1.0.0"
     }
   }
 }

@@ -40883,6 +40883,19 @@
       }
     },
     {
+      "world": "https://github.com/danielgruethling/Archipelago/releases/download/0.3.3/little_witch_nobeta.apworld",
+      "size": 30049,
+      "hash_sha256": "729601a636fab73a5e5c8e2b3eed98ce43b95cfa3b703e363f00d1547fc5dee6",
+      "metadata": {
+        "game": "",
+        "id": "little_witch_nobeta",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2026-08-10T17:30:25Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/danielgruethling/Archipelago/releases/download/0.3.2/little_witch_nobeta.apworld",
       "size": 29615,
       "hash_sha256": "730b89744e8b6dd2c493e2df2821fffc1fb024a8e09954eeb5a63ab4f2399a41",
@@ -50700,6 +50713,22 @@
       }
     },
     {
+      "world": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v1.0.0/mario_super_sluggers.apworld",
+      "size": 23938,
+      "hash_sha256": "a3665499acef31d8f65d042f7422a7071abb8dbee2a4a5f7500a06ccdadca85e",
+      "metadata": {
+        "game": "",
+        "id": "mario_super_sluggers",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-08-11T00:23:02Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/MarioManTAW/Archipelago/releases/download/sluggers-v0.4.0/mario_super_sluggers.apworld",
       "size": 24742,
       "hash_sha256": "f56f2cea01ef4a8fd7f54bcfa1924aa3ea92831cb82143f579e3da06b5b8a94c",
@@ -59515,6 +59544,19 @@
         "tag_version": "0.0.1",
         "created_at": "2024-08-28T22:15:52Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Satisha10/APwotw_release/releases/download/v0.6.3/ori_wotw.apworld",
+      "size": 313949,
+      "hash_sha256": "40b062f257fa3223cbef1d02f77298a9553bc33c459b36e3cee474459620da20",
+      "metadata": {
+        "game": "",
+        "id": "ori_wotw",
+        "world_version": "0.6.3",
+        "tag_version": "0.6.3",
+        "created_at": "2026-08-10T18:38:01Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -71159,6 +71201,18 @@
         "flags": [
           "after_dark"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.3.6/rabbit_and_steel.apworld",
+      "size": 25160,
+      "hash_sha256": "a2079d5e6b63133fe967feaaaa385458dcba91676e14904c4e995f505992d018",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.3.6",
+        "tag_version": "0.3.6",
+        "created_at": "2026-08-10T23:45:56Z"
       }
     },
     {
