@@ -119,6 +119,19 @@
       "title": "Release v1.3.1",
       "version_simple": "1.3.0",
       "world_version": "1.3.0"
+    },
+    "2.0.0": {
+      "created_at": "2026-08-11T16:02:51Z",
+      "download_url": "https://github.com/pkolb-dev/Archipelago/releases/download/2.0.0/legend_of_dragoon.apworld",
+      "has_manifest": true,
+      "hash_sha256": "e3e7d136e00d163263d97b57de834472d8286f7a7c671d1e56d5c395aa739823",
+      "minimum_ap_version": "0.6.7",
+      "size": 35277,
+      "source_url": "https://api.github.com/repos/pkolb-dev/Archipelago",
+      "tag": "2.0.0",
+      "title": "Archipelago 2.0.0",
+      "version_simple": "2.0.0",
+      "world_version": "2.0.0"
     }
   }
 }
