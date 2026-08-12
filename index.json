@@ -18109,22 +18109,6 @@
     },
     {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19a/deep_rock_galactic.apworld",
-      "size": 43891,
-      "hash_sha256": "b6be29223331eb90dc4ac55bb8cd00890c399da770db3ba5bd1985140fde7008",
-      "metadata": {
-        "game": "",
-        "id": "deep_rock_galactic",
-        "world_version": "0.19.0",
-        "tag_version": "0.19.0",
-        "created_at": "2026-07-23T21:11:46Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19a/deep_rock_galactic.apworld",
       "size": 43899,
       "hash_sha256": "9e3e94bc2913a6b4ff3b3c60ca2d340234e3808d8d91e745937d9ae5905ba1f9",
       "metadata": {
@@ -58671,6 +58655,19 @@
       }
     },
     {
+      "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.5.1/okamihd.apworld",
+      "size": 88019,
+      "hash_sha256": "14e82c41deba428ea4f2785a41603e20a743ff1ceedb21fb524fcfc271136f21",
+      "metadata": {
+        "game": "",
+        "id": "okamihd",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-08-12T12:33:25Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.5.0/okamihd.apworld",
       "size": 102441,
       "hash_sha256": "c2277a639f27ea8c8eb64698a515b048b297202f37c167e6584ffc0931fdaa68",
@@ -70948,6 +70945,22 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-12-28T15:02:34Z"
+      }
+    },
+    {
+      "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.1.7/quake.apworld",
+      "size": 500292,
+      "hash_sha256": "9a1404c30f934abb903391be20381218e71f2cd1f87ea2226d247460199ba34e",
+      "metadata": {
+        "game": "",
+        "id": "quake",
+        "world_version": "1.1.7",
+        "tag_version": "1.1.7",
+        "created_at": "2026-08-12T10:32:32Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
       }
     },
     {
