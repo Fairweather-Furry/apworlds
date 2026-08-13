@@ -12,6 +12,9 @@
 - <a href="https://github.com/Lizardman175/DC1AP/releases/download/v0.5.1/dc1.apworld">https://github.com/Lizardman175/DC1AP/releases/download/v0.5.1/dc1.apworld</a>
 
 #### v0.5.0
+- <a href="https://github.com/Lizardman175/DC1AP/releases/download/v0.5.10/dc1.apworld">https://github.com/Lizardman175/DC1AP/releases/download/v0.5.10/dc1.apworld</a>
+
+#### v0.5.0
 - <a href="https://github.com/Lizardman175/DC1AP/releases/download/v0.5.2/dc1.apworld">https://github.com/Lizardman175/DC1AP/releases/download/v0.5.2/dc1.apworld</a>
 
 #### v0.5.0
@@ -34,9 +37,6 @@
 
 #### v0.5.0
 - <a href="https://github.com/Lizardman175/DC1AP/releases/download/v0.5.9/dc1.apworld">https://github.com/Lizardman175/DC1AP/releases/download/v0.5.9/dc1.apworld</a>
-
-#### v0.5.0
-- <a href="https://github.com/Lizardman175/DC1AP/releases/download/v0.5.10/dc1.apworld">https://github.com/Lizardman175/DC1AP/releases/download/v0.5.10/dc1.apworld</a>
 
 #### v0.4.4
 - <a href="https://github.com/Lizardman175/DC1AP/releases/download/v0.4.4/dc1.apworld">https://github.com/Lizardman175/DC1AP/releases/download/v0.4.4/dc1.apworld</a>

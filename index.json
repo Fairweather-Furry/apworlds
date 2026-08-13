@@ -6371,6 +6371,22 @@
       }
     },
     {
+      "world": "https://github.com/AegeusEvander/Brave-Fencer-Musashi-AP-World/releases/download/v0.7.1/bfm.apworld",
+      "size": 2319420,
+      "hash_sha256": "f09b1f9301b2cc2f7dd2aba8e83377d8d20611c7100ab8c183592d7a06e2f12d",
+      "metadata": {
+        "game": "",
+        "id": "bfm",
+        "world_version": "0.7.1",
+        "tag_version": "0.7.1",
+        "created_at": "2026-08-09T20:04:38Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/AegeusEvander/Brave-Fencer-Musashi-AP-World/releases/download/v0.7.0/bfm.apworld",
       "size": 2301526,
       "hash_sha256": "a429f88403872d9cf3f838134486d532ce898ae86ec5b4d6b9ac9d68a55db156",
@@ -9145,6 +9161,22 @@
         "world_version": "22",
         "tag_version": "22",
         "created_at": "2025-12-10T23:28:39Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/experiment-1/borderlands2.apworld",
+      "size": 64669,
+      "hash_sha256": "4b080c653edce061de44e0862799235f4651d3b9af31cd96be0f89b2ca0df87d",
+      "metadata": {
+        "game": "",
+        "id": "borderlands2",
+        "world_version": "1",
+        "tag_version": "1",
+        "created_at": "2026-08-13T10:21:30Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -12473,6 +12505,18 @@
         "world_version": "0.10.2",
         "tag_version": "0.10.2",
         "created_at": "2026-06-23T16:57:34Z"
+      }
+    },
+    {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.1/civv.apworld",
+      "size": 455125,
+      "hash_sha256": "ac03d9fb371576bf28777835e11c1cf00bcd9e2ef09746dd2ab1937a3a2bba37",
+      "metadata": {
+        "game": "",
+        "id": "civv",
+        "world_version": "0.10.1",
+        "tag_version": "0.10.1",
+        "created_at": "2026-06-22T17:15:18Z"
       }
     },
     {
@@ -17417,6 +17461,19 @@
       }
     },
     {
+      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.5.10/dc1.apworld",
+      "size": 93026,
+      "hash_sha256": "e89139d7ccda86867c2eb64ab36420993d0c67f929e32e326e20a0694b3fac7f",
+      "metadata": {
+        "game": "",
+        "id": "dc1",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-08-12T21:44:05Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.5.2/dc1.apworld",
       "size": 91707,
       "hash_sha256": "4187b79017feaf9c15a4d373de41c62c8cbceb99dfb13f454ef87569fac7ec43",
@@ -17517,19 +17574,6 @@
         "world_version": "0.5.0",
         "tag_version": "0.5.0",
         "created_at": "2026-06-23T19:19:23Z",
-        "minimum_ap_version": "0.6.5"
-      }
-    },
-    {
-      "world": "https://github.com/Lizardman175/DC1AP/releases/download/v0.5.10/dc1.apworld",
-      "size": 93026,
-      "hash_sha256": "e89139d7ccda86867c2eb64ab36420993d0c67f929e32e326e20a0694b3fac7f",
-      "metadata": {
-        "game": "",
-        "id": "dc1",
-        "world_version": "0.5.0",
-        "tag_version": "0.5.0",
-        "created_at": "2026-08-12T21:44:05Z",
         "minimum_ap_version": "0.6.5"
       }
     },
@@ -18118,22 +18162,6 @@
         "tag_version": "0.1.0",
         "created_at": "2025-08-15T15:08:02Z",
         "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.19a/deep_rock_galactic.apworld",
-      "size": 43908,
-      "hash_sha256": "2da6083651b0338f61fb2bc3857edd003d8c7bff932510376528a49a3b0b0435",
-      "metadata": {
-        "game": "",
-        "id": "deep_rock_galactic",
-        "world_version": "0.19.0",
-        "tag_version": "0.19.0",
-        "created_at": "2026-07-23T21:11:46Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
       }
     },
     {
@@ -26028,6 +26056,19 @@
         "world_version": "0.6.0",
         "tag_version": "0.6.0",
         "created_at": "2026-07-16T14:32:33Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.6.1/ff1pr.apworld",
+      "size": 28126,
+      "hash_sha256": "d889ad544c0e52c5495225106b66ab8bf26bcbb4e626c0cf0cb86ee604bf76dc",
+      "metadata": {
+        "game": "",
+        "id": "ff1pr",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-06-19T17:09:15Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -49253,6 +49294,19 @@
       }
     },
     {
+      "world": "https://github.com/benny-dreamly/Manuals/releases/download/TS-6.0.0/manual_taylorswiftdiscography_bennydreamly.apworld",
+      "size": 63848,
+      "hash_sha256": "0a74ea683f0577c0b77e2ad5f0181cb3ed984991687dd9bb4803198b59d7c3bd",
+      "metadata": {
+        "game": "",
+        "id": "manual_taylorswiftdiscography_bennydreamly",
+        "world_version": "6.0.0",
+        "tag_version": "6.0.0",
+        "created_at": "2026-07-10T20:12:34Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/benny-dreamly/Manuals/releases/download/TS-5.0.1/manual_taylorswiftdiscography_bennydreamly.apworld",
       "size": 61126,
       "hash_sha256": "adbebc5eeb701b555aee5ef806e32b196447eb99901bdf8b979ae133925ae33e",
@@ -55680,6 +55734,19 @@
       }
     },
     {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.2.7/mmzero3.apworld",
+      "size": 77155,
+      "hash_sha256": "320e8f4c17221508060f40e96274b15afdf569f6df32cfe8519b5a04f2a223d4",
+      "metadata": {
+        "game": "",
+        "id": "mmzero3",
+        "world_version": "0.2.7",
+        "tag_version": "0.2.7",
+        "created_at": "2026-06-09T19:06:00Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.2.6/mmzero3.apworld",
       "size": 48716,
       "hash_sha256": "c5414e2b080d48ab230cc808553b1300e6911b408d813a70a29e846d1338e1c1",
@@ -61318,6 +61385,18 @@
       }
     },
     {
+      "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.6.2/paint.apworld",
+      "size": 8620,
+      "hash_sha256": "be9fb1780b21b5fa53ee2e0b9c1720aa9d4f7539dfdf6fe0012d03451e5e0711",
+      "metadata": {
+        "game": "",
+        "id": "paint",
+        "world_version": "0.6.2",
+        "tag_version": "0.6.2",
+        "created_at": "2026-06-13T00:23:20Z"
+      }
+    },
+    {
       "world": "https://github.com/MarioManTAW/jspaint/releases/download/v0.6.1/paint.apworld",
       "size": 8607,
       "hash_sha256": "eb59950b0152e97aa40d7c2909df137d51e83aad9799a1412208cd5ec17ae8c3",
@@ -61921,6 +62000,32 @@
         "flags": [
           "unready"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/CrusherRL/AP_Parkitect/releases/download/1.6.2/parkitect.apworld",
+      "size": 303742,
+      "hash_sha256": "c9d6f4f49a146fbef2d678e84f93261aaf20cba3b033f8fd9412922b4a25b5f8",
+      "metadata": {
+        "game": "",
+        "id": "parkitect",
+        "world_version": "1.6.2",
+        "tag_version": "1.6.2",
+        "created_at": "2026-08-13T09:48:41Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CrusherRL/AP_Parkitect_World/releases/download/1.6.1/parkitect.apworld",
+      "size": 303742,
+      "hash_sha256": "c9d6f4f49a146fbef2d678e84f93261aaf20cba3b033f8fd9412922b4a25b5f8",
+      "metadata": {
+        "game": "",
+        "id": "parkitect",
+        "world_version": "1.6.1.post2",
+        "tag_version": "1.6.1.post2",
+        "created_at": "2026-08-13T09:44:04Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -87018,6 +87123,19 @@
       }
     },
     {
+      "world": "https://github.com/JammyGeeza/Stacklands-Randomizer/releases/download/v0.2.6/stacklands.apworld",
+      "size": 33018,
+      "hash_sha256": "609ac8e293feacd6778a4490746b429949538e41a6450740051d446fcfc1659d",
+      "metadata": {
+        "game": "",
+        "id": "stacklands",
+        "world_version": "0.2.6",
+        "tag_version": "0.2.6",
+        "created_at": "2026-08-13T10:49:15Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/JammyGeeza/Stacklands-Randomizer/releases/download/v0.2.5/stacklands.apworld",
       "size": 32972,
       "hash_sha256": "223e86b79d082503eb5cf7a9ab62c6ec3ca06d76536d4444665984e57514d563",
@@ -91413,6 +91531,22 @@
       }
     },
     {
+      "world": "https://github.com/Nepley/in-apworld/releases/download/v1.1.3/th08.apworld",
+      "size": 93041,
+      "hash_sha256": "e19f5f1c4e60da77801310ddfab49a7880f41205fbc5f567b230101de94c09ba",
+      "metadata": {
+        "game": "",
+        "id": "th08",
+        "world_version": "1.1.3",
+        "tag_version": "1.1.3",
+        "created_at": "2026-07-05T13:51:29Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Nepley/in-apworld/releases/download/v1.1.2/th08.apworld",
       "size": 92901,
       "hash_sha256": "f4e75f37bebb2e9d206fd22b4a9eb2907724f59ce2a1029b6b608705ff2e257b",
@@ -94789,6 +94923,19 @@
         "world_version": "0.3.1",
         "tag_version": "0.3.1",
         "created_at": "2026-07-19T23:55:48Z",
+        "minimum_ap_version": "0.6.2"
+      }
+    },
+    {
+      "world": "https://github.com/FarisTheAncient/Archipelago/releases/download/Tracker_v0.3.0/tracker.apworld",
+      "size": 167991,
+      "hash_sha256": "73aec556d91166a0dd7c840a49cb4d24408e48be515b99a08431974bd00ef303",
+      "metadata": {
+        "game": "",
+        "id": "tracker",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-07-11T18:49:48Z",
         "minimum_ap_version": "0.6.2"
       }
     },
