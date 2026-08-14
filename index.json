@@ -18676,6 +18676,23 @@
       }
     },
     {
+      "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.5.0-alpha/diceydungeons.apworld",
+      "size": 963906,
+      "hash_sha256": "ebe82367454a2473ecda84c0e8fd8007ce7bfa88a5bc1ebcddf20154d4de6063",
+      "metadata": {
+        "game": "",
+        "id": "diceydungeons",
+        "world_version": "0.5.0a0",
+        "tag_version": "0.5.0a0",
+        "created_at": "2026-08-13T21:45:22Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "unready",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.4.4-beta/diceydungeons.apworld",
       "size": 916390,
       "hash_sha256": "dd70d0428cdd3345b3ffa0f41e89af831beaead6daaf6c722c6e229165cf2dd2",
@@ -26034,6 +26051,19 @@
       }
     },
     {
+      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.6.1/ff1pr.apworld",
+      "size": 28126,
+      "hash_sha256": "d889ad544c0e52c5495225106b66ab8bf26bcbb4e626c0cf0cb86ee604bf76dc",
+      "metadata": {
+        "game": "",
+        "id": "ff1pr",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-06-19T17:09:15Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.6.2/ff1pr.apworld",
       "size": 28126,
       "hash_sha256": "d889ad544c0e52c5495225106b66ab8bf26bcbb4e626c0cf0cb86ee604bf76dc",
@@ -26056,19 +26086,6 @@
         "world_version": "0.6.0",
         "tag_version": "0.6.0",
         "created_at": "2026-07-16T14:32:33Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/wildham0/FF1PRAP/releases/download/0.6.1/ff1pr.apworld",
-      "size": 28126,
-      "hash_sha256": "d889ad544c0e52c5495225106b66ab8bf26bcbb4e626c0cf0cb86ee604bf76dc",
-      "metadata": {
-        "game": "",
-        "id": "ff1pr",
-        "world_version": "0.6.0",
-        "tag_version": "0.6.0",
-        "created_at": "2026-06-19T17:09:15Z",
         "minimum_ap_version": "0.6.3"
       }
     },
@@ -58744,6 +58761,19 @@
       }
     },
     {
+      "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.5.2/okamihd.apworld",
+      "size": 88778,
+      "hash_sha256": "f19592b3aefb67beacdc9339864628f3b5d8c75409bfbf356789cdcba1a5924f",
+      "metadata": {
+        "game": "",
+        "id": "okamihd",
+        "world_version": "0.5.2",
+        "tag_version": "0.5.2",
+        "created_at": "2026-08-13T21:34:27Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Ragmoa/Archipelago/releases/download/0.5.1/okamihd.apworld",
       "size": 88019,
       "hash_sha256": "14e82c41deba428ea4f2785a41603e20a743ff1ceedb21fb524fcfc271136f21",
@@ -71072,6 +71102,22 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-12-28T15:02:34Z"
+      }
+    },
+    {
+      "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.1.8/quake.apworld",
+      "size": 500292,
+      "hash_sha256": "9a1404c30f934abb903391be20381218e71f2cd1f87ea2226d247460199ba34e",
+      "metadata": {
+        "game": "",
+        "id": "quake",
+        "world_version": "1.1.8",
+        "tag_version": "1.1.8",
+        "created_at": "2026-08-13T14:05:35Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
       }
     },
     {
