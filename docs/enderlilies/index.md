@@ -8,8 +8,6 @@ Ender Lilies: QUIETUS OF THE KNIGHTS
 - <a href="downloads.html">View all versions</a>
 
 ## Game Information
-- <a href="en_Ender Lilies">English</a>
 
 ## Setup Guide
-- <a href="setup_en">English</a>
 

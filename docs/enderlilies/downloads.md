@@ -8,6 +8,9 @@
 #### v0.8
 - <a href="https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/v0.8/enderlilies.apworld">https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/v0.8/enderlilies.apworld</a>
 
+#### v0.8
+- <a href="https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/enderlilies-v0.8/enderlilies.apworld">https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/enderlilies-v0.8/enderlilies.apworld</a>
+
 #### v0.7
 - <a href="https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/v0.7/enderlilies.apworld">https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/v0.7/enderlilies.apworld</a>
 
