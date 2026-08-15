@@ -9168,6 +9168,22 @@
       }
     },
     {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/experiment-2/borderlands2.apworld",
+      "size": 64690,
+      "hash_sha256": "cb182d16fe13a76cf8d0eb713659cecdc83a23652fc4cbe90097a6b1c59619a7",
+      "metadata": {
+        "game": "",
+        "id": "borderlands2",
+        "world_version": "2",
+        "tag_version": "2",
+        "created_at": "2026-08-14T18:10:09Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/experiment-1/borderlands2.apworld",
       "size": 64669,
       "hash_sha256": "4b080c653edce061de44e0862799235f4651d3b9af31cd96be0f89b2ca0df87d",
@@ -24294,19 +24310,6 @@
       }
     },
     {
-      "world": "https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/v0.8/enderlilies.apworld",
-      "size": 87347,
-      "hash_sha256": "58271963b8ef318a934a27bec3f11cb34217614e2414a1596dd3a116027b6480",
-      "metadata": {
-        "game": "",
-        "id": "enderlilies",
-        "world_version": "0.8",
-        "tag_version": "0.8",
-        "created_at": "2024-12-27T22:43:42Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/Trexounay/EnderLilies.Archipelago/releases/download/enderlilies-v0.8/enderlilies.apworld",
       "size": 87347,
       "hash_sha256": "58271963b8ef318a934a27bec3f11cb34217614e2414a1596dd3a116027b6480",
@@ -38868,6 +38871,19 @@
         "tag_version": "0.1.0",
         "created_at": "2024-05-16T16:14:52Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.4.5/ladx_beta.apworld",
+      "size": 370822,
+      "hash_sha256": "99025e5f9e075789465425a0503fd50d25e9484240d824d4d1cdb37c6e9b3dd7",
+      "metadata": {
+        "game": "",
+        "id": "ladx_beta",
+        "world_version": "13.4.5",
+        "tag_version": "13.4.5",
+        "created_at": "2026-08-14T18:13:26Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
