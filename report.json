@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
-  "total_packages": 639,
-  "total_versions": 7477,
+  "total_packages": 640,
+  "total_versions": 7483,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -587,9 +587,9 @@
     "0.6.9": 1
   },
   "max_maximum_ap_version": {
-    "": 293,
+    "": 292,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 258
+    "0.6.99": 259
   }
 }
