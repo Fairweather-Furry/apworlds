@@ -44,6 +44,9 @@
 #### v20250326.post1
 - <a href="https://github.com/vicr123/Archipelago/releases/download/20250326-1/candybox2.apworld">https://github.com/vicr123/Archipelago/releases/download/20250326-1/candybox2.apworld</a>
 
+#### v1.20260816.1
+- <a href="https://github.com/vicr123/Archipelago/releases/download/20260816-1/candybox2.apworld">https://github.com/vicr123/Archipelago/releases/download/20260816-1/candybox2.apworld</a>
+
 #### v1.20260210.1
 - <a href="https://github.com/vicr123/Archipelago/releases/download/20260210-1/candybox2.apworld">https://github.com/vicr123/Archipelago/releases/download/20260210-1/candybox2.apworld</a>
 

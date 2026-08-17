@@ -8,6 +8,9 @@
 #### v0.3.5
 - <a href="https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.4/vampire_survivors.apworld">https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.4/vampire_survivors.apworld</a>
 
+#### v0.3.5
+- <a href="https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.5.1/vampire_survivors.apworld">https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.5.1/vampire_survivors.apworld</a>
+
 #### v0.3.2
 - <a href="https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.2/vampire_survivors.apworld">https://github.com/SWCreeperKing/ArchipelagoSurvivors/releases/download/v0.3.2/vampire_survivors.apworld</a>
 
