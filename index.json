@@ -225,6 +225,18 @@
       }
     },
     {
+      "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v1.2.1/against_the_storm.apworld",
+      "size": 20360,
+      "hash_sha256": "7542d922739c49968c00176d67778f9abc67fc7bbed29c64069e2e3723bb434d",
+      "metadata": {
+        "game": "",
+        "id": "against_the_storm",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-08-18T05:12:51Z"
+      }
+    },
+    {
       "world": "https://github.com/Ryguy-9999/ArchipelagoATS/releases/download/v1.2.0/against_the_storm.apworld",
       "size": 20320,
       "hash_sha256": "3068b85d24be8c49b96acaec52a70e5e4c173c05c4c524610e086e0732ffa6d7",
@@ -23641,19 +23653,6 @@
     },
     {
       "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.4/earthbound.apworld",
-      "size": 367316,
-      "hash_sha256": "af72e295644f1cf28cc1f476bc87e32ca93952216be36af82b7f6761cd78307e",
-      "metadata": {
-        "game": "",
-        "id": "earthbound",
-        "world_version": "4.4.0",
-        "tag_version": "4.4.0",
-        "created_at": "2026-04-29T20:29:41Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/earthboundap4.4/earthbound.apworld",
       "size": 367317,
       "hash_sha256": "456048944e0c6f0a20aee7807f9a70ed6d4448aa22a1ad068507195e1a986d97",
       "metadata": {
@@ -24247,6 +24246,22 @@
         "tag_version": "1.0",
         "created_at": "2024-06-23T22:36:12Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Aeromaze/Archipelago/releases/download/v0.2.0/easy_delivery_co.apworld",
+      "size": 9882,
+      "hash_sha256": "3b8c10aa2011b14903543ce17b8341d2aa2dc0109ea42d30b6c0a2a8954d3712",
+      "metadata": {
+        "game": "",
+        "id": "easy_delivery_co",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2026-08-18T10:53:40Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "unready"
+        ]
       }
     },
     {
@@ -55566,6 +55581,19 @@
         "tag_version": "mmx-v0.1.2",
         "created_at": "2024-04-23T21:55:51Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v2.0.2/mmx2.apworld",
+      "size": 57993,
+      "hash_sha256": "93f9faf1f003d8022a135f9fe28935d1cd51b87e1235ca0b0ce5c56039f8c9e5",
+      "metadata": {
+        "game": "",
+        "id": "mmx2",
+        "world_version": "2.0.2",
+        "tag_version": "2.0.2",
+        "created_at": "2026-08-18T06:38:09Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
