@@ -3,7 +3,11 @@
   "game": "UNBEATABLE Arcade",
   "github": "https://github.com/AllPoland/unbeatAP",
   "license": "MIT",
-  "manifest_fields": [],
+  "manifest_fields": [
+    "authors",
+    "minimum_ap_version",
+    "world_version"
+  ],
   "versions": {
     "v0.1.0-alpha": {
       "created_at": "2026-01-10T00:23:14Z",
@@ -143,6 +147,19 @@
       "title": "v0.7.0 Alpha",
       "version_simple": "0.7.0",
       "world_version": "0.7.0a0"
+    },
+    "v0.7.1-alpha": {
+      "created_at": "2026-07-28T00:49:51Z",
+      "download_url": "https://github.com/AllPoland/unbeatAP/releases/download/v0.7.1-alpha/unbeatable_arcade.apworld",
+      "has_manifest": true,
+      "hash_sha256": "7f5751f385bf1eae749af00d84e245d0fe506957c6675bcd7246d86d645af184",
+      "minimum_ap_version": "0.6.4",
+      "size": 21806,
+      "source_url": "https://api.github.com/repos/AllPoland/unbeatAP",
+      "tag": "v0.7.1-alpha",
+      "title": "v0.7.1 Alpha",
+      "version_simple": "0.7.1",
+      "world_version": "0.7.1a0"
     }
   }
 }
