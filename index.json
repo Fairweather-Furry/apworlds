@@ -5566,781 +5566,6 @@
       }
     },
     {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.13.0/banjo_tooie.apworld",
-      "size": 294636,
-      "hash_sha256": "a83a1bfcdd4546df313832b19ef297c1ea7bf1c9431ad1a67330ae524a8108e3",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.13.0",
-        "tag_version": "4.13.0",
-        "created_at": "2026-08-01T02:14:38Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.12.1/banjo_tooie.apworld",
-      "size": 293601,
-      "hash_sha256": "d17ffcca04293078b4e88c98fa5088a4da8431c1215d3f5213319580bb6fede1",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.12.1",
-        "tag_version": "4.12.1",
-        "created_at": "2026-06-21T18:48:09Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.12.0/banjo_tooie.apworld",
-      "size": 292162,
-      "hash_sha256": "0b01f1cd5cdc27dc3cb6f804b56e11545e8114e0e7c889684baf9701237b2642",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.12.0",
-        "tag_version": "4.12.0",
-        "created_at": "2026-05-30T02:47:49Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.6/banjo_tooie.apworld",
-      "size": 275223,
-      "hash_sha256": "6dbde14e50bf0f6f2782f6de72a5f0b6581bf499ecbcca5881f25933b2d3a6b8",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.11.6",
-        "tag_version": "4.11.6",
-        "created_at": "2026-05-11T14:05:19Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.5/banjo_tooie.apworld",
-      "size": 275279,
-      "hash_sha256": "03283e34e36aa91cbb62e72958b56a8017b255ee0688770f24de7300a562401a",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.11.5.post3",
-        "tag_version": "4.11.5.post3",
-        "created_at": "2025-12-26T23:18:09Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.5/banjo_tooie.apworld",
-      "size": 273834,
-      "hash_sha256": "bb77560d8bcfe8612913ccaf9749de9eb8173fc0f0e72f1066e0e523c01d1680",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.11.5.post2",
-        "tag_version": "4.11.5.post2",
-        "created_at": "2025-12-26T23:18:09Z",
-        "minimum_ap_version": "0.6.7"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.5/banjo_tooie.apworld",
-      "size": 272800,
-      "hash_sha256": "030d23365807e09a767f51bc00a1afc789c7807489b28fa5c9b0c96e6d72120c",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.11.5",
-        "tag_version": "4.11.5",
-        "created_at": "2025-12-26T23:18:09Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.4/banjo_tooie.apworld",
-      "size": 274495,
-      "hash_sha256": "63bd3f3091e8dc68b466be9f615061949f571e4c6f7917e744bf9cc763ef23bd",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.11.4",
-        "tag_version": "4.11.4",
-        "created_at": "2025-12-26T23:18:09Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.4/banjo_tooie.apworld",
-      "size": 272599,
-      "hash_sha256": "3fd62768931fa38846c19fc5e3054230d993ae5ba725faecb6374b6c484917e9",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.11.4",
-        "tag_version": "4.11.4",
-        "created_at": "2025-12-26T23:18:09Z",
-        "minimum_ap_version": "0.6.3"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.3/banjo_tooie.apworld",
-      "size": 251382,
-      "hash_sha256": "eabbb129636c77cb3bd5cc941e0f19c83b4ea0486c35594f35ae555b72d33a84",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.11.3",
-        "tag_version": "4.11.3",
-        "created_at": "2025-11-06T02:34:25Z",
-        "minimum_ap_version": "0.6.3",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.1/banjo_tooie.apworld",
-      "size": 250250,
-      "hash_sha256": "d4a832392fb2b51cf112dddfbd8887acdbc048abd5ace2a7e26c1a9f49e8c968",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.11.1",
-        "tag_version": "4.11.1",
-        "created_at": "2025-10-26T02:25:09Z",
-        "minimum_ap_version": "0.6.3",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.2/banjo_tooie.apworld",
-      "size": 251164,
-      "hash_sha256": "5e86fd172ba90987a3cf55b66cac814ba64aa416f1f387175f971affe3e9e3df",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.11.1",
-        "tag_version": "4.11.1",
-        "created_at": "2025-10-31T01:38:04Z",
-        "minimum_ap_version": "0.6.3",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.11.0/banjo_tooie.apworld",
-      "size": 250240,
-      "hash_sha256": "f937c0314e360f58ad136b327c3ca21bf33701ed6be4cf474128c03ab8d1f2a8",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.11.0",
-        "tag_version": "4.11.0",
-        "created_at": "2025-10-25T04:20:28Z",
-        "minimum_ap_version": "0.6.3",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.10.2/banjo_tooie.apworld",
-      "size": 250410,
-      "hash_sha256": "391085cbe538f462fb8c69811aab8dc44e1d0cd0b82f39719123c06cfa76ddd3",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.10.2",
-        "tag_version": "4.10.2",
-        "created_at": "2025-10-18T03:16:12Z",
-        "minimum_ap_version": "0.6.3",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.10.1/banjo_tooie.apworld",
-      "size": 249395,
-      "hash_sha256": "8dc5b3a63b1bb270329e7c10bd253e7588837bf8a865a35849ebd09ff9595109",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.10.1",
-        "tag_version": "4.10.1",
-        "created_at": "2025-09-13T19:36:46Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.10/banjo_tooie.apworld",
-      "size": 249206,
-      "hash_sha256": "dbb5cdaf3a5dd92c45dc17759d3a2c39e5a64e50545626ef124031e8714ddb5e",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.10",
-        "tag_version": "4.10",
-        "created_at": "2025-09-10T01:27:18Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.9/banjo_tooie.apworld",
-      "size": 248504,
-      "hash_sha256": "b8319ac6f19017aea8e96d3e6ba57094709d4d7ee4a1b78e238b8e5dfcd41128",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.9",
-        "tag_version": "4.9",
-        "created_at": "2025-08-16T03:40:18Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.8.1/banjo_tooie.apworld",
-      "size": 248440,
-      "hash_sha256": "5047a15a8d7ffcdae8112ba9676bb03cbadffe034a0eb51b89b2c250d5835314",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.8.1",
-        "tag_version": "4.8.1",
-        "created_at": "2025-08-09T02:48:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.8/banjo_tooie.apworld",
-      "size": 248315,
-      "hash_sha256": "5090a29fdc05bedb61957c85682fb7037da82a79e9f064a68ac51e9cbb90074d",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.8",
-        "tag_version": "4.8",
-        "created_at": "2025-07-16T01:18:16Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.7/banjo_tooie.apworld",
-      "size": 408495,
-      "hash_sha256": "1ca545d38beefeb9b0c28155b91224d056373c8c0555db48bd127b45b5788638",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.7",
-        "tag_version": "4.7",
-        "created_at": "2025-07-11T01:07:35Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.6.2/banjo_tooie.apworld",
-      "size": 366202,
-      "hash_sha256": "649753db6c64cbdeabc01a9e146912e584713fa120c8e3769739f018c13710b5",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.6.2",
-        "tag_version": "4.6.2",
-        "created_at": "2025-07-05T02:12:48Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.6.1/banjo_tooie.apworld",
-      "size": 366261,
-      "hash_sha256": "9b5ae86bd490f40d7281057119e51742f2e4f22240f73db20a22207c72fa2192",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.6.1",
-        "tag_version": "4.6.1",
-        "created_at": "2025-06-28T20:22:41Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.6/banjo_tooie.apworld",
-      "size": 361218,
-      "hash_sha256": "aa7580641870d507e9c0e66487b45fc4c0c316a7a48c7adc5ce8f78b95f9128e",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.6",
-        "tag_version": "4.6",
-        "created_at": "2025-06-27T01:18:45Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.5.1/banjo_tooie.apworld",
-      "size": 354012,
-      "hash_sha256": "d083caef4fb002633cc40dbf32479b4428752048b0c4be9714bd947b1132c2bc",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.5.1",
-        "tag_version": "4.5.1",
-        "created_at": "2025-05-10T17:05:49Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.5/banjo_tooie.apworld",
-      "size": 354305,
-      "hash_sha256": "255b71aff9c663561c9adc296de818f234ae4776b530ebfe422321ce447fa3c7",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.5",
-        "tag_version": "4.5",
-        "created_at": "2025-05-10T01:56:24Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.4.2/banjo_tooie.apworld",
-      "size": 347559,
-      "hash_sha256": "7cd969aa37b94cf8179048cf5077140a4317694260a0f18a9340b0e8ada85833",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.4.2",
-        "tag_version": "4.4.2",
-        "created_at": "2025-04-04T03:12:08Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.4.1/banjo_tooie.apworld",
-      "size": 346569,
-      "hash_sha256": "53db88fce42f79806526d376dd9a41894089dc9a1223e25e64315937686a8d4c",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.4.1",
-        "tag_version": "4.4.1",
-        "created_at": "2025-04-02T01:53:12Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.4/banjo_tooie.apworld",
-      "size": 346565,
-      "hash_sha256": "e0e665829860f0914101f615ecad206ad1a04761ffa2bba97f5881af01533257",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.4",
-        "tag_version": "4.4",
-        "created_at": "2025-04-01T03:08:39Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.3/banjo_tooie.apworld",
-      "size": 312919,
-      "hash_sha256": "22beeb1e71313b207c5a177ec90c64d61a284bcb276d96ed8f3c40ec2e50e2e6",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.3",
-        "tag_version": "4.3",
-        "created_at": "2025-03-01T03:41:49Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.2/banjo_tooie.apworld",
-      "size": 204710,
-      "hash_sha256": "6946e77d1a31eb6b289eeba6cecc0f46f6af9ec96eaf41e341469e5cff531860",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.2",
-        "tag_version": "4.2",
-        "created_at": "2025-02-04T02:49:17Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.1/banjo_tooie.apworld",
-      "size": 192337,
-      "hash_sha256": "3211e5d28eadf461c108023ee54968bc19d397953a9138fe550ef16447a4d6b0",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.1",
-        "tag_version": "4.1",
-        "created_at": "2025-01-08T03:29:48Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.0.1/banjo_tooie.apworld",
-      "size": 413710,
-      "hash_sha256": "ff1166a437513a4ee25ea7499f82d851e5ffbaee39690cb003f478460dd50bfd",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.0.1",
-        "tag_version": "4.0.1",
-        "created_at": "2024-12-31T02:08:30Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.0/banjo_tooie.apworld",
-      "size": 411758,
-      "hash_sha256": "4b436f9f0b8d957645c9fa638aa783ae2174ff8d6a50c269498eb3f765a383e4",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "4.0",
-        "tag_version": "4.0",
-        "created_at": "2024-12-25T14:25:05Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V3.5.3-beta/banjo_tooie.apworld",
-      "size": 293461,
-      "hash_sha256": "28035ebe69bff59fdb6f87b8c1bf368df534b675888e93baffb4d743714b4469",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "3.5.3b0",
-        "tag_version": "3.5.3b0",
-        "created_at": "2024-12-14T02:56:53Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V3.5.2-beta/banjo_tooie.apworld",
-      "size": 304512,
-      "hash_sha256": "69204e70d916c3e3dd4943e50abce2c5705ad7cb9fa0ef71ca3eff101aec5bd4",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "3.5.2b0",
-        "tag_version": "3.5.2b0",
-        "created_at": "2024-12-08T02:53:51Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V3.5.1/banjo_tooie.apworld",
-      "size": 287313,
-      "hash_sha256": "05c8806d002b8502424b15e29db6961cb7419a165ed3a5a1797d24e9276bcd6b",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "3.5.1b0",
-        "tag_version": "3.5.1b0",
-        "created_at": "2024-11-30T03:22:12Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V3.5-beta/banjo_tooie.apworld",
-      "size": 282493,
-      "hash_sha256": "59f4603db9da449842dd6244f02661727ca29839282bf90eb01ac11f756121a2",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "3.5b0",
-        "tag_version": "3.5b0",
-        "created_at": "2024-11-23T21:04:25Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V3.4.1-beta/banjo_tooie.apworld",
-      "size": 280432,
-      "hash_sha256": "980badf6915e08544e52a4a4ef3e91998de395f2550ee537fec2fd132773053e",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "3.4.1",
-        "tag_version": "3.4.1",
-        "created_at": "2024-11-20T01:45:20Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V3.4-beta/banjo_tooie.apworld",
-      "size": 278436,
-      "hash_sha256": "e3a5751a6038a23bc5d4b32eaae36cdb3edb62be7f9ce7afd1e3094386b03e16",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "3.4b0",
-        "tag_version": "3.4b0",
-        "created_at": "2024-11-16T02:32:27Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V3.3.3-beta/banjo_tooie.apworld",
-      "size": 278109,
-      "hash_sha256": "68161c765de53688909b4cbac2211e4c1c431ae755c91c19c65c4c98b5af0ff8",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "3.3.3b0",
-        "tag_version": "3.3.3b0",
-        "created_at": "2024-11-09T02:24:08Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V3.3.2-beta/banjo_tooie.apworld",
-      "size": 277782,
-      "hash_sha256": "86cff2b82d357830ce6d1c88152a821cdae9583466face9f48c7bf9b5fff9ecc",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "3.3.2",
-        "tag_version": "3.3.2",
-        "created_at": "2024-11-05T03:50:29Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V3.3.1-beta/banjo_tooie.apworld",
-      "size": 72360,
-      "hash_sha256": "8224767deff0f7deced3f2c9ab322854a830b7678a4bfbe2cae05699d6d175f6",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "3.3.1b0",
-        "tag_version": "3.3.1b0",
-        "created_at": "2024-11-01T17:47:51Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V3.3-beta/banjo_tooie.apworld",
-      "size": 277847,
-      "hash_sha256": "036ccb9a355c75de15977748bbda0b27394cdf70b1d5749665716a56904f7e27",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "3.3b0",
-        "tag_version": "3.3b0",
-        "created_at": "2024-11-01T01:33:58Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V3.2/banjo_tooie.apworld",
-      "size": 268423,
-      "hash_sha256": "2c258a86f73a90ba402831eed2d5c80322cfe1cc5803574b662da5d7c606166e",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "3.2",
-        "tag_version": "3.2",
-        "created_at": "2024-10-23T22:41:34Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V3.1.2-beta/banjo_tooie.apworld",
-      "size": 268259,
-      "hash_sha256": "b18fc274ae2a8ea6c9c29dbed6d791af58a7f6d1c4178e3220b9e049bc841b46",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "3.1.2b0",
-        "tag_version": "3.1.2b0",
-        "created_at": "2024-10-20T06:08:53Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V3.1.1-beta/banjo_tooie.apworld",
-      "size": 268259,
-      "hash_sha256": "b61d1c68ec06187ed83d4f222ea8c55459884734cb14c8a6b53468281797febb",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "3.1.1",
-        "tag_version": "3.1.1",
-        "created_at": "2024-10-19T19:10:10Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V3.1-beta/banjo_tooie.apworld",
-      "size": 268255,
-      "hash_sha256": "bb4f3450ca82ef101debb18f2ac181834d72358c4017f44ba160420b2f7438ac",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "3.1b0",
-        "tag_version": "3.1b0",
-        "created_at": "2024-10-18T22:27:13Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V3.0-beta/banjo_tooie.apworld",
-      "size": 267522,
-      "hash_sha256": "0f8ca926a33530784ae1dd55b59b98052e65e7dd04000e586c87b3a637c9279e",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "3.0b0",
-        "tag_version": "3.0b0",
-        "created_at": "2024-10-14T03:38:54Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V2.1.4-beta/banjo_tooie.apworld",
-      "size": 262513,
-      "hash_sha256": "4c140d40860f6d743419bb31b85c9ca9a47771a5331ab1153d72a8041e6c9384",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "2.1.4b0",
-        "tag_version": "2.1.4b0",
-        "created_at": "2024-10-05T01:48:32Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V2.1.3-beta/banjo_tooie.apworld",
-      "size": 272826,
-      "hash_sha256": "1c40a93bd3c12197e721b54c5a026e4711f7c57d9221556f0654b276eeef9307",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "2.1.3b0",
-        "tag_version": "2.1.3b0",
-        "created_at": "2024-09-27T23:51:47Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V2.1.2-beta/banjo_tooie.apworld",
-      "size": 272731,
-      "hash_sha256": "0b1ecc2d53c7e3bd45c2d981c005eeb99b8fd4108b6daced44d1ace557d8b05c",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "2.1.2b0",
-        "tag_version": "2.1.2b0",
-        "created_at": "2024-09-22T19:14:37Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V2.1.1-beta/banjo_tooie.apworld",
-      "size": 268769,
-      "hash_sha256": "a94b3a5270863d09773b2b2b34ec4b04f732f78477b55ae52ba67836b291f641",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "2.1.1b0",
-        "tag_version": "2.1.1b0",
-        "created_at": "2024-09-18T00:34:37Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V2.1-beta/banjo_tooie.apworld",
-      "size": 236211,
-      "hash_sha256": "5986e80467440cdf4c0aa7d1ad8bc5ec8084c71e8769f04bd4c85707fc636b34",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "2.1b0",
-        "tag_version": "2.1b0",
-        "created_at": "2024-09-15T01:00:52Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V2.0-beta/banjo_tooie.apworld",
-      "size": 77279,
-      "hash_sha256": "a096b9862c4975742e77d09ddc2c93b9ee421429d8a3dd54bf46df665e55e7f0",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "2.0b0",
-        "tag_version": "2.0b0",
-        "created_at": "2024-09-06T14:16:31Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V1.9.2-beta/banjo_tooie.apworld",
-      "size": 64258,
-      "hash_sha256": "641b16bcc6855f2b053059c831142599b4c4e94a9e97f43e58cc37fd78c51ee7",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "1.9.2b0",
-        "tag_version": "1.9.2b0",
-        "created_at": "2024-08-29T01:44:12Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V1.9.1-beta/banjo_tooie.apworld",
-      "size": 63694,
-      "hash_sha256": "816ab1776d03b636cf3d87f6a5a701e721c446ffcadcbaf22e0cc8c5627f9164",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "1.9.1b0",
-        "tag_version": "1.9.1b0",
-        "created_at": "2024-08-26T04:07:44Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V1.9-beta/banjo_tooie.apworld",
-      "size": 64097,
-      "hash_sha256": "c8ba545d9205beaac5a301edd84a6ec8a08f5e74bdf19d3652c1ffe9a6dfef9e",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "1.9b0",
-        "tag_version": "1.9b0",
-        "created_at": "2024-07-12T23:14:27Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V1.8.3-beta/banjo_tooie.apworld",
-      "size": 65043,
-      "hash_sha256": "fa6d6f22ac226fb3a465cd738b81f86308764212d2f55c5170d01a773e6de226",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "1.8.3b0",
-        "tag_version": "1.8.3b0",
-        "created_at": "2024-06-22T00:28:17Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
-      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V1.8.2-beta/banjo_tooie.apworld",
-      "size": 64744,
-      "hash_sha256": "0b828cfc8fe2f91e1a77cc50da14d05423df261e3d9b0ab4c67ceeb3e46195ac",
-      "metadata": {
-        "game": "",
-        "id": "banjo_tooie",
-        "world_version": "1.8.2b0",
-        "tag_version": "V1.8.2-beta",
-        "created_at": "2024-06-16T19:40:20Z",
-        "maximum_ap_version": "0.6.99"
-      }
-    },
-    {
       "world": "https://github.com/alwaysintreble/Archipelago.BatBoy/releases/download/v0.1.6/batboy.apworld",
       "size": 13661,
       "hash_sha256": "da8fcffc9a24388571d3ac650b6b5e03e6edab5e3a314826fb70180b5ea1100b",
@@ -55600,6 +54825,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v2.0.3/mmx2.apworld",
+      "size": 57870,
+      "hash_sha256": "30ee067670399c32edc4c7872ff006045a9b455e8d0110f7e97afd93040c05d9",
+      "metadata": {
+        "game": "",
+        "id": "mmx2",
+        "world_version": "2.0.3",
+        "tag_version": "2.0.3",
+        "created_at": "2026-08-19T02:04:01Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v2.0.2/mmx2.apworld",
       "size": 57993,
       "hash_sha256": "93f9faf1f003d8022a135f9fe28935d1cd51b87e1235ca0b0ce5c56039f8c9e5",
@@ -56194,6 +55432,22 @@
         "tag_version": "0.1.0",
         "created_at": "2025-06-05T23:39:46Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Stuff691734/ModdedMCArchipelago/releases/download/v3.0.6/moddedminecraft.apworld",
+      "size": 8603,
+      "hash_sha256": "25035517e52a1cb73dd8bfb18295c72fe2948cb2cd10a571b7681c66723cd0cc",
+      "metadata": {
+        "game": "",
+        "id": "moddedminecraft",
+        "world_version": "3.0.6",
+        "tag_version": "3.0.6",
+        "created_at": "2026-08-19T01:31:21Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "unready"
+        ]
       }
     },
     {
@@ -71753,6 +71007,18 @@
         "flags": [
           "after_dark"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.3.6/rabbit_and_steel.apworld",
+      "size": 25186,
+      "hash_sha256": "d7233ab7d4ec62096e577cff0248ced46dc83170ca1f9642955db1d9cafd8a18",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.3.6.post2",
+        "tag_version": "0.3.6.post2",
+        "created_at": "2026-08-10T23:45:56Z"
       }
     },
     {
@@ -93911,6 +93177,19 @@
       }
     },
     {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.6-alpha/tloz_ph.apworld",
+      "size": 2595154,
+      "hash_sha256": "e4085f404b52face7ba582585de5cd111a93ca2a59eed8dd891a7d3bd92be7c9",
+      "metadata": {
+        "game": "",
+        "id": "tloz_ph",
+        "world_version": "0.9.6a0",
+        "tag_version": "0.9.6a0",
+        "created_at": "2026-08-19T09:19:49Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.9.5-alpha/tloz_ph.apworld",
       "size": 2595153,
       "hash_sha256": "db6ea09a0a96c9bd27455564d47c676d6b5b4e851e957e5b111cced92227cf4d",
@@ -103719,10 +102998,6 @@
     "balatro": {
       "game": "Balatro",
       "description": "Balatro is a poker-themed roguelike deck-building video game developed by LocalThunk.\nIn the game, players play poker hands to score points and defeat \"blinds\", while improving their deck and purchasing joker cards with a variety of effects. \nSource: https://en.wikipedia.org/wiki/Balatro_(video_game)"
-    },
-    "banjo_tooie": {
-      "game": "Banjo Tooie",
-      "description": "Banjo-Tooie is a single-player platform game in which the protagonists are controlled from a third-person perspective.\nCarrying over most of the mechanics and concepts established in its predecessor,\nthe game features three-dimensional worlds consisting of various platforming challenges and puzzles, with a notable\nincreased focus on puzzle-solving over the worlds of Banjo-Kazooie."
     },
     "batboy": {
       "game": "",
