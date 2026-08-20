@@ -79,6 +79,18 @@
       "title": "Final Fantasy Tactics APWorld v0.3.1",
       "version_simple": "0.3.1",
       "world_version": "0.3.1"
+    },
+    "FFT-v0.4.0": {
+      "created_at": "2026-08-19T16:56:32Z",
+      "download_url": "https://github.com/Rosalie-A/Archipelago/releases/download/FFT-v0.4.0/fftii.apworld",
+      "has_manifest": true,
+      "hash_sha256": "f0e4572ad04e0c11326c93cd510a28df3deb24ba137137d5ec54e4d29f594c74",
+      "size": 1776649,
+      "source_url": "https://api.github.com/repos/Rosalie-A/Archipelago",
+      "tag": "FFT-v0.4.0",
+      "title": "Final Fantasy Tactics APWorld v0.4.0",
+      "version_simple": "0.4.0",
+      "world_version": "0.4.0"
     }
   }
 }

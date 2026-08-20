@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
-  "total_packages": 639,
-  "total_versions": 7448,
+  "total_packages": 640,
+  "total_versions": 7514,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -29,6 +29,7 @@
     "axiomverge": false,
     "backlog_expedition": false,
     "balatro": false,
+    "banjo_tooie": true,
     "batboy": false,
     "bfm": true,
     "bg3": true,
@@ -582,11 +583,11 @@
     "0.6.4": 57,
     "0.6.5": 19,
     "0.6.6": 11,
-    "0.6.7": 55,
+    "0.6.7": 56,
     "0.6.9": 1
   },
   "max_maximum_ap_version": {
-    "": 292,
+    "": 293,
     "0.0.1": 1,
     "0.4.6": 5,
     "0.6.99": 258
