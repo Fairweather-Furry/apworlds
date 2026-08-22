@@ -8,6 +8,9 @@
 #### v0.2.0
 - <a href="https://github.com/Aeromaze/Archipelago/releases/download/v0.2.0/easy_delivery_co.apworld">https://github.com/Aeromaze/Archipelago/releases/download/v0.2.0/easy_delivery_co.apworld</a>
 
+#### v0.2.0
+- <a href="https://github.com/Aeromaze/Archipelago/releases/download/v0.2.1/easy_delivery_co.apworld">https://github.com/Aeromaze/Archipelago/releases/download/v0.2.1/easy_delivery_co.apworld</a>
+
 #### v0.1.0
 - <a href="https://github.com/Aeromaze/Archipelago/releases/download/v0.1.0/easy_delivery_co.apworld">https://github.com/Aeromaze/Archipelago/releases/download/v0.1.0/easy_delivery_co.apworld</a>
 
