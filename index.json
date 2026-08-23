@@ -10370,6 +10370,19 @@
       }
     },
     {
+      "world": "https://github.com/vicr123/Archipelago/releases/download/20260822-1/candybox2.apworld",
+      "size": 32010,
+      "hash_sha256": "8d3c0c89ce18b31c93c773de2e221ae485c6525e4b646ca79de8ccdb29cec7a7",
+      "metadata": {
+        "game": "",
+        "id": "candybox2",
+        "world_version": "1.20260822.1",
+        "tag_version": "1.20260822.1",
+        "created_at": "2026-08-23T05:33:57Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/vicr123/Archipelago/releases/download/20260816-1/candybox2.apworld",
       "size": 26263,
       "hash_sha256": "be54bc07358fd9d292d7777cd7d7917a1cd2aad9255e8c580e3be6e1c22085c9",
@@ -27934,6 +27947,19 @@
         "tag_version": "0.0.1",
         "created_at": "2023-11-27T18:36:53Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.31.1/ffxiv.apworld",
+      "size": 200789,
+      "hash_sha256": "57ff88e4f235c684cfced37f1f8f5cacf3e78373788870d78ec879af7761da9d",
+      "metadata": {
+        "game": "",
+        "id": "ffxiv",
+        "world_version": "0.31.1",
+        "tag_version": "0.31.1",
+        "created_at": "2026-08-23T12:35:00Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
