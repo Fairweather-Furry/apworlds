@@ -3277,6 +3277,19 @@
       }
     },
     {
+      "world": "https://github.com/NewSoupVi/Archipelago/releases/download/apquest_boss_health_fix/apquest.apworld",
+      "size": 5279639,
+      "hash_sha256": "a5d05c28ba7ca2ef07324ce8f71055707984c6a588d86ad00819f86d44f169a1",
+      "metadata": {
+        "game": "",
+        "id": "apquest",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-08-22T04:56:54Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/NewSoupVi/Archipelago/releases/download/apquest1.0.1/apquest.apworld",
       "size": 5276199,
       "hash_sha256": "25744313897c24845e49f5393d18c56085786e480b95144799be89a1993cdf32",
@@ -10344,6 +10357,19 @@
       }
     },
     {
+      "world": "https://github.com/vicr123/Archipelago/releases/download/20260822-1/candybox2.apworld",
+      "size": 32057,
+      "hash_sha256": "33a2e6a9ffad28ab4c910298b102b527e18da4cad1f6e12643088cf7c4eff717",
+      "metadata": {
+        "game": "",
+        "id": "candybox2",
+        "world_version": "1.20260822.1",
+        "tag_version": "1.20260822.1",
+        "created_at": "2026-08-22T13:00:33Z",
+        "minimum_ap_version": "0.6.0"
+      }
+    },
+    {
       "world": "https://github.com/vicr123/Archipelago/releases/download/20260816-1/candybox2.apworld",
       "size": 26263,
       "hash_sha256": "be54bc07358fd9d292d7777cd7d7917a1cd2aad9255e8c580e3be6e1c22085c9",
@@ -12558,6 +12584,30 @@
         "tag_version": "1.0.0",
         "created_at": "2024-12-15T17:38:30Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.9/civv.apworld",
+      "size": 457015,
+      "hash_sha256": "40aac471b08e178d15c57498b4f98a28b59041a3de9b9e2bba3d31c452c75807",
+      "metadata": {
+        "game": "",
+        "id": "civv",
+        "world_version": "0.10.9",
+        "tag_version": "0.10.9",
+        "created_at": "2026-08-22T22:22:19Z"
+      }
+    },
+    {
+      "world": "https://github.com/1313e/Civ-V-AP-World/releases/download/v0.10.8/civv.apworld",
+      "size": 456915,
+      "hash_sha256": "e5afbc8fcc404e2e2d800925baf93a792e44bf75e207f70a4005129f88a0c7c4",
+      "metadata": {
+        "game": "",
+        "id": "civv",
+        "world_version": "0.10.8",
+        "tag_version": "0.10.8",
+        "created_at": "2026-08-22T21:11:31Z"
       }
     },
     {
@@ -41937,6 +41987,23 @@
       }
     },
     {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-eta.1/lor.apworld",
+      "size": 31643,
+      "hash_sha256": "8d544d31ea5d0cac150e46ce0091057b87d3b209129936e6358d29b756583bb4",
+      "metadata": {
+        "game": "",
+        "id": "lor",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-08-22T12:15:54Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-gamma/lor.apworld",
       "size": 25615,
       "hash_sha256": "49c786c6f6f7a853a069fedb0750b607e2115dae2f369f6239dcc7475b49935c",
@@ -41964,23 +42031,6 @@
         "tag_version": "1.0.0",
         "created_at": "2026-07-13T11:30:59Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "after_dark",
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-eta.1/lor.apworld",
-      "size": 31643,
-      "hash_sha256": "8d544d31ea5d0cac150e46ce0091057b87d3b209129936e6358d29b756583bb4",
-      "metadata": {
-        "game": "",
-        "id": "lor",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2026-08-22T12:15:54Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "after_dark",
           "prerelease"
@@ -56067,6 +56117,19 @@
       }
     },
     {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.3.2/mmzero3.apworld",
+      "size": 84147,
+      "hash_sha256": "6cb3618ad98330ef1562fbf05d203a2dd049557484729d920bb5f0bb747b0ec9",
+      "metadata": {
+        "game": "",
+        "id": "mmzero3",
+        "world_version": "0.3.2",
+        "tag_version": "0.3.2",
+        "created_at": "2026-08-22T21:31:31Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.3.1/mmzero3.apworld",
       "size": 82387,
       "hash_sha256": "c35c625ba339ab831f13d75d348f7101af3c274dabf62435c3affee3c3cb672a",
@@ -68453,6 +68516,19 @@
       }
     },
     {
+      "world": "https://github.com/vyneras/Archipelago/releases/download/1.1.0/pokemon_frlg.apworld",
+      "size": 1557593,
+      "hash_sha256": "11ed4d06c83f69993ae3fbe577f25a2d82fc7f2960ee824299fa4aadb25daca5",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_frlg",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-08-22T16:11:38Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/vyneras/Archipelago/releases/download/1.0.4/pokemon_frlg.apworld",
       "size": 1526895,
       "hash_sha256": "e684862132b364ff2c3dcca8d68328314dedbcc475d5eeb59b2cf7801cf7471c",
@@ -71564,6 +71640,22 @@
     },
     {
       "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.1.8/quake.apworld",
+      "size": 500358,
+      "hash_sha256": "c40f0993f216d1ac413143776ebf8cb2e699d6b271e1fbced3225f103c8e0ce2",
+      "metadata": {
+        "game": "",
+        "id": "quake",
+        "world_version": "1.1.8.post2",
+        "tag_version": "1.1.8.post2",
+        "created_at": "2026-08-13T14:05:35Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.1.8/quake.apworld",
       "size": 500292,
       "hash_sha256": "9a1404c30f934abb903391be20381218e71f2cd1f87ea2226d247460199ba34e",
       "metadata": {
@@ -73593,6 +73685,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v.1.5.0/refunct.apworld",
+      "size": 20230,
+      "hash_sha256": "89f8c8df3a658344d63dc0f75dc7cab8e279adfae846b0d4f530a4ed5032637d",
+      "metadata": {
+        "game": "",
+        "id": "refunct",
+        "world_version": "1.5.0",
+        "tag_version": "1.5.0",
+        "created_at": "2026-08-22T14:12:48Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
