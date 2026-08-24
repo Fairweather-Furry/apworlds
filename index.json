@@ -48867,6 +48867,19 @@
       }
     },
     {
+      "world": "https://github.com/AliRobotnik/PokemonSnap-Archipelago-Manual/releases/download/V1.4.2/manual_pokemonsnap_alirobotnik.apworld",
+      "size": 57823,
+      "hash_sha256": "60f9d8a66a7a9c42213da3deb9d354ed867894e732aff9b41ea889e8a5b1c097",
+      "metadata": {
+        "game": "",
+        "id": "manual_pokemonsnap_alirobotnik",
+        "world_version": "1.4.2",
+        "tag_version": "1.4.2",
+        "created_at": "2026-01-17T18:27:27Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/AliRobotnik/PokemonSnap-Archipelago-Manual/releases/download/V1.4.1/manual_pokemonsnap_alirobotnik.apworld",
       "size": 57821,
       "hash_sha256": "90fb1881948cf0085c66a15dad94fe2cfda0de260275a070b4e1183028557c87",
@@ -81926,6 +81939,22 @@
       }
     },
     {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.11/sm64hacks.apworld",
+      "size": 300435,
+      "hash_sha256": "c6ef812a8255251eb4715369c3bfa5283a8e3eaf58b3ae4c45d18297b2a2ca40",
+      "metadata": {
+        "game": "",
+        "id": "sm64hacks",
+        "world_version": "1.1.11",
+        "tag_version": "1.1.11",
+        "created_at": "2026-08-24T03:19:32Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.10/sm64hacks.apworld",
       "size": 296721,
       "hash_sha256": "a04164c6b7e0ddc3103d6fc4b694069bf13b554b8dfa641206d6ad18e1fc4c47",
@@ -94958,6 +94987,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/DayKat/spirit-tracks/releases/download/st-v0.8.3/tloz_st.apworld",
+      "size": 5160350,
+      "hash_sha256": "5d2b470f065d784d0d4aaf1a7ce06ebe2c6df57545513784af720c6d06139c02",
+      "metadata": {
+        "game": "",
+        "id": "tloz_st",
+        "world_version": "0.8.3",
+        "tag_version": "0.8.3",
+        "created_at": "2026-08-24T08:33:23Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
