@@ -63368,6 +63368,19 @@
       }
     },
     {
+      "world": "https://github.com/lagdotcom/Archipelago/releases/download/phst2-0.1.3/phantasy_star_2.apworld",
+      "size": 49461,
+      "hash_sha256": "e6e8ecabd6dfac637b257846f9ca8da2d817d1b20493e072dfd175e29a93ca44",
+      "metadata": {
+        "game": "",
+        "id": "phantasy_star_2",
+        "world_version": "0.1.3",
+        "tag_version": "0.1.3",
+        "created_at": "2026-08-27T08:27:22Z",
+        "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
       "world": "https://github.com/lagdotcom/Archipelago/releases/download/phst2-0.1.2/phantasy_star_2.apworld",
       "size": 49456,
       "hash_sha256": "84c64557772d708cfd40bbd7fe4a915353c5d573be0b5257f1bc6f747620139c",
@@ -63643,6 +63656,30 @@
         "tag_version": "0.1.0",
         "created_at": "2025-09-16T21:33:18Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.8.1/pikmin2.apworld",
+      "size": 1394983,
+      "hash_sha256": "9ece69f8a14d366c4da511dedfa248c176fc94bb1b15888d714d7f224eacb090",
+      "metadata": {
+        "game": "",
+        "id": "pikmin2",
+        "world_version": "0.8.1",
+        "tag_version": "0.8.1",
+        "created_at": "2026-08-27T02:57:06Z"
+      }
+    },
+    {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.8.0/pikmin2.apworld",
+      "size": 1394985,
+      "hash_sha256": "aa0f60e7094cb635e0f57cb3c989024a93b7c5fa72ba696ae32b00cc97aa8aca",
+      "metadata": {
+        "game": "",
+        "id": "pikmin2",
+        "world_version": "0.8.0.post2",
+        "tag_version": "0.8.0.post2",
+        "created_at": "2026-08-27T02:57:06Z"
       }
     },
     {
@@ -72342,6 +72379,30 @@
         "flags": [
           "after_dark"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.3.9/rabbit_and_steel.apworld",
+      "size": 25206,
+      "hash_sha256": "1e24dd9e65ebf8aeed403f416388573e45359a0ac99955055b2eedb6ae83dba6",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.3.9",
+        "tag_version": "0.3.9",
+        "created_at": "2026-08-27T21:35:50Z"
+      }
+    },
+    {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.3.8/rabbit_and_steel.apworld",
+      "size": 25206,
+      "hash_sha256": "1e24dd9e65ebf8aeed403f416388573e45359a0ac99955055b2eedb6ae83dba6",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.3.8",
+        "tag_version": "0.3.8",
+        "created_at": "2026-08-27T17:13:07Z"
       }
     },
     {
@@ -88791,6 +88852,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.3/stardew_valley.apworld",
+      "size": 580720,
+      "hash_sha256": "27a9b8b1ddd07d1ad82500485c36549e020b4d6c2ba1da189dba2163f4d19c26",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.1.2",
+        "tag_version": "8.1.2",
+        "created_at": "2026-08-27T17:10:29Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.1/stardew_valley_8.1.1.apworld",
       "size": 580668,
       "hash_sha256": "023739d00a1fffe1c9aa9c68a0ef42bf379f68790c0c76b32cee9c73d5bbeeca",
@@ -97288,6 +97365,19 @@
         "world_version": "0.13.0",
         "tag_version": "0.13.0",
         "created_at": "2026-08-20T03:19:55Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.13.0a/ttyd.apworld",
+      "size": 1593806,
+      "hash_sha256": "ef2748c484b6fc665d839953ea5266ed974f6972d32c51d92297ae1370fc0f9e",
+      "metadata": {
+        "game": "",
+        "id": "ttyd",
+        "world_version": "0.13.0a0",
+        "tag_version": "0.13.0a0",
+        "created_at": "2026-08-27T14:20:53Z",
         "minimum_ap_version": "0.6.3"
       }
     },
