@@ -640,6 +640,19 @@
       }
     },
     {
+      "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.3.3/albw.apworld",
+      "size": 26439947,
+      "hash_sha256": "7d2f36e52b86edda9e97206a7ea0e206ae7d22a5209d78f63b8c80da9630b3f9",
+      "metadata": {
+        "game": "",
+        "id": "albw",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2026-08-23T16:47:29Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.3.2/albw.apworld",
       "size": 17433963,
       "hash_sha256": "c95af937968b88c6d69c743dc040be9f66f4d00e74dd646961154c1b58380069",
@@ -5592,6 +5605,19 @@
       }
     },
     {
+      "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.13.1/banjo_tooie.apworld",
+      "size": 295637,
+      "hash_sha256": "d8d28ebfb7782b80b0bcb7c3f2cb85277c9bd5bc759aafd432305099276d2a22",
+      "metadata": {
+        "game": "",
+        "id": "banjo_tooie",
+        "world_version": "4.13.1",
+        "tag_version": "4.13.1",
+        "created_at": "2026-08-26T14:12:14Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/jjjj12212/Archipelago-BanjoTooie/releases/download/V4.13.0/banjo_tooie.apworld",
       "size": 294636,
       "hash_sha256": "a83a1bfcdd4546df313832b19ef297c1ea7bf1c9431ad1a67330ae524a8108e3",
@@ -9232,6 +9258,22 @@
         "world_version": "22",
         "tag_version": "22",
         "created_at": "2025-12-10T23:28:39Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/EdricY/Bouncy-Loot-God/releases/download/experiment-3/borderlands2.apworld",
+      "size": 65439,
+      "hash_sha256": "6d283210e4ed003c95ac654e6fea6ba75348b32d3493e46167fb8833e7b5e07c",
+      "metadata": {
+        "game": "",
+        "id": "borderlands2",
+        "world_version": "3",
+        "tag_version": "3",
+        "created_at": "2026-08-26T19:53:50Z",
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
@@ -40268,6 +40310,18 @@
       }
     },
     {
+      "world": "https://github.com/T0r1nn/APLC/releases/download/v0.7.13/lethal_company.apworld",
+      "size": 455308,
+      "hash_sha256": "3760bc5d8aaf52ff8fb5cd9faf574201601fd0f91c7b03a3e5cee6a6725f405c",
+      "metadata": {
+        "game": "",
+        "id": "lethal_company",
+        "world_version": "0.7.13",
+        "tag_version": "0.7.13",
+        "created_at": "2026-08-26T21:07:55Z"
+      }
+    },
+    {
       "world": "https://github.com/T0r1nn/APLC/releases/download/v0.7.12-beta/lethal_company.apworld",
       "size": 455054,
       "hash_sha256": "32a42513965bf6b483c172a51b238205c83fe7cee45b9f0004869dc68d04dfc9",
@@ -55903,6 +55957,19 @@
       }
     },
     {
+      "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v2.0.4/mmx2.apworld",
+      "size": 57869,
+      "hash_sha256": "96823f804a6dbdd0c1164570bde2d41688ad0165a0ca5314bbab57d204983e30",
+      "metadata": {
+        "game": "",
+        "id": "mmx2",
+        "world_version": "2.0.4",
+        "tag_version": "2.0.4",
+        "created_at": "2026-08-26T18:30:29Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/TheLX5/Archipelago/releases/download/mmx2-v2.0.3/mmx2.apworld",
       "size": 57870,
       "hash_sha256": "30ee067670399c32edc4c7872ff006045a9b455e8d0110f7e97afd93040c05d9",
@@ -56262,6 +56329,19 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-08-19T18:28:44Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.3.3/mmzero3.apworld",
+      "size": 93674,
+      "hash_sha256": "f3587f07a6b2ba0f57eec433620b2ba8e079bd6aefbf3118acfb76569bae6d1d",
+      "metadata": {
+        "game": "",
+        "id": "mmzero3",
+        "world_version": "0.3.3",
+        "tag_version": "0.3.3",
+        "created_at": "2026-08-26T00:36:09Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -58567,6 +58647,18 @@
         "tag_version": "0.1.0",
         "created_at": "2025-03-10T14:44:37Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_10/no100f.apworld",
+      "size": 157315,
+      "hash_sha256": "ae252013a655f3d52e638064c02ebdf68d336b7b84d2eea813aa9079fb7d9a1f",
+      "metadata": {
+        "game": "",
+        "id": "no100f",
+        "world_version": "10",
+        "tag_version": "10",
+        "created_at": "2026-08-27T02:39:10Z"
       }
     },
     {
@@ -63551,6 +63643,18 @@
         "tag_version": "0.1.0",
         "created_at": "2025-09-16T21:33:18Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/chpas0/Pikmin2Archipelago/releases/download/v0.8.0/pikmin2.apworld",
+      "size": 1394937,
+      "hash_sha256": "06831e6297c36c87edf5bda1814274f9376234562c56f7ba4e75084b8f580ed3",
+      "metadata": {
+        "game": "",
+        "id": "pikmin2",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-08-27T02:57:06Z"
       }
     },
     {
@@ -72241,6 +72345,18 @@
       }
     },
     {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.3.7/rabbit_and_steel.apworld",
+      "size": 25186,
+      "hash_sha256": "d7233ab7d4ec62096e577cff0248ced46dc83170ca1f9642955db1d9cafd8a18",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.3.7",
+        "tag_version": "0.3.7",
+        "created_at": "2026-08-26T21:10:56Z"
+      }
+    },
+    {
       "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.3.6/rabbit_and_steel.apworld",
       "size": 25186,
       "hash_sha256": "d7233ab7d4ec62096e577cff0248ced46dc83170ca1f9642955db1d9cafd8a18",
@@ -73915,6 +74031,19 @@
         "world_version": "1.5.1",
         "tag_version": "1.5.1",
         "created_at": "2026-08-24T16:40:54Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.5.1a/refunct.apworld",
+      "size": 20247,
+      "hash_sha256": "ee04e72f6ca1365c2f735ec27c20b2dccf25d45a75e0402e4e04d285b9d1b0e4",
+      "metadata": {
+        "game": "",
+        "id": "refunct",
+        "world_version": "1.5.1a0",
+        "tag_version": "1.5.1a0",
+        "created_at": "2026-08-26T20:15:38Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -90456,6 +90585,19 @@
       }
     },
     {
+      "world": "https://github.com/barretg/Taskipelago/releases/download/v1.0.1/taskipelago.apworld",
+      "size": 274712,
+      "hash_sha256": "dc9c0c67219248a9c660c174c29cb2f1c2b725e0a8b1c04733006af470fe794f",
+      "metadata": {
+        "game": "",
+        "id": "taskipelago",
+        "world_version": "1.0.1",
+        "tag_version": "1.0.1",
+        "created_at": "2026-08-26T15:19:26Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/barretg/Taskipelago/releases/download/v1.0.0/taskipelago.apworld",
       "size": 273672,
       "hash_sha256": "2dfe18ef23088527dc5cfa4bc8188829138c171041a15e6e0b0024e62da034dd",
@@ -97137,6 +97279,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.13.0/ttyd.apworld",
+      "size": 1596240,
+      "hash_sha256": "c7697bc8dd0d17cf1a2cd4f5a49a697881c33325a61040484953555533bb094f",
+      "metadata": {
+        "game": "",
+        "id": "ttyd",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2026-08-20T03:19:55Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.12.0/ttyd.apworld",
       "size": 1561274,
       "hash_sha256": "05f5cf6ca3a216940ec25e1ac0fbe0f9b75a733d8325ebcd82aba7177ec85fe7",
@@ -97579,6 +97734,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-04-17T22:14:40Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/silent-destroyer/tunic-randomizer/releases/download/5.0.2/tunic.apworld",
+      "size": 154407,
+      "hash_sha256": "56327b238abb1a5ca6edea0578dda7f5aa030c98ac2f5850cfad9352dd5c9278",
+      "metadata": {
+        "game": "",
+        "id": "tunic",
+        "world_version": "5.0.2",
+        "tag_version": "5.0.2",
+        "created_at": "2026-08-27T02:05:09Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
