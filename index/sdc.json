@@ -73,6 +73,19 @@
       "title": "ArchipelagoSDC v0.4.0 ",
       "version_simple": "0.4.0",
       "world_version": "0.4.0"
+    },
+    "v0.4.0r2": {
+      "created_at": "2026-08-21T04:39:11Z",
+      "download_url": "https://github.com/KitLemonfoot/ArchipelagoSDC/releases/download/v0.4.0/sdc.apworld",
+      "has_manifest": true,
+      "hash_sha256": "3ddf0220a2b839e25d36c64e282211c375f51ff2081f49798e9d2ab746dd4f0b",
+      "minimum_ap_version": "0.6.7",
+      "size": 9787,
+      "source_url": "https://api.github.com/repos/KitLemonfoot/ArchipelagoSDC",
+      "tag": "v0.4.0r2",
+      "title": "ArchipelagoSDC v0.4.0 ",
+      "version_simple": "0.4.0",
+      "world_version": "0.4.0.post2"
     }
   }
 }

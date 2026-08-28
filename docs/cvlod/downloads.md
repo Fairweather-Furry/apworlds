@@ -8,6 +8,9 @@
 #### v2
 - <a href="https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlodbijcw%26v_v2/cvlod.apworld">https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlodbijcw%26v_v2/cvlod.apworld</a>
 
+#### v2.0.0
+- <a href="https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlod_v2.0.0/cvlod.apworld">https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlod_v2.0.0/cvlod.apworld</a>
+
 #### v1
 - <a href="https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlodbijcw%26v_v1/cvlod.apworld">https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlodbijcw%26v_v1/cvlod.apworld</a>
 

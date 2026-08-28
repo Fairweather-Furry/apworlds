@@ -14015,6 +14015,19 @@
     },
     {
       "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.0/cotnd.apworld",
+      "size": 21966544,
+      "hash_sha256": "afc9efc8e5603d1fee5c73823be182d326cbd88256a08bc71cb56d4bd0c6f385",
+      "metadata": {
+        "game": "",
+        "id": "cotnd",
+        "world_version": "0.8.0.post2",
+        "tag_version": "0.8.0.post2",
+        "created_at": "2026-08-25T18:28:02Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.0/cotnd.apworld",
       "size": 21966609,
       "hash_sha256": "a60484b4510d005f54939f1792e07e3d0fcc48893b83e1db405a8f871ebdb00d",
       "metadata": {
@@ -17315,6 +17328,19 @@
         "tag_version": "2",
         "created_at": "2024-05-20T07:04:06Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/LiquidCat64/LiquidCatipelago/releases/download/cvlod_v2.0.0/cvlod.apworld",
+      "size": 232385,
+      "hash_sha256": "2a21ad57d612ccdef2c06a202207df85089e51bc408ccb065d08a8bda74745ec",
+      "metadata": {
+        "game": "",
+        "id": "cvlod",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-08-26T00:15:24Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -57515,6 +57541,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.36/musedash.apworld",
+      "size": 37216,
+      "hash_sha256": "a6f75d0f40365c7b89a3a5b0507224166ff079538d2ad5a5b110d233dc220648",
+      "metadata": {
+        "game": "",
+        "id": "musedash",
+        "world_version": "1.5.36",
+        "tag_version": "1.5.36",
+        "created_at": "2026-07-31T09:48:08Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.35/musedash.apworld",
       "size": 36973,
       "hash_sha256": "be753a4fe64562eed6d06abd4edfd4525b31f1a3e09f3a46b1dea4524608b5f0",
@@ -68834,6 +68873,19 @@
       }
     },
     {
+      "world": "https://github.com/vyneras/Archipelago/releases/download/1.1.2/pokemon_frlg.apworld",
+      "size": 1557719,
+      "hash_sha256": "e177d86a2f5092efdd16b8f99aeb20933e6db5af38a069375a02eb49fa9c5670",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_frlg",
+        "world_version": "1.1.2",
+        "tag_version": "1.1.2",
+        "created_at": "2026-08-28T01:05:22Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/vyneras/Archipelago/releases/download/1.1.1/pokemon_frlg.apworld",
       "size": 1557609,
       "hash_sha256": "9283a3e40251715ce158ef868e228427e291e1847c9c85791e19cd390baf81b7",
@@ -78834,6 +78886,22 @@
         "tag_version": "0.1.0",
         "created_at": "2025-02-23T06:20:10Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/KitLemonfoot/ArchipelagoSDC/releases/download/v0.4.0/sdc.apworld",
+      "size": 9787,
+      "hash_sha256": "3ddf0220a2b839e25d36c64e282211c375f51ff2081f49798e9d2ab746dd4f0b",
+      "metadata": {
+        "game": "",
+        "id": "sdc",
+        "world_version": "0.4.0.post2",
+        "tag_version": "0.4.0.post2",
+        "created_at": "2026-08-21T04:39:11Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "unready"
+        ]
       }
     },
     {
