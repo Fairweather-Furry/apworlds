@@ -640,9 +640,9 @@
       }
     },
     {
-      "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.3.4-hotfix/albw.apworld",
-      "size": 26440676,
-      "hash_sha256": "cd7d846d995e906e35b18c0419a09be82cf770087690e8194496d944cd59f3d6",
+      "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.3.4/albw.apworld",
+      "size": 26439912,
+      "hash_sha256": "3680f20e35ea7c19c5ca596b1be00a9dfcfb0a0f81b7867d26cc4fbc084ec33f",
       "metadata": {
         "game": "",
         "id": "albw",
@@ -653,9 +653,9 @@
       }
     },
     {
-      "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.3.4/albw.apworld",
-      "size": 26439912,
-      "hash_sha256": "3680f20e35ea7c19c5ca596b1be00a9dfcfb0a0f81b7867d26cc4fbc084ec33f",
+      "world": "https://github.com/randomsalience/albw-archipelago/releases/download/v0.3.4-hotfix/albw.apworld",
+      "size": 26440676,
+      "hash_sha256": "cd7d846d995e906e35b18c0419a09be82cf770087690e8194496d944cd59f3d6",
       "metadata": {
         "game": "",
         "id": "albw",
@@ -25976,6 +25976,22 @@
       }
     },
     {
+      "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.6.1/fez.apworld",
+      "size": 16283,
+      "hash_sha256": "983a13e084fa06f740c3f614b2c6bfd13bf617ba3eedd8f74a612393224ec027",
+      "metadata": {
+        "game": "",
+        "id": "fez",
+        "world_version": "0.6.1",
+        "tag_version": "0.6.1",
+        "created_at": "2026-08-30T09:10:35Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/nhyldmar/fez-ap/releases/download/v0.6.0/fez.apworld",
       "size": 16245,
       "hash_sha256": "999869a378d5c67afd2c0bc718329fc91017f07d4e6eff860a896b235096a3a0",
@@ -28085,6 +28101,19 @@
         "tag_version": "0.0.1",
         "created_at": "2023-11-27T18:36:53Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/silasary/APxiv/releases/download/0.31.2/ffxiv.apworld",
+      "size": 200827,
+      "hash_sha256": "2e37dc87aa3a9decd367c07594def370605484466f23c0e46c58e1e687bf3d14",
+      "metadata": {
+        "game": "",
+        "id": "ffxiv",
+        "world_version": "0.31.2",
+        "tag_version": "0.31.2",
+        "created_at": "2026-08-30T13:36:59Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -60601,6 +60630,19 @@
       }
     },
     {
+      "world": "https://github.com/Satisha10/APwotw_release/releases/download/v0.6.5/ori_wotw.apworld",
+      "size": 314496,
+      "hash_sha256": "d16441ffdc5dd6644be27695de6b3179a6a552f2bdfc156e36aedc568c725c19",
+      "metadata": {
+        "game": "",
+        "id": "ori_wotw",
+        "world_version": "0.6.5",
+        "tag_version": "0.6.5",
+        "created_at": "2026-08-30T09:16:48Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/Satisha10/APwotw_release/releases/download/v0.6.4/ori_wotw.apworld",
       "size": 313954,
       "hash_sha256": "f3285fbed5f73ca3053d1992431fc41de9cf4fd9fb100bb54a74bf9a25d898a2",
@@ -70184,6 +70226,18 @@
         "tag_version": "0.1.0",
         "created_at": "2025-09-23T02:27:37Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.7/pokepark.apworld",
+      "size": 83689,
+      "hash_sha256": "15a06cf6466c52024ae5a215a7eca0ce6f143a12abdca20d1ad6d37f9190db0a",
+      "metadata": {
+        "game": "",
+        "id": "pokepark",
+        "world_version": "1.2.7",
+        "tag_version": "1.2.7",
+        "created_at": "2026-08-30T09:00:58Z"
       }
     },
     {
