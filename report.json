@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
   "total_packages": 641,
-  "total_versions": 7598,
+  "total_versions": 7611,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -411,7 +411,7 @@
     "pokemon_emerald": true,
     "pokemon_frlg": true,
     "pokemon_pinball": true,
-    "pokemon_platinum": false,
+    "pokemon_platinum": true,
     "pokemon_rb": true,
     "PokemonStadium": false,
     "pokepark": true,
@@ -573,7 +573,7 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 323,
+    "": 321,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 11,
@@ -583,13 +583,13 @@
     "0.6.4": 54,
     "0.6.5": 19,
     "0.6.6": 10,
-    "0.6.7": 62,
+    "0.6.7": 64,
     "0.6.9": 1
   },
   "max_maximum_ap_version": {
-    "": 296,
+    "": 297,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 255
+    "0.6.99": 254
   }
 }
