@@ -31516,6 +31516,19 @@
       }
     },
     {
+      "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.2/grinch.apworld",
+      "size": 60100,
+      "hash_sha256": "383c9b440381e755195508a4f6336d70d8674ce5f78964dea49b0b64b974cdf6",
+      "metadata": {
+        "game": "",
+        "id": "grinch",
+        "world_version": "1.6.2",
+        "tag_version": "1.6.2",
+        "created_at": "2026-08-30T23:04:11Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/MarioSpore/Grinch-AP/releases/download/v1.6.1/grinch.apworld",
       "size": 58563,
       "hash_sha256": "e5b95b9e918fa7293c83d18d3c71f8b662c1c7a0a78719743341706a31dfd798",
@@ -42508,6 +42521,19 @@
           "after_dark",
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Bartz24/ArchipelagoLR/releases/download/0.5.1/lrff13.apworld",
+      "size": 67478,
+      "hash_sha256": "4a841d8fe49daa6cb7203ae6dbb9e226d43a6059b843f2b0148a9ce49a73e73f",
+      "metadata": {
+        "game": "",
+        "id": "lrff13",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-09-01T02:54:53Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
@@ -72762,6 +72788,18 @@
         "flags": [
           "after_dark"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.4.0/rabbit_and_steel.apworld",
+      "size": 25206,
+      "hash_sha256": "1e24dd9e65ebf8aeed403f416388573e45359a0ac99955055b2eedb6ae83dba6",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-09-01T03:28:57Z"
       }
     },
     {
