@@ -28623,6 +28623,21 @@
       }
     },
     {
+      "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.1.8/flipwitch.apworld",
+      "size": 71183,
+      "hash_sha256": "c7cf357f1c667d59f229d8efcdc82576263d93013f0b946899a176bd3f82b19d",
+      "metadata": {
+        "game": "",
+        "id": "flipwitch",
+        "world_version": "1.1.8",
+        "tag_version": "1.1.8",
+        "created_at": "2026-09-02T03:29:13Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Witchybun/FlipwitchAPClient/releases/download/1.1.7/flipwitch.apworld",
       "size": 71062,
       "hash_sha256": "500b51f959411a2ea2060bf310b5a0a688a90a4bb7c1d78bdd1137e39c1a65bd",
@@ -78744,6 +78759,22 @@
       }
     },
     {
+      "world": "https://github.com/MacH8s/Narcopelago/releases/download/v3.6.4/Schedule_I.apworld",
+      "size": 39095,
+      "hash_sha256": "7c66bf3af23bfc65fbfd8fecac6d93f1b7f9af8b67c16f704ce3033b30de5dcc",
+      "metadata": {
+        "game": "",
+        "id": "Schedule_I",
+        "world_version": "3.6.4",
+        "tag_version": "3.6.4",
+        "created_at": "2026-09-02T03:59:53Z",
+        "minimum_ap_version": "0.6.6",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/MacH8s/Narcopelago/releases/download/v3.6.3/Schedule_I.apworld",
       "size": 34133,
       "hash_sha256": "87d09412c3ec6b4cc7c3cee86dbbdfc71a4d2f86189c855daed81c40278ea2ba",
@@ -94411,6 +94442,42 @@
         "tag_version": "ooa",
         "created_at": null,
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.4/tloz_oos.apworld",
+      "size": 263837,
+      "hash_sha256": "c7c628a2d3489e77fc165c734d23f53c6785fc42c1d9a9bc3c87e4c06ddab312",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "23.0.4",
+        "tag_version": "23.0.4",
+        "created_at": "2026-09-02T15:02:22Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink",
+          "supports_movelink",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.1/tloz_oos.apworld",
+      "size": 263837,
+      "hash_sha256": "c7c628a2d3489e77fc165c734d23f53c6785fc42c1d9a9bc3c87e4c06ddab312",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "23.0.4",
+        "tag_version": "23.0.4",
+        "created_at": "2026-08-30T17:58:39Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink",
+          "supports_movelink",
+          "prerelease"
+        ]
       }
     },
     {
