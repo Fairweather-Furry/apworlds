@@ -549,6 +549,19 @@
       }
     },
     {
+      "world": "https://github.com/dmwever/Ageipelago/releases/download/0.2.2/age2de.apworld",
+      "size": 2165171,
+      "hash_sha256": "0587b91838bc284a9dc5db0826fee610edaf5de22057976c9a91d53df083164a",
+      "metadata": {
+        "game": "",
+        "id": "age2de",
+        "world_version": "0.0.1",
+        "tag_version": "0.0.1",
+        "created_at": "2026-09-02T18:15:47Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/qwint/ap-air-delivery/releases/download/0.1.6/air_delivery.apworld",
       "size": 4790,
       "hash_sha256": "4b636da4fe0fdeba1ec2c3c5597471c01e1fc462bc192a4d61c0dd9746163129",
@@ -18620,6 +18633,22 @@
         "tag_version": "0.1.0",
         "created_at": "2025-08-15T15:08:02Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.20/deep_rock_galactic.apworld",
+      "size": 45693,
+      "hash_sha256": "4a9d476d7b85350e65b1822f07faaf10b81bfe7d846c76aeb8258074da2501d7",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.19.1",
+        "tag_version": "0.19.1",
+        "created_at": "2026-09-02T20:48:34Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -94445,24 +94474,6 @@
       }
     },
     {
-      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.4/tloz_oos.apworld",
-      "size": 263837,
-      "hash_sha256": "c7c628a2d3489e77fc165c734d23f53c6785fc42c1d9a9bc3c87e4c06ddab312",
-      "metadata": {
-        "game": "",
-        "id": "tloz_oos",
-        "world_version": "23.0.4",
-        "tag_version": "23.0.4",
-        "created_at": "2026-09-02T15:02:22Z",
-        "minimum_ap_version": "0.6.7",
-        "flags": [
-          "supports_deathlink",
-          "supports_movelink",
-          "prerelease"
-        ]
-      }
-    },
-    {
       "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.1/tloz_oos.apworld",
       "size": 263837,
       "hash_sha256": "c7c628a2d3489e77fc165c734d23f53c6785fc42c1d9a9bc3c87e4c06ddab312",
@@ -94472,6 +94483,24 @@
         "world_version": "23.0.4",
         "tag_version": "23.0.4",
         "created_at": "2026-08-30T17:58:39Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "supports_deathlink",
+          "supports_movelink",
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Dinopony/ArchipelagoOoS/releases/download/oos-23.0.4/tloz_oos.apworld",
+      "size": 263837,
+      "hash_sha256": "c7c628a2d3489e77fc165c734d23f53c6785fc42c1d9a9bc3c87e4c06ddab312",
+      "metadata": {
+        "game": "",
+        "id": "tloz_oos",
+        "world_version": "23.0.4",
+        "tag_version": "23.0.4",
+        "created_at": "2026-09-02T15:02:22Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "supports_deathlink",

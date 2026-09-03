@@ -113,6 +113,19 @@
       "title": "Release 0.2.1 - The Building Update",
       "version_simple": "0.0.1",
       "world_version": "0.0.1"
+    },
+    "0.2.2": {
+      "created_at": "2026-09-02T18:15:47Z",
+      "download_url": "https://github.com/dmwever/Ageipelago/releases/download/0.2.2/age2de.apworld",
+      "has_manifest": true,
+      "hash_sha256": "0587b91838bc284a9dc5db0826fee610edaf5de22057976c9a91d53df083164a",
+      "minimum_ap_version": "0.6.5",
+      "size": 2165171,
+      "source_url": "https://api.github.com/repos/dmwever/Ageipelago",
+      "tag": "0.2.2",
+      "title": "Release 0.2.2 - The Stability Update",
+      "version_simple": "0.0.1",
+      "world_version": "0.0.1"
     }
   }
 }
