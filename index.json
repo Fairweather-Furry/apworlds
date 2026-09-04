@@ -33706,6 +33706,18 @@
       }
     },
     {
+      "world": "https://github.com/WritingHusky/haste_apworld/releases/download/v0.5.1/haste.apworld",
+      "size": 34940,
+      "hash_sha256": "93a753072917937ab24592fb4a50ed95122b6c18422f9cd08cc22739b1134d6a",
+      "metadata": {
+        "game": "",
+        "id": "haste",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-09-03T23:24:37Z"
+      }
+    },
+    {
       "world": "https://github.com/WritingHusky/haste_apworld/releases/download/v0.5.0/haste.apworld",
       "size": 34666,
       "hash_sha256": "1b6bc19da230cc1d504d371490b748aa8612775a6b05931551c778d79680332f",
@@ -74625,6 +74637,19 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.6.0/refunct.apworld",
+      "size": 20384,
+      "hash_sha256": "e17f04ef79665e52dc18a196b80687ccb0476a9e5e32f6b2f06e256d9c2fab72",
+      "metadata": {
+        "game": "",
+        "id": "refunct",
+        "world_version": "1.6.0",
+        "tag_version": "1.6.0",
+        "created_at": "2026-09-03T20:29:59Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.5.1/refunct.apworld",
       "size": 20247,
       "hash_sha256": "ee04e72f6ca1365c2f735ec27c20b2dccf25d45a75e0402e4e04d285b9d1b0e4",
@@ -75260,6 +75285,21 @@
         "tag_version": "0.0.1",
         "created_at": "2025-11-18T18:35:25Z",
         "minimum_ap_version": "0.6.1"
+      }
+    },
+    {
+      "world": "https://github.com/FuzzyGamesOn/RE2R_AP_World/releases/download/0.3.5/residentevil2remake.apworld",
+      "size": 99490,
+      "hash_sha256": "a1177a58a1bb2cc37fb5dc9d79baa10cdc6d81727d72b75f3f58b0f882adbc72",
+      "metadata": {
+        "game": "",
+        "id": "residentevil2remake",
+        "world_version": "0.3.5",
+        "tag_version": "0.3.5",
+        "created_at": "2026-09-03T22:22:54Z",
+        "flags": [
+          "after_dark"
+        ]
       }
     },
     {
@@ -89438,6 +89478,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.4/stardew_valley_8.1.4.apworld",
+      "size": 580902,
+      "hash_sha256": "daf1345dca19ec4aa9b422a302ebd1085cfb41f5d8aea94c403772b5313ccf8f",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.1.4",
+        "tag_version": "8.1.4",
+        "created_at": "2026-09-04T01:53:30Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.2/stardew_valley.apworld",
       "size": 580720,
       "hash_sha256": "27a9b8b1ddd07d1ad82500485c36549e020b4d6c2ba1da189dba2163f4d19c26",
@@ -100820,6 +100876,19 @@
       }
     },
     {
+      "world": "https://github.com/AllPoland/unbeatAP/releases/download/v0.8.0-alpha/unbeatable_arcade.apworld",
+      "size": 21952,
+      "hash_sha256": "4a08c94fadeb85ca835cf7f61bb7eef7d7297530519e25dace34232042b11d85",
+      "metadata": {
+        "game": "",
+        "id": "unbeatable_arcade",
+        "world_version": "0.8.0a0",
+        "tag_version": "0.8.0a0",
+        "created_at": "2026-09-02T18:54:47Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/AllPoland/unbeatAP/releases/download/v0.7.2-alpha/unbeatable_arcade.apworld",
       "size": 21879,
       "hash_sha256": "8e0326ad93c384ecb21e56a6e2b0caed36fe1e88d1e84bd6a53339e21e36103a",
@@ -104036,6 +104105,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.2.7/xenobladex.apworld",
+      "size": 7280903,
+      "hash_sha256": "9a0309a37e64c5cd91b07dbc74d1a9d2c96359e82ecccadb5f0afb5b37cd7f13",
+      "metadata": {
+        "game": "",
+        "id": "xenobladex",
+        "world_version": "0.2.7",
+        "tag_version": "0.2.7",
+        "created_at": "2026-09-03T17:44:42Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
