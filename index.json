@@ -38983,6 +38983,18 @@
       }
     },
     {
+      "world": "https://github.com/DeDeDeK/KARchipelago/releases/download/v1.2.0-TEST/kirby_air_ride.apworld",
+      "size": 128631,
+      "hash_sha256": "04a6d284b3db638127ddb44fb9bcaa0bab2107e06fa0be14ca914034f6199831",
+      "metadata": {
+        "game": "",
+        "id": "kirby_air_ride",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-09-04T21:44:08Z"
+      }
+    },
+    {
       "world": "https://github.com/DeDeDeK/KARchipelago/releases/download/v1.1.1-TEST/kirby_air_ride.apworld",
       "size": 120903,
       "hash_sha256": "4e9ee3f879e6ea10301d6a881c9faeaf92a9d5f461e47c846f14f4c34242d04e",
@@ -91966,6 +91978,19 @@
         "tag_version": "0.0.7",
         "created_at": "2023-10-22T16:31:44Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/FyreDay/Archipelago-TCGCardShopSimulator/releases/download/v1.2.0/tcg_card_shop_simulator.apworld",
+      "size": 30370,
+      "hash_sha256": "a13477c4fe607fb215473ffe0c1c5de40f04501eb071570ac8c787827fedc088",
+      "metadata": {
+        "game": "",
+        "id": "tcg_card_shop_simulator",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-09-04T20:17:42Z",
+        "minimum_ap_version": "0.6.5"
       }
     },
     {
