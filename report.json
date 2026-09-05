@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
   "total_packages": 641,
-  "total_versions": 7640,
+  "total_versions": 7643,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -342,7 +342,7 @@
     "minecraft-dig": true,
     "minecraft_dig": true,
     "minecraft_fabric": true,
-    "minishoot": false,
+    "minishoot": true,
     "minit": true,
     "mk64": false,
     "mm-recomp": false,
@@ -573,23 +573,23 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 320,
+    "": 319,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 11,
     "0.6.1": 10,
     "0.6.2": 9,
     "0.6.3": 52,
-    "0.6.4": 54,
+    "0.6.4": 55,
     "0.6.5": 19,
     "0.6.6": 10,
     "0.6.7": 64,
     "0.6.9": 1
   },
   "max_maximum_ap_version": {
-    "": 298,
+    "": 299,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 253
+    "0.6.99": 252
   }
 }
