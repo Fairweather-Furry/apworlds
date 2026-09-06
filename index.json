@@ -2106,6 +2106,19 @@
     },
     {
       "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.1.0/ape_escape_3.apworld",
+      "size": 149845,
+      "hash_sha256": "77d57cc3e913cc9d639e33ef022307fa08f1172513d7a20dc4cfe76734254afc",
+      "metadata": {
+        "game": "",
+        "id": "ape_escape_3",
+        "world_version": "2.1.0.post2",
+        "tag_version": "2.1.0.post2",
+        "created_at": "2026-09-04T14:39:06Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.1.0/ape_escape_3.apworld",
       "size": 149833,
       "hash_sha256": "895e4d956ed47f030427df82a8344dd2baf676f7d8837b63c67710e3288c0a5e",
       "metadata": {
@@ -3970,6 +3983,22 @@
         "tag_version": "0.1.0",
         "created_at": "2025-07-24T16:16:04Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/drtchops/Archipelago-Astalon/releases/download/v1.0.0-rc6/astalon.apworld",
+      "size": 429685,
+      "hash_sha256": "a2ab37cc1fd3092991b9d5b4fc1a00eac50fdcaf7b3204e43ef9d1034eea4935",
+      "metadata": {
+        "game": "",
+        "id": "astalon",
+        "world_version": "0.99.6",
+        "tag_version": "0.99.6",
+        "created_at": "2026-09-05T22:57:31Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -17044,6 +17073,22 @@
         "tag_version": "0.3a0",
         "created_at": "2025-04-01T22:38:37Z",
         "maximum_ap_version": "0.6.99",
+        "flags": [
+          "supports_deathlink"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/JKLeckr/Archipelago-cuphead/releases/download/alpha03k/cuphead.apworld",
+      "size": 114925,
+      "hash_sha256": "60dd618dd71954d56ff58a35d10857e2c33d8dc26a13667bb4280fee98334418",
+      "metadata": {
+        "game": "",
+        "id": "cuphead",
+        "world_version": "0.2.20021010",
+        "tag_version": "0.2.20021010",
+        "created_at": "2026-09-05T21:29:51Z",
+        "minimum_ap_version": "0.6.7",
         "flags": [
           "supports_deathlink"
         ]
@@ -54917,6 +54962,19 @@
       }
     },
     {
+      "world": "https://github.com/TheNooodle/MinishootRandomizer/releases/download/v0.6.1/minishoot.apworld",
+      "size": 36565,
+      "hash_sha256": "d82f11af2f3952824b25582431b02fce1eca87e5b718cbc0f479ea374182f25f",
+      "metadata": {
+        "game": "",
+        "id": "minishoot",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-09-06T00:02:21Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/TheNooodle/MinishootRandomizer/releases/download/v0.5.2/minishoot.apworld",
       "size": 32677,
       "hash_sha256": "653ec9f9d660553a6c2a8e96353ffee9aef213598c800899ed3de9202a68ba1d",
@@ -63659,6 +63717,22 @@
         "tag_version": "1.0",
         "created_at": "2023-07-06T20:05:38Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Mickemoose/peak-archipelago/releases/download/0.6.2/peak.apworld",
+      "size": 97764,
+      "hash_sha256": "3531269d22be840f4056cd8f03b39644dbf3965b024be4b05dfc43686c47e1c7",
+      "metadata": {
+        "game": "",
+        "id": "peak",
+        "world_version": "0.6.2",
+        "tag_version": "0.6.2",
+        "created_at": "2026-09-05T18:01:44Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -89577,6 +89651,22 @@
         "tag_version": "0.1.0",
         "created_at": "2025-02-22T00:27:00Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.15/stardew_valley.apworld",
+      "size": 580920,
+      "hash_sha256": "684d4544971914316967fc34678daf4492cccc7e7d10d10d91a2f5e4ed305c74",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.1.5",
+        "tag_version": "8.1.5",
+        "created_at": "2026-09-06T01:41:14Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
