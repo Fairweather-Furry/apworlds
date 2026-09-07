@@ -298,6 +298,19 @@
       "title": "1.1.0",
       "version_simple": "1.1.0",
       "world_version": "1.1.0"
+    },
+    "1.2.0": {
+      "created_at": "2026-09-07T00:58:53Z",
+      "download_url": "https://github.com/energymaster22/YARGArchipelago/releases/download/1.2.0/yarg.apworld",
+      "has_manifest": true,
+      "hash_sha256": "80ff57acaf34da207c60be68073e4b7e0b57a995868acea0533f7164466049b0",
+      "minimum_ap_version": "0.6.7",
+      "size": 33881,
+      "source_url": "https://api.github.com/repos/energymaster22/YARGArchipelago",
+      "tag": "1.2.0",
+      "title": "1.2.0",
+      "version_simple": "1.2.0",
+      "world_version": "1.2.0"
     }
   }
 }

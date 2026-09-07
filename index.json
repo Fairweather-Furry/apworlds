@@ -15915,6 +15915,22 @@
       }
     },
     {
+      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.18.0/crystal_project.apworld",
+      "size": 214147,
+      "hash_sha256": "3bf11e98093174eb2439df10e13caac0836a0bbb3f9ba53a91b42800081f97d6",
+      "metadata": {
+        "game": "",
+        "id": "crystal_project",
+        "world_version": "0.18.0",
+        "tag_version": "0.18.0",
+        "created_at": "2026-09-06T15:52:28Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.17.0/crystal_project.apworld",
       "size": 213916,
       "hash_sha256": "6d1ef721c1b08488d3f5a790984fbf5e6a956a1a7b2c3e66d280d1b1d744e136",
@@ -17395,6 +17411,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-11-17T04:57:55Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/PinkSwitch/Archipelago/releases/download/cvdos3.0/cv_dos.apworld",
+      "size": 94573,
+      "hash_sha256": "8acc1e2947cc26049539416df0e3529a0bfd9a3f85a36b8e4e34eb3e840e74c9",
+      "metadata": {
+        "game": "",
+        "id": "cv_dos",
+        "world_version": "3.0.0",
+        "tag_version": "3.0.0",
+        "created_at": "2026-07-11T17:26:27Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -46886,6 +46915,19 @@
       }
     },
     {
+      "world": "https://github.com/benny-dreamly/Manuals/releases/download/GA-6.1.0/manual_glassanimals_bennydreamly.apworld",
+      "size": 63362,
+      "hash_sha256": "c5a64de35f3396683224476babc12895d2ec636178b5f749f056b8b642c030bf",
+      "metadata": {
+        "game": "",
+        "id": "manual_glassanimals_bennydreamly",
+        "world_version": "6.1.0",
+        "tag_version": "6.1.0",
+        "created_at": "2026-09-06T21:21:49Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/benny-dreamly/Manuals/releases/download/GA-6.0.0/manual_glassanimals_bennydreamly.apworld",
       "size": 63820,
       "hash_sha256": "87d518fb1f1a0cd9dc3cb875d5664d0d04460507dd15c681812c8faaa4c80260",
@@ -50304,6 +50346,19 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-11-14T05:44:25Z"
+      }
+    },
+    {
+      "world": "https://github.com/benny-dreamly/Manuals/releases/download/TS-6.3.0/manual_taylorswiftdiscography_bennydreamly.apworld",
+      "size": 68171,
+      "hash_sha256": "8fa47830b521f8d1282590f7c888b96df0b621df4ac63b2c68ce04f913804359",
+      "metadata": {
+        "game": "",
+        "id": "manual_taylorswiftdiscography_bennydreamly",
+        "world_version": "6.3.0",
+        "tag_version": "6.3.0",
+        "created_at": "2026-09-06T21:26:35Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -104747,6 +104802,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/energymaster22/YARGArchipelago/releases/download/1.2.0/yarg.apworld",
+      "size": 33881,
+      "hash_sha256": "80ff57acaf34da207c60be68073e4b7e0b57a995868acea0533f7164466049b0",
+      "metadata": {
+        "game": "",
+        "id": "yarg",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-09-07T00:58:53Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
