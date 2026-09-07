@@ -2106,6 +2106,19 @@
     },
     {
       "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.1.0/ape_escape_3.apworld",
+      "size": 149841,
+      "hash_sha256": "919c89df1d056d89ad77f3b61d35ad886aba0cbe9a1fbe9c5a496446bd93e108",
+      "metadata": {
+        "game": "",
+        "id": "ape_escape_3",
+        "world_version": "2.1.0.post3",
+        "tag_version": "2.1.0.post3",
+        "created_at": "2026-09-04T14:39:06Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/aidanii24/ae3-archipelago/releases/download/v2.1.0/ape_escape_3.apworld",
       "size": 149845,
       "hash_sha256": "77d57cc3e913cc9d639e33ef022307fa08f1172513d7a20dc4cfe76734254afc",
       "metadata": {
@@ -38221,6 +38234,19 @@
       }
     },
     {
+      "world": "https://github.com/gaithernOrg/ArchipelagoKHBBS/releases/download/0.2.0/khbbs.apworld",
+      "size": 116965,
+      "hash_sha256": "86b4f870e02de064e5ca7eee49ee898efd929269b111e4350a061284c925217e",
+      "metadata": {
+        "game": "",
+        "id": "khbbs",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2026-09-07T15:32:15Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/gaithernOrg/ArchipelagoKHBBS/releases/download/0.1.7/khbbs.apworld",
       "size": 116965,
       "hash_sha256": "2613f029485eb514e52ce199673bbc83ce961eb65715900f75547e0ce14ecb34",
@@ -57243,6 +57269,22 @@
       }
     },
     {
+      "world": "https://github.com/Stuff691734/ModdedMCArchipelago/releases/download/v3.0.8/moddedminecraft.apworld",
+      "size": 8724,
+      "hash_sha256": "ab78e3f8e7d12cf1eb49eb8cfba398ff6d23f809b7f8ad6232e23d9c75eee663",
+      "metadata": {
+        "game": "",
+        "id": "moddedminecraft",
+        "world_version": "3.0.8",
+        "tag_version": "3.0.8",
+        "created_at": "2026-09-07T04:33:07Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Stuff691734/ModdedMCArchipelago/releases/download/v3.0.7/moddedminecraft.apworld",
       "size": 7959,
       "hash_sha256": "097cfb2f609e8359a44f7d003203b51dd67e8851714670fee68d9e423d9fe065",
@@ -59499,6 +59541,18 @@
         "world_version": "1",
         "tag_version": "1",
         "created_at": "2026-08-15T18:08:31Z"
+      }
+    },
+    {
+      "world": "https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_4_0/no100f.apworld",
+      "size": 158571,
+      "hash_sha256": "90881e3666d260aebb6c878230a637da7f9974706abecfd23ea2243ca51b1d0a",
+      "metadata": {
+        "game": "",
+        "id": "no100f",
+        "world_version": "1",
+        "tag_version": "1",
+        "created_at": "2026-09-07T07:03:47Z"
       }
     },
     {
@@ -72752,6 +72806,22 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-12-28T15:02:34Z"
+      }
+    },
+    {
+      "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.2.0/quake.apworld",
+      "size": 553734,
+      "hash_sha256": "334713ec947bdec70249677cd06f15da551279b8484b5c5db07020ee95aa0b1a",
+      "metadata": {
+        "game": "",
+        "id": "quake",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-09-07T07:42:58Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
       }
     },
     {
@@ -91564,6 +91634,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/barretg/Taskipelago/releases/download/v1.0.2/taskipelago.apworld",
+      "size": 89987,
+      "hash_sha256": "cecf8ab537ba2092a417c91efe386b5d91ed71b2efc0a120d2ff82ffc262453c",
+      "metadata": {
+        "game": "",
+        "id": "taskipelago",
+        "world_version": "1.0.2",
+        "tag_version": "1.0.2",
+        "created_at": "2026-09-07T15:58:36Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
