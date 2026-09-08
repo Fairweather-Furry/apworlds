@@ -14310,6 +14310,19 @@
       }
     },
     {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.1/cotnd.apworld",
+      "size": 22111612,
+      "hash_sha256": "8455340c51941960055cffede6ba22023cb055c4a2df9cec715fdf59c52e7ef5",
+      "metadata": {
+        "game": "",
+        "id": "cotnd",
+        "world_version": "0.8.1.post2",
+        "tag_version": "0.8.1.post2",
+        "created_at": "2026-08-30T22:18:50Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.0/cotnd.apworld",
       "size": 21966544,
       "hash_sha256": "afc9efc8e5603d1fee5c73823be182d326cbd88256a08bc71cb56d4bd0c6f385",
@@ -72851,6 +72864,38 @@
       }
     },
     {
+      "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.2.1/quake.apworld",
+      "size": 546364,
+      "hash_sha256": "2614c755cb9429e88b8195551427d85c43e1bcdbedf846d9c62fec6010f84f42",
+      "metadata": {
+        "game": "",
+        "id": "quake",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-09-08T12:04:08Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.2.0/quake.apworld",
+      "size": 546364,
+      "hash_sha256": "2614c755cb9429e88b8195551427d85c43e1bcdbedf846d9c62fec6010f84f42",
+      "metadata": {
+        "game": "",
+        "id": "quake",
+        "world_version": "1.2.0.post2",
+        "tag_version": "1.2.0.post2",
+        "created_at": "2026-09-07T07:42:58Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/randomcodegen/ironwail_ap/releases/download/1.2.0/quake.apworld",
       "size": 553734,
       "hash_sha256": "334713ec947bdec70249677cd06f15da551279b8484b5c5db07020ee95aa0b1a",
@@ -89833,7 +89878,7 @@
       }
     },
     {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.15/stardew_valley.apworld",
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.5/stardew_valley.apworld",
       "size": 580920,
       "hash_sha256": "684d4544971914316967fc34678daf4492cccc7e7d10d10d91a2f5e4ed305c74",
       "metadata": {
@@ -89849,7 +89894,7 @@
       }
     },
     {
-      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.5/stardew_valley.apworld",
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.15/stardew_valley.apworld",
       "size": 580920,
       "hash_sha256": "684d4544971914316967fc34678daf4492cccc7e7d10d10d91a2f5e4ed305c74",
       "metadata": {
