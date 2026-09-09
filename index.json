@@ -14310,6 +14310,19 @@
       }
     },
     {
+      "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.2/cotnd.apworld",
+      "size": 3997319,
+      "hash_sha256": "90cde93ac946a4cd8076c3dd1528677dab9de33098590c909bc710dca34e60d7",
+      "metadata": {
+        "game": "",
+        "id": "cotnd",
+        "world_version": "0.8.2",
+        "tag_version": "0.8.2",
+        "created_at": "2026-09-09T01:16:49Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.1/cotnd.apworld",
       "size": 22111612,
       "hash_sha256": "8455340c51941960055cffede6ba22023cb055c4a2df9cec715fdf59c52e7ef5",
@@ -15958,6 +15971,22 @@
     },
     {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.18.0/crystal_project.apworld",
+      "size": 214147,
+      "hash_sha256": "3bf11e98093174eb2439df10e13caac0836a0bbb3f9ba53a91b42800081f97d6",
+      "metadata": {
+        "game": "",
+        "id": "crystal_project",
+        "world_version": "0.18.0",
+        "tag_version": "0.18.0",
+        "created_at": "2026-09-06T15:52:28Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.18.1/crystal_project.apworld",
       "size": 214147,
       "hash_sha256": "3bf11e98093174eb2439df10e13caac0836a0bbb3f9ba53a91b42800081f97d6",
       "metadata": {
@@ -37098,6 +37127,19 @@
       }
     },
     {
+      "world": "https://github.com/Silvris/Archipelago/releases/download/k64_0.4.0/k64.apworld",
+      "size": 51596,
+      "hash_sha256": "70ed999936204d9dfb43da718a35e3a98c4f90e5081eadec7d163841ce4a2e62",
+      "metadata": {
+        "game": "",
+        "id": "k64",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-09-09T01:23:32Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Silvris/Archipelago/releases/download/k64_0.3.2/k64.apworld",
       "size": 50663,
       "hash_sha256": "8883369770056a232db0a6a9ba6802841fe7c463d3aff2a192c2751d14157e35",
@@ -56344,6 +56386,18 @@
       }
     },
     {
+      "world": "https://github.com/RischDev/Archipelago/releases/download/v0.2.1/mmbn6.apworld",
+      "size": 470888,
+      "hash_sha256": "73e8ee67ab80f6b2c7c6610e4fd3cb8f662a2c43814dcc9e6a7e1417828111a4",
+      "metadata": {
+        "game": "",
+        "id": "mmbn6",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-09-07T20:47:15Z"
+      }
+    },
+    {
       "world": "https://github.com/RischDev/Archipelago/releases/download/v0.2.0/mmbn6.apworld",
       "size": 470870,
       "hash_sha256": "90c100ec84889185ff7bc3c3c76f493f3622601ed92983f7291847f04ca9a5ac",
@@ -63881,6 +63935,19 @@
         "tag_version": "1.0",
         "created_at": "2023-07-06T20:05:38Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Mickemoose/peak-archipelago/releases/download/0.6.2/peak.apworld",
+      "size": 98418,
+      "hash_sha256": "9e80132f85b7e39f672a6720a8784b58d7937089ce1d23bbb0829fa9c012451a",
+      "metadata": {
+        "game": "",
+        "id": "peak",
+        "world_version": "0.6.2.post2",
+        "tag_version": "0.6.2.post2",
+        "created_at": "2026-09-05T18:01:44Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
