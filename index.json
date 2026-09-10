@@ -562,6 +562,19 @@
       }
     },
     {
+      "world": "https://github.com/dmwever/Ageipelago/releases/download/v0.2.3/age2de.apworld",
+      "size": 2199149,
+      "hash_sha256": "bb5126918cde73d78985c832b1a8db9a43ad984161aff3d75ee1111dd3191a98",
+      "metadata": {
+        "game": "",
+        "id": "age2de",
+        "world_version": "0.0.1",
+        "tag_version": "0.0.1",
+        "created_at": "2026-09-10T02:36:50Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/qwint/ap-air-delivery/releases/download/0.1.6/air_delivery.apworld",
       "size": 4790,
       "hash_sha256": "4b636da4fe0fdeba1ec2c3c5597471c01e1fc462bc192a4d61c0dd9746163129",
@@ -64562,6 +64575,19 @@
       }
     },
     {
+      "world": "https://github.com/chpas/Pikmin2Archipelago/releases/download/v0.9.1/pikmin2.apworld",
+      "size": 5967624,
+      "hash_sha256": "bc09ac0a3a3eff36d99d8d6dc492fbcf40218f82361f56773112b5f173a89d9f",
+      "metadata": {
+        "game": "",
+        "id": "pikmin2",
+        "world_version": "0.9.1",
+        "tag_version": "0.9.1",
+        "created_at": "2026-09-08T20:12:36Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/chpas/Pikmin2Archipelago/releases/download/v0.8.1/pikmin2.apworld",
       "size": 1396573,
       "hash_sha256": "9c3a2351f7f4a0a4f66672d5f40ddf1ea113068c507d8060dceb6ffc1befa7bb",
@@ -89993,6 +90019,22 @@
       }
     },
     {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.6/stardew_valley.apworld",
+      "size": 580920,
+      "hash_sha256": "684d4544971914316967fc34678daf4492cccc7e7d10d10d91a2f5e4ed305c74",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.1.5",
+        "tag_version": "8.1.5",
+        "created_at": "2026-09-09T16:56:53Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.4/stardew_valley_8.1.4.apworld",
       "size": 580902,
       "hash_sha256": "daf1345dca19ec4aa9b422a302ebd1085cfb41f5d8aea94c403772b5313ccf8f",
@@ -104646,6 +104688,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/MaragonMH/Archipelago/releases/download/XenoX0.2.8/xenobladex.apworld",
+      "size": 7284311,
+      "hash_sha256": "0bd0d2851b4f0f1aacaa779c043c9d60b621de2b299aef3c210542a3c127777b",
+      "metadata": {
+        "game": "",
+        "id": "xenobladex",
+        "world_version": "0.2.8",
+        "tag_version": "0.2.8",
+        "created_at": "2026-09-09T16:13:55Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {

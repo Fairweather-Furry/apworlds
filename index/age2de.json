@@ -126,6 +126,19 @@
       "title": "Release 0.2.2 - The Stability Update",
       "version_simple": "0.0.1",
       "world_version": "0.0.1"
+    },
+    "v0.2.3": {
+      "created_at": "2026-09-10T02:36:50Z",
+      "download_url": "https://github.com/dmwever/Ageipelago/releases/download/v0.2.3/age2de.apworld",
+      "has_manifest": true,
+      "hash_sha256": "bb5126918cde73d78985c832b1a8db9a43ad984161aff3d75ee1111dd3191a98",
+      "minimum_ap_version": "0.6.5",
+      "size": 2199149,
+      "source_url": "https://api.github.com/repos/dmwever/Ageipelago",
+      "tag": "v0.2.3",
+      "title": "Release 0.2.3 - The Stabilitier Update",
+      "version_simple": "0.0.1",
+      "world_version": "0.0.1"
     }
   }
 }
