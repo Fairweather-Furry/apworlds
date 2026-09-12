@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
   "total_packages": 643,
-  "total_versions": 7686,
+  "total_versions": 7694,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -421,7 +421,7 @@
     "pseudoregalia": true,
     "psychonauts": true,
     "pvzr": true,
-    "quake": false,
+    "quake": true,
     "rabbit_and_steel": true,
     "rabi_ribi": true,
     "rac1": true,
@@ -587,9 +587,9 @@
     "0.6.9": 1
   },
   "max_maximum_ap_version": {
-    "": 298,
+    "": 299,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 253
+    "0.6.99": 252
   }
 }
