@@ -347,6 +347,19 @@
       "title": "v0.5.0-alpha: Inventor Pre-Release",
       "version_simple": "0.5.0",
       "world_version": "0.5.0a0"
+    },
+    "v0.5.0-beta": {
+      "created_at": "2026-09-13T12:35:29Z",
+      "download_url": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.5.0-beta/diceydungeons.apworld",
+      "has_manifest": true,
+      "hash_sha256": "2797210a42852343ebad6c9da989e1de5e73c4d7f0cc01958cffb76e4da01cfc",
+      "minimum_ap_version": "0.6.7",
+      "size": 965341,
+      "source_url": "https://api.github.com/repos/Fylcoast/AP_diceydungeons",
+      "tag": "v0.5.0-beta",
+      "title": "v0.5.0-beta",
+      "version_simple": "0.5.0",
+      "world_version": "0.5.0b0"
     }
   }
 }

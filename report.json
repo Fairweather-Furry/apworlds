@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
-  "total_packages": 644,
-  "total_versions": 7695,
+  "total_packages": 647,
+  "total_versions": 7698,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -565,7 +565,7 @@
     "xenobladex": true,
     "yachtdice": true,
     "yarg": true,
-    "YARGGuitarHero1": false,
+    "YARGGuitarHero1": true,
     "yoku": false,
     "yooka_laylee": false,
     "yugiohddm": true,
@@ -573,7 +573,7 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 319,
+    "": 318,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 11,
@@ -583,7 +583,7 @@
     "0.6.4": 54,
     "0.6.5": 19,
     "0.6.6": 10,
-    "0.6.7": 67,
+    "0.6.7": 68,
     "0.6.9": 1
   },
   "max_maximum_ap_version": {

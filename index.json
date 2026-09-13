@@ -19482,6 +19482,22 @@
       }
     },
     {
+      "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.5.0-beta/diceydungeons.apworld",
+      "size": 965341,
+      "hash_sha256": "2797210a42852343ebad6c9da989e1de5e73c4d7f0cc01958cffb76e4da01cfc",
+      "metadata": {
+        "game": "",
+        "id": "diceydungeons",
+        "world_version": "0.5.0b0",
+        "tag_version": "0.5.0b0",
+        "created_at": "2026-09-13T12:35:29Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Fylcoast/AP_diceydungeons/releases/download/v0.5.0-alpha/diceydungeons.apworld",
       "size": 963906,
       "hash_sha256": "ebe82367454a2473ecda84c0e8fd8007ce7bfa88a5bc1ebcddf20154d4de6063",
@@ -63816,6 +63832,19 @@
       }
     },
     {
+      "world": "https://github.com/CrusherRL/AP_Parkitect/releases/download/1.6.3/parkitect.apworld",
+      "size": 303742,
+      "hash_sha256": "c9d6f4f49a146fbef2d678e84f93261aaf20cba3b033f8fd9412922b4a25b5f8",
+      "metadata": {
+        "game": "",
+        "id": "parkitect",
+        "world_version": "1.6.3",
+        "tag_version": "1.6.3",
+        "created_at": "2026-09-13T09:36:52Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/CrusherRL/AP_Parkitect/releases/download/1.6.2/parkitect.apworld",
       "size": 303742,
       "hash_sha256": "c9d6f4f49a146fbef2d678e84f93261aaf20cba3b033f8fd9412922b4a25b5f8",
@@ -105825,6 +105854,19 @@
         "tag_version": "26.2.7",
         "created_at": "2026-02-08T00:32:24Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/GirlWithoutAFairy/YARGArchipelago-GH-and-RB-forks/releases/download/26.09.13/YARGGuitarHero1.apworld",
+      "size": 23049,
+      "hash_sha256": "89224f5e6c9a4db4a441ce8b5344226e4965faa3e4721d4d56d9242da2bd01c6",
+      "metadata": {
+        "game": "",
+        "id": "YARGGuitarHero1",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-09-13T15:08:53Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
