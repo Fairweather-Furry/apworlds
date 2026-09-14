@@ -1,7 +1,7 @@
 {
   "total_repositories": 517,
   "total_packages": 647,
-  "total_versions": 7701,
+  "total_versions": 7703,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -461,7 +461,7 @@
     "shining_itd": true,
     "shippedinspace": true,
     "shivers": false,
-    "signalis": false,
+    "signalis": true,
     "silverdaze": false,
     "simpsonshitnrun": true,
     "sims4": true,
@@ -587,9 +587,9 @@
     "0.6.9": 1
   },
   "max_maximum_ap_version": {
-    "": 299,
+    "": 300,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 252
+    "0.6.99": 251
   }
 }

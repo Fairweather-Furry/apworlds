@@ -81667,6 +81667,18 @@
       }
     },
     {
+      "world": "https://github.com/devoidlazarus/SIGNALISArchipelagoRandomizer/releases/download/v0.2.0/signalis.apworld",
+      "size": 8441,
+      "hash_sha256": "b628b49c0d229c00aa36bd84ec375eda37d0a1f78fc86676f84fb8875c23303e",
+      "metadata": {
+        "game": "",
+        "id": "signalis",
+        "world_version": "0.2.0",
+        "tag_version": "0.2.0",
+        "created_at": "2026-09-14T04:11:47Z"
+      }
+    },
+    {
       "world": "https://github.com/devoidlazarus/SIGNALISArchipelagoRandomizer/releases/download/v0.1.2/signalis.apworld",
       "size": 8838,
       "hash_sha256": "2a3b9ed2c1c8de69d908a84b0a12276eb9e741336e4307d42ee913e391c1f310",
@@ -96566,6 +96578,19 @@
           "supports_movelink",
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/carrotinator/Archipelago/releases/download/ph-v0.10.0-alpha/tloz_ph.apworld",
+      "size": 2630545,
+      "hash_sha256": "42ebb148fdb413d27e3d3fdeb9941cb84aa03bfe5509acbca7c28eb7fe25346d",
+      "metadata": {
+        "game": "",
+        "id": "tloz_ph",
+        "world_version": "0.9.7",
+        "tag_version": "0.9.7",
+        "created_at": "2026-09-14T10:55:20Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
