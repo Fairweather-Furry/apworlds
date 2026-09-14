@@ -23087,6 +23087,19 @@
       }
     },
     {
+      "world": "https://github.com/alextric234/ArchipelagoDredge/releases/download/dredge_0.5.2/dredge.apworld",
+      "size": 24357,
+      "hash_sha256": "815d312ffac736f5f53b851024eb1318541dbcc1e4a7c03f790db2f61024d71a",
+      "metadata": {
+        "game": "",
+        "id": "dredge",
+        "world_version": "0.5.0",
+        "tag_version": "0.5.0",
+        "created_at": "2026-09-13T18:19:13Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/alextric234/ArchipelagoDredge/releases/download/dredge_0.4.0/dredge.apworld",
       "size": 16816,
       "hash_sha256": "6955e86eca781168a04100dbe4e9ffd8665afd3c0897fc2ab6a6afd67a655372",
@@ -72814,6 +72827,18 @@
       }
     },
     {
+      "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.10.0/pvzr.apworld",
+      "size": 46346,
+      "hash_sha256": "2fdbbf4b35c2c4a75d45c2004460a3ae4a792c0d93a80553726b8c45547038b5",
+      "metadata": {
+        "game": "",
+        "id": "pvzr",
+        "world_version": "1.10.0",
+        "tag_version": "1.10.0",
+        "created_at": "2026-09-13T17:00:13Z"
+      }
+    },
+    {
       "world": "https://github.com/dannybonz/replanted_archipelago/releases/download/v1.9.1/pvzr.apworld",
       "size": 42509,
       "hash_sha256": "f2bcc5b6c27a99668b9d50b0d50300bde7d4a2945e0d66e3b7839c3ac935bbe6",
@@ -73611,6 +73636,18 @@
         "flags": [
           "after_dark"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.4.2/rabbit_and_steel.apworld",
+      "size": 25275,
+      "hash_sha256": "cee29081183806b51d0f3c3e276dd4743b22f2689ca3b2fe2a660d1678312a44",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-09-14T02:04:26Z"
       }
     },
     {

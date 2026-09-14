@@ -412,6 +412,18 @@
       "title": "v0.4.1",
       "version_simple": "0.4.1",
       "world_version": "0.4.1"
+    },
+    "v0.4.2": {
+      "created_at": "2026-09-14T02:04:26Z",
+      "download_url": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.4.2/rabbit_and_steel.apworld",
+      "has_manifest": true,
+      "hash_sha256": "cee29081183806b51d0f3c3e276dd4743b22f2689ca3b2fe2a660d1678312a44",
+      "size": 25275,
+      "source_url": "https://api.github.com/repos/tjwombo/RNSArchipelago",
+      "tag": "v0.4.2",
+      "title": "v0.4.2",
+      "version_simple": "0.4.2",
+      "world_version": "0.4.2"
     }
   }
 }
