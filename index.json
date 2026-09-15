@@ -31690,6 +31690,18 @@
       }
     },
     {
+      "world": "https://github.com/BuffYoda21/ap-glyphs/releases/download/v1.3.0/glyphs.apworld",
+      "size": 27941,
+      "hash_sha256": "dbb94c560dd33ab3fe773a5e8ed7352495603cb2b94d3724899ab39edea22fab",
+      "metadata": {
+        "game": "",
+        "id": "glyphs",
+        "world_version": "1.3.0",
+        "tag_version": "1.3.0",
+        "created_at": "2026-09-15T15:54:47Z"
+      }
+    },
+    {
       "world": "https://github.com/BuffYoda21/ap-glyphs/releases/download/v1.2.2/glyphs.apworld",
       "size": 21791,
       "hash_sha256": "61a6174b5c8fd2cca0de124f86388e30f1a8e6c90bd83559fa8e485b45654ca0",
@@ -46753,6 +46765,19 @@
       }
     },
     {
+      "world": "https://github.com/JBtheShadow/APManuals/releases/download/v1.1.0/manual_fantasylife_jbtheshadow.apworld",
+      "size": 133789,
+      "hash_sha256": "c9a62ea7bb94694af91fe7c983038a0a34e4f7381f8cf75b8fb346f1cd5a545d",
+      "metadata": {
+        "game": "",
+        "id": "manual_fantasylife_jbtheshadow",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-09-15T13:50:46Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/JBtheShadow/APManuals/releases/download/v1.0.1/manual_fantasylife_jbtheshadow.apworld",
       "size": 130504,
       "hash_sha256": "250d170e9a30fe395def3d26f5913d192fb52b8cfbb0233ad5f86f8645d33744",
@@ -47910,6 +47935,19 @@
         "world_version": "1.0",
         "tag_version": "1.0",
         "created_at": "2025-11-05T19:25:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Greengamefire/Mario-Kart-World-Manual-AP/releases/download/v0.5.1/manual_mariokartworld_greengamefire.apworld",
+      "size": 82014,
+      "hash_sha256": "00f3ece5c47d2767b2d94cd0e8c317488cc5028ca29a365452e686f97bb95170",
+      "metadata": {
+        "game": "",
+        "id": "manual_mariokartworld_greengamefire",
+        "world_version": "0.5.1",
+        "tag_version": "0.5.1",
+        "created_at": "2026-09-15T04:51:41Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -53599,6 +53637,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.5.2B/megamix.apworld",
+      "size": 41298,
+      "hash_sha256": "5560ef696773bb48c48931a0c5847d00805ebab5678b319e8dcd380b51182cf8",
+      "metadata": {
+        "game": "",
+        "id": "megamix",
+        "world_version": "1.5.2b0",
+        "tag_version": "1.5.2b0",
+        "created_at": "2026-09-15T14:30:25Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
