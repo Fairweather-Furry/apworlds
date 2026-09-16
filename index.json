@@ -18972,6 +18972,19 @@
     },
     {
       "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.20/deep_rock_galactic.apworld",
+      "size": 45713,
+      "hash_sha256": "62f543c37fc3bb4b5cce36e33b264240c7ab29d980ea11d9da681a227317c516",
+      "metadata": {
+        "game": "",
+        "id": "deep_rock_galactic",
+        "world_version": "0.20.1",
+        "tag_version": "0.20.1",
+        "created_at": "2026-09-02T20:48:34Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Cousinit117/Deep-Rock-Galactic-AP/releases/download/0.20/deep_rock_galactic.apworld",
       "size": 45693,
       "hash_sha256": "4a9d476d7b85350e65b1822f07faaf10b81bfe7d846c76aeb8258074da2501d7",
       "metadata": {
@@ -75461,6 +75474,19 @@
         "world_version": "1.7.0",
         "tag_version": "1.7.0",
         "created_at": "2026-09-10T18:48:31Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.7.0/refunct.apworld",
+      "size": 20345,
+      "hash_sha256": "720b39e0229acd17f2b350dffe73be0078c8fa6172cff734b96b2e03e25373d1",
+      "metadata": {
+        "game": "",
+        "id": "refunct",
+        "world_version": "1.7.0",
+        "tag_version": "1.7.0",
+        "created_at": "2026-09-12T18:10:17Z",
         "minimum_ap_version": "0.6.7"
       }
     },
