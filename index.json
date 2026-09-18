@@ -35276,6 +35276,21 @@
       }
     },
     {
+      "world": "https://github.com/DotsofdarknessArchipelago/Hunie-Cam-Studio-Archipelago/releases/download/0.4.0/huniecamstudio.apworld",
+      "size": 8047,
+      "hash_sha256": "effb8d75f2017b1ba1521fb19bca561c40cc5996c930704e5324470af2b7ec2a",
+      "metadata": {
+        "game": "",
+        "id": "huniecamstudio",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-09-18T05:05:09Z",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/DotsofdarknessArchipelago/Hunie-Cam-Studio-Archipelago/releases/download/V0.3.2/huniecamstudio.apworld",
       "size": 8585,
       "hash_sha256": "604bbfc3680606fe910792d29f2a28294b227f49cad267bf856163ea028af65e",
