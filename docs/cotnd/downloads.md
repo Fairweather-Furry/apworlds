@@ -8,6 +8,9 @@
 #### v0.8.2
 - <a href="https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.2/cotnd.apworld">https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.2/cotnd.apworld</a>
 
+#### v0.8.2
+- <a href="https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.3/cotnd.apworld">https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.3/cotnd.apworld</a>
+
 #### v0.8.1.post2
 - <a href="https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.1/cotnd.apworld">https://github.com/lastingParadox/Archipelago-CotND/releases/download/v0.8.1/cotnd.apworld</a>
 

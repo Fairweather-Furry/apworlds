@@ -328,6 +328,18 @@
       "title": "Taskipelago/Taskipelabingo Version 1.1.0",
       "version_simple": "1.1.0",
       "world_version": "1.1.0"
+    },
+    "v1.1.1": {
+      "created_at": "2026-09-18T18:41:25Z",
+      "download_url": "https://github.com/barretg/Taskipelago/releases/download/v1.1.1/taskipelago.apworld",
+      "has_manifest": false,
+      "hash_sha256": "6266aca2dc7c8dd9b1ad22aee87f89c6c4f0b7f8a9e629a116078f75ad1d69fd",
+      "size": 170809,
+      "source_url": "https://api.github.com/repos/barretg/Taskipelago",
+      "tag": "v1.1.1",
+      "title": "Taskipelago/Taskipelabingo Version 1.1.1",
+      "version_simple": "1.1.1",
+      "world_version": "1.1.1"
     }
   }
 }
