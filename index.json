@@ -31260,6 +31260,19 @@
       }
     },
     {
+      "world": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.7/gl.apworld",
+      "size": 382404,
+      "hash_sha256": "544077ab67b0c89ff90dff89d9a92d46c86b0abd0b6891608bf360eaad02eb76",
+      "metadata": {
+        "game": "",
+        "id": "gl",
+        "world_version": "2.1.7",
+        "tag_version": "2.1.7",
+        "created_at": "2026-09-20T04:16:31Z",
+        "minimum_ap_version": "0.6.6"
+      }
+    },
+    {
       "world": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.6/gl.apworld",
       "size": 381650,
       "hash_sha256": "e26499498f338c1efcea57c353d25cc4f983dc8759f4a9529f97bf15a0e97d76",
