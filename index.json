@@ -23128,6 +23128,19 @@
       }
     },
     {
+      "world": "https://github.com/alextric234/ArchipelagoDredge/releases/download/dredge_0.6.0/dredge.apworld",
+      "size": 25381,
+      "hash_sha256": "bd95b51eac9305d96bdf2afe6ed75393fa877ed0b1b68a3805637b8e5504c39b",
+      "metadata": {
+        "game": "",
+        "id": "dredge",
+        "world_version": "0.6.0",
+        "tag_version": "0.6.0",
+        "created_at": "2026-09-19T20:43:39Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/alextric234/ArchipelagoDredge/releases/download/dredge_0.5.0/dredge.apworld",
       "size": 21899,
       "hash_sha256": "74c3de89e89b783a0e7e232cf6a4557a893307b99a85153879a67d8df9a289c1",
@@ -57414,6 +57427,19 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-08-19T18:28:44Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.3.5/mmzero3.apworld",
+      "size": 114461,
+      "hash_sha256": "d403c16564f73ec38a67d992852cac602b205538682c6619d9a2591d02776371",
+      "metadata": {
+        "game": "",
+        "id": "mmzero3",
+        "world_version": "0.3.5",
+        "tag_version": "0.3.5",
+        "created_at": "2026-09-20T01:00:44Z",
         "maximum_ap_version": "0.6.99"
       }
     },
@@ -101129,6 +101155,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/UFO-50-Archipelago/Archipelago/releases/download/0.3.0/ufo50.apworld",
+      "size": 53145,
+      "hash_sha256": "e1720970c10605f8977fbbc3328b16058c82e360a8c5424900b22a615f778f4f",
+      "metadata": {
+        "game": "",
+        "id": "ufo50",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-09-19T23:12:45Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
