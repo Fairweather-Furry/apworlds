@@ -1,7 +1,7 @@
 {
-  "total_repositories": 517,
-  "total_packages": 648,
-  "total_versions": 7737,
+  "total_repositories": 516,
+  "total_packages": 647,
+  "total_versions": 7739,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -293,7 +293,7 @@
     "manual_pokemonplatinum_linneus": false,
     "manual_pokemonsnap_alirobotnik": false,
     "manual_powerwashsimulator_hallojasper": false,
-    "manual_residentevil4_vincentssin": false,
+    "manual_residentevil4_vincentssin": true,
     "manual_residentevil5_garbo": false,
     "manual_riftofthenecrodancer_axxroy": false,
     "manual_skylandersgiants_thisguyhere": true,
@@ -542,7 +542,6 @@
     "unbeatable_arcade": true,
     "unfair_flips": true,
     "untitled_goose_game": false,
-    "ut99": true,
     "vampire_survivors": true,
     "vespadian": false,
     "void_sols": true,
@@ -573,7 +572,7 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 316,
+    "": 314,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 11,
@@ -583,13 +582,13 @@
     "0.6.4": 54,
     "0.6.5": 20,
     "0.6.6": 10,
-    "0.6.7": 69,
+    "0.6.7": 70,
     "0.6.9": 1
   },
   "max_maximum_ap_version": {
     "": 302,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 249
+    "0.6.99": 248
   }
 }
