@@ -7833,6 +7833,19 @@
       }
     },
     {
+      "world": "https://github.com/xMcacutt-Archipelago/Archipelago-Bits-and-Bops/releases/download/1.1.0/bits_and_bops.apworld",
+      "size": 8773,
+      "hash_sha256": "1d79c50ca59c40131e52971d7dd1e3557c482eba0ec504751ef55a68bb1347a7",
+      "metadata": {
+        "game": "",
+        "id": "bits_and_bops",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-09-21T00:43:11Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/xMcacutt-Archipelago/Archipelago-Bits-and-Bops/releases/download/1.0.6/bits_and_bops.apworld",
       "size": 9092,
       "hash_sha256": "6320e4d6a67151846611e8a64923e1551c9c15f491f40efb94d24b207979e673",
@@ -17474,6 +17487,19 @@
         "flags": [
           "supports_deathlink"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Metaruler/ArchipelagoCR/releases/download/V1.0/custom_robo.apworld",
+      "size": 118817,
+      "hash_sha256": "05398870aef5927d7d958c1a3e0bbfd97b806c064dd3591fc436a010dc2eeea5",
+      "metadata": {
+        "game": "",
+        "id": "custom_robo",
+        "world_version": "1.0",
+        "tag_version": "1.0",
+        "created_at": "2026-09-21T01:14:24Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
@@ -31257,6 +31283,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-01-07T14:54:13Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/jamesbrq/GauntletLegendsAP/releases/download/v2.1.7/gl.apworld",
+      "size": 382402,
+      "hash_sha256": "97559cb954dfed6ce8cac84d6e5e6ccf56f6c1b09f880a6880ff64cffb4707b4",
+      "metadata": {
+        "game": "",
+        "id": "gl",
+        "world_version": "2.1.7.post2",
+        "tag_version": "2.1.7.post2",
+        "created_at": "2026-09-20T04:16:31Z",
+        "minimum_ap_version": "0.6.6"
       }
     },
     {
@@ -70973,6 +71012,19 @@
       }
     },
     {
+      "world": "https://github.com/ljtpetersen/platinum_archipelago/releases/download/v0.2.1/pokemon_platinum.apworld",
+      "size": 1330031,
+      "hash_sha256": "c2bcef256680f4b8933abb5eb1d7fa512206af12a6e29f22c33b6b1a54b523e1",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_platinum",
+        "world_version": "0.2.1",
+        "tag_version": "0.2.1",
+        "created_at": "2026-09-21T00:50:04Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/ljtpetersen/platinum_archipelago/releases/download/v0.2.0/pokemon_platinum.apworld",
       "size": 1326960,
       "hash_sha256": "1fc5ab6c87e8be6728d2c6dbfa2d5516bc4abe1d0521b702feed6689f78396d9",
@@ -82125,6 +82177,19 @@
         "tag_version": "0.5.0",
         "created_at": "2025-12-07T08:35:41Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/nmize1/Archipelago/releases/download/v0.5.5-b/simpsonshitnrun.apworld",
+      "size": 592845,
+      "hash_sha256": "31bd9315e9a0e4f10836057118023cfc5cca43054778175f024cdbfac361399f",
+      "metadata": {
+        "game": "",
+        "id": "simpsonshitnrun",
+        "world_version": "0.5.5b0",
+        "tag_version": "0.5.5b0",
+        "created_at": "2026-09-21T00:39:10Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {
@@ -103376,6 +103441,22 @@
         "tag_version": "1.0.0",
         "created_at": "2025-11-12T06:30:20Z",
         "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/FlySniper/Archipelago/releases/download/wargroove2-1.1.11/wargroove2.apworld",
+      "size": 1884021,
+      "hash_sha256": "48991a983417ea79c2d129f413d373ad6eb044e14b6fb4d807089f5ed70bc70b",
+      "metadata": {
+        "game": "",
+        "id": "wargroove2",
+        "world_version": "1.1.11",
+        "tag_version": "1.1.11",
+        "created_at": "2026-09-20T17:15:53Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {

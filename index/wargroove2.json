@@ -35,6 +35,20 @@
       "version_simple": "1.1.10",
       "world_version": "1.1.10"
     },
+    "wargroove2-1.1.11": {
+      "created_at": "2026-09-20T17:15:53Z",
+      "download_url": "https://github.com/FlySniper/Archipelago/releases/download/wargroove2-1.1.11/wargroove2.apworld",
+      "has_manifest": true,
+      "hash_sha256": "48991a983417ea79c2d129f413d373ad6eb044e14b6fb4d807089f5ed70bc70b",
+      "minimum_ap_version": "0.6.3",
+      "prerelease": true,
+      "size": 1884021,
+      "source_url": "https://api.github.com/repos/FlySniper/Archipelago",
+      "tag": "wargroove2-1.1.11",
+      "title": "Wargroove 2 - 1.1.11 Map Changes",
+      "version_simple": "1.1.11",
+      "world_version": "1.1.11"
+    },
     "wargroove2-1.1.2": {
       "created_at": "2026-01-25T14:01:18Z",
       "download_url": "https://github.com/FlySniper/Archipelago/releases/download/wargroove2-1.1.2/wargroove2.apworld",
