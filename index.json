@@ -7240,6 +7240,22 @@
       }
     },
     {
+      "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.7.1/bg3.apworld",
+      "size": 691469,
+      "hash_sha256": "c64f909f69d82b828234e78da29abc306fc79afe697db8cad5a7c13854235649",
+      "metadata": {
+        "game": "",
+        "id": "bg3",
+        "world_version": "0.7.1",
+        "tag_version": "0.7.1",
+        "created_at": "2026-09-22T08:13:34Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.7.0/bg3.apworld",
       "size": 658926,
       "hash_sha256": "f450ddc921a1b3dae00dd38e21b11831196f70d783374c7110485181222699d1",
@@ -14902,6 +14918,18 @@
         "tag_version": "0.1.0",
         "created_at": "2026-01-16T20:59:03Z",
         "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.8/crosscode.apworld",
+      "size": 146547,
+      "hash_sha256": "d4df2d66cbb0d34ddd74a57c2102cec1addf4df24ebe32b418cd0a577870a600",
+      "metadata": {
+        "game": "",
+        "id": "crosscode",
+        "world_version": "0.9.8",
+        "tag_version": "0.9.8",
+        "created_at": "2026-09-22T07:26:10Z"
       }
     },
     {
@@ -65751,6 +65779,18 @@
         "tag_version": "0.1.0",
         "created_at": "2025-05-12T06:57:29Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.1/plateup.apworld",
+      "size": 35762,
+      "hash_sha256": "ba767e83cf808eb6b27f7887d12a2bb75ed15d3a651545130c1e4e8ad4cabd9c",
+      "metadata": {
+        "game": "",
+        "id": "plateup",
+        "world_version": "0.2.7.1",
+        "tag_version": "0.2.7.1",
+        "created_at": "2026-09-22T14:06:43Z"
       }
     },
     {
