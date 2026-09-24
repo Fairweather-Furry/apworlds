@@ -3528,6 +3528,18 @@
       }
     },
     {
+      "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.26/apworld_manager.apworld",
+      "size": 542937,
+      "hash_sha256": "0f0ec633e2a632d5a9355b0845c54858e873eb4dafc138946655060c502fea86",
+      "metadata": {
+        "game": "",
+        "id": "apworld_manager",
+        "world_version": "0.0.26",
+        "tag_version": "0.0.26",
+        "created_at": "2026-09-24T00:26:00Z"
+      }
+    },
+    {
       "world": "https://github.com/silasary/Archipelago/releases/download/apworld_manager-0.0.25/apworld_manager.apworld",
       "size": 542215,
       "hash_sha256": "c6608c3b5d48302bf05124072b23029c930b6a8c6d08e79479c1917925fd7762",
@@ -46967,6 +46979,19 @@
       }
     },
     {
+      "world": "https://github.com/JBtheShadow/APManuals/releases/download/v1.2.0/manual_fantasylife_jbtheshadow.apworld",
+      "size": 153346,
+      "hash_sha256": "6e5649ae668aab49df89fb814c7185a2cd60d734d0a5e7a646341c3e938be32d",
+      "metadata": {
+        "game": "",
+        "id": "manual_fantasylife_jbtheshadow",
+        "world_version": "1.2.0",
+        "tag_version": "1.2.0",
+        "created_at": "2026-09-23T15:45:39Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/JBtheShadow/APManuals/releases/download/v1.1.0/manual_fantasylife_jbtheshadow.apworld",
       "size": 133789,
       "hash_sha256": "c9a62ea7bb94694af91fe7c983038a0a34e4f7381f8cf75b8fb346f1cd5a545d",
@@ -48769,6 +48794,19 @@
         "world_version": "1.0",
         "tag_version": "1.0",
         "created_at": "2024-11-30T14:52:10Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/WolfBoi008/One-More-Night/releases/download/2.3.6/manual_onemorenight_wolfboi008.apworld",
+      "size": 72738,
+      "hash_sha256": "1773a5cda711712249667ff8b53f466dbe3f1c2c1bdbcbf84269d7c73a32c164",
+      "metadata": {
+        "game": "",
+        "id": "manual_onemorenight_wolfboi008",
+        "world_version": "2.3.6",
+        "tag_version": "2.3.6",
+        "created_at": "2026-09-21T19:03:12Z",
         "maximum_ap_version": "0.6.99"
       }
     },
