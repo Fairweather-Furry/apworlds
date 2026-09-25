@@ -34014,6 +34014,19 @@
       }
     },
     {
+      "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v4.1.4/hammerwatch.apworld",
+      "size": 3529824,
+      "hash_sha256": "e0ffc72d8e50f9fbe8c87b868169308f604ae8f1f3f60991f62ceeee093e26c0",
+      "metadata": {
+        "game": "",
+        "id": "hammerwatch",
+        "world_version": "4.1.4",
+        "tag_version": "4.1.4",
+        "created_at": "2026-08-05T19:49:43Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Parcosmic/Hammerwatch-Archipelago/releases/download/v4.1.3/hammerwatch.apworld",
       "size": 3528202,
       "hash_sha256": "7d551a797d8084ceb1452e38159781385e8afa992e35e6a2c1e037e0ffa499d6",
@@ -39559,6 +39572,18 @@
           "after_dark",
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/DeDeDeK/KARchipelago/releases/download/v1.2.1-TEST/kirby_air_ride.apworld",
+      "size": 103724,
+      "hash_sha256": "370823114dbcebe0442ea916afa51d31588a0a29d045ae50c746b8f4ae7c0d25",
+      "metadata": {
+        "game": "",
+        "id": "kirby_air_ride",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-09-25T00:25:40Z"
       }
     },
     {
@@ -71635,6 +71660,18 @@
       }
     },
     {
+      "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.8/pokepark.apworld",
+      "size": 83670,
+      "hash_sha256": "443a7921fe0bfd1c50e7ed91fd97226d40ed767b9db7fbc9dda611030a832d6e",
+      "metadata": {
+        "game": "",
+        "id": "pokepark",
+        "world_version": "1.2.8",
+        "tag_version": "1.2.8",
+        "created_at": "2026-09-24T22:24:03Z"
+      }
+    },
+    {
       "world": "https://github.com/Mekurushi/Archipelago_Pokepark/releases/download/1.2.7/pokepark.apworld",
       "size": 83689,
       "hash_sha256": "15a06cf6466c52024ae5a215a7eca0ce6f143a12abdca20d1ad6d37f9190db0a",
@@ -75848,6 +75885,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.8.0/refunct.apworld",
+      "size": 20598,
+      "hash_sha256": "776cb07b834b2c90a7f5de65f64718e081d980ca1e5c321119fbe9c6a1926dc0",
+      "metadata": {
+        "game": "",
+        "id": "refunct",
+        "world_version": "1.8.0",
+        "tag_version": "1.8.0",
+        "created_at": "2026-09-24T19:24:10Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
