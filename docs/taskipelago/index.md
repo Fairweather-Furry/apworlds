@@ -4,7 +4,7 @@
 
 
 ## Downloads
-- <a href="https://github.com/barretg/Taskipelago/releases/download/v1.2.0-pre/taskipelago.apworld">Latest Version (1.2.0rc0)</a>
+- <a href="https://github.com/barretg/Taskipelago/releases/download/v1.2.0-pre2/taskipelago.apworld">Latest Version (1.2.0rc2)</a>
 - <a href="downloads.html">View all versions</a>
 
 ## Game Information
