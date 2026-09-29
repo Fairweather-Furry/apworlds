@@ -92494,6 +92494,45 @@
       }
     },
     {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.11/stick_ranger.apworld",
+      "size": 50216,
+      "hash_sha256": "a4a3e564b3346dedf20c887e53f27313493ecc7490cebd7497f9bae74083ed37",
+      "metadata": {
+        "game": "",
+        "id": "stick_ranger",
+        "world_version": "1.8.11",
+        "tag_version": "1.8.11",
+        "created_at": "2026-09-29T15:47:47Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.10/stick_ranger.apworld",
+      "size": 48008,
+      "hash_sha256": "6b0540e0b12f2252e79072f08de3234281c628ec651095f44d33613fd6a12546",
+      "metadata": {
+        "game": "",
+        "id": "stick_ranger",
+        "world_version": "1.8.10",
+        "tag_version": "1.8.10",
+        "created_at": "2026-09-29T09:11:31Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.9/stick_ranger.apworld",
+      "size": 48007,
+      "hash_sha256": "b51d9c3ee7a4b1974b59e26239eb539b1c803aa79c76e43f122e4abe0cacdb30",
+      "metadata": {
+        "game": "",
+        "id": "stick_ranger",
+        "world_version": "1.8.9",
+        "tag_version": "1.8.9",
+        "created_at": "2026-09-29T08:50:31Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Kryen112/AP_Stick_Ranger/releases/download/1.8.8/stick_ranger.apworld",
       "size": 46765,
       "hash_sha256": "57c988f1f5bbdccb9f11a222b44b9f1228f5f0b0f5998bb1db39fd03b8a98955",
@@ -107258,6 +107297,22 @@
         "tag_version": "1.0",
         "created_at": "2025-01-20T23:56:20Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/SerpentAI/Archipelago/releases/download/zgi-v2.2.0/zork_grand_inquisitor.apworld",
+      "size": 1144443,
+      "hash_sha256": "d68210bd15b431f88fd9290542e77bcb4a86625ac91aa8969cbdb42a458699a2",
+      "metadata": {
+        "game": "",
+        "id": "zork_grand_inquisitor",
+        "world_version": "2.2.0.post2",
+        "tag_version": "2.2.0.post2",
+        "created_at": "2026-06-20T02:50:48Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "tracker_included"
+        ]
       }
     },
     {
