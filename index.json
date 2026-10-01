@@ -41359,6 +41359,21 @@
       }
     },
     {
+      "world": "https://github.com/T0r1nn/APLC/releases/download/v0.8.0-rc2/lethal_company.apworld",
+      "size": 456178,
+      "hash_sha256": "0aeeff23bb156c79fecb4f068054a50428a83436171e0d63bebef27e5cf2a616",
+      "metadata": {
+        "game": "",
+        "id": "lethal_company",
+        "world_version": "0.8.0rc2",
+        "tag_version": "0.8.0rc2",
+        "created_at": "2026-10-01T01:45:14Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/T0r1nn/APLC/releases/download/v0.8.0-pre-1/lethal_company.apworld",
       "size": 500198,
       "hash_sha256": "d768100d7bd2c8722832c5682e40e39f48f84fc828a424aee1c2443b5181118a",
