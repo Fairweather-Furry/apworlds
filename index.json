@@ -14977,6 +14977,21 @@
       }
     },
     {
+      "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.10.0-pre.1/crosscode.apworld",
+      "size": 148825,
+      "hash_sha256": "fd5c25611ec3dadb7dc66a49acb3ba1ca95fded6a635ed1c70fa92b84d7c0785",
+      "metadata": {
+        "game": "",
+        "id": "crosscode",
+        "world_version": "0.10.0rc1",
+        "tag_version": "0.10.0rc1",
+        "created_at": "2026-10-02T06:59:14Z",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/CodeTriangle/CCMultiworldRandomizer/releases/download/0.9.8/crosscode.apworld",
       "size": 146547,
       "hash_sha256": "d4df2d66cbb0d34ddd74a57c2102cec1addf4df24ebe32b418cd0a577870a600",
@@ -31057,6 +31072,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-03-17T16:18:47Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/FeluciaPS/GarfieldKartAP/releases/download/1.1.0/garfkart.apworld",
+      "size": 22932,
+      "hash_sha256": "ef4d2dc42bbc884c3f470418d92e489ac88955d92834ac22c853880d3bfda2f4",
+      "metadata": {
+        "game": "",
+        "id": "garfkart",
+        "world_version": "1.1.0",
+        "tag_version": "1.1.0",
+        "created_at": "2026-10-02T05:49:37Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -68534,6 +68562,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-08-10T14:26:54Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/6.0.1/pokemon_crystal.apworld",
+      "size": 982622,
+      "hash_sha256": "81d96ab38a4efdb5cb0d3e67f80e3664ccd889401ea0d3a5ad592db84bd49b5f",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_crystal",
+        "world_version": "6.0.1",
+        "tag_version": "6.0.1",
+        "created_at": "2026-10-02T11:15:00Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
