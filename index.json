@@ -7264,6 +7264,22 @@
       }
     },
     {
+      "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.7.2/bg3.apworld",
+      "size": 815032,
+      "hash_sha256": "2ebcefe24e29c30f2bd444af727dc236b0997d7ff9866e1ba49067f58ed43c77",
+      "metadata": {
+        "game": "",
+        "id": "bg3",
+        "world_version": "0.7.2",
+        "tag_version": "0.7.2",
+        "created_at": "2026-10-04T07:58:00Z",
+        "minimum_ap_version": "0.6.2",
+        "flags": [
+          "after_dark"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/zane31415/ArchipelagoBG3/releases/download/v0.7.1/bg3.apworld",
       "size": 691469,
       "hash_sha256": "c64f909f69d82b828234e78da29abc306fc79afe697db8cad5a7c13854235649",
@@ -59771,6 +59787,19 @@
       }
     },
     {
+      "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.4/nine_sols.apworld",
+      "size": 3661548,
+      "hash_sha256": "95881e42ad59deec954a0e036d8150c0e65f339b61223225bb139d80e0a56e6f",
+      "metadata": {
+        "game": "",
+        "id": "nine_sols",
+        "world_version": "0.6.4",
+        "tag_version": "0.6.4",
+        "created_at": "2026-10-04T15:50:23Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/Ixrec/NineSolsArchipelagoRandomizer/releases/download/0.6.3/nine_sols.apworld",
       "size": 3661019,
       "hash_sha256": "83fc069b97a9a1931add37bca2cf02b14215177dfff1f96d5955ba8dd1bfe29b",
@@ -68603,6 +68632,19 @@
         "tag_version": "0.1.0",
         "created_at": "2025-08-10T14:26:54Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/gerbiljames/Archipelago-Crystal/releases/download/6.0.2/pokemon_crystal.apworld",
+      "size": 982755,
+      "hash_sha256": "05dc593ee79bf76e4b6e4b10395359325d8cc7525b76fe1d19bbc3232a3d0a42",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_crystal",
+        "world_version": "6.0.2",
+        "tag_version": "6.0.2",
+        "created_at": "2026-10-04T15:24:29Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
