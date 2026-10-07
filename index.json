@@ -56584,6 +56584,19 @@
       }
     },
     {
+      "world": "https://github.com/Edsploration/MK64-Archipelago/releases/download/mk64/0.2.7/mk64.apworld",
+      "size": 126365,
+      "hash_sha256": "dfc404a449d3003895c0ea9ccca075c0099ed0acbae89a845ec26224309de7f7",
+      "metadata": {
+        "game": "",
+        "id": "mk64",
+        "world_version": "0.2.7",
+        "tag_version": "0.2.7",
+        "created_at": "2026-04-12T10:07:42Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Edsploration/MK64-Archipelago/releases/download/mk64/0.2.6/mk64.apworld",
       "size": 126372,
       "hash_sha256": "0aeb76136185ea7bdedc1541e579625d37a261ea98c829e9fb5c0a25f81a3bb9",
