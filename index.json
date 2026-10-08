@@ -13868,6 +13868,18 @@
       }
     },
     {
+      "world": "https://github.com/Isaac-SOL/CobaltCoreArchipelagoMod/releases/download/release/1.2.2/cobalt_core.apworld",
+      "size": 25268,
+      "hash_sha256": "787ef0fab510cd34b1609adaaebfeb4d7e20c6bafd07078105ae0e00eaf32648",
+      "metadata": {
+        "game": "",
+        "id": "cobalt_core",
+        "world_version": "1.2.2",
+        "tag_version": "1.2.2",
+        "created_at": "2026-10-08T11:59:11Z"
+      }
+    },
+    {
       "world": "https://github.com/Isaac-SOL/CobaltCoreArchipelagoMod/releases/download/release/1.2.1/cobalt_core.apworld",
       "size": 22265,
       "hash_sha256": "81c72a199d386869e4b49a44d99c62a74a263f8818503c1f0677743a651e9e50",
@@ -107154,6 +107166,19 @@
         "world_version": "26.9.17",
         "tag_version": "26.9.17",
         "created_at": "2026-10-04T02:57:25Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/GirlWithoutAFairy/YARGArchipelago-GH-and-RB-forks/releases/download/26.10.08/YARGGuitarHero1.apworld",
+      "size": 23053,
+      "hash_sha256": "2d9406acd6e84d18cf4da9b043c7a46bbdd12bfd3debb7759cc61ec72a61eba4",
+      "metadata": {
+        "game": "",
+        "id": "YARGGuitarHero1",
+        "world_version": "26.9.17",
+        "tag_version": "26.9.17",
+        "created_at": "2026-10-08T06:42:37Z",
         "minimum_ap_version": "0.6.7"
       }
     },
