@@ -1,7 +1,7 @@
 {
   "total_repositories": 516,
   "total_packages": 649,
-  "total_versions": 7810,
+  "total_versions": 7812,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -454,7 +454,7 @@
     "severed_soul": true,
     "sgtpuzzles": true,
     "shadow_the_hedgehog": true,
-    "shadowgate64": false,
+    "shadowgate64": true,
     "shahrazad": false,
     "shapez": false,
     "shapez_2": true,
@@ -572,7 +572,7 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 310,
+    "": 309,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.6.0": 11,
@@ -582,13 +582,13 @@
     "0.6.4": 54,
     "0.6.5": 20,
     "0.6.6": 13,
-    "0.6.7": 74,
+    "0.6.7": 75,
     "0.6.9": 1
   },
   "max_maximum_ap_version": {
-    "": 304,
+    "": 305,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 246
+    "0.6.99": 245
   }
 }
