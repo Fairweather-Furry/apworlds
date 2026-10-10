@@ -76390,6 +76390,19 @@
       }
     },
     {
+      "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.8.0a/refunct.apworld",
+      "size": 20598,
+      "hash_sha256": "776cb07b834b2c90a7f5de65f64718e081d980ca1e5c321119fbe9c6a1926dc0",
+      "metadata": {
+        "game": "",
+        "id": "refunct",
+        "world_version": "1.8.0a0",
+        "tag_version": "1.8.0a0",
+        "created_at": "2026-10-09T19:38:27Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/spinerak/refunct-tas-archipelago/releases/download/v1.7.0/refunct.apworld",
       "size": 20345,
       "hash_sha256": "720b39e0229acd17f2b350dffe73be0078c8fa6172cff734b96b2e03e25373d1",
@@ -100543,6 +100556,19 @@
         "tag_version": "1.0.0",
         "created_at": "2025-05-04T19:36:25Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/jamesbrq/ArchipelagoTTYD/releases/download/v0.14.0/ttyd.apworld",
+      "size": 1613339,
+      "hash_sha256": "9376d94ee192cdb632f11b638e0f1130d6196a1d935901191f7d75b5c8b8bc75",
+      "metadata": {
+        "game": "",
+        "id": "ttyd",
+        "world_version": "0.14.0",
+        "tag_version": "0.14.0",
+        "created_at": "2026-10-05T18:51:29Z",
+        "minimum_ap_version": "0.6.3"
       }
     },
     {
