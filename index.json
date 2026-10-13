@@ -19030,6 +19030,19 @@
       }
     },
     {
+      "world": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.13.0.1/deathlinkipelago.apworld",
+      "size": 3428,
+      "hash_sha256": "961cad6ce40e8e66e05bd8060187fe21a1b75e62e649db8aa08560d6b61edc3d",
+      "metadata": {
+        "game": "",
+        "id": "deathlinkipelago",
+        "world_version": "0.13.0",
+        "tag_version": "0.13.0",
+        "created_at": "2025-08-13T23:57:19Z",
+        "minimum_ap_version": "0.5.2"
+      }
+    },
+    {
       "world": "https://github.com/SWCreeperKing/DeathLinkipelago/releases/download/v.0.12.1hf/deathlinkipelago.apworld",
       "size": 11075,
       "hash_sha256": "dfbb327174fc88feed6b0927dcc95b1db6334a3960f0ececeb98a8e9db62fa56",
@@ -68246,6 +68259,19 @@
       }
     },
     {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.4.0/pokemon_bw.apworld",
+      "size": 1400888,
+      "hash_sha256": "e58b8c4c68e3460231f70517d37754e43ea0fa3855cab62ea0a1f583754501f7",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_bw",
+        "world_version": "0.4.0",
+        "tag_version": "0.4.0",
+        "created_at": "2026-10-13T16:00:43Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.3.999/pokemon_bw.apworld",
       "size": 2005353,
       "hash_sha256": "ad1ca2f75a1bbb95c08067ac70b2fe30dd109479f61cf491258533b3fd5463a8",
@@ -75890,6 +75916,19 @@
       }
     },
     {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.6.1/rac3.apworld",
+      "size": 2916355,
+      "hash_sha256": "2b771f9d44966836007c0c7a7558a0ad8cf6644a6ce351375f64e630dd791d8e",
+      "metadata": {
+        "game": "",
+        "id": "rac3",
+        "world_version": "0.6.1",
+        "tag_version": "0.6.1",
+        "created_at": "2026-10-13T05:00:50Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
       "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.6.0/rac3.apworld",
       "size": 2900207,
       "hash_sha256": "77bfda1e7d275f263513359f580dcbffd9ae14a844c18a4abd0a0dde065de326",
@@ -83499,6 +83538,18 @@
         "tag_version": "0.1.0",
         "created_at": "2025-06-23T01:58:27Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Simsipelago/Archipelago/releases/download/2.1.0-beta1/sims4.apworld",
+      "size": 259393,
+      "hash_sha256": "512aac64098f276199fc051c6bb5e84b75240280250b52a1e5a88416dc29d027",
+      "metadata": {
+        "game": "",
+        "id": "sims4",
+        "world_version": "2.0.99",
+        "tag_version": "2.0.99",
+        "created_at": "2026-10-13T16:51:27Z"
       }
     },
     {
@@ -93641,6 +93692,19 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/barretg/Taskipelago/releases/download/v1.2.1/taskipelago.apworld",
+      "size": 274905,
+      "hash_sha256": "06eef0bc5287c3509698e5e14cc585b9516416aa93992e806ce20fe6e11c0292",
+      "metadata": {
+        "game": "",
+        "id": "taskipelago",
+        "world_version": "1.2.1",
+        "tag_version": "1.2.1",
+        "created_at": "2026-10-13T14:13:41Z",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {

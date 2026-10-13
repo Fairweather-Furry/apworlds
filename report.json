@@ -1,7 +1,7 @@
 {
   "total_repositories": 516,
   "total_packages": 650,
-  "total_versions": 7836,
+  "total_versions": 7841,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -90,7 +90,7 @@
     "dc1": true,
     "dc2": true,
     "deathlink_text_client": false,
-    "deathlinkipelago": false,
+    "deathlinkipelago": true,
     "deaths_door": false,
     "deep_rock_galactic": true,
     "DeliveringHope": true,
@@ -572,9 +572,10 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 309,
+    "": 308,
     "0.5.0": 6,
     "0.5.1": 1,
+    "0.5.2": 1,
     "0.6.0": 11,
     "0.6.1": 9,
     "0.6.2": 7,
@@ -586,9 +587,9 @@
     "0.6.9": 1
   },
   "max_maximum_ap_version": {
-    "": 305,
+    "": 306,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 245
+    "0.6.99": 244
   }
 }
