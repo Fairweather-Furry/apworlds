@@ -16799,6 +16799,22 @@
       }
     },
     {
+      "world": "https://github.com/Ars-Ignis/Archipelago/releases/download/v3.1.0-Crystalis/crystalis.apworld",
+      "size": 88172,
+      "hash_sha256": "d254180a00ebc0ad4fdc07b1e5ba980c3f0b0ae836cfdb696f0f393428343af8",
+      "metadata": {
+        "game": "",
+        "id": "crystalis",
+        "world_version": "3.1.0rc0.post0",
+        "tag_version": "3.1.0rc0.post0",
+        "created_at": "2026-10-12T18:44:34Z",
+        "minimum_ap_version": "0.6.0",
+        "flags": [
+          "supports_deathlink"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Ars-Ignis/Archipelago/releases/download/v3.0.2-Crystalis/crystalis.apworld",
       "size": 87334,
       "hash_sha256": "4b55ee5ac6d1ffabef95d07c8e899669cd8410e597e937b884d92a872156f0d2",
@@ -23455,6 +23471,19 @@
         "flags": [
           "after_dark"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/alextric234/ArchipelagoDredge/releases/download/dredge_0.7.0/dredge.apworld",
+      "size": 39990,
+      "hash_sha256": "4d9f9235648d708563d5f2eff194e1a6720581d7ff15522ee3574fea3c8bb370",
+      "metadata": {
+        "game": "",
+        "id": "dredge",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-10-12T15:05:00Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -30833,6 +30862,23 @@
         "world_version": "0.4.3",
         "tag_version": "0.4.3",
         "created_at": "2026-07-05T19:48:14Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "after_dark",
+          "unready"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/zuils/FNaFBAP/releases/download/v0.4.7/fnafb2.apworld",
+      "size": 18672,
+      "hash_sha256": "69c914f0892f7f2984cf2a8847a5ef2fd6966d1f422f384b784f58d7073ad4ec",
+      "metadata": {
+        "game": "",
+        "id": "fnafb2",
+        "world_version": "0.4.3",
+        "tag_version": "0.4.3",
+        "created_at": "2026-10-13T00:10:45Z",
         "minimum_ap_version": "0.6.5",
         "flags": [
           "after_dark",
@@ -58179,6 +58225,19 @@
         "tag_version": "1.0.0",
         "created_at": "2025-08-19T18:28:44Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/brodieberger/MMZero3Archipelago/releases/download/v0.4.1/mmzero3.apworld",
+      "size": 205650,
+      "hash_sha256": "9d8aace911098d3b86732b8a0ba151e0ba82a1d426a1ced61fe4d9bcd9cc1064",
+      "metadata": {
+        "game": "",
+        "id": "mmzero3",
+        "world_version": "0.4.1",
+        "tag_version": "0.4.1",
+        "created_at": "2026-10-13T01:40:36Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
