@@ -31155,6 +31155,38 @@
       }
     },
     {
+      "world": "https://github.com/Knuxfan24/Freedom-Planet-2-Archipelago/releases/download/1.0.0.p2/fp2.apworld",
+      "size": 2673683,
+      "hash_sha256": "8ff268abeee297ed87817a579ebbb24ae1f7252cfbcb9d3431a864b927510388",
+      "metadata": {
+        "game": "",
+        "id": "fp2",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-10-14T11:45:10Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/Knuxfan24/Freedom-Planet-2-Archipelago/releases/download/1.0.0.p1/fp2.apworld",
+      "size": 1560531,
+      "hash_sha256": "bc13054e7b35d2c82a6ee7daf79c5cf2978d06c92aac4d1227234ff5cec3dd8b",
+      "metadata": {
+        "game": "",
+        "id": "fp2",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-10-14T11:45:10Z",
+        "minimum_ap_version": "0.6.5",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Knuxfan24/Freedom-Planet-2-Archipelago/releases/download/0.1.2/fp2.apworld",
       "size": 49820,
       "hash_sha256": "28ff4160caecbd137b7087d0ca2b59d489a4f20b83bc66eb86e0af2b087d9058",
@@ -58907,6 +58939,19 @@
       }
     },
     {
+      "world": "https://github.com/alditoOt/Momodora-Moonlit-Farewell-Randomizer/releases/download/AP-v1.8.1/momodoramoonlitfarewell.apworld",
+      "size": 12032,
+      "hash_sha256": "0d94e63561006701e6606df0890db71c6bd91d3cf3b687b2d5812c2955327fe4",
+      "metadata": {
+        "game": "",
+        "id": "momodoramoonlitfarewell",
+        "world_version": "1.8.1",
+        "tag_version": "1.8.1",
+        "created_at": "2026-10-15T14:19:31Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/alditoOt/Momodora-Moonlit-Farewell-Randomizer/releases/download/AP-v1.8.0/momodoramoonlitfarewell.apworld",
       "size": 11726,
       "hash_sha256": "dd2ed383e096ed846cf3b465bd1155cd1c4d980c07ce2b041f404b7a578b8c55",
@@ -75982,6 +76027,19 @@
       }
     },
     {
+      "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.6.2/rac3.apworld",
+      "size": 2916716,
+      "hash_sha256": "d401bce23859a672cb0640d31f485b9757b1cc58d595afc42c275933de380eda",
+      "metadata": {
+        "game": "",
+        "id": "rac3",
+        "world_version": "0.6.1",
+        "tag_version": "0.6.1",
+        "created_at": "2026-10-15T08:04:19Z",
+        "minimum_ap_version": "0.5.0"
+      }
+    },
+    {
       "world": "https://github.com/Taoshix/Archipelago-RaC3/releases/download/v0.6.0/rac3.apworld",
       "size": 2900207,
       "hash_sha256": "77bfda1e7d275f263513359f580dcbffd9ae14a844c18a4abd0a0dde065de326",
@@ -91692,6 +91750,22 @@
         "tag_version": "0.1.0",
         "created_at": "2025-02-22T00:27:00Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.9/stardew_valley.apworld",
+      "size": 584016,
+      "hash_sha256": "4a29f474a7f9faeb844680b3597d362c9461e61e0f9622497d1253c4c16b334c",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.1.8",
+        "tag_version": "8.1.8",
+        "created_at": "2026-10-15T03:58:17Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {

@@ -11,8 +11,6 @@ the player must manually refrain from using these gathered items until the track
 - <a href="downloads.html">View all versions</a>
 
 ## Game Information
-- <a href="en_Freedom Planet 2">English</a>
 
 ## Setup Guide
-- <a href="setup_en">English</a>
 
