@@ -1,7 +1,7 @@
 {
   "total_repositories": 516,
-  "total_packages": 651,
-  "total_versions": 7854,
+  "total_packages": 650,
+  "total_versions": 7853,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -390,7 +390,6 @@
     "papermario": false,
     "paquerette_down_the_bunburrows": true,
     "parkitect": false,
-    "password": false,
     "peak": true,
     "phantasy_star_2": true,
     "pharcryption": true,
@@ -572,7 +571,7 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 308,
+    "": 307,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.5.2": 1,
@@ -590,6 +589,6 @@
     "": 306,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 244
+    "0.6.99": 243
   }
 }
