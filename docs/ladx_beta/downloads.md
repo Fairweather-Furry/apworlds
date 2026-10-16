@@ -8,6 +8,9 @@
 #### v13.4.6
 - <a href="https://github.com/threeandthreee/Archipelago/releases/download/13.4.6/ladx_beta.apworld">https://github.com/threeandthreee/Archipelago/releases/download/13.4.6/ladx_beta.apworld</a>
 
+#### v13.4.6
+- <a href="https://github.com/threeandthreee/Archipelago/releases/download/13.5.0/ladx_beta.apworld">https://github.com/threeandthreee/Archipelago/releases/download/13.5.0/ladx_beta.apworld</a>
+
 #### v13.4.5
 - <a href="https://github.com/threeandthreee/Archipelago/releases/download/13.4.5/ladx_beta.apworld">https://github.com/threeandthreee/Archipelago/releases/download/13.4.5/ladx_beta.apworld</a>
 
