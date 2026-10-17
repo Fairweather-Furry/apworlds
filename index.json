@@ -22319,6 +22319,19 @@
       }
     },
     {
+      "world": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v2.0.0/dome_keeper.apworld",
+      "size": 134051,
+      "hash_sha256": "64e46562e2f96eaab77d3050bb2df56eb4d1a00e5c9c99823dc7dd38b46105f1",
+      "metadata": {
+        "game": "",
+        "id": "dome_keeper",
+        "world_version": "2.0.0",
+        "tag_version": "2.0.0",
+        "created_at": "2026-10-11T15:27:51Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v1.3.0/dome_keeper.apworld",
       "size": 47628,
       "hash_sha256": "70aa611d69ddc12d161d27f0778ad620de6b906c34eb0581afdd42753a77eec1",
@@ -43654,6 +43667,23 @@
       }
     },
     {
+      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-eta.3/lor.apworld",
+      "size": 31643,
+      "hash_sha256": "8d544d31ea5d0cac150e46ce0091057b87d3b209129936e6358d29b756583bb4",
+      "metadata": {
+        "game": "",
+        "id": "lor",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-10-16T11:14:39Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "after_dark",
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-gamma/lor.apworld",
       "size": 25615,
       "hash_sha256": "49c786c6f6f7a853a069fedb0750b607e2115dae2f369f6239dcc7475b49935c",
@@ -43681,23 +43711,6 @@
         "tag_version": "1.0.0",
         "created_at": "2026-07-13T11:30:59Z",
         "maximum_ap_version": "0.6.99",
-        "flags": [
-          "after_dark",
-          "prerelease"
-        ]
-      }
-    },
-    {
-      "world": "https://github.com/Az-LastPenguin/LORAP/releases/download/v1.0.0-eta.3/lor.apworld",
-      "size": 31643,
-      "hash_sha256": "8d544d31ea5d0cac150e46ce0091057b87d3b209129936e6358d29b756583bb4",
-      "metadata": {
-        "game": "",
-        "id": "lor",
-        "world_version": "1.0.0",
-        "tag_version": "1.0.0",
-        "created_at": "2026-10-16T11:14:39Z",
-        "minimum_ap_version": "0.6.7",
         "flags": [
           "after_dark",
           "prerelease"
@@ -89004,6 +89017,21 @@
         "tag_version": "1.15.0",
         "created_at": "2025-05-05T00:24:18Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/DotsofdarknessArchipelago/Spirit-Valley-Archipelago/releases/download/V2.1.1/spiritvalley.apworld",
+      "size": 61893,
+      "hash_sha256": "cddf43a5cbc569f3afb6780f63fd22034d46bd4e249c97fb7f8d8903643ff69e",
+      "metadata": {
+        "game": "",
+        "id": "spiritvalley",
+        "world_version": "2.1.1",
+        "tag_version": "2.1.1",
+        "created_at": "2026-10-17T05:09:12Z",
+        "flags": [
+          "after_dark"
+        ]
       }
     },
     {
