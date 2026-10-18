@@ -40717,6 +40717,32 @@
       }
     },
     {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.2/ladx_beta.apworld",
+      "size": 373007,
+      "hash_sha256": "44ff7787621497d2ae9b37532a5541be3b933c936f7a3937c34bd69576ac184e",
+      "metadata": {
+        "game": "",
+        "id": "ladx_beta",
+        "world_version": "13.6.2",
+        "tag_version": "13.6.2",
+        "created_at": "2026-10-18T12:50:24Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.1/ladx_beta.apworld",
+      "size": 372880,
+      "hash_sha256": "19c942a48b3f0680c17bcae5e627de7f765a8bedc3e5091b48f86a0794530429",
+      "metadata": {
+        "game": "",
+        "id": "ladx_beta",
+        "world_version": "13.6.1",
+        "tag_version": "13.6.1",
+        "created_at": "2026-10-18T06:07:45Z",
+        "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
       "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.0/ladx_beta.apworld",
       "size": 372270,
       "hash_sha256": "f09776da12e29f1a8aa5ea65363782fcdd04ccc208a2dc0c86dbe40afbea0034",
@@ -54234,6 +54260,19 @@
         "world_version": "0.2.3",
         "tag_version": "0.2.3",
         "created_at": "2026-08-30T19:43:10Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.2.5/medievil2.apworld",
+      "size": 25991,
+      "hash_sha256": "5ed85133696a9e9e877c75d5c084add746037ac95d9011453af7d2343d328988",
+      "metadata": {
+        "game": "",
+        "id": "medievil2",
+        "world_version": "0.2.3",
+        "tag_version": "0.2.3",
+        "created_at": "2026-10-18T09:33:57Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -85055,6 +85094,18 @@
       }
     },
     {
+      "world": "https://github.com/NikolajDanger/APSly2/releases/download/v1.1.2/sly2.apworld",
+      "size": 3414589,
+      "hash_sha256": "dd75a23d4b7cb1dc03b9922e2ddc3c9dc6500a454a0a1cc9bbc0c95ddc182ec6",
+      "metadata": {
+        "game": "",
+        "id": "sly2",
+        "world_version": "1.1.2",
+        "tag_version": "1.1.2",
+        "created_at": "2026-10-18T12:15:51Z"
+      }
+    },
+    {
       "world": "https://github.com/NikolajDanger/APSly2/releases/download/v1.1.1/sly2.apworld",
       "size": 3414428,
       "hash_sha256": "5559bb49e93546872f2cae2e970be55ad20d06f75e319773fbaef254d38c01c3",
@@ -91927,6 +91978,22 @@
         "tag_version": "0.1.0",
         "created_at": "2025-02-22T00:27:00Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.10/stardew_valley.apworld",
+      "size": 585052,
+      "hash_sha256": "f631e1df8fe0bd8ff43b35528b057c842a59162e9e5a079524185be4f8a66eee",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.1.10",
+        "tag_version": "8.1.10",
+        "created_at": "2026-10-18T02:45:01Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
