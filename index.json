@@ -18980,6 +18980,22 @@
       }
     },
     {
+      "world": "https://github.com/ArsonAssassin/DC2AP/releases/download/0.1.0.0/dc2.apworld",
+      "size": 77248,
+      "hash_sha256": "64e56de089fd29c45843b58fd0bb23fa855e7df030a327f08b76d3b7b9586e75",
+      "metadata": {
+        "game": "",
+        "id": "dc2",
+        "world_version": "0.1.0.0",
+        "tag_version": "0.1.0.0",
+        "created_at": "2026-10-18T20:37:55Z",
+        "maximum_ap_version": "0.6.99",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/ArsonAssassin/DC2AP/releases/download/0.0.4.0/dc2.apworld",
       "size": 18287,
       "hash_sha256": "48b6ffc26c49b60288a06d0a39d9a5cc2c3dbc6aa4d83b5ef392b332610a8570",
@@ -53666,6 +53682,19 @@
       }
     },
     {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.4.0/medievil.apworld",
+      "size": 36834,
+      "hash_sha256": "21ee8aabd03df420f14907246eaaad2538a8de141084bef1b4fe002ae3a9c8b2",
+      "metadata": {
+        "game": "",
+        "id": "medievil",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-10-18T18:44:27Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.2.9/medievil.apworld",
       "size": 26528,
       "hash_sha256": "c0f0bc9fd726cf03421fcd2859a734be63f11d8308e2c1376dc027a2db2f1d56",
@@ -63610,6 +63639,19 @@
         "tag_version": "0.0.1",
         "created_at": "2026-01-06T20:26:57Z",
         "minimum_ap_version": "0.6.4"
+      }
+    },
+    {
+      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.4.0/outer_wilds.apworld",
+      "size": 94952,
+      "hash_sha256": "eb967b1c30455e5a9f7aa1afea3bcf72f9167ed4c74d9caf67768ba4c972f28a",
+      "metadata": {
+        "game": "",
+        "id": "outer_wilds",
+        "world_version": "1.4.0",
+        "tag_version": "1.4.0",
+        "created_at": "2026-10-18T16:37:00Z",
+        "minimum_ap_version": "0.5.0"
       }
     },
     {
@@ -75047,6 +75089,18 @@
         "flags": [
           "after_dark"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/tjwombo/RNSArchipelago/releases/download/v0.4.3/rabbit_and_steel.apworld",
+      "size": 25320,
+      "hash_sha256": "f367db7969136c9a99317d25e0c48b16b3ee4dd9b948babba6d9249a07a174c6",
+      "metadata": {
+        "game": "",
+        "id": "rabbit_and_steel",
+        "world_version": "0.4.3.post2",
+        "tag_version": "0.4.3.post2",
+        "created_at": "2026-09-15T03:56:40Z"
       }
     },
     {
@@ -89626,6 +89680,20 @@
         "flags": [
           "prerelease"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/2.2.0/spyro2.apworld",
+      "size": 73640,
+      "hash_sha256": "304511f2afc16dded822ff4a843ce20e847d607835c898e6ed9e572246397d21",
+      "metadata": {
+        "game": "",
+        "id": "spyro2",
+        "world_version": "2.2.0",
+        "tag_version": "2.2.0",
+        "created_at": "2026-10-19T00:14:43Z",
+        "minimum_ap_version": "0.6.6",
+        "maximum_ap_version": "0.6.99"
       }
     },
     {
