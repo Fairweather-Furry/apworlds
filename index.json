@@ -58791,6 +58791,22 @@
       }
     },
     {
+      "world": "https://github.com/Stuff691734/ModdedMCArchipelago/releases/download/v3.0.10/moddedminecraft.apworld",
+      "size": 9006,
+      "hash_sha256": "60201a53707daa65cff1371363d38ef9fe57e32e01b3190ddec9ca455b99c3da",
+      "metadata": {
+        "game": "",
+        "id": "moddedminecraft",
+        "world_version": "3.0.10",
+        "tag_version": "3.0.10",
+        "created_at": "2026-10-20T00:46:47Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "unready"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Stuff691734/ModdedMCArchipelago/releases/download/v3.0.9/moddedminecraft.apworld",
       "size": 8803,
       "hash_sha256": "0d2350316822a9ce602c540ceaf9c07f0d7150959b34ab261d7120a4127733b1",
@@ -66659,6 +66675,18 @@
       }
     },
     {
+      "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.3/plateup.apworld",
+      "size": 38248,
+      "hash_sha256": "fe4feea4113278f3efdac366b8d982915478a484d38b1ae741a2c0daa09dcfa1",
+      "metadata": {
+        "game": "",
+        "id": "plateup",
+        "world_version": "0.2.7.3",
+        "tag_version": "0.2.7.3",
+        "created_at": "2026-10-19T19:41:41Z"
+      }
+    },
+    {
       "world": "https://github.com/CazIsABoi/Archipelago/releases/download/0.2.7.2/plateup.apworld",
       "size": 37843,
       "hash_sha256": "84eff36c5387f7997317dc0e435e787b30a6838fbd9015e0b91e3a0f6ca66d80",
@@ -68494,6 +68522,19 @@
         "flags": [
           "unready"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/BlastSlimey/PokemonBWAP/releases/download/0.4.2/pokemon_bw.apworld",
+      "size": 1408882,
+      "hash_sha256": "fde300c8afdb236752fd3c835ae087bcfb421653908b5d734c8c0dd6838e3cad",
+      "metadata": {
+        "game": "",
+        "id": "pokemon_bw",
+        "world_version": "0.4.2",
+        "tag_version": "0.4.2",
+        "created_at": "2026-10-19T22:59:57Z",
+        "minimum_ap_version": "0.6.7"
       }
     },
     {
@@ -104574,6 +104615,18 @@
         "flags": [
           "unready"
         ]
+      }
+    },
+    {
+      "world": "https://github.com/CriminalPancake/void-stranger-ap/releases/download/v0.11.4/voidstranger.apworld",
+      "size": 21138,
+      "hash_sha256": "a8dd5dee754449ef80885459a2b65e078c9c08c2ffc87332f56625dd5021be03",
+      "metadata": {
+        "game": "",
+        "id": "voidstranger",
+        "world_version": "0.11.4",
+        "tag_version": "0.11.4",
+        "created_at": "2026-10-19T20:51:28Z"
       }
     },
     {
