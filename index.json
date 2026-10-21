@@ -41877,6 +41877,18 @@
       }
     },
     {
+      "world": "https://github.com/T0r1nn/APLC/releases/download/v0.8.0/lethal_company.apworld",
+      "size": 32471,
+      "hash_sha256": "57fb13846c92c1a3c4e06dd69029e469a1359115a66da52760f4bdeda9bf6d22",
+      "metadata": {
+        "game": "",
+        "id": "lethal_company",
+        "world_version": "0.8.0",
+        "tag_version": "0.8.0",
+        "created_at": "2026-10-21T01:20:33Z"
+      }
+    },
+    {
       "world": "https://github.com/T0r1nn/APLC/releases/download/v0.8.0-rc2/lethal_company.apworld",
       "size": 456178,
       "hash_sha256": "0aeeff23bb156c79fecb4f068054a50428a83436171e0d63bebef27e5cf2a616",
@@ -53720,6 +53732,19 @@
         "world_version": "0.3.0",
         "tag_version": "0.3.0",
         "created_at": "2026-10-18T18:44:27Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
+      "world": "https://github.com/riezahughes/MedievilAPWorld/releases/download/v0.4.1/medievil.apworld",
+      "size": 36822,
+      "hash_sha256": "681fe59c80b0f8afea01a92f8934646d7ef7e59a619475beadc91974026bf059",
+      "metadata": {
+        "game": "",
+        "id": "medievil",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-10-20T16:50:32Z",
         "minimum_ap_version": "0.6.7"
       }
     },
@@ -65991,6 +66016,21 @@
         "tag_version": "0.1.0",
         "created_at": "2025-09-16T21:33:18Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/chpas/Pikmin2Archipelago/releases/download/v1.0.0/pikmin2.apworld",
+      "size": 6156700,
+      "hash_sha256": "8a6514f56de28cb70fb6ceb34d5e4a4d4dc589c9447239360f140cac5343d3fe",
+      "metadata": {
+        "game": "",
+        "id": "pikmin2",
+        "world_version": "1.0.0",
+        "tag_version": "1.0.0",
+        "created_at": "2026-09-16T04:32:01Z",
+        "flags": [
+          "prerelease"
+        ]
       }
     },
     {
@@ -85506,6 +85546,22 @@
         "maximum_ap_version": "0.6.99",
         "flags": [
           "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/DNVIC/archipelago-sm64hacks/releases/download/v1.1.15/sm64hacks.apworld",
+      "size": 302873,
+      "hash_sha256": "6fd618e9195f8113e2969cd870cf2f342962f5c24dfa22354b6feb1f67c87bf3",
+      "metadata": {
+        "game": "",
+        "id": "sm64hacks",
+        "world_version": "1.1.15",
+        "tag_version": "1.1.15",
+        "created_at": "2026-10-20T19:52:56Z",
+        "minimum_ap_version": "0.6.3",
+        "flags": [
+          "unready"
         ]
       }
     },
