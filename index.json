@@ -22367,6 +22367,19 @@
       }
     },
     {
+      "world": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v2.0.2/dome_keeper.apworld",
+      "size": 85834,
+      "hash_sha256": "30dcd6752f93360b0fb4290317d53692a16e68512a3ef7bc7498419c959d3de1",
+      "metadata": {
+        "game": "",
+        "id": "dome_keeper",
+        "world_version": "2.0.2",
+        "tag_version": "2.0.2",
+        "created_at": "2026-10-20T22:15:50Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/Arrcival/ArchipelagoDK/releases/download/v2.0.1/dome_keeper.apworld",
       "size": 134149,
       "hash_sha256": "8b37a58f024cb0090bc18ceeffdb612a4b7a570919700745f1db4665d1cb8008",
@@ -54360,6 +54373,19 @@
       }
     },
     {
+      "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.2.6/medievil2.apworld",
+      "size": 26143,
+      "hash_sha256": "50b495e8527104435434b2f57266629eeba0a70edd7257d005a4b7da07ffa8aa",
+      "metadata": {
+        "game": "",
+        "id": "medievil2",
+        "world_version": "0.2.3",
+        "tag_version": "0.2.3",
+        "created_at": "2026-10-20T16:27:17Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/riezahughes/Medievil2APWorld/releases/download/v0.2.1/medievil2.apworld",
       "size": 18453,
       "hash_sha256": "88fda5fc0156332e001e2ffb8513eae3e7e51a4ff5be50f53eed50f2dcdeed67",
@@ -58839,6 +58865,22 @@
         "tag_version": "0.1.0",
         "created_at": "2025-06-05T23:39:46Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Stuff691734/ModdedMCArchipelago/releases/download/v3.0.11/moddedminecraft.apworld",
+      "size": 9008,
+      "hash_sha256": "220fad8951e0e2c1aa2d7db1acfb295add29ca7358a19889598d4b9c1b570907",
+      "metadata": {
+        "game": "",
+        "id": "moddedminecraft",
+        "world_version": "3.0.11",
+        "tag_version": "3.0.11",
+        "created_at": "2026-10-22T02:06:58Z",
+        "minimum_ap_version": "0.6.4",
+        "flags": [
+          "unready"
+        ]
       }
     },
     {
