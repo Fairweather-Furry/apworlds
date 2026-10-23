@@ -8,6 +8,9 @@
 #### v10
 - <a href="https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_10/no100f.apworld">https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_10/no100f.apworld</a>
 
+#### v1.4.1
+- <a href="https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release1.4.1/no100f.apworld">https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release1.4.1/no100f.apworld</a>
+
 #### v1.3.5
 - <a href="https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_5/no100f.apworld">https://github.com/vgm5/Night_Of_100_Frights_ap_world/releases/download/Release_1_3_5/no100f.apworld</a>
 
