@@ -16322,6 +16322,22 @@
       }
     },
     {
+      "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.19.0/crystal_project.apworld",
+      "size": 213164,
+      "hash_sha256": "b10d8ab85dee8f0a3b2c226f159a5055115b5ac0dcc6e3de7fb1407636fef600",
+      "metadata": {
+        "game": "",
+        "id": "crystal_project",
+        "world_version": "0.19.0",
+        "tag_version": "0.19.0",
+        "created_at": "2026-10-23T22:28:20Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "tracker_included"
+        ]
+      }
+    },
+    {
       "world": "https://github.com/Emerassi/CrystalProjectAPWorld/releases/download/CrystalProject-v0.18.0/crystal_project.apworld",
       "size": 214147,
       "hash_sha256": "3bf11e98093174eb2439df10e13caac0836a0bbb3f9ba53a91b42800081f97d6",
