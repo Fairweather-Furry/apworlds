@@ -90036,6 +90036,19 @@
     },
     {
       "world": "https://github.com/Uroogla/S2AP/releases/download/2.2.0/spyro2.apworld",
+      "size": 75546,
+      "hash_sha256": "8b74abb21db86d9c49521685370a44c5efe44ff87aec3a975f6af705f447a467",
+      "metadata": {
+        "game": "",
+        "id": "spyro2",
+        "world_version": "2.2.0.post2",
+        "tag_version": "2.2.0.post2",
+        "created_at": "2026-10-19T00:14:43Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Uroogla/S2AP/releases/download/2.2.0/spyro2.apworld",
       "size": 73640,
       "hash_sha256": "304511f2afc16dded822ff4a843ce20e847d607835c898e6ed9e572246397d21",
       "metadata": {
