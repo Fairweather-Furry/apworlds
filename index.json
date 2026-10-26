@@ -11346,6 +11346,18 @@
       }
     },
     {
+      "world": "https://github.com/sitskin/apCassetteBeasts/releases/download/v0.0.7/cassette_beasts.apworld",
+      "size": 30362,
+      "hash_sha256": "daddecede6f9f925d5e63322b183f311a0e3021a7332c0bce0ec74b779031f26",
+      "metadata": {
+        "game": "",
+        "id": "cassette_beasts",
+        "world_version": "0.0.7",
+        "tag_version": "0.0.7",
+        "created_at": "2026-10-25T16:43:38Z"
+      }
+    },
+    {
       "world": "https://github.com/sitskin/apCassetteBeasts/releases/download/v0.0.6/cassette_beasts.apworld",
       "size": 28177,
       "hash_sha256": "303201301d841a7e5f1e7a5548d8d399e6eb497c6f780d2770d9adce020aeda4",
@@ -20770,6 +20782,19 @@
       }
     },
     {
+      "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v2.0.2/dk64.apworld",
+      "size": 1915211,
+      "hash_sha256": "00e94fd1d526178a68ff8a5051bdfa52db5143e2165618ea3cd075deaf572ac0",
+      "metadata": {
+        "game": "",
+        "id": "dk64",
+        "world_version": "2.0.2",
+        "tag_version": "2.0.2",
+        "created_at": "2026-10-25T18:49:11Z",
+        "minimum_ap_version": "0.6.5"
+      }
+    },
+    {
       "world": "https://github.com/2dos/DK64-Randomizer-Dev/releases/download/v2.0.1/dk64.apworld",
       "size": 1915239,
       "hash_sha256": "cf271f6fd4cab079a84205628cb8a2061db3c1369df8065d08689a29ca58b947",
@@ -25621,6 +25646,22 @@
         "tag_version": "1.0",
         "created_at": "2024-06-23T22:36:12Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Aeromaze/Archipelago/releases/download/v0.3.0/easy_delivery_co.apworld",
+      "size": 14069,
+      "hash_sha256": "155992dce84c7736c628fbd648e2e57a637b57d9c7a2595b5a31cb360f168f6c",
+      "metadata": {
+        "game": "",
+        "id": "easy_delivery_co",
+        "world_version": "0.3.0",
+        "tag_version": "0.3.0",
+        "created_at": "2026-10-25T09:50:30Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "unready"
+        ]
       }
     },
     {
@@ -40855,6 +40896,19 @@
         "tag_version": "0.1.0",
         "created_at": "2024-05-16T16:14:52Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/threeandthreee/Archipelago/releases/download/13.6.4/ladx_beta.apworld",
+      "size": 373179,
+      "hash_sha256": "7653208792bf531ce27fb6c63e3e9ae09e7b5009688b9fc765ecb775db5f0a7e",
+      "metadata": {
+        "game": "",
+        "id": "ladx_beta",
+        "world_version": "13.6.4",
+        "tag_version": "13.6.4",
+        "created_at": "2026-10-25T20:11:23Z",
+        "minimum_ap_version": "0.6.4"
       }
     },
     {
@@ -92507,6 +92561,22 @@
         "world_version": "8.1.10",
         "tag_version": "8.1.10",
         "created_at": "2026-10-18T02:45:01Z",
+        "minimum_ap_version": "0.6.7",
+        "flags": [
+          "prerelease"
+        ]
+      }
+    },
+    {
+      "world": "https://github.com/agilbert1412/StardewArchipelago/releases/download/8.1.11/stardew_valley.apworld",
+      "size": 585305,
+      "hash_sha256": "0a5c07daed89de8e1fd64ea67c3bf53c180ca97b43fe8f0ea955f2fba8bc81cd",
+      "metadata": {
+        "game": "",
+        "id": "stardew_valley",
+        "world_version": "8.1.10",
+        "tag_version": "8.1.10",
+        "created_at": "2026-10-26T03:00:41Z",
         "minimum_ap_version": "0.6.7",
         "flags": [
           "prerelease"
