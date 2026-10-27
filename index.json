@@ -94716,6 +94716,19 @@
       }
     },
     {
+      "world": "https://github.com/barretg/Taskipelago/releases/download/v1.2.2/taskipelago.apworld",
+      "size": 281026,
+      "hash_sha256": "79a72820284c7dfee872baf72fa79ffcc4bb969dd24750ca43edcad53ad54316",
+      "metadata": {
+        "game": "",
+        "id": "taskipelago",
+        "world_version": "1.2.2",
+        "tag_version": "1.2.2",
+        "created_at": "2026-10-25T11:57:12Z",
+        "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
       "world": "https://github.com/barretg/Taskipelago/releases/download/v1.2.1/taskipelago.apworld",
       "size": 274905,
       "hash_sha256": "06eef0bc5287c3509698e5e14cc585b9516416aa93992e806ce20fe6e11c0292",
