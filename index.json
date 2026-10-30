@@ -60200,6 +60200,19 @@
       }
     },
     {
+      "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.38/musedash.apworld",
+      "size": 37532,
+      "hash_sha256": "b82b127c8e2c31b7114aa64db28fa45d727cf95cff88a588f928f8060c4c7536",
+      "metadata": {
+        "game": "",
+        "id": "musedash",
+        "world_version": "1.5.38",
+        "tag_version": "1.5.38",
+        "created_at": "2026-10-30T13:10:33Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/DeamonHunter/ArchipelagoMuseDash/releases/download/v1.5.37/musedash.apworld",
       "size": 37416,
       "hash_sha256": "10d043f1e12dd80acc2ef51e580ff23105f121436f167c4b8b03a4d66a68a4b9",
@@ -80361,6 +80374,19 @@
       }
     },
     {
+      "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.18.0/rotn.apworld",
+      "size": 17772,
+      "hash_sha256": "d3bbac1e1e5d38134ae0fda1678c3b8f831775d68c3df4e8b6e43b1722df1ee0",
+      "metadata": {
+        "game": "",
+        "id": "rotn",
+        "world_version": "0.17.0",
+        "tag_version": "0.17.0",
+        "created_at": "2026-06-12T01:41:46Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
       "world": "https://github.com/studkid/RiftArchipelago/releases/download/v0.15.0/rotn.apworld",
       "size": 17094,
       "hash_sha256": "caf9000747cf2ab468d230a2fb796b8f020dcb158c2397489e8a7be815c0f680",
@@ -88953,6 +88979,19 @@
         "tag_version": "0.0.0+alphaish",
         "created_at": "2024-02-16T22:21:52Z",
         "maximum_ap_version": "0.6.99"
+      }
+    },
+    {
+      "world": "https://github.com/Tranquilite0/Archipelago-SoulBlazer/releases/download/v0.7.0/soulblazer.apworld",
+      "size": 99003,
+      "hash_sha256": "236c609ecba0739bdcb5dfb6302d64d3ee6c0e4e0b180f5fbf533d22587a65ec",
+      "metadata": {
+        "game": "",
+        "id": "soulblazer",
+        "world_version": "0.7.0",
+        "tag_version": "0.7.0",
+        "created_at": "2026-10-30T04:09:33Z",
+        "minimum_ap_version": "0.6.0"
       }
     },
     {
