@@ -1,7 +1,7 @@
 {
   "total_repositories": 516,
-  "total_packages": 651,
-  "total_versions": 7940,
+  "total_packages": 652,
+  "total_versions": 7943,
   "manifest_ready": {
     "abugslife": true,
     "actraiser": true,
@@ -317,7 +317,7 @@
     "manual_vampiresurvivors_jones": false,
     "manual_walkabout_energymaster": false,
     "manual_walkabout_musicblox": false,
-    "manual_watchashow_chakraa": false,
+    "manual_watchashow_chakraa": true,
     "manual_wizard101freetoplay_garbo": false,
     "manual_worldofwarcraftdungeons_chakraa": false,
     "manual_worldofwarcraftleveling_chakraa": false,
@@ -571,7 +571,7 @@
     "zork_grand_inquisitor": true
   },
   "max_minimum_ap_version": {
-    "": 304,
+    "": 303,
     "0.5.0": 6,
     "0.5.1": 1,
     "0.5.2": 1,
@@ -582,14 +582,14 @@
     "0.6.4": 54,
     "0.6.5": 20,
     "0.6.6": 16,
-    "0.6.7": 77,
+    "0.6.7": 78,
     "0.6.8": 1,
     "0.6.9": 1
   },
   "max_maximum_ap_version": {
-    "": 306,
+    "": 307,
     "0.0.1": 1,
     "0.4.6": 5,
-    "0.6.99": 243
+    "0.6.99": 242
   }
 }
