@@ -64240,6 +64240,19 @@
       }
     },
     {
+      "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.4.1/outer_wilds.apworld",
+      "size": 97149,
+      "hash_sha256": "bd3a013ba8a4bd4b1c91b108fa48b39e7818fce7f268181aca832bb1e752f1f7",
+      "metadata": {
+        "game": "",
+        "id": "outer_wilds",
+        "world_version": "1.4.1",
+        "tag_version": "1.4.1",
+        "created_at": "2026-11-02T18:12:27Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Ixrec/OuterWildsArchipelagoRandomizer/releases/download/v1.4.0/outer_wilds.apworld",
       "size": 94952,
       "hash_sha256": "eb967b1c30455e5a9f7aa1afea3bcf72f9167ed4c74d9caf67768ba4c972f28a",
@@ -106277,6 +106290,19 @@
         "world_version": "1.0.0",
         "tag_version": "1.0.0",
         "created_at": "2025-11-12T06:30:20Z",
+        "minimum_ap_version": "0.6.3"
+      }
+    },
+    {
+      "world": "https://github.com/FlySniper/Archipelago/releases/download/wargroove2-1.1.13/wargroove2.apworld",
+      "size": 1914868,
+      "hash_sha256": "b03639aaf891612185a1585e1688549794e7c353332dab590e14e567b01d12ec",
+      "metadata": {
+        "game": "",
+        "id": "wargroove2",
+        "world_version": "1.1.14",
+        "tag_version": "1.1.14",
+        "created_at": "2026-11-02T20:45:41Z",
         "minimum_ap_version": "0.6.3"
       }
     },
