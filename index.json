@@ -55218,6 +55218,19 @@
       }
     },
     {
+      "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.5.4/megamix.apworld",
+      "size": 41435,
+      "hash_sha256": "787b70c0cf2c8296d2f55b53fe42bdf7c9c370d008d779f5ebaa7c1542ddbb7e",
+      "metadata": {
+        "game": "",
+        "id": "megamix",
+        "world_version": "1.5.4",
+        "tag_version": "1.5.4",
+        "created_at": "2026-11-03T16:20:42Z",
+        "minimum_ap_version": "0.6.7"
+      }
+    },
+    {
       "world": "https://github.com/Cynichill/DivaAPworld/releases/download/1.5.3B/megamix.apworld",
       "size": 41349,
       "hash_sha256": "9743e53ccc352ab7d06cbc0e5dd720ecbc1ad4114f068bf2c8d1693138462ba2",
