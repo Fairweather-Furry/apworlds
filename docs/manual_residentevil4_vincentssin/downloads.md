@@ -8,6 +8,9 @@
 #### v2.2.0
 - <a href="https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.2.0/manual_residentevil4_vincentssin.apworld">https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.2.0/manual_residentevil4_vincentssin.apworld</a>
 
+#### v2.2.0
+- <a href="https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.2.1/manual_residentevil4_vincentssin.apworld">https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.2.1/manual_residentevil4_vincentssin.apworld</a>
+
 #### v2.1.4
 - <a href="https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.1.4/manual_residentevil4_vincentssin.apworld">https://github.com/VincentsSin/Resident-Evil-4-Manual-AP/releases/download/v2.1.4/manual_residentevil4_vincentssin.apworld</a>
 
